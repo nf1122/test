@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..SizeHeight Field
+Last bot window height 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public double SizeHeightPublic SizeHeight As Doublepublic:
+double^ SizeHeight
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

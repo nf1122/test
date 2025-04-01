@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..WindowPosY Field
+Last bot window position y (need option SaveWindowPosition) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public double WindowPosYPublic WindowPosY As Doublepublic:
+double^ WindowPosY
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

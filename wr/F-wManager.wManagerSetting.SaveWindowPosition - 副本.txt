@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..SaveWindowPosition Field
+Save bot window position 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool SaveWindowPositionPublic SaveWindowPosition As Booleanpublic:
+bool^ SaveWindowPosition
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

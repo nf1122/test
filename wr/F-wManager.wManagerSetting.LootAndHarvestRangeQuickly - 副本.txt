@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..LootAndHarvestRangeQuickly Field
+The loot and harvest quickly if in interact range (FarmingRange and LootingRange) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool LootAndHarvestRangeQuicklyPublic LootAndHarvestRangeQuickly As Booleanpublic:
+bool^ LootAndHarvestRangeQuickly
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

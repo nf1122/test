@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..RandomJumping Field
+Jump randomly during travel. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool RandomJumpingPublic RandomJumping As Booleanpublic:
+bool^ RandomJumping
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

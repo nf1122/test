@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..NpcScanMailboxes Field
+Automatically add nearest Mailbox to NpcDB. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool NpcScanMailboxesPublic NpcScanMailboxes As Booleanpublic:
+bool^ NpcScanMailboxes
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

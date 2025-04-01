@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..UseSpiritHealerAfterXDeathsLatest10Minutes Field
+The use spirit healer after x deaths latest10 minutes 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int UseSpiritHealerAfterXDeathsLatest10MinutesPublic UseSpiritHealerAfterXDeathsLatest10Minutes As Integerpublic:
+int^ UseSpiritHealerAfterXDeathsLatest10Minutes
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..KeyBindingMacro Field
+Key used to run macro when you call RunMacroTextHW(String)
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string KeyBindingMacroPublic KeyBindingMacro As Stringpublic:
+String^ KeyBindingMacro
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

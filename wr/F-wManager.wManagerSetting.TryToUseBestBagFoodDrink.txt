@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..TryToUseBestBagFoodDrink Field
+Try to use best food and drink available in the bag. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool TryToUseBestBagFoodDrinkPublic TryToUseBestBagFoodDrink As Booleanpublic:
+bool^ TryToUseBestBagFoodDrink
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

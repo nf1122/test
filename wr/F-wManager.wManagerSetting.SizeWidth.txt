@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..SizeWidth Field
+Last bot window width. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public double SizeWidthPublic SizeWidth As Doublepublic:
+double^ SizeWidth
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

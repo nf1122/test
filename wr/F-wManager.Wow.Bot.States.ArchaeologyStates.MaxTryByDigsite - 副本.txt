@@ -1,0 +1,19 @@
+WRobot
+
+ArchaeologyStates..::..MaxTryByDigsite Field
+Maximum try by digsite 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int MaxTryByDigsitePublic MaxTryByDigsite As Integerpublic:
+int^ MaxTryByDigsite
+See Also
+
+
+ArchaeologyStates Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

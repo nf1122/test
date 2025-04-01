@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..MaxZDistanceIsAttacked Field
+Maximum z distance to defend oneself when mobs attack character 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float MaxZDistanceIsAttackedPublic MaxZDistanceIsAttacked As Singlepublic:
+float^ MaxZDistanceIsAttacked
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

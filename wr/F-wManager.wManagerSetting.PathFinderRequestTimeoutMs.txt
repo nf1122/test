@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..PathFinderRequestTimeoutMs Field
+Pathfinder server request timeout (in milliseconds) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int PathFinderRequestTimeoutMsPublic PathFinderRequestTimeoutMs As Integerpublic:
+int^ PathFinderRequestTimeoutMs
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

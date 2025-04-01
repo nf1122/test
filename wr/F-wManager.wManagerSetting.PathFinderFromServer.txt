@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..PathFinderFromServer Field
+Use PathFinder server (else use local pathfinder but it is no longer available on recent versions of the bot) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool PathFinderFromServerPublic PathFinderFromServer As Booleanpublic:
+bool^ PathFinderFromServer
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

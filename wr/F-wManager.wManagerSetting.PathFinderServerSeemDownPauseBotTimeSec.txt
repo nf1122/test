@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..PathFinderServerSeemDownPauseBotTimeSec Field
+How many time pause bot (in seconds) when pathfinder server seems down 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float PathFinderServerSeemDownPauseBotTimeSecPublic PathFinderServerSeemDownPauseBotTimeSec As Singlepublic:
+float^ PathFinderServerSeemDownPauseBotTimeSec
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

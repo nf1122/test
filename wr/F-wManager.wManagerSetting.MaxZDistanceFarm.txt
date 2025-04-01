@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..MaxZDistanceFarm Field
+Maximum z distance to go farming node 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float MaxZDistanceFarmPublic MaxZDistanceFarm As Singlepublic:
+float^ MaxZDistanceFarm
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

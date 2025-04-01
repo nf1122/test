@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..SmoothPathDistance Field
+Smoothing paths distance (1.0 by default, option for SmoothPathDistance). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float SmoothPathDistancePublic SmoothPathDistance As Singlepublic:
+float^ SmoothPathDistance
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..SkipInOutDoors Field
+Skip node inside if character is outside, and skip node outside if character is inside. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool SkipInOutDoorsPublic SkipInOutDoors As Booleanpublic:
+bool^ SkipInOutDoors
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

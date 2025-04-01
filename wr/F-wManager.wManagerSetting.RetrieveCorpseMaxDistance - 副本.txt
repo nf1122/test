@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..RetrieveCorpseMaxDistance Field
+Max distance of the character corpse to retrieve corpse 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float RetrieveCorpseMaxDistancePublic RetrieveCorpseMaxDistance As Singlepublic:
+float^ RetrieveCorpseMaxDistance
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

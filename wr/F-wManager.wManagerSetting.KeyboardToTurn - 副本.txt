@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..KeyboardToTurn Field
+Use keyboard to turn (instead of direct rotation) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool KeyboardToTurnPublic KeyboardToTurn As Booleanpublic:
+bool^ KeyboardToTurn
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

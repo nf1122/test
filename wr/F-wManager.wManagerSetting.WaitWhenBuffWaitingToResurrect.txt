@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..WaitWhenBuffWaitingToResurrect Field
+Wait when character has buff "Waiting to Resurrect" 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool WaitWhenBuffWaitingToResurrectPublic WaitWhenBuffWaitingToResurrect As Booleanpublic:
+bool^ WaitWhenBuffWaitingToResurrect
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

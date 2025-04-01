@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..SkipRegenIfFlaggedInCombat Field
+Skip regen if flagged in combat 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool SkipRegenIfFlaggedInCombatPublic SkipRegenIfFlaggedInCombat As Booleanpublic:
+bool^ SkipRegenIfFlaggedInCombat
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

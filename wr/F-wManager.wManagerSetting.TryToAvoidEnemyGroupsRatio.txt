@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..TryToAvoidEnemyGroupsRatio Field
+Try to avoid group of mobs (Ratio), 0 to disable, recommended value is ~1.2 (Bot will add up all the level of the mobs and divide it by the level of your character, if the result gives a ratio higher than the given hi will try to avoid zone) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public double TryToAvoidEnemyGroupsRatioPublic TryToAvoidEnemyGroupsRatio As Doublepublic:
+double^ TryToAvoidEnemyGroupsRatio
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

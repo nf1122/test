@@ -1,0 +1,22 @@
+WRobot
+
+wManagerSetting..::..NewUserSettings Field
+This value is true only if settings was created with new instance (false if was loaded from xml file) (assigned in Load(Boolean)). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[XmlIgnoreAttribute]
+public bool NewUserSettings<XmlIgnoreAttribute> _
+Public NewUserSettings As Boolean[XmlIgnoreAttribute]
+public:
+bool^ NewUserSettings
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

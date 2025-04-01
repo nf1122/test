@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..SearchRadiusObjects Field
+GameObject search distance (mainly farming). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float SearchRadiusObjectsPublic SearchRadiusObjects As Singlepublic:
+float^ SearchRadiusObjects
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

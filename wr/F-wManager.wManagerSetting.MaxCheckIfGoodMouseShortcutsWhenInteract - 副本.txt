@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..MaxCheckIfGoodMouseShortcutsWhenInteract Field
+Some GM change your mouse buttons shortcut (to no longer be able to interact with unit/object), try to detect that (0 to disable this option) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int MaxCheckIfGoodMouseShortcutsWhenInteractPublic MaxCheckIfGoodMouseShortcutsWhenInteract As Integerpublic:
+int^ MaxCheckIfGoodMouseShortcutsWhenInteract
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

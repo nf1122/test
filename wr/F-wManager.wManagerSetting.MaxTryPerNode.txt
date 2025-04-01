@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..MaxTryPerNode Field
+Number maximum of try per node (farming) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int MaxTryPerNodePublic MaxTryPerNode As Integerpublic:
+int^ MaxTryPerNode
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

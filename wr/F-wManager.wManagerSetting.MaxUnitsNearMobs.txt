@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..MaxUnitsNearMobs Field
+The maximum units near mobs MaxUnitNearest(WoWUnit, Int32)
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int MaxUnitsNearMobsPublic MaxUnitsNearMobs As Integerpublic:
+int^ MaxUnitsNearMobs
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

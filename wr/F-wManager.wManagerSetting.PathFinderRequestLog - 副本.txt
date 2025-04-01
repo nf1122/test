@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..PathFinderRequestLog Field
+Request pathfinder server log 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool PathFinderRequestLogPublic PathFinderRequestLog As Booleanpublic:
+bool^ PathFinderRequestLog
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

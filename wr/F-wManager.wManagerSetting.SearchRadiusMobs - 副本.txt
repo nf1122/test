@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..SearchRadiusMobs Field
+Mobs search distance (mainly grinding). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float SearchRadiusMobsPublic SearchRadiusMobs As Singlepublic:
+float^ SearchRadiusMobs
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

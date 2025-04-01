@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..LastProductSelected Field
+The last product used (used at startup to select last product) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string LastProductSelectedPublic LastProductSelected As Stringpublic:
+String^ LastProductSelected
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

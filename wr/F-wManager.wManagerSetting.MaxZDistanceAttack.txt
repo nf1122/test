@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..MaxZDistanceAttack Field
+Maximum z distance to start attack 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float MaxZDistanceAttackPublic MaxZDistanceAttack As Singlepublic:
+float^ MaxZDistanceAttack
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..OffMeshConnectionsSearchDistance Field
+The off mesh connections search distance 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float OffMeshConnectionsSearchDistancePublic OffMeshConnectionsSearchDistance As Singlepublic:
+float^ OffMeshConnectionsSearchDistance
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..UseCTM Field
+To use CTM (click to move in game option) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool UseCTMPublic UseCTM As Booleanpublic:
+bool^ UseCTM
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

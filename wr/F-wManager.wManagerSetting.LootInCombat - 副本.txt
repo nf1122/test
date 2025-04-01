@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..LootInCombat Field
+Loot in combat 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool LootInCombatPublic LootInCombat As Booleanpublic:
+bool^ LootInCombat
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

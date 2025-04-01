@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..RecordChatInLog Field
+Write Wow chat messages in log file. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool RecordChatInLogPublic RecordChatInLog As Booleanpublic:
+bool^ RecordChatInLog
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

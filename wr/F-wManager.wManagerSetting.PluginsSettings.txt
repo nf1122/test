@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..PluginsSettings Field
+Plugins list (when user removes a plugin from the folder ("WRobot/Plugins/") it remains in this list, but only plugins present in the folder are displayed tab "Plugins") 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<wManagerSetting..::..PluginSetting> PluginsSettingsPublic PluginsSettings As List(Of wManagerSetting..::..PluginSetting)public:
+List<wManagerSetting..::..PluginSetting^>^ PluginsSettings
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

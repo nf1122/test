@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..ReadObjectManagerFTS Field
+Number of ObjectManager refreshes per second (a high value is better, but also uses a lot more CPU) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int ReadObjectManagerFTSPublic ReadObjectManagerFTS As Integerpublic:
+int^ ReadObjectManagerFTS
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

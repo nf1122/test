@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..MyMacro4 Field
+My macro 4 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public wManagerSetting..::..MyMacro MyMacro4Public MyMacro4 As wManagerSetting..::..MyMacropublic:
+wManagerSetting..::..MyMacro^ MyMacro4
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..NpcScanVendor Field
+Automatically add nearest Npc vendor to NpcDB. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool NpcScanVendorPublic NpcScanVendor As Booleanpublic:
+bool^ NpcScanVendor
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

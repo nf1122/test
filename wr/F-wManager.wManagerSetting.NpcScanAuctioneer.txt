@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..NpcScanAuctioneer Field
+Automatically add nearest Npc auctioneer to NpcDB. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool NpcScanAuctioneerPublic NpcScanAuctioneer As Booleanpublic:
+bool^ NpcScanAuctioneer
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

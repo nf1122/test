@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..NpcScanRepair Field
+Automatically add nearest Npc repair to NpcDB. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool NpcScanRepairPublic NpcScanRepair As Booleanpublic:
+bool^ NpcScanRepair
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

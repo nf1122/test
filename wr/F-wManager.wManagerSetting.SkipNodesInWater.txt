@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..SkipNodesInWater Field
+Skip nodes in water 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool SkipNodesInWaterPublic SkipNodesInWater As Booleanpublic:
+bool^ SkipNodesInWater
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 
