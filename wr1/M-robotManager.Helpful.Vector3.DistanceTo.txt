@@ -1,0 +1,30 @@
+WRobot
+
+Vector3..::..DistanceTo Method 
+Distance to. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public float DistanceTo(
+	Vector3 b
+)Public Function DistanceTo ( _
+	b As Vector3 _
+) As Singlepublic:
+float^ DistanceTo(
+	Vector3^ b
+)Parameters
+b
+Type: robotManager.Helpful..::..Vector3
+position b.
+Return Value
+distance.
+See Also
+
+
+Vector3 Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

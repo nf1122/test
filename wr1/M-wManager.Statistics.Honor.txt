@@ -1,0 +1,20 @@
+WRobot
+
+Statistics..::..Honor Method 
+Honor. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int Honor()Public Shared Function Honor As Integerpublic:
+static int^ Honor()Return Value
+Honor.
+See Also
+
+
+Statistics Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

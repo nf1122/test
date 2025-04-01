@@ -1,0 +1,30 @@
+WRobot
+
+Translate..::..Load Method 
+Load the specified translation file name (relative to folder "WRobot\Data\Lang\", use file name like "Translation.xml"). 
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool Load(
+	string fileName
+)Public Shared Function Load ( _
+	fileName As String _
+) As Booleanpublic:
+static bool^ Load(
+	String^ fileName
+)Parameters
+fileName
+Type: String
+Name of the file.
+Return Value
+true if success, false otherwise.
+See Also
+
+
+Translate Class
+robotManager Namespace
+Help File generated with GhostDoc
+ 

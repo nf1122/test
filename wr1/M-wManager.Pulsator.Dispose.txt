@@ -1,0 +1,28 @@
+WRobot
+
+Pulsator..::..Dispose Method 
+Detach Wow process 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Dispose(
+	bool closePocess
+)Public Shared Sub Dispose ( _
+	closePocess As Boolean _
+)public:
+static void Dispose(
+	bool^ closePocess
+)Parameters
+closePocess
+Type: Boolean
+true to close current process; false to only detach Wow process.
+See Also
+
+
+Pulsator Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

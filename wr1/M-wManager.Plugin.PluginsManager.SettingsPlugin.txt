@@ -1,0 +1,28 @@
+WRobot
+
+PluginsManager..::..SettingsPlugin Method 
+Settings the plugin by file name. 
+Namespace:  wManager.Plugin
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void SettingsPlugin(
+	string fileName
+)Public Shared Sub SettingsPlugin ( _
+	fileName As String _
+)public:
+static void SettingsPlugin(
+	String^ fileName
+)Parameters
+fileName
+Type: String
+Name of the file (like "MyPlugin.cs" or "MyPlugin.dll").
+See Also
+
+
+PluginsManager Class
+wManager.Plugin Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,36 @@
+WRobot
+
+Vector3..::..Distance2D Method 
+Distance 2D. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static float Distance2D(
+	Vector3 a,
+	Vector3 b
+)Public Shared Function Distance2D ( _
+	a As Vector3, _
+	b As Vector3 _
+) As Singlepublic:
+static float^ Distance2D(
+	Vector3^ a, 
+	Vector3^ b
+)Parameters
+a
+Type: robotManager.Helpful..::..Vector3
+position a.
+b
+Type: robotManager.Helpful..::..Vector3
+position b.
+Return Value
+distance.
+See Also
+
+
+Vector3 Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

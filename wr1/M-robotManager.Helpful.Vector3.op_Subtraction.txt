@@ -1,0 +1,36 @@
+WRobot
+
+Vector3..::..Subtraction Operator 
+Implements the - operator. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static Vector3 operator -(
+	Vector3 a,
+	Vector3 b
+)Public Shared Operator - ( _
+	a As Vector3, _
+	b As Vector3 _
+) As Vector3public:
+static Vector3^ operator -(
+	Vector3^ a, 
+	Vector3^ b
+)Parameters
+a
+Type: robotManager.Helpful..::..Vector3
+position a.
+b
+Type: robotManager.Helpful..::..Vector3
+position b.
+Return Value
+The result of the operator.
+See Also
+
+
+Vector3 Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

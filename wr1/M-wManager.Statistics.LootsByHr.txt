@@ -1,0 +1,20 @@
+WRobot
+
+Statistics..::..LootsByHr Method 
+Loots by hour. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int LootsByHr()Public Shared Function LootsByHr As Integerpublic:
+static int^ LootsByHr()Return Value
+System.Int32.
+See Also
+
+
+Statistics Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

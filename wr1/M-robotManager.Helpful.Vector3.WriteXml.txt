@@ -1,0 +1,28 @@
+WRobot
+
+Vector3..::..WriteXml Method 
+Write XML. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public void WriteXml(
+	XmlWriter writer
+)Public Sub WriteXml ( _
+	writer As XmlWriter _
+)public:
+void WriteXml(
+	XmlWriter^ writer
+)Parameters
+writer
+Type: XmlWriter
+The writer.
+See Also
+
+
+Vector3 Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

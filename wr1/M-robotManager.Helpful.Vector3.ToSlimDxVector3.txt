@@ -1,0 +1,20 @@
+WRobot
+
+Vector3..::..ToSlimDxVector3 Method 
+Converts to slimdxvector3. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public Vector3 ToSlimDxVector3()Public Function ToSlimDxVector3 As Vector3public:
+Vector3^ ToSlimDxVector3()Return Value
+SlimDX.Vector3.
+See Also
+
+
+Vector3 Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

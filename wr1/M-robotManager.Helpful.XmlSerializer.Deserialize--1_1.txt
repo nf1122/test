@@ -1,0 +1,35 @@
+WRobot
+
+XmlSerializer..::..Deserialize<(Of <(<'T>)>)> Method (TextReader)
+Deserializes the specified reader. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static T Deserialize<T>(
+	TextReader reader
+)
+Public Shared Function Deserialize(Of T) ( _
+	reader As TextReader _
+) As Tpublic:
+generic<typename T>
+static T Deserialize(
+	TextReader^ reader
+)Type Parameters
+T
+Parameters
+reader
+Type: TextReader
+The reader.
+Return Value
+T.
+See Also
+
+
+XmlSerializer Class
+Deserialize Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

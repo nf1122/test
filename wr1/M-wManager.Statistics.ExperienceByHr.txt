@@ -1,0 +1,20 @@
+WRobot
+
+Statistics..::..ExperienceByHr Method 
+Experiences by hour. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int ExperienceByHr()Public Shared Function ExperienceByHr As Integerpublic:
+static int^ ExperienceByHr()Return Value
+System.Int32.
+See Also
+
+
+Statistics Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

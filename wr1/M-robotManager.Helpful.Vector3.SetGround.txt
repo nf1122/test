@@ -1,0 +1,19 @@
+WRobot
+
+Vector3..::..SetGround Method 
+Set to ground (default) type. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public void SetGround()Public Sub SetGroundpublic:
+void SetGround()
+See Also
+
+
+Vector3 Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

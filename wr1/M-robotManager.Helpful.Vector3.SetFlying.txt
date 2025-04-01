@@ -1,0 +1,19 @@
+WRobot
+
+Vector3..::..SetFlying Method 
+Set to flying type. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public void SetFlying()Public Sub SetFlyingpublic:
+void SetFlying()
+See Also
+
+
+Vector3 Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

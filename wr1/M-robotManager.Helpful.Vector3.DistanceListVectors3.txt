@@ -1,0 +1,36 @@
+WRobot
+
+Vector3..::..DistanceListVectors3 Method 
+Distance total of vectors3 list. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static float DistanceListVectors3(
+	List<Vector3> listVectors3,
+	Vector3 myPosition
+)Public Shared Function DistanceListVectors3 ( _
+	listVectors3 As List(Of Vector3), _
+	myPosition As Vector3 _
+) As Singlepublic:
+static float^ DistanceListVectors3(
+	List<Vector3^>^ listVectors3, 
+	Vector3^ myPosition
+)Parameters
+listVectors3
+Type: List<(Of <(<'Vector3>)>)>
+vectors3 list.
+myPosition
+Type: robotManager.Helpful..::..Vector3
+start position if not in list.
+Return Value
+distance.
+See Also
+
+
+Vector3 Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

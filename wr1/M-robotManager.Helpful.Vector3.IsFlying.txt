@@ -1,0 +1,20 @@
+WRobot
+
+Vector3..::..IsFlying Method 
+Determines if is flying type. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsFlying()Public Function IsFlying As Booleanpublic:
+bool^ IsFlying()Return Value
+true if is flying type; otherwise, false.
+See Also
+
+
+Vector3 Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

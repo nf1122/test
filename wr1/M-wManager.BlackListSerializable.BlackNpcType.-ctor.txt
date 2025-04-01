@@ -1,0 +1,19 @@
+WRobot
+
+BlackNpcType Constructor 
+Initializes a new instance of the BlackListSerializable..::..BlackNpcType class. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public BlackNpcType()Public Sub Newpublic:
+BlackNpcType()
+See Also
+
+
+BlackListSerializable..::..BlackNpcType Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

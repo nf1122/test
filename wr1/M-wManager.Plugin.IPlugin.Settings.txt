@@ -1,0 +1,18 @@
+WRobot
+
+IPlugin..::..Settings Method 
+WRobot call this method when user click on plugin settings button. 
+Namespace:  wManager.Plugin
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+void Settings()Sub Settingsvoid Settings()
+See Also
+
+
+IPlugin Interface
+wManager.Plugin Namespace
+Help File generated with GhostDoc
+ 

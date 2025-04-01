@@ -1,0 +1,30 @@
+WRobot
+
+Products..::..LoadProductsWithoutInit Method 
+Load product without initialize. 
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static IProduct LoadProductsWithoutInit(
+	string nameDll
+)Public Shared Function LoadProductsWithoutInit ( _
+	nameDll As String _
+) As IProductpublic:
+static IProduct^ LoadProductsWithoutInit(
+	String^ nameDll
+)Parameters
+nameDll
+Type: String
+File name (for "WRobot\Products\MyProduct.dll" use "MyProduct").
+Return Value
+product instance.
+See Also
+
+
+Products Class
+robotManager.Products Namespace
+Help File generated with GhostDoc
+ 

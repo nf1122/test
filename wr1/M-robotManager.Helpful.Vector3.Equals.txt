@@ -1,0 +1,30 @@
+WRobot
+
+Vector3..::..Equals Method 
+Determines whether the specified Object is equal to. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool Equals(
+	Object obj
+)Public Function Equals ( _
+	obj As Object _
+) As Booleanpublic:
+bool^ Equals(
+	Object^ obj
+)Parameters
+obj
+Type: Object
+The object to compare with the current object.
+Return Value
+true if the specified Object is equal to; otherwise, false.
+See Also
+
+
+Vector3 Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

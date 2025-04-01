@@ -1,0 +1,35 @@
+WRobot
+
+XmlSerializer..::..Deserialize<(Of <(<'T>)>)> Method (String)
+Deserializes the XML to Class instance. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static T Deserialize<T>(
+	string path
+)
+Public Shared Function Deserialize(Of T) ( _
+	path As String _
+) As Tpublic:
+generic<typename T>
+static T Deserialize(
+	String^ path
+)Type Parameters
+T
+Parameters
+path
+Type: String
+The path.
+Return Value
+instance.
+See Also
+
+
+XmlSerializer Class
+Deserialize Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

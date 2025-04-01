@@ -1,0 +1,20 @@
+WRobot
+
+Vector3..::..ToStringInvariantCulture Method 
+Converts to stringinvariantculture. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public string ToStringInvariantCulture()Public Function ToStringInvariantCulture As Stringpublic:
+String^ ToStringInvariantCulture()Return Value
+System.String.
+See Also
+
+
+Vector3 Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

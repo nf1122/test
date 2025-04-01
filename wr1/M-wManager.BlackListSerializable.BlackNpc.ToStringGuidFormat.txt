@@ -1,0 +1,28 @@
+WRobot
+
+BlackNpc..::..ToStringGuidFormat Method 
+ulong to string guid. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool ToStringGuidFormat(
+	ulong guid
+)Public Function ToStringGuidFormat ( _
+	guid As ULong _
+) As Booleanpublic:
+bool^ ToStringGuidFormat(
+	unsigned long long^ guid
+)Parameters
+guid
+Type: UInt64
+
+See Also
+
+
+BlackListSerializable..::..BlackNpc Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,20 @@
+WRobot
+
+Statistics..::..HonorByHr Method 
+Honor by hour. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int HonorByHr()Public Shared Function HonorByHr As Integerpublic:
+static int^ HonorByHr()Return Value
+Honor by hour.
+See Also
+
+
+Statistics Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

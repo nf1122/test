@@ -1,0 +1,36 @@
+WRobot
+
+Vector3..::..InFrontOf Method 
+In front of. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public Vector3 InFrontOf(
+	float heading,
+	float d
+)Public Function InFrontOf ( _
+	heading As Single, _
+	d As Single _
+) As Vector3public:
+Vector3^ InFrontOf(
+	float^ heading, 
+	float^ d
+)Parameters
+heading
+Type: Single
+The heading.
+d
+Type: Single
+The d.
+Return Value
+Vector3.
+See Also
+
+
+Vector3 Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

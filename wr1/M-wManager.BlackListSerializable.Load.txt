@@ -1,0 +1,20 @@
+WRobot
+
+BlackListSerializable..::..Load Method 
+Load instance from xml FilePath. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static BlackListSerializable Load()Public Shared Function Load As BlackListSerializablepublic:
+static BlackListSerializable^ Load()Return Value
+BlackListSerializable.
+See Also
+
+
+BlackListSerializable Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

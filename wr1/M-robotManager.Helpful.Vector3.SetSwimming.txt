@@ -1,0 +1,19 @@
+WRobot
+
+Vector3..::..SetSwimming Method 
+Set to swimming type. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public void SetSwimming()Public Sub SetSwimmingpublic:
+void SetSwimming()
+See Also
+
+
+Vector3 Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

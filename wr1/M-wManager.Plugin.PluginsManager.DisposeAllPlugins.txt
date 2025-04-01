@@ -1,0 +1,19 @@
+WRobot
+
+PluginsManager..::..DisposeAllPlugins Method 
+Dispose all plugins. 
+Namespace:  wManager.Plugin
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void DisposeAllPlugins()Public Shared Sub DisposeAllPluginspublic:
+static void DisposeAllPlugins()
+See Also
+
+
+PluginsManager Class
+wManager.Plugin Namespace
+Help File generated with GhostDoc
+ 

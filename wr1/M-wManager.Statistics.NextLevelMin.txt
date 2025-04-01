@@ -1,0 +1,20 @@
+WRobot
+
+Statistics..::..NextLevelMin Method 
+Time remaining before next level (in minute). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int NextLevelMin()Public Shared Function NextLevelMin As Integerpublic:
+static int^ NextLevelMin()Return Value
+System.Int32.
+See Also
+
+
+Statistics Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,20 @@
+WRobot
+
+Statistics..::..FarmsByHr Method 
+Farms by hour. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int FarmsByHr()Public Shared Function FarmsByHr As Integerpublic:
+static int^ FarmsByHr()Return Value
+System.Int32.
+See Also
+
+
+Statistics Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

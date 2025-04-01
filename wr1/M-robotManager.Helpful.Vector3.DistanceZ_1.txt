@@ -1,0 +1,31 @@
+WRobot
+
+Vector3..::..DistanceZ Method (Vector3)
+Distance z. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public float DistanceZ(
+	Vector3 b
+)Public Function DistanceZ ( _
+	b As Vector3 _
+) As Singlepublic:
+float^ DistanceZ(
+	Vector3^ b
+)Parameters
+b
+Type: robotManager.Helpful..::..Vector3
+position b.
+Return Value
+distance.
+See Also
+
+
+Vector3 Class
+DistanceZ Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

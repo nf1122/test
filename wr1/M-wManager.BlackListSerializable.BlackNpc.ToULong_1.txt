@@ -1,0 +1,29 @@
+WRobot
+
+BlackNpc..::..ToULong Method (String)
+To ulong. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static ulong ToULong(
+	string guidNpc
+)Public Shared Function ToULong ( _
+	guidNpc As String _
+) As ULongpublic:
+static unsigned long long^ ToULong(
+	String^ guidNpc
+)Parameters
+guidNpc
+Type: String
+
+See Also
+
+
+BlackListSerializable..::..BlackNpc Class
+ToULong Overload
+wManager Namespace
+Help File generated with GhostDoc
+ 

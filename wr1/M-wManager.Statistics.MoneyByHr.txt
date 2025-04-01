@@ -1,0 +1,20 @@
+WRobot
+
+Statistics..::..MoneyByHr Method 
+Money by hour. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static long MoneyByHr()Public Shared Function MoneyByHr As Longpublic:
+static long long^ MoneyByHr()Return Value
+Int64.
+See Also
+
+
+Statistics Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

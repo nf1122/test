@@ -1,0 +1,37 @@
+WRobot
+
+Vector3..::..Multiply Operator (Vector3, Single)
+Implements the * operator. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static Vector3 operator *(
+	Vector3 a,
+	float b
+)Public Shared Operator * ( _
+	a As Vector3, _
+	b As Single _
+) As Vector3public:
+static Vector3^ operator *(
+	Vector3^ a, 
+	float^ b
+)Parameters
+a
+Type: robotManager.Helpful..::..Vector3
+position a.
+b
+Type: Single
+b.
+Return Value
+The result of the operator.
+See Also
+
+
+Vector3 Class
+Multiply Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

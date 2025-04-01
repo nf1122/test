@@ -1,0 +1,20 @@
+WRobot
+
+Statistics..::..NextLevelSec Method 
+Time remaining before next level (in second). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int NextLevelSec()Public Shared Function NextLevelSec As Integerpublic:
+static int^ NextLevelSec()Return Value
+System.Int32.
+See Also
+
+
+Statistics Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

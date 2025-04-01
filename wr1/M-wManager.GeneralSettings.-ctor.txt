@@ -1,0 +1,19 @@
+WRobot
+
+GeneralSettings Constructor 
+Initializes a new instance of the GeneralSettings class. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public GeneralSettings()Public Sub Newpublic:
+GeneralSettings()
+See Also
+
+
+GeneralSettings Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

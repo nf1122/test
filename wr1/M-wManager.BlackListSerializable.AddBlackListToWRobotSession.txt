@@ -1,0 +1,19 @@
+WRobot
+
+BlackListSerializable..::..AddBlackListToWRobotSession Method 
+Add blacklists of this instance to bot session (in wManagerSetting). This method clear session blacklists before to add blacklists of this instance(he calls InitPather()()()() and ClearBlacklist()()()(). It is called when the bot starts, when continent change or when there edit blacklists. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void AddBlackListToWRobotSession()Public Shared Sub AddBlackListToWRobotSessionpublic:
+static void AddBlackListToWRobotSession()
+See Also
+
+
+BlackListSerializable Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,20 @@
+WRobot
+
+Vector3..::..Size Method 
+Sizes. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public float Size()Public Function Size As Singlepublic:
+float^ Size()Return Value
+System.Single.
+See Also
+
+
+Vector3 Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

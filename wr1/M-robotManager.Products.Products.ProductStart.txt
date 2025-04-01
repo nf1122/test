@@ -1,0 +1,20 @@
+WRobot
+
+Products..::..ProductStart Method 
+Start product. 
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ProductStart()Public Shared Function ProductStart As Booleanpublic:
+static bool^ ProductStart()Return Value
+true if success, false otherwise.
+See Also
+
+
+Products Class
+robotManager.Products Namespace
+Help File generated with GhostDoc
+ 

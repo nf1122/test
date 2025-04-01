@@ -1,0 +1,20 @@
+WRobot
+
+Blackspot..::..GetPosition Method 
+Gets the position. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Vector3 GetPosition()Public Function GetPosition As Vector3public:
+Vector3^ GetPosition()Return Value
+Vector3.
+See Also
+
+
+BlackListSerializable..::..Blackspot Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

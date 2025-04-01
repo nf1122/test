@@ -1,0 +1,20 @@
+WRobot
+
+robotManagerGlobalSetting..::..Save Method 
+Save settings to FilePath. 
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool Save()Public Function Save As Booleanpublic:
+bool^ Save()Return Value
+true if success, false otherwise.
+See Also
+
+
+robotManagerGlobalSetting Class
+robotManager Namespace
+Help File generated with GhostDoc
+ 

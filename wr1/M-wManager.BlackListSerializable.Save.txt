@@ -1,0 +1,30 @@
+WRobot
+
+BlackListSerializable..::..Save Method 
+Save instance to xml FilePath. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool Save(
+	BlackListSerializable blackListSerializable
+)Public Shared Function Save ( _
+	blackListSerializable As BlackListSerializable _
+) As Booleanpublic:
+static bool^ Save(
+	BlackListSerializable^ blackListSerializable
+)Parameters
+blackListSerializable
+Type: wManager..::..BlackListSerializable
+The blacklist serializable.
+Return Value
+true if success, false otherwise.
+See Also
+
+
+BlackListSerializable Class
+wManager Namespace
+Help File generated with GhostDoc
+ 
