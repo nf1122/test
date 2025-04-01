@@ -1,0 +1,69 @@
+WRobot
+
+GuidType Enumeration
+GuidType 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum GuidTypePublic Enumeration GuidTypepublic enum class GuidType
+Members
+
+
+Member nameDescription
+None
+Uniq
+Player
+Item
+WorldTransaction
+StaticDoor
+Transport
+Conversation
+Creature
+Vehicle
+Pet
+GameObject
+DynamicObject
+AreaTrigger
+Corpse
+LootObject
+SceneObject
+Scenario
+AIGroup
+DynamicDoor
+ClientActor
+Vignette
+CallForHelp
+AIResource
+AILock
+AILockTicket
+ChatChannel
+Party
+Guild
+WowAcount
+BNetAccount
+GMTask
+MobileSession
+RaidGroup
+Spell
+Mail
+WebObj
+LFGObject
+LFGList
+UserRouter
+PVPQueueGroup
+UserClient
+PetBattle
+UniqueUserClient
+BattlePet
+CommerceObj
+ClientSession
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

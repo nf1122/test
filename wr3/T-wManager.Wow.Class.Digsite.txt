@@ -1,0 +1,27 @@
+WRobot
+
+Digsite Class
+Class Digsite. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class Digsite<SerializableAttribute> _
+Public Class Digsite[SerializableAttribute]
+public ref class Digsite
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Class..::..Digsite
+
+See Also
+
+
+Digsite Members
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,24 @@
+WRobot
+
+Guid128 Class
+Class Guid128. Read info from Guid and can convert it to lua guid https://wowwiki.fandom.com/wiki/UnitId 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class Guid128Public Class Guid128public ref class Guid128
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Enums..::..Guid128
+
+See Also
+
+
+Guid128 Members
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

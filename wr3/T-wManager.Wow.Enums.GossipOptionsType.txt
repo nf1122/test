@@ -1,0 +1,33 @@
+WRobot
+
+GossipOptionsType Enumeration
+GossipOptionsType 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum GossipOptionsTypePublic Enumeration GossipOptionsTypepublic enum class GossipOptionsType
+Members
+
+
+Member nameDescription
+banker
+battlemaster
+binder
+gossip
+healer
+petition
+tabard
+taxi
+trainer
+unlearn
+vendor
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

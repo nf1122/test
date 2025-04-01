@@ -1,0 +1,29 @@
+WRobot
+
+UnitClassification Enumeration
+UnitClassification 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum UnitClassificationPublic Enumeration UnitClassificationpublic enum class UnitClassification
+Members
+
+
+Member nameDescription
+normal
+elite
+rareelite
+worldboss
+rare
+trivial
+minus
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

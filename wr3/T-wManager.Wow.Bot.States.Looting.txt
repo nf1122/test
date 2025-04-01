@@ -1,0 +1,27 @@
+WRobot
+
+Looting Class
+Class Looting. If lootable corpses call Pulse(List<(Of <<'(WoWUnit>)>>)). Implements the State
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class Looting : StatePublic Class Looting _
+	Inherits Statepublic ref class Looting : public State
+Inheritance Hierarchy
+
+
+Object
+  robotManager.FiniteStateMachine..::..State
+    wManager.Wow.Bot.States..::..Looting
+
+See Also
+
+
+Looting Members
+wManager.Wow.Bot.States Namespace
+robotManager.FiniteStateMachine..::..State
+Help File generated with GhostDoc
+ 

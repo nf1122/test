@@ -1,0 +1,26 @@
+WRobot
+
+RuneTypes Enumeration
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum RuneTypesPublic Enumeration RuneTypespublic enum class RuneTypes
+Members
+
+
+Member nameDescription
+None
+Blood
+Unholy
+Frost
+Death
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

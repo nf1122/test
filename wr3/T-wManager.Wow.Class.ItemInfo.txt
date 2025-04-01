@@ -1,0 +1,24 @@
+WRobot
+
+ItemInfo Class
+Item Information Class, based on https://wow.gamepedia.com/API_GetItemInfo (can change in some bot versions) 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class ItemInfoPublic Class ItemInfopublic ref class ItemInfo
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Class..::..ItemInfo
+
+See Also
+
+
+ItemInfo Members
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

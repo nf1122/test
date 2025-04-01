@@ -1,0 +1,27 @@
+WRobot
+
+TaxiNode Class
+Class TaxiNode. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class TaxiNode<SerializableAttribute> _
+Public Class TaxiNode[SerializableAttribute]
+public ref class TaxiNode
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Class..::..TaxiNode
+
+See Also
+
+
+TaxiNode Members
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,27 @@
+WRobot
+
+FightHostileTarget Class
+Class FightHostileTarget. Used by product "WRotation", this state [Fight.StartFight(MemoryRobot.Int128, bool, bool, bool, bool)] with current character target. Implements the State
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class FightHostileTarget : StatePublic Class FightHostileTarget _
+	Inherits Statepublic ref class FightHostileTarget : public State
+Inheritance Hierarchy
+
+
+Object
+  robotManager.FiniteStateMachine..::..State
+    wManager.Wow.Bot.States..::..FightHostileTarget
+
+See Also
+
+
+FightHostileTarget Members
+wManager.Wow.Bot.States Namespace
+robotManager.FiniteStateMachine..::..State
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,35 @@
+WRobot
+
+BattleGroundID Enumeration
+BattleGroundID 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum BattleGroundIDPublic Enumeration BattleGroundIDpublic enum class BattleGroundID
+Members
+
+
+Member nameDescription
+AB
+AV
+BfG
+EotS
+IoC
+None
+RandomBattleground
+SM
+SotA
+ToK
+TP
+WSG
+DG
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

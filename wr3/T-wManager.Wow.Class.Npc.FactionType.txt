@@ -1,0 +1,28 @@
+WRobot
+
+Npc..::..FactionType Enumeration
+Faction type 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public enum FactionType<SerializableAttribute> _
+Public Enumeration FactionType[SerializableAttribute]
+public enum class FactionType
+Members
+
+
+Member nameDescription
+Neutral
+Horde
+Alliance
+
+See Also
+
+
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

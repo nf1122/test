@@ -1,0 +1,36 @@
+WRobot
+
+BagType Enumeration
+BagType: https://wowwiki.fandom.com/wiki/ItemFamily 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum BagTypePublic Enumeration BagTypepublic enum class BagType
+Members
+
+
+Member nameDescription
+Unspecified
+Quiver
+AmmoPouch
+Soul
+Leatherworking
+Inscription
+Herb
+Enchanting
+Engineering
+Keyring
+Gem
+Mining
+Unknown
+Vanity
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

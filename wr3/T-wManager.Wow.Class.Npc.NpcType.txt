@@ -1,0 +1,59 @@
+WRobot
+
+Npc..::..NpcType Enumeration
+Npc type 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public enum NpcType<SerializableAttribute> _
+Public Enumeration NpcType[SerializableAttribute]
+public enum class NpcType
+Members
+
+
+Member nameDescription
+None
+Vendor
+Repair
+Mailbox
+MiningTrainer
+HerbalismTrainer
+FishingTrainer
+ResurrectBattlePets
+Smelting
+ArchaeologyTrainers
+AuctionHouse
+DruidTrainer
+RogueTrainer
+WarriorTrainer
+PaladinTrainer
+HunterTrainer
+PriestTrainer
+DeathKnightTrainer
+ShamanTrainer
+MageTrainer
+WarlockTrainer
+AlchemyTrainer
+BlacksmithingTrainer
+EnchantingTrainer
+EngineeringTrainer
+InscriptionTrainer
+JewelcraftingTrainer
+LeatherworkingTrainer
+TailoringTrainer
+SkinningTrainer
+CookingTrainer
+FirstAidTrainer
+RidingTrainer
+MonkTrainer
+
+See Also
+
+
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

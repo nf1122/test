@@ -1,0 +1,20 @@
+WRobot
+
+DBCStruct..::..WoWClientDB Structure
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[StructLayoutAttribute]
+public struct WoWClientDB<StructLayoutAttribute> _
+Public Structure WoWClientDB[StructLayoutAttribute]
+public value class WoWClientDB
+See Also
+
+
+DBCStruct..::..WoWClientDB Members
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

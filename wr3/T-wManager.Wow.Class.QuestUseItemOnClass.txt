@@ -1,0 +1,27 @@
+WRobot
+
+QuestUseItemOnClass Class
+Class QuestUseItemOnClass. Override this class when quest objectives is to use item on WoWUnit, WoWGameObject or at specific position. Implements the QuestClass
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public abstract class QuestUseItemOnClass : QuestClassPublic MustInherit Class QuestUseItemOnClass _
+	Inherits QuestClasspublic ref class QuestUseItemOnClass abstract : public QuestClass
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Class..::..QuestClass
+    wManager.Wow.Class..::..QuestUseItemOnClass
+
+See Also
+
+
+QuestUseItemOnClass Members
+wManager.Wow.Class Namespace
+wManager.Wow.Class..::..QuestClass
+Help File generated with GhostDoc
+ 

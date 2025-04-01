@@ -1,0 +1,43 @@
+WRobot
+
+ChatTypeId Enumeration
+ChatTypeId 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum ChatTypeIdPublic Enumeration ChatTypeIdpublic enum class ChatTypeId
+Members
+
+
+Member nameDescription
+All
+SAY
+PARTY
+RAID
+GUILD
+OFFICER
+YELL
+WHISPER
+WHISPER_SEND
+EMOTE
+CHANNEL
+AFK
+DND
+RAID_WARNING
+BN
+PARTYLEADER
+BN_WHISPER
+BN_WHISPER_INFORM
+BN_CONVERSATION
+INSTANCE_CHAT
+none
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

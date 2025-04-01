@@ -1,0 +1,49 @@
+WRobot
+
+TrackObjectFlags Enumeration
+TrackObjectFlags 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[FlagsAttribute]
+public enum TrackObjectFlags<FlagsAttribute> _
+Public Enumeration TrackObjectFlags[FlagsAttribute]
+public enum class TrackObjectFlags
+Members
+
+
+Member nameDescription
+None
+Lockpicking
+Herbs
+Minerals
+DisarmTrap
+Open
+Treasure
+CalcifiedElvenGems
+Close
+ArmTrap
+QuickOpen
+QuickClose
+OpenTinkering
+OpenKneeling
+OpenAttacking
+Gahzridian
+Blasting
+PvPOpen
+PvPClose
+Fishing
+Inscription
+OpenFromVehicle
+notsure
+All
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

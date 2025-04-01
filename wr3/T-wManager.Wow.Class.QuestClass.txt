@@ -1,0 +1,24 @@
+WRobot
+
+QuestClass Class
+Class QuestClass. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public abstract class QuestClassPublic MustInherit Class QuestClasspublic ref class QuestClass abstract
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Class..::..QuestClass
+
+See Also
+
+
+QuestClass Members
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,26 @@
+WRobot
+
+TotemType Enumeration
+TotemType 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum TotemTypePublic Enumeration TotemTypepublic enum class TotemType
+Members
+
+
+Member nameDescription
+Fire
+Earth
+Water
+Air
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,27 @@
+WRobot
+
+Idle Class
+Class Idle. This state is in last position (lower Priority) of Engine states. It is called only if no states are executed, it allows to lower the CPU usage (with a Sleep(System.Int32)) Implements the State
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class Idle : StatePublic Class Idle _
+	Inherits Statepublic ref class Idle : public State
+Inheritance Hierarchy
+
+
+Object
+  robotManager.FiniteStateMachine..::..State
+    wManager.Wow.Bot.States..::..Idle
+
+See Also
+
+
+Idle Members
+wManager.Wow.Bot.States Namespace
+robotManager.FiniteStateMachine..::..State
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,27 @@
+WRobot
+
+QuestUseScriptOnClass Class
+Class QuestUseScriptOnClass. Override this class when quest objectives is to use the script on WoWUnit, WoWGameObject or at specific position. Implements the QuestClass
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public abstract class QuestUseScriptOnClass : QuestClassPublic MustInherit Class QuestUseScriptOnClass _
+	Inherits QuestClasspublic ref class QuestUseScriptOnClass abstract : public QuestClass
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Class..::..QuestClass
+    wManager.Wow.Class..::..QuestUseScriptOnClass
+
+See Also
+
+
+QuestUseScriptOnClass Members
+wManager.Wow.Class Namespace
+wManager.Wow.Class..::..QuestClass
+Help File generated with GhostDoc
+ 

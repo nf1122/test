@@ -1,0 +1,31 @@
+WRobot
+
+Reaction Enumeration
+Reaction 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum ReactionPublic Enumeration Reactionpublic enum class Reaction
+Members
+
+
+Member nameDescription
+Hated
+Hostile
+Unfriendly
+Neutral
+Friendly
+Honored
+Revered
+Exalted
+Unknown
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

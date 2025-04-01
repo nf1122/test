@@ -1,0 +1,27 @@
+WRobot
+
+QuestGathererClass Class
+Class QuestGathererClass. Override this class when quest objectives is to harvest objects. Implements the QuestClass
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public abstract class QuestGathererClass : QuestClassPublic MustInherit Class QuestGathererClass _
+	Inherits QuestClasspublic ref class QuestGathererClass abstract : public QuestClass
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Class..::..QuestClass
+    wManager.Wow.Class..::..QuestGathererClass
+
+See Also
+
+
+QuestGathererClass Members
+wManager.Wow.Class Namespace
+wManager.Wow.Class..::..QuestClass
+Help File generated with GhostDoc
+ 

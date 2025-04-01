@@ -1,0 +1,27 @@
+WRobot
+
+FlightMasterTakeTaxiState Class
+Class FlightMasterTakeTaxiState. Use to take taxi at flightmaster if InMovement (to reach destination position of CurrentPathOrigine), behavior set with options FlightMasterTaxiUse, FlightMasterTaxiDistance, FlightMasterTaxiUseOnlyIfNear. Can be used without state with static methods NeedToRunStatic and RunStatic()()()(). Implements the State
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class FlightMasterTakeTaxiState : StatePublic Class FlightMasterTakeTaxiState _
+	Inherits Statepublic ref class FlightMasterTakeTaxiState : public State
+Inheritance Hierarchy
+
+
+Object
+  robotManager.FiniteStateMachine..::..State
+    wManager.Wow.Bot.States..::..FlightMasterTakeTaxiState
+
+See Also
+
+
+FlightMasterTakeTaxiState Members
+wManager.Wow.Bot.States Namespace
+robotManager.FiniteStateMachine..::..State
+Help File generated with GhostDoc
+ 

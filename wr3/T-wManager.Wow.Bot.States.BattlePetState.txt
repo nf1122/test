@@ -1,0 +1,26 @@
+WRobot
+
+BattlePetState Class
+Pet battle State, call StartFight()()()() if in pet battle. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class BattlePetState : StatePublic Class BattlePetState _
+	Inherits Statepublic ref class BattlePetState : public State
+Inheritance Hierarchy
+
+
+Object
+  robotManager.FiniteStateMachine..::..State
+    wManager.Wow.Bot.States..::..BattlePetState
+
+See Also
+
+
+BattlePetState Members
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

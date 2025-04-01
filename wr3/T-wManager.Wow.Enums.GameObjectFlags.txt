@@ -1,0 +1,43 @@
+WRobot
+
+GameObjectFlags Enumeration
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[FlagsAttribute]
+public enum GameObjectFlags<FlagsAttribute> _
+Public Enumeration GameObjectFlags[FlagsAttribute]
+public enum class GameObjectFlags
+Members
+
+
+Member nameDescription
+InUse
+Locked
+ConditionalInteraction
+Transport
+CanNotBeInteracted
+DoesNotDespawn
+Triggered
+GOFlag_0x80
+GOFlag_0x100
+Damaged
+Destroyed
+GOFlag_0x800
+GOFlag_0x1000
+GOFlag_0x2000
+GOFlag_0x4000
+Flag_0x10000
+Flag_0x20000
+Flag_0x40000
+GOFlag_0x8000
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

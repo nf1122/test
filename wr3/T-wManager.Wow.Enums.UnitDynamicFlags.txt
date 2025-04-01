@@ -1,0 +1,31 @@
+WRobot
+
+UnitDynamicFlags Enumeration
+UnitDynamicFlags 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum UnitDynamicFlagsPublic Enumeration UnitDynamicFlagspublic enum class UnitDynamicFlags
+Members
+
+
+Member nameDescription
+None
+Lootable
+TrackUnit
+TaggedByOther
+TaggedByMe
+SpecialInfo
+Dead
+ReferAFriendLinked
+IsTappedByAllThreatList
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

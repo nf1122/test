@@ -1,0 +1,24 @@
+WRobot
+
+FarmingTask Class
+Class FarmingTask. Harvest gamebobject. 
+Namespace:  wManager.Wow.Bot.Tasks
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class FarmingTaskPublic NotInheritable Class FarmingTaskpublic ref class FarmingTask abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Bot.Tasks..::..FarmingTask
+
+See Also
+
+
+FarmingTask Members
+wManager.Wow.Bot.Tasks Namespace
+Help File generated with GhostDoc
+ 

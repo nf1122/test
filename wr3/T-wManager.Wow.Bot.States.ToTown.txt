@@ -1,0 +1,27 @@
+WRobot
+
+ToTown Class
+Class ToTown. To repair, sell, send mail, buy items (options can be found in wManagerSetting Implements the State
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class ToTown : StatePublic Class ToTown _
+	Inherits Statepublic ref class ToTown : public State
+Inheritance Hierarchy
+
+
+Object
+  robotManager.FiniteStateMachine..::..State
+    wManager.Wow.Bot.States..::..ToTown
+
+See Also
+
+
+ToTown Members
+wManager.Wow.Bot.States Namespace
+robotManager.FiniteStateMachine..::..State
+Help File generated with GhostDoc
+ 

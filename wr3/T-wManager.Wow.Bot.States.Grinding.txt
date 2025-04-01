@@ -1,0 +1,27 @@
+WRobot
+
+Grinding Class
+Class Grinding. To kills mobs. Implements the State
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class Grinding : StatePublic Class Grinding _
+	Inherits Statepublic ref class Grinding : public State
+Inheritance Hierarchy
+
+
+Object
+  robotManager.FiniteStateMachine..::..State
+    wManager.Wow.Bot.States..::..Grinding
+
+See Also
+
+
+Grinding Members
+wManager.Wow.Bot.States Namespace
+robotManager.FiniteStateMachine..::..State
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,26 @@
+WRobot
+
+Farming Class
+Farming State, search and farm WoWGameObject. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class Farming : StatePublic Class Farming _
+	Inherits Statepublic ref class Farming : public State
+Inheritance Hierarchy
+
+
+Object
+  robotManager.FiniteStateMachine..::..State
+    wManager.Wow.Bot.States..::..Farming
+
+See Also
+
+
+Farming Members
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

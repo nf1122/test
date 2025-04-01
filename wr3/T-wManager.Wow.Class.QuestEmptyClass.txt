@@ -1,0 +1,26 @@
+WRobot
+
+QuestEmptyClass Class
+Class QuestEmptyClass. This class cannot be inherited. Implements the QuestClass
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public sealed class QuestEmptyClass : QuestClassPublic NotInheritable Class QuestEmptyClass _
+	Inherits QuestClasspublic ref class QuestEmptyClass sealed : public QuestClass
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Class..::..QuestClass
+    wManager.Wow.Class..::..QuestEmptyClass
+
+See Also
+
+
+wManager.Wow.Class Namespace
+wManager.Wow.Class..::..QuestClass
+Help File generated with GhostDoc
+ 

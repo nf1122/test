@@ -1,0 +1,23 @@
+WRobot
+
+GuidSubType Enumeration
+GuidSubType 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum GuidSubTypePublic Enumeration GuidSubTypepublic enum class GuidSubType
+Members
+
+
+Member nameDescription
+None
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

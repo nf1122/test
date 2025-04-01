@@ -1,0 +1,28 @@
+WRobot
+
+NPCScanState Class
+Class NPCScanState. For options NpcScanAuctioneer, NpcScanMailboxes, NpcScanRepair, NpcScanVendor, but also for ExtractGameObjects()()()(). Implements the State
+Usually bot don't use this class as State, but call LaunchNewThread()()()() when product start and StopThread()()()() when product is stopped
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class NPCScanState : StatePublic Class NPCScanState _
+	Inherits Statepublic ref class NPCScanState : public State
+Inheritance Hierarchy
+
+
+Object
+  robotManager.FiniteStateMachine..::..State
+    wManager.Wow.Bot.States..::..NPCScanState
+
+See Also
+
+
+NPCScanState Members
+wManager.Wow.Bot.States Namespace
+robotManager.FiniteStateMachine..::..State
+Help File generated with GhostDoc
+ 

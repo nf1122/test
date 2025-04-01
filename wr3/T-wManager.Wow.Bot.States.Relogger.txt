@@ -1,0 +1,27 @@
+WRobot
+
+Relogger Class
+Class Relogger. reconnect the character to the game when he is disconnected. You need to use option Relogger Implements the State
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class Relogger : StatePublic Class Relogger _
+	Inherits Statepublic ref class Relogger : public State
+Inheritance Hierarchy
+
+
+Object
+  robotManager.FiniteStateMachine..::..State
+    wManager.Wow.Bot.States..::..Relogger
+
+See Also
+
+
+Relogger Members
+wManager.Wow.Bot.States Namespace
+robotManager.FiniteStateMachine..::..State
+Help File generated with GhostDoc
+ 

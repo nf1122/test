@@ -1,0 +1,27 @@
+WRobot
+
+MillingState Class
+Class MillingState. State of option Milling. Implements the State
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class MillingState : StatePublic Class MillingState _
+	Inherits Statepublic ref class MillingState : public State
+Inheritance Hierarchy
+
+
+Object
+  robotManager.FiniteStateMachine..::..State
+    wManager.Wow.Bot.States..::..MillingState
+
+See Also
+
+
+MillingState Members
+wManager.Wow.Bot.States Namespace
+robotManager.FiniteStateMachine..::..State
+Help File generated with GhostDoc
+ 

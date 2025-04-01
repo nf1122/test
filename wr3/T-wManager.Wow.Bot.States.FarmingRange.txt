@@ -1,0 +1,28 @@
+WRobot
+
+FarmingRange Class
+Class FarmingRange. LootAndHarvestRangeQuickly. Implements the Farming
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class FarmingRange : FarmingPublic Class FarmingRange _
+	Inherits Farmingpublic ref class FarmingRange : public Farming
+Inheritance Hierarchy
+
+
+Object
+  robotManager.FiniteStateMachine..::..State
+    wManager.Wow.Bot.States..::..Farming
+      wManager.Wow.Bot.States..::..FarmingRange
+
+See Also
+
+
+FarmingRange Members
+wManager.Wow.Bot.States Namespace
+wManager.Wow.Bot.States..::..Farming
+Help File generated with GhostDoc
+ 

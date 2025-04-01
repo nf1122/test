@@ -1,0 +1,27 @@
+WRobot
+
+Talents Class
+Class Talents. If option AssignTalents is enabled use class Talent Implements the State
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class Talents : StatePublic Class Talents _
+	Inherits Statepublic ref class Talents : public State
+Inheritance Hierarchy
+
+
+Object
+  robotManager.FiniteStateMachine..::..State
+    wManager.Wow.Bot.States..::..Talents
+
+See Also
+
+
+Talents Members
+wManager.Wow.Bot.States Namespace
+robotManager.FiniteStateMachine..::..State
+Help File generated with GhostDoc
+ 

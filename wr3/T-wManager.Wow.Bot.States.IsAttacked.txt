@@ -1,0 +1,27 @@
+WRobot
+
+IsAttacked Class
+Class IsAttacked. Call [Fight.StartFight(MemoryRobot.Int128, bool, bool, bool, bool)] if player is in combat and cannot ignore that (IsAttackedAndCannotIgnore) Implements the State
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class IsAttacked : StatePublic Class IsAttacked _
+	Inherits Statepublic ref class IsAttacked : public State
+Inheritance Hierarchy
+
+
+Object
+  robotManager.FiniteStateMachine..::..State
+    wManager.Wow.Bot.States..::..IsAttacked
+
+See Also
+
+
+IsAttacked Members
+wManager.Wow.Bot.States Namespace
+robotManager.FiniteStateMachine..::..State
+Help File generated with GhostDoc
+ 

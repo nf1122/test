@@ -1,0 +1,99 @@
+WRobot
+
+Npc..::..NpcVendorItemClass Enumeration
+Npc vendor item class 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+[FlagsAttribute]
+public enum NpcVendorItemClass<SerializableAttribute> _
+<FlagsAttribute> _
+Public Enumeration NpcVendorItemClass[SerializableAttribute]
+[FlagsAttribute]
+public enum class NpcVendorItemClass
+Members
+
+
+Member nameDescription
+None
+Consumable
+Potion
+Elixir
+Flask
+Scroll
+Food
+ItemEnhancement
+Bandage
+ConsumableOther
+Container
+SoulContainer
+HerbContainer
+EnchantingContainer
+EngineeringContainer
+WeaponAxe
+WeaponAxe2
+WeaponBow
+WeaponGun
+WeaponMace
+WeaponMace2
+WeaponPolearm
+WeaponSword
+WeaponSword2
+WeaponReserved1
+WeaponStaff
+WeaponReserved2
+WeaponReserved3
+WeaponFist
+WeaponMisc
+WeaponDagger
+WeaponThrown
+WeaponSpear
+WeaponCrossbow
+WeaponWand
+WeaponFishingPole
+ArmorMisc
+ArmorCloth
+ArmorLeather
+ArmorMail
+ArmorPlate
+ArmorBuckler
+ArmorShield
+ArmorLibram
+ArmorIdol
+ArmorTotem
+Reagent
+Arrow
+Bullet
+TradeGoods
+Parts
+Explosives
+Devices
+Book
+LeatherworkingPattern
+TailoringPattern
+EngineeringSchematic
+Blacksmithing
+CookingRecipe
+AlchemyRecipe
+FirstAidManual
+EnchantingFormula
+FishingManual
+Quiver
+AmmoPouch
+Quest
+Key
+Lockpick
+Permanent
+Junk
+Custom
+
+See Also
+
+
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

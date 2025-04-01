@@ -1,0 +1,26 @@
+WRobot
+
+MountTask..::..MountCapacity Enumeration
+Mount capacity 
+Namespace:  wManager.Wow.Bot.Tasks
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum MountCapacityPublic Enumeration MountCapacitypublic enum class MountCapacity
+Members
+
+
+Member nameDescription
+Feet
+Ground
+Swimm
+Fly
+
+See Also
+
+
+wManager.Wow.Bot.Tasks Namespace
+Help File generated with GhostDoc
+ 

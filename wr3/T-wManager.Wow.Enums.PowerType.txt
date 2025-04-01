@@ -1,0 +1,39 @@
+WRobot
+
+PowerType Enumeration
+PowerType 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum PowerTypePublic Enumeration PowerTypepublic enum class PowerType
+Members
+
+
+Member nameDescription
+Mana
+Rage
+Focus
+Energy
+Happiness
+Runes
+RunicPower
+SoulShards
+Eclipse
+HolyPower
+Alternate
+DarkForce
+LightForce
+ShadowOrbs
+BurningEmbers
+DemonicFury
+ArcaneCharges
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

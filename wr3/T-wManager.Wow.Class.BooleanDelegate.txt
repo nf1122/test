@@ -1,0 +1,28 @@
+WRobot
+
+BooleanDelegate Delegate
+Delegate BooleanDelegate, used in SpellState and GoToTask
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public delegate bool BooleanDelegate(
+	Object context
+)Public Delegate Function BooleanDelegate ( _
+	context As Object _
+) As Booleanpublic delegate bool^ BooleanDelegate(
+	Object^ context
+)Parameters
+context
+Type: Object
+The context.
+Return Value
+true if true, false otherwise.
+See Also
+
+
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

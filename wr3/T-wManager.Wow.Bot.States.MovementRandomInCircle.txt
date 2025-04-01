@@ -1,0 +1,27 @@
+WRobot
+
+MovementRandomInCircle Class
+Class MovementRandomInCircle. Used in Automaton product to move to random position when no task to do near. If not InMovement bot run this state. Must be one of the last states of Engine. Implements the State
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class MovementRandomInCircle : StatePublic Class MovementRandomInCircle _
+	Inherits Statepublic ref class MovementRandomInCircle : public State
+Inheritance Hierarchy
+
+
+Object
+  robotManager.FiniteStateMachine..::..State
+    wManager.Wow.Bot.States..::..MovementRandomInCircle
+
+See Also
+
+
+MovementRandomInCircle Members
+wManager.Wow.Bot.States Namespace
+robotManager.FiniteStateMachine..::..State
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,36 @@
+WRobot
+
+MountFlags Enumeration
+MountFlags 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[FlagsAttribute]
+public enum MountFlags<FlagsAttribute> _
+Public Enumeration MountFlags[FlagsAttribute]
+public enum class MountFlags
+Members
+
+
+Member nameDescription
+None
+Ground
+GroundWalkWater
+TempleOfAhnQirajMount
+DeadMount
+Flying
+Flying2
+Aquatic
+Aquatic2
+Aquatic3
+GroundForLevel1
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,27 @@
+WRobot
+
+SmeltingState Class
+Class SmeltingState. Look Smelting Implements the State
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class SmeltingState : StatePublic Class SmeltingState _
+	Inherits Statepublic ref class SmeltingState : public State
+Inheritance Hierarchy
+
+
+Object
+  robotManager.FiniteStateMachine..::..State
+    wManager.Wow.Bot.States..::..SmeltingState
+
+See Also
+
+
+SmeltingState Members
+wManager.Wow.Bot.States Namespace
+robotManager.FiniteStateMachine..::..State
+Help File generated with GhostDoc
+ 

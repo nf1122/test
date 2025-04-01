@@ -1,0 +1,27 @@
+WRobot
+
+GrindingNearestMobs Class
+Class GrindingNearestMobs. To kills enemies mobs near. Implements the State
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class GrindingNearestMobs : StatePublic Class GrindingNearestMobs _
+	Inherits Statepublic ref class GrindingNearestMobs : public State
+Inheritance Hierarchy
+
+
+Object
+  robotManager.FiniteStateMachine..::..State
+    wManager.Wow.Bot.States..::..GrindingNearestMobs
+
+See Also
+
+
+GrindingNearestMobs Members
+wManager.Wow.Bot.States Namespace
+robotManager.FiniteStateMachine..::..State
+Help File generated with GhostDoc
+ 

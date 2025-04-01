@@ -1,0 +1,41 @@
+WRobot
+
+TrackCreatureFlags Enumeration
+TrackCreatureFlags 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[FlagsAttribute]
+public enum TrackCreatureFlags<FlagsAttribute> _
+Public Enumeration TrackCreatureFlags[FlagsAttribute]
+public enum class TrackCreatureFlags
+Members
+
+
+Member nameDescription
+None
+Beasts
+Dragons
+Demons
+Elementals
+Giants
+Undead
+Humanoids
+Critters
+Machines
+Slimes
+Totem
+NonCombatPet
+GasCloud
+BattlePets
+All
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

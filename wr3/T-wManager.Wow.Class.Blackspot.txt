@@ -1,0 +1,27 @@
+WRobot
+
+Blackspot Class
+Class Blackspot used by product quester (do not confuse with Blackspots). 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class Blackspot<SerializableAttribute> _
+Public Class Blackspot[SerializableAttribute]
+public ref class Blackspot
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Class..::..Blackspot
+
+See Also
+
+
+Blackspot Members
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

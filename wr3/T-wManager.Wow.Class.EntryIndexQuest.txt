@@ -1,0 +1,27 @@
+WRobot
+
+EntryIndexQuest Class
+Class EntryIndexQuest. Used by QuestGrinderGathererClass
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class EntryIndexQuest<SerializableAttribute> _
+Public Class EntryIndexQuest[SerializableAttribute]
+public ref class EntryIndexQuest
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Class..::..EntryIndexQuest
+
+See Also
+
+
+EntryIndexQuest Members
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

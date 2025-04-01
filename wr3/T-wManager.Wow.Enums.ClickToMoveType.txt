@@ -1,0 +1,37 @@
+WRobot
+
+ClickToMoveType Enumeration
+ClickToMoveType 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum ClickToMoveTypePublic Enumeration ClickToMoveTypepublic enum class ClickToMoveType
+Members
+
+
+Member nameDescription
+FaceTarget
+Face
+StopThrowsExceptionWill throw a UI error. Have not figured out how to avoid it! 
+Move
+NpcInteract
+Loot
+ObjInteract
+FaceOther
+Skin
+AttackPosition
+AttackGuid
+ConstantFace
+None
+Attack
+Idle
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

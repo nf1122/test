@@ -1,0 +1,42 @@
+WRobot
+
+CGWorldFrameHitFlags Enumeration
+CGWorldFrameHitFlags, used by TraceLine
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[FlagsAttribute]
+public enum CGWorldFrameHitFlags<FlagsAttribute> _
+Public Enumeration CGWorldFrameHitFlags[FlagsAttribute]
+public enum class CGWorldFrameHitFlags
+Members
+
+
+Member nameDescription
+HitTestNothing
+HitTestBoundingModels
+HitTestSpellLoS
+HitTestWMO
+HitTestWMONoCam
+HitTestUnknown2
+HitTestGround
+HitTestLiquid
+HitTestLiquid2
+HitTestMovableObjects
+HitTestUnknown3
+HitTestUnknown4
+HitTestLOS
+HitTestGroundAndStructures
+HitTestAll
+HitTestAllWhitoutLiquid
+HitTestWater
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

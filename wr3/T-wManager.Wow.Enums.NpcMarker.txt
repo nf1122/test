@@ -1,0 +1,30 @@
+WRobot
+
+NpcMarker Enumeration
+NpcMarker 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum NpcMarkerPublic Enumeration NpcMarkerpublic enum class NpcMarker
+Members
+
+
+Member nameDescription
+None
+SilverExclamation
+SilverQuestion
+BlueQuestion
+BlueExclamation
+YellowExclamation
+YellowQuestion
+GreenExclamation
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

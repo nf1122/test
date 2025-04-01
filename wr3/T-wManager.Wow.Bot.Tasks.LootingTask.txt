@@ -1,0 +1,24 @@
+WRobot
+
+LootingTask Class
+Class LootingTask. Looting WowUnits 
+Namespace:  wManager.Wow.Bot.Tasks
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class LootingTaskPublic NotInheritable Class LootingTaskpublic ref class LootingTask abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Bot.Tasks..::..LootingTask
+
+See Also
+
+
+LootingTask Members
+wManager.Wow.Bot.Tasks Namespace
+Help File generated with GhostDoc
+ 

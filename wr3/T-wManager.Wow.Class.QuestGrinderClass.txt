@@ -1,0 +1,27 @@
+WRobot
+
+QuestGrinderClass Class
+Class QuestGrinderClass. Override this class when quest objectives is to kills mobs. Implements the QuestClass
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public abstract class QuestGrinderClass : QuestClassPublic MustInherit Class QuestGrinderClass _
+	Inherits QuestClasspublic ref class QuestGrinderClass abstract : public QuestClass
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Class..::..QuestClass
+    wManager.Wow.Class..::..QuestGrinderClass
+
+See Also
+
+
+QuestGrinderClass Members
+wManager.Wow.Class Namespace
+wManager.Wow.Class..::..QuestClass
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,22 @@
+WRobot
+
+DBCStruct Class
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class DBCStructPublic Class DBCStructpublic ref class DBCStruct
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Class..::..DBCStruct
+
+See Also
+
+
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

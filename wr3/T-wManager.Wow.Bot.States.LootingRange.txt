@@ -1,0 +1,28 @@
+WRobot
+
+LootingRange Class
+Class LootingRange. LootAndHarvestRangeQuickly. Implements the Looting
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class LootingRange : LootingPublic Class LootingRange _
+	Inherits Lootingpublic ref class LootingRange : public Looting
+Inheritance Hierarchy
+
+
+Object
+  robotManager.FiniteStateMachine..::..State
+    wManager.Wow.Bot.States..::..Looting
+      wManager.Wow.Bot.States..::..LootingRange
+
+See Also
+
+
+LootingRange Members
+wManager.Wow.Bot.States Namespace
+wManager.Wow.Bot.States..::..Looting
+Help File generated with GhostDoc
+ 

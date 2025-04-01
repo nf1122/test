@@ -1,0 +1,38 @@
+WRobot
+
+PlayerFactions Enumeration
+PlayerFactions 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum PlayerFactionsPublic Enumeration PlayerFactionspublic enum class PlayerFactions
+Members
+
+
+Member nameDescription
+BloodElf
+Draenei
+Dwarf
+Gnome
+Human
+NightElf
+Orc
+Tauren
+Troll
+Undead
+Worgen
+Goblin
+Pandaren
+PandarenHorde
+PandarenAlliance
+None
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 
