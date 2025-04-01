@@ -1,0 +1,42 @@
+WRobot
+
+MiniMapGenerator..::..LandmarkMiniMap Members
+The MiniMapGenerator..::..LandmarkMiniMap type exposes the following members.
+Constructors
+
+
+  NameDescription
+ MiniMapGenerator..::..LandmarkMiniMap Initializes a new instance of the MiniMapGenerator..::..LandmarkMiniMap class. 
+
+Methods
+
+
+  NameDescription
+ Clone Creates a new object that is a copy of the current instance. 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Fields
+
+
+  NameDescription
+ AutoResizeIn3DRadar Automatic resize in 3D radar 
+ Color The color 
+ ConnectWithId Connect with Id (can be same name) 
+ Filled Filled 
+ Id The ID (you can use same name several time) 
+ Opacity The opacity 
+ Position The position 
+ Size The size 
+
+See Also
+
+
+MiniMapGenerator..::..LandmarkMiniMap Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,31 @@
+WRobot
+
+RuneStruct Members
+The RuneStruct type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Fields
+
+
+  NameDescription
+ CooldownTimeLeft The time left 
+ Id The rune id 
+ IsReady Rune is ready 
+ RuneType Rune type 
+
+See Also
+
+
+RuneStruct Class 
+wManager.Wow.Class Namespace 
+Help File generated with GhostDoc
+ 

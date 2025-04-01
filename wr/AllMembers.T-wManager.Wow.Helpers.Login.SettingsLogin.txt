@@ -1,0 +1,38 @@
+WRobot
+
+Login..::..SettingsLogin Members
+The Login..::..SettingsLogin type exposes the following members.
+Constructors
+
+
+  NameDescription
+ Login..::..SettingsLogin Initializes a new instance of the Login..::..SettingsLogin struct. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from ValueType.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from ValueType.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from ValueType.)
+
+Fields
+
+
+  NameDescription
+ BNetName Game account name BNetName="WoW1"
+ Character Game character name Character="MyName"
+ Login Game account mail (or name) Login="my@mail.com"
+ Password Game account password Password="*****"
+ Realm Game realmlist name Realm="ServerName"
+
+See Also
+
+
+Login..::..SettingsLogin Structure 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

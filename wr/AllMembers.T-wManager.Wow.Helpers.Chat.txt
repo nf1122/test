@@ -1,0 +1,33 @@
+WRobot
+
+Chat Members
+The Chat type exposes the following members.
+Methods
+
+
+  NameDescription
+  ClearMessages Clear the messages. 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+  SendChatMessage Send chat message. 
+  SendChatMessageChannel Send chat message. 
+  SendChatMessageWhisper Send whisper message. 
+  SendChatMessageWhisperAtTarget Send whisper message to character target. 
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+  Messages Get messages. 
+
+See Also
+
+
+Chat Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

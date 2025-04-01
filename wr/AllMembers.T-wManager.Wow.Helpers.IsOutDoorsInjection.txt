@@ -1,0 +1,17 @@
+WRobot
+
+IsOutDoorsInjection Members
+The IsOutDoorsInjection type exposes the following members.
+Methods
+
+
+  NameDescription
+  IsOutDoors Returns whether the player's character is currently outdoors. 
+
+See Also
+
+
+IsOutDoorsInjection Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

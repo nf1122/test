@@ -1,0 +1,29 @@
+WRobot
+
+EventsLuaWithArgs Members
+The EventsLuaWithArgs type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Events
+
+
+  NameDescription
+  OnEventsLuaStringWithArgs Occurs when new events lua. 
+  OnEventsLuaWithArgs Occurs when new events lua. 
+
+See Also
+
+
+EventsLuaWithArgs Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

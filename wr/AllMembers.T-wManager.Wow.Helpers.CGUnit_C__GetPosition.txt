@@ -1,0 +1,23 @@
+WRobot
+
+CGUnit_C__GetPosition Members
+The CGUnit_C__GetPosition type exposes the following members.
+Methods
+
+
+  NameDescription
+  GetPosition Get the position. 
+
+Fields
+
+
+  NameDescription
+  CacheTime Cache time in milliseconds 
+
+See Also
+
+
+CGUnit_C__GetPosition Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

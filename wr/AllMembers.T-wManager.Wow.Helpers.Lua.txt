@@ -1,0 +1,50 @@
+WRobot
+
+Lua Members
+The Lua type exposes the following members.
+Methods
+
+
+  NameDescription
+  GetLocalizedText Get value of specified lua variable 
+  LuaDoString(array<String>[]()[][], String) Execute lua code and get result. 
+  LuaDoString(List<(Of <<'(String>)>>), String) Execute lua code and get result. 
+  LuaDoString(String, Type, String) Execute lua code and get result (you can found example in [LuaDoString{T}(string,string)]). 
+  LuaDoString(String, String) Execute lua code and get result (you can found example in [LuaDoString{T}(string,string)]). 
+  LuaDoString(List<(Of <<'(String>)>>), Boolean) Execute lua code. 
+  LuaDoString(String, Boolean) Execute lua code. 
+  LuaDoString(String, Boolean, Boolean) Execute lua code. 
+  LuaDoString<(Of <<'(T>)>>)(array<String>[]()[][], String) Execute lua code and get result (you can found example in [LuaDoString{T}(string,string)]). 
+  LuaDoString<(Of <<'(T>)>>)(List<(Of <<'(String>)>>), String) Execute lua code and get result (you can found example in [LuaDoString{T}(string,string)]). 
+  LuaDoString<(Of <<'(T>)>>)(String, String) Execute lua code and get result.
+  RunMacroText Run lua macro (with https://wowwiki.fandom.com/wiki/API_RunMacroText). 
+  RunMacroTextHW Create lua macro in game and run it (by pressing a keyboard key). 
+
+Fields
+
+
+  NameDescription
+  DebugstackFilterMode Filter "debugstack" (https://wowwiki.fandom.com/wiki/API_debugstack) result (try to remove bot trace). 
+  ListSeparator The list separator, use when you want return an array separate the entries with this string (you can found example in [LuaDoString{T}(string,string)]). 
+  SecureLuaCall Secure called lua code (a lot of private servers add traps in lua to detect bots). 
+  Wow Allows to use/mix Lua with C# (or LuaBot). 
+Examples
+
+
+C#
+string playerName = Lua.Wow.GetUnitName("player"); // call https://wowwiki.fandom.com/wiki/API_GetUnitName
+Lua.Wow.print(playerName); // call https://wowwiki.fandom.com/wiki/API_print
+
+Properties
+
+
+  NameDescription
+  LuaFile Get or set the lua file. 
+
+See Also
+
+
+Lua Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

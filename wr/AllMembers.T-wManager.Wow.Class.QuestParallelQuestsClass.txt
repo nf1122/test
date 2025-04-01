@@ -1,0 +1,69 @@
+WRobot
+
+QuestParallelQuestsClass Members
+The QuestParallelQuestsClass type exposes the following members.
+Methods
+
+
+  NameDescription
+ CanConditions 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ HasQuest 
+ IsComplete 
+ IsCompleted 
+ IsCompleteObjectiveIndex Determines whether is complete objective by objective index 
+(Inherited from QuestClass.)
+ MemberwiseClone (Inherited from Object.)
+ PickUp 
+ Pulse 
+ PulseAllInOne 
+ Reset 
+ ToString (Inherited from Object.)
+ TurnIn 
+ WhenLeaveStep Called one time when the quester product leave this step (with Pulse or PulseAllInOne action). 
+(Inherited from QuestClass.)
+ WhenSelectStep Called one time when the quester product select this step (with Pulse or PulseAllInOne action). 
+(Inherited from QuestClass.)
+
+Fields
+
+
+  NameDescription
+ SkipNextPulseIfKillOrFarm Skip next pulse if kill or farm 
+ SubQuests The sub quests, add quests in class constructor. 
+Examples
+
+
+C#
+if (wManager.Wow.Helpers.Quest.QuesterCurrentContext.QuestsClasses.ContainsKey("{subQuest}"))
+       SubQuests.Add(wManager.Wow.Helpers.Quest.QuesterCurrentContext.QuestsClasses["{subQuest}"]);
+   else
+       SubQuests.Add(new {subQuest}());
+
+Properties
+
+
+  NameDescription
+ GossipOptionItem Gets or sets the gossip option to use to select reward item. 
+(Inherited from QuestClass.)
+ NpcPickUp Gets the NPC where pick up quest (search in NPCList). 
+(Inherited from QuestClass.)
+ NpcTurnIn Gets the NPC to turn in quest (search in NPCList).. 
+(Inherited from QuestClass.)
+ QuestId Gets or sets the quest IDs list. 
+(Inherited from QuestClass.)
+ Step Gets or sets the quest objectives required count (example, if this quest need 5 kills for objective 3 use Step = new List<int> {0, 0, 5, 0, 0};. 
+(Inherited from QuestClass.)
+ StepAutoDetect Gets or sets the quest objectives to auto detect if complete (example, if you want detect if the objective 4 is done StepAutoDetect = new List<bool> {false, false, false, true, false};. 
+(Inherited from QuestClass.)
+
+See Also
+
+
+QuestParallelQuestsClass Class 
+wManager.Wow.Class Namespace 
+Help File generated with GhostDoc
+ 

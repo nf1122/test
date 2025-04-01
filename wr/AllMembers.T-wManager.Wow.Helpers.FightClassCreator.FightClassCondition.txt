@@ -1,0 +1,29 @@
+WRobot
+
+FightClassCondition Members
+The FightClassCondition type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ ContionType Gets or sets the type of the contion. 
+ Param Gets or sets the parameter. 
+
+See Also
+
+
+FightClassCondition Class 
+wManager.Wow.Helpers.FightClassCreator Namespace 
+Help File generated with GhostDoc
+ 

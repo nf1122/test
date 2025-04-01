@@ -1,0 +1,35 @@
+WRobot
+
+Buy Members
+The Buy type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ ForceGoToVendorNow Need go to vendor now (GoToVendorIfQuantityLessOrEqual). 
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ IsValid Returns true if the configurations of buy is valid. 
+ MemberwiseClone (Inherited from Object.)
+ NeedToBuy Needs to buy. 
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ GoToVendorIfQuantityLessOrEqual Force to go to vendor if value is bigger or equal than 0 (-1 to disable) 
+ ItemName Gets or sets the name of the item (like is appear in game). 
+ Quantity Quantity to buy. 
+ ScriptCanCondition Script can condition (code like return wManager.Wow.ObjectManager.ObjectManager.Me.Level > 10;, default language is C#, start by lua: or luabot: or vb: to change script language). 
+ VendorItemClass Gets or sets the vendor item class. 
+
+See Also
+
+
+Buy Class 
+wManager.Wow.Class Namespace 
+Help File generated with GhostDoc
+ 

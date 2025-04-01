@@ -1,0 +1,35 @@
+WRobot
+
+UserControlTabMain Members
+The UserControlTabMain type exposes the following members.
+Constructors
+
+
+  NameDescription
+ UserControlTabMain Initializes a new instance of the UserControlTabMain class. 
+
+Methods
+
+
+  NameDescription
+ ButtonStartBotClick Buttons the start bot click. 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Fields
+
+
+  NameDescription
+ ProductSettingsGrid The product settings grid 
+
+See Also
+
+
+UserControlTabMain Class 
+wManager.Wow.Forms Namespace 
+Help File generated with GhostDoc
+ 

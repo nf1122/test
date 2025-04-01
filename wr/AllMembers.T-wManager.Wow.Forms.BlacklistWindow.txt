@@ -1,0 +1,29 @@
+WRobot
+
+BlacklistWindow Members
+The BlacklistWindow type exposes the following members.
+Constructors
+
+
+  NameDescription
+ BlacklistWindow()()()() 
+ BlacklistWindow(List<(Of <<'(BlackListSerializable..::..Blackspot>)>>), List<(Of <<'(BlackListSerializable..::..BlackNpc>)>>), List<(Of <<'(BlackListSerializable..::..BlackNpcType>)>>)) 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+See Also
+
+
+BlacklistWindow Class 
+wManager.Wow.Forms Namespace 
+Help File generated with GhostDoc
+ 

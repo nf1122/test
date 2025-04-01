@@ -1,0 +1,51 @@
+WRobot
+
+TaxiNode Members
+The TaxiNode type exposes the following members.
+Constructors
+
+
+  NameDescription
+ TaxiNode()()()() Initializes a new instance of the TaxiNode class. 
+ TaxiNode(Int32, String, Vector3, Int32) Initializes a new instance of the TaxiNode class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ IsRealPosition Determines whether is valid position. 
+ IsSimilar Determines whether the specified taxi node is similar. 
+ IsValid Returns true if taxi is valid. 
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Fields
+
+
+  NameDescription
+ CharacterAvailable List of characters names who can use this taxi 
+ Position The position 
+ SlotIndex The slot index 
+
+Properties
+
+
+  NameDescription
+ Active Gets or sets a value indicating whether this TaxiNode is active. 
+ ContinentId Gets or sets the continent id. 
+ Name Gets or sets the name. 
+ PosX Gets or sets the position x. 
+ PosY Gets or sets the position y. 
+ PosZ Gets or sets the position z. 
+
+See Also
+
+
+TaxiNode Class 
+wManager.Wow.Class Namespace 
+Help File generated with GhostDoc
+ 

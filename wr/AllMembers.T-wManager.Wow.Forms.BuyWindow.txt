@@ -1,0 +1,28 @@
+WRobot
+
+BuyWindow Members
+The BuyWindow type exposes the following members.
+Constructors
+
+
+  NameDescription
+ BuyWindow Initializes a new instance of the BuyWindow class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+See Also
+
+
+BuyWindow Class 
+wManager.Wow.Forms Namespace 
+Help File generated with GhostDoc
+ 

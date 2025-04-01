@@ -1,0 +1,43 @@
+WRobot
+
+MiniMapGenerator..::..PathImage Members
+The MiniMapGenerator..::..PathImage type exposes the following members.
+Constructors
+
+
+  NameDescription
+ MiniMapGenerator..::..PathImage Initializes a new instance of the MiniMapGenerator..::..PathImage class. 
+
+Methods
+
+
+  NameDescription
+ Dispose Disposes this instance. 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ Generate Generates the specified screen w. 
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ Background Gets the background. 
+ Center Gets the center. 
+ Height Gets or sets the height. 
+ Landmarks Gets the landmarks. 
+ Result Gets the result. 
+ Width Gets or sets the width. 
+ World Gets the world. 
+ Zoom Gets or sets the zoom. 
+
+See Also
+
+
+MiniMapGenerator..::..PathImage Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

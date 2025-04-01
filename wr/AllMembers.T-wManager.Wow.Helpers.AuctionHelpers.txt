@@ -1,0 +1,55 @@
+WRobot
+
+AuctionHelpers Members
+The AuctionHelpers type exposes the following members.
+Methods
+
+
+  NameDescription
+  AuctionHouseIsShown Auctions the house is shown. 
+  AuctionProgressFrameIsShown Auctions the progress frame is shown. 
+  BrowseBidButtonClick Browses the bid button click. 
+  BrowseBuyoutButtonClick Browses the buyout button click. 
+  BrowseFilterSet Browses the filter set. 
+  BrowseMaxLevelSetText Browses the maximum level set text. 
+  BrowseMinLevelSetText Browses the minimum level set text. 
+  BrowseNameSetText Browses the name set text. 
+  BrowseNextPageButtonClick Browses the next page button click. 
+  BrowseNextPageButtonIsEnabled Browses the next page button is enabled. 
+  BrowsePageNumber Browses the page number. 
+  BrowsePrevPageButtonClick Browses the previous page button click. 
+  BrowsePrevPageButtonIsEnabled Browses the previous page button is enabled. 
+  BrowseRaritySet Browses the rarity set. 
+  BrowseSearchButtonClick Browses the search button click. 
+  BrowseSearchButtonIsEnabled Browses the search button is enabled. 
+  BuyoutBidPopupAcceptClick Buyouts the bid popup accept click. 
+  BuyoutBidPopupCancelClick Buyouts the bid popup cancel click. 
+  BuyoutBidPopupIsShown Buyouts the bid popup is shown. 
+  ClearAuctionSellItem Clears the auction sell item. 
+  CloseAuctionHouse Closes the auction house. 
+  ExactMatchCheckButtonSetChecked Exacts the match check button set checked. 
+  GetAuctionItemTimeLeft(Int32) Gets the auction item time left. 
+  GetAuctionItemTimeLeft()()()() Gets the auction item time left. 
+  GetAuctionSellItemId Gets the auction sell item identifier. 
+  GetAuctionSellItemName Gets the name of the auction sell item. 
+  GetBrowsePageItems Gets the browse page items. 
+  GetSelectedAuctionItem Gets the selected auction item. 
+  IsUsableCheckButtonSetChecked Determines whether [is usable check button set checked] [the specified is checked]. 
+  PlaceAuctionBid Places the auction bid. 
+  PlayerAuctionsCountStacksByItemName Players the name of the auctions count stacks by item. 
+  ResetAuctionFrameBrowse Resets the auction frame browse. 
+  SelectAuctionItem Selects the auction item. 
+  SelectAuctionsTab Selects the auctions tab. 
+  SelectBidsTab Selects the bids tab. 
+  SelectBrowseTab Selects the browse tab. 
+  SetAuctionSellItem Sets the auction sell item. 
+  StartAuction Starts the auction. 
+  WaitInSearch Waits the in search. 
+
+See Also
+
+
+AuctionHelpers Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

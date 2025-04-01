@@ -1,0 +1,23 @@
+WRobot
+
+MiniMapGenerator Members
+The MiniMapGenerator type exposes the following members.
+Methods
+
+
+  NameDescription
+
+Fields
+
+
+  NameDescription
+  LowQuality Use low render quality 
+  TileImgSize The image tile size 
+
+See Also
+
+
+MiniMapGenerator Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

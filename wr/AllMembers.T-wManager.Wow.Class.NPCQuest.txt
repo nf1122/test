@@ -1,0 +1,44 @@
+WRobot
+
+NPCQuest Members
+The NPCQuest type exposes the following members.
+Constructors
+
+
+  NameDescription
+ NPCQuest()()()() Initializes a new instance of the NPCQuest class. 
+ NPCQuest(Int32, Vector3, List<(Of <<'(Int32>)>>), List<(Of <<'(Int32>)>>), Boolean, String) Initializes a new instance of the NPCQuest class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString Returns a String that represents this instance. 
+
+Properties
+
+
+  NameDescription
+ CanFlyTo Gets or sets a value indicating if character can fly to. 
+ GameObject Gets or sets a value indicating whether it isWoWGameObject (by default bot search WoWUnit). 
+ Id Entry ID 
+ Name Gets or sets the name or description. 
+ PickUpQuests Gets or sets the pick up quests IDs. 
+ Position Gets or sets the position. 
+ PosX Gets or sets the position x. 
+ PosY Gets or sets the position y. 
+ PosZ Gets or sets the position z. 
+ TurnInQuests Gets or sets the turn in quests IDs. 
+
+See Also
+
+
+NPCQuest Class 
+wManager.Wow.Class Namespace 
+Help File generated with GhostDoc
+ 

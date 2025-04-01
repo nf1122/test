@@ -1,0 +1,43 @@
+WRobot
+
+MiniMapGenerator..::..MinimapImage Members
+The MiniMapGenerator..::..MinimapImage type exposes the following members.
+Constructors
+
+
+  NameDescription
+ MiniMapGenerator..::..MinimapImage Initializes a new instance of the MiniMapGenerator..::..MinimapImage class. 
+
+Methods
+
+
+  NameDescription
+ Dispose Disposes this instance. 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ Generate Generates this instance. 
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ Result Gets or sets the result. 
+ StartTileX Gets the start tile x. 
+ StartTileY Gets the start tile y. 
+ TileHeight Gets the height of the tile. 
+ TilesX Gets the tiles x. 
+ TilesY Gets the tiles y. 
+ TileWidth Gets the width of the tile. 
+ World Gets the world. 
+
+See Also
+
+
+MiniMapGenerator..::..MinimapImage Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

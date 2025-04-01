@@ -1,0 +1,17 @@
+WRobot
+
+EquippedItems Members
+The EquippedItems type exposes the following members.
+Methods
+
+
+  NameDescription
+  GetEquippedItems Get the equipped items. 
+
+See Also
+
+
+EquippedItems Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

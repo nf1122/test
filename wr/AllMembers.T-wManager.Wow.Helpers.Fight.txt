@@ -1,0 +1,36 @@
+WRobot
+
+Fight Members
+The Fight type exposes the following members.
+Methods
+
+
+  NameDescription
+  StartFight(Boolean, Boolean, Boolean, Boolean) Starts the fight. 
+  StartFight(UInt64, Boolean, Boolean, Boolean, Boolean) Starts the fight. 
+  StopFight Stops the fight. 
+
+Fields
+
+
+  NameDescription
+  CombatStartAtTime The combat start time (Times). 
+  FightLock The fight locker 
+  MaxEvadeCount The maximum evade count per combat (you need also to active DetectEvadingMob) 
+
+Properties
+
+
+  NameDescription
+  CombatStartSince Get combat elapsed time (in milliseconds) 
+  CurrentTarget Get or set the current target (avoid changing it unless you know what you are doing). 
+  EvadeCountCurrentCombat Evade count of current combat. 
+  InFight Get or set a value indicating whether in fight. Do not confuse with InCombat, if it returns true it means that StartFight(Boolean, Boolean, Boolean, Boolean) has been called. 
+
+See Also
+
+
+Fight Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

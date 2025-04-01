@@ -1,0 +1,37 @@
+WRobot
+
+ItemsManager Members
+The ItemsManager type exposes the following members.
+Methods
+
+
+  NameDescription
+  EquipItemByName Equip item by name. 
+  GetBestConsumableBag Get the best consumable bag. 
+  GetBestConsumableVendor Get the best consumable of current target vendor (need merchant window opened). 
+  GetBestContainers Get the best bag. 
+  GetIdByName Gets the item name by id. 
+  GetItemCountById Get item count by id. 
+  GetItemCountByIdLUA Get item count by id with lua. 
+  GetItemCountByNameLUA Get item count by name with lua. 
+  GetItemSpell(UInt32) Get the item spell. 
+  GetItemSpell(String) Get the item spell. 
+  GetNameById(Int32) Get the item name by id. 
+  GetNameById(UInt32) Gets the item name by id. 
+  HasItemById Determines whether has item by id (use [ObjectManager], it's faster than lua). 
+  IsEquippableItem Determines whether is equippable item. 
+  UseContainerItem(String) Use container item by name. 
+  UseContainerItem(UInt32) Use the container item by id. 
+  UseContainerItemByNameOrId Use the container item by name like is appear in game or by item id. 
+  UseItem(String) Use the item. 
+  UseItem(UInt32) Use the item. 
+  UseItem(UInt32, Vector3) Use the item and mouse click at position. 
+  UseItemByNameOrId Use the item by name or id. 
+
+See Also
+
+
+ItemsManager Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

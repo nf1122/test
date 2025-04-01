@@ -1,0 +1,35 @@
+WRobot
+
+OffMeshConnectionWindow Members
+The OffMeshConnectionWindow type exposes the following members.
+Constructors
+
+
+  NameDescription
+ OffMeshConnectionWindow()()()() Initializes a new instance of the OffMeshConnectionWindow class. 
+ OffMeshConnectionWindow(List<(Of <<'(PathFinder..::..OffMeshConnection>)>>)%) Initializes a new instance of the OffMeshConnectionWindow class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ OffMeshConnections Gets or sets the off mesh connections. 
+
+See Also
+
+
+OffMeshConnectionWindow Class 
+wManager.Wow.Forms Namespace 
+Help File generated with GhostDoc
+ 

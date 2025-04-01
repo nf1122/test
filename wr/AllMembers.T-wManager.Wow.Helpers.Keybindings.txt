@@ -1,0 +1,24 @@
+WRobot
+
+Keybindings Members
+The Keybindings type exposes the following members.
+Methods
+
+
+  NameDescription
+  DownKeybindings Down keyboard key by keybindings. 
+  GetAFreeKey Get a free key (not associated to a shortcut). 
+  GetKeyByAction Get the key by action. 
+  PressKeybindings Press keyboard key by keybindings (call DownKeybindings(Keybindings) and UpKeybindings(Keybindings)). 
+  PressSlotKey Press Slot key (game action by). 
+  ResetList Reset cache list. 
+  SetKeyByAction Set the key by action. 
+  UpKeybindings Up keyboard key by keybindings. 
+
+See Also
+
+
+Keybindings Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

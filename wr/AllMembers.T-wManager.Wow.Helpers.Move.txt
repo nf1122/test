@@ -1,0 +1,24 @@
+WRobot
+
+Move Members
+The Move type exposes the following members.
+Methods
+
+
+  NameDescription
+  Backward Move backwards. 
+  Forward Move forward. 
+  JumpOrAscend Jump or ascend. 
+  SitStandOrDescend Sit or descend. 
+  StrafeLeft Strafe left. 
+  StrafeRight Strafe right. 
+  TurnLeft Turn left. 
+  TurnRight Turn right. 
+
+See Also
+
+
+Move Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

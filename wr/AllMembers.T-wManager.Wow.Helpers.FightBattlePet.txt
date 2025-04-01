@@ -1,0 +1,38 @@
+WRobot
+
+FightBattlePet Members
+The FightBattlePet type exposes the following members.
+Methods
+
+
+  NameDescription
+  StartFight()()()() Starts the fight. 
+  StartFight(UInt64) Starts the fight. 
+
+Fields
+
+
+  NameDescription
+  AbilitiesBlackListed The abilities black listed 
+  AutoChooseBestPet Automatic choose best pet in relation to the type of pet to fight 
+  AutoOrderPetByLevel Automatic order pets by level 
+  CaptureAllPets The capture all pets 
+  CaptureIDontHavePets Capture pet if I do not have it 
+  CaptureRarePets Capture rare pets 
+  LuaCode Lua code hook (Empty if no code is used, code is used before combat rotation) 
+  PetBattlesDontFight Starting pet battles but don't fight (if you use another addon for rotation) 
+
+Properties
+
+
+  NameDescription
+  FightClass Get or set the pet battles fight class file, empty if you want use default class (relative to the folder "WRobot\FightClass\Pet Battle\", value like "MyPetFightclass.cs" , you can found sample code in FightBattlePet..::..IFightClassPet description). 
+  FightClassPet Get or set the pet fight class (if no assigned use DefaultPetBattleFightClass). 
+
+See Also
+
+
+FightBattlePet Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

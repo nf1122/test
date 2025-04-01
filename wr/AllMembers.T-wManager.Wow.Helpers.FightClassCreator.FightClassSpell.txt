@@ -1,0 +1,63 @@
+WRobot
+
+FightClassSpell Members
+The FightClassSpell type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Fields
+
+
+  NameDescription
+ FightClassConditions The fight class conditions 
+
+Properties
+
+
+  NameDescription
+ AddToSettings Gets or sets a value indicating whether [add to settings]. 
+ AddToSettingsActiveByDefault Gets or sets a value indicating whether [add to settings active by default]. 
+ AddToSettingsName Gets or sets the name of the add to settings. 
+ AOESpell Gets or sets a value indicating whether [aoe spell]. 
+ AOESpellMePos Gets or sets a value indicating whether [aoe spell me position]. 
+ CanMoveDuringCast Gets or sets the can move during cast. 
+ CastIfDead Gets or sets a value indicating whether [cast if dead]. 
+ CastIfMounted Gets or sets a value indicating whether [cast if mounted]. 
+ CastOn Gets or sets the cast on. 
+ CastOnSelf Gets or sets a value indicating whether [cast on self]. 
+ CheckIfKnow Gets or sets a value indicating whether [check if know]. 
+ CheckIfSpellUsable Gets or sets a value indicating whether [check if spell usable]. 
+ CheckIfView Gets or sets a value indicating whether [check if view]. 
+ CheckSpellDistance Gets or sets a value indicating whether [check spell distance]. 
+ CombatOnly Gets or sets a value indicating whether [combat only]. 
+ Debug Gets or sets a value indicating whether this FightClassSpell is debug. 
+ DescriptionSpell Gets or sets the description spell. 
+ IsBuff Gets or sets a value indicating whether this instance is buff. 
+ LockFrame Gets or sets a value indicating whether [lock frame]. 
+ NotSpellIsCSharpCode Gets or sets a value indicating whether [not spell is c sharp code]. 
+ NotSpellIsItemId Gets or sets a value indicating whether [not spell is item identifier]. 
+ NotSpellIsLuaBotCode Gets or sets a value indicating whether [not spell is lua bot code]. 
+ NotSpellIsLuaScript Gets or sets a value indicating whether [not spell is lua script]. 
+ NotSpellIsVBCode Gets or sets a value indicating whether [not spell is vb code]. 
+ OncePerTarget Gets or sets a value indicating whether [once per target]. 
+ Priority Gets or sets the priority. 
+ SpellName Gets or sets the name of the spell. 
+ TargetFriends Gets or sets a value indicating whether [target friends]. 
+ Timer Gets or sets the timer. 
+ WaitDuringCasting Gets or sets a value indicating whether [wait during casting]. 
+
+See Also
+
+
+FightClassSpell Class 
+wManager.Wow.Helpers.FightClassCreator Namespace 
+Help File generated with GhostDoc
+ 

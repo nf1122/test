@@ -1,0 +1,35 @@
+WRobot
+
+MiniMapGenerator..::..LandmarksMiniMap Members
+The MiniMapGenerator..::..LandmarksMiniMap type exposes the following members.
+Methods
+
+
+  NameDescription
+ Add(MiniMapGenerator..::..LandmarkMiniMap) Adds the specified landmark. 
+ Add(List<(Of <<'(MiniMapGenerator..::..LandmarkMiniMap>)>>)) Adds the specified landmarks. 
+ Add(Vector3, String, Color, Single, String, Boolean, Single, Boolean) Adds the specified position. 
+ Clone Creates a new object that is a copy of the current instance. 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ Remove(String) Removes the specified Id. 
+ Remove(List<(Of <<'(String>)>>)) Removes specified Id. 
+ RemoveAll Removes all (clear). 
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ Landmarks Gets the landmarks. 
+
+See Also
+
+
+MiniMapGenerator..::..LandmarksMiniMap Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

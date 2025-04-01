@@ -1,0 +1,52 @@
+WRobot
+
+Npc Members
+The Npc type exposes the following members.
+Methods
+
+
+  NameDescription
+ BlackList Blacklist this npc temporarily. 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ IsBlackListedOrDisabled Determines whether is blacklisted or disabled. 
+ IsValid Returns true if is valid. 
+ MemberwiseClone (Inherited from Object.)
+ ScriptCanConditionExecute Test ScriptCanCondition returned value (return true if not script). 
+ ToString Returns a String that represents this instance. 
+
+Fields
+
+
+  NameDescription
+ Position The position 
+
+Properties
+
+
+  NameDescription
+ Active Gets or sets a value indicating whether this Npc can be used. 
+ CanFlyTo Gets or sets a value indicating if character can fly to. 
+ ContinentId Gets or sets the continent id. 
+ CurrentProfileNpc Gets or sets a value indicating if it is Npc of current product profile (for AcceptOnlyProfileNpc). 
+ Entry Gets or sets the entry id. 
+ Faction Gets or sets the faction. 
+ GossipOption Gets or sets the gossip option. 
+ Name Gets or sets the name (or description). 
+ PosX Gets or sets the position x. 
+ PosY Gets or sets the position y. 
+ PosZ Gets or sets the position z. 
+ Save Gets or sets a value indicating if save this Npc when bot save NpcDB (to be usable again after restart). 
+ ScriptCanCondition Script can condition (code like return wManager.Wow.ObjectManager.ObjectManager.Me.Level > 10;, default language is C#, start by lua: or luabot: or vb: to change script language). 
+ Type Gets or sets the type. 
+ VendorItemClass Gets or sets the vendor item class. 
+
+See Also
+
+
+Npc Class 
+wManager.Wow.Class Namespace 
+Help File generated with GhostDoc
+ 

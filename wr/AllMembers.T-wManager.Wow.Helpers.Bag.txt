@@ -1,0 +1,51 @@
+WRobot
+
+Bag Members
+The Bag type exposes the following members.
+Methods
+
+
+  NameDescription
+  BagCount Count number of bags equipped 
+  CloseAllBags Closes all bags. 
+ Equals(System.Object) (Inherited from Object.)
+  EquipAvailableBagIfFreeContainerSlot Equips the best available bag if free container slot. 
+ Finalize (Inherited from Object.)
+  ForceResetNumFreeSlotsCache Forces the reset cache of GetContainerNumFreeSlots and GetContainerNumFreeSlotsNormalType
+  GetBagItem Gets the bag item. 
+  GetContainerItemCooldown(Int32) Gets the container item cooldown. 
+  GetContainerItemCooldown(String) Gets the container item cooldown. 
+  GetContainerItemCooldown(List<(Of <<'(Int32>)>>)) Gets the container item cooldown. 
+  GetContainerItemCooldown(Int32, Int32) Gets the container item cooldown. 
+  GetContainerNumFreeSlotsByBagID(Int32) Get number of free slots by container id 
+  GetContainerNumFreeSlotsByBagID(Int32, BagType%) Get number of free slots and type by container id 
+  GetContainerNumFreeSlotsByType Get number of free slots by container type. 
+ GetHashCode (Inherited from Object.)
+  GetItemContainerBagIdAndSlot(Int32) Get container bag id and bag slot id which contains the chosen item 
+  GetItemContainerBagIdAndSlot(String) Get container bag id and bag slot id which contains the chosen item 
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+  OpenAllBags Opens all bags. 
+  PickupContainerItem(Int32) Pickups the container item. 
+  PickupContainerItem(String) Pickups the container item. 
+  PickupContainerItem(List<(Of <<'(Int32>)>>)) Pickups the container item. 
+  PickupContainerItem(Int32, Int32) Pickups the container item. 
+  PutSelectedItemInBag Puts the selected item in bag. 
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+  GetContainerNumFreeSlots Get containers number of free slots. 
+  GetContainerNumFreeSlotsHerbBags Get number of free slots on herb container type. 
+  GetContainerNumFreeSlotsMiningBags Get number of free slots on mining container type. 
+  GetContainerNumFreeSlotsNormalType Get number of free slots on normal container type. 
+
+See Also
+
+
+Bag Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

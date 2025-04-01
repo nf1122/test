@@ -1,0 +1,34 @@
+WRobot
+
+ToolboxWindow Members
+The ToolboxWindow type exposes the following members.
+Constructors
+
+
+  NameDescription
+ ToolboxWindow Initializes a new instance of the ToolboxWindow class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Fields
+
+
+  NameDescription
+  DbgOutputVarName The debug output variable name 
+
+See Also
+
+
+ToolboxWindow Class 
+wManager.Wow.Forms Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,25 @@
+WRobot
+
+Fishing Members
+The Fishing type exposes the following members.
+Methods
+
+
+  NameDescription
+  EquipFishingPoles Equip fishing poles. 
+  FindTheUltimatePoint Find a point around the fishing hole from where we can land to fish 
+  FishingPolesName Get name of first fishing pole 
+  IsEquipedFishingPoles Determines whether fishing pole is equipped 
+  LureName get first lure name 
+  SearchBobber Return a bobber WoWGameObject address. 
+  UseCustom Use custom item or spell. 
+  UseLure Use lure. 
+  UseTemporaryBait Use temporary bait. 
+
+See Also
+
+
+Fishing Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

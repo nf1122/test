@@ -1,0 +1,39 @@
+WRobot
+
+Digsite Members
+The Digsite type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ Id Identifiers this instance. 
+ IsValid Returns true if is valid. 
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ Active Gets or sets a value indicating whether this Digsite is active. 
+ ContinentId Continent id of the digsite. 
+ Name Digsite name. 
+ Position Digsite position. 
+ PositionX Digsite position x. 
+ PositionY Digsite position y. 
+ PositionZ Digsite position z. 
+ PriorityDigsites Gets or sets the priority the digsite. 
+ Px Lua X position. 
+ Py Lua Y position. 
+
+See Also
+
+
+Digsite Class 
+wManager.Wow.Class Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,30 @@
+WRobot
+
+UserControlTabGeneralSettings Members
+The UserControlTabGeneralSettings type exposes the following members.
+Constructors
+
+
+  NameDescription
+ UserControlTabGeneralSettings Initializes a new instance of the UserControlTabGeneralSettings class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ LoadGeneralSettings Loads the general settings. 
+ MemberwiseClone (Inherited from Object.)
+  ReloadGeneralSettings Reloads the general settings. 
+ ToString (Inherited from Object.)
+
+See Also
+
+
+UserControlTabGeneralSettings Class 
+wManager.Wow.Forms Namespace 
+Help File generated with GhostDoc
+ 

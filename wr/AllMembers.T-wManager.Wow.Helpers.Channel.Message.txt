@@ -1,0 +1,37 @@
+WRobot
+
+Channel..::..Message Members
+The Channel..::..Message type exposes the following members.
+Constructors
+
+
+  NameDescription
+ Channel..::..Message Initializes a new instance of the Channel..::..Message class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString Returns a String that represents this instance. 
+
+Fields
+
+
+  NameDescription
+ Channel The channel id 
+ DateTime The date time 
+ Msg The message 
+ UserName The user name 
+
+See Also
+
+
+Channel..::..Message Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

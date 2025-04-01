@@ -1,0 +1,57 @@
+WRobot
+
+QuestClass Members
+The QuestClass type exposes the following members.
+Methods
+
+
+  NameDescription
+ CanConditions Determines whether this can (by default this option return true, conditions can be added by override this method). 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ HasQuest Check if character have one of QuestId in his quest log. 
+ IsComplete Determines if quest objective is complete (Step and StepAutoDetect). 
+ IsCompleted Quest is completed (already turn in, or can't do (min/max level, required quest, character class)). 
+ IsCompleteObjectiveIndex Determines whether is complete objective by objective index 
+ MemberwiseClone (Inherited from Object.)
+ PickUp Go to NPC and Pick up quest. 
+ Pulse Pulse quest 
+ PulseAllInOne Pulses all in one (PickUp()()()(), Pulse()()()(), TurnIn()()()()). 
+ Reset Resets this instance (reset to default the progress). When you override this method don't forget to call method of super class. 
+ ToString (Inherited from Object.)
+ TurnIn Go to NPC and turn in quest. 
+ WhenLeaveStep Called one time when the quester product leave this step (with Pulse or PulseAllInOne action). 
+ WhenSelectStep Called one time when the quester product select this step (with Pulse or PulseAllInOne action). 
+
+Fields
+
+
+  NameDescription
+ MaxLevel The maximum level 
+ MinLevel The minimum level required 
+ Name The name 
+ PickUpQuestOnItem To pick up quest from item (PickUpQuestOnItemID). 
+ PickUpQuestOnItemID Pick up quest on item id (enable PickUpQuestOnItem). 
+ RequiredQuest The required completed quest id (to pickup and do this quest, 0 if no required quest) 
+ WoWClass To limit quest to one player class 
+
+Properties
+
+
+  NameDescription
+ GossipOptionItem Gets or sets the gossip option to use to select reward item. 
+ NpcPickUp Gets the NPC where pick up quest (search in NPCList). 
+ NpcTurnIn Gets the NPC to turn in quest (search in NPCList).. 
+ QuestId Gets or sets the quest IDs list. 
+ Step Gets or sets the quest objectives required count (example, if this quest need 5 kills for objective 3 use Step = new List<int> {0, 0, 5, 0, 0};. 
+ StepAutoDetect Gets or sets the quest objectives to auto detect if complete (example, if you want detect if the objective 4 is done StepAutoDetect = new List<bool> {false, false, false, true, false};. 
+
+See Also
+
+
+QuestClass Class 
+wManager.Wow.Class Namespace 
+Help File generated with GhostDoc
+ 

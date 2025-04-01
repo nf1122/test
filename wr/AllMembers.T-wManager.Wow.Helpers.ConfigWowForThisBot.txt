@@ -1,0 +1,18 @@
+WRobot
+
+ConfigWowForThisBot Members
+The ConfigWowForThisBot type exposes the following members.
+Methods
+
+
+  NameDescription
+  ConfigWow Config game for the bot (option like auto loot, ctm, auto cast in self, ...). 
+  ResetConfigWow Reset game config. 
+
+See Also
+
+
+ConfigWowForThisBot Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

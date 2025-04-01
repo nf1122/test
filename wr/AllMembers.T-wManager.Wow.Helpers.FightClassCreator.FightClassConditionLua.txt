@@ -1,0 +1,30 @@
+WRobot
+
+FightClassConditionLua Members
+The FightClassConditionLua type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ LuaScript Gets or sets the lua script. 
+ ValueRet Gets or sets the value ret. 
+ VarRet Gets or sets the variable ret. 
+
+See Also
+
+
+FightClassConditionLua Class 
+wManager.Wow.Helpers.FightClassCreator Namespace 
+Help File generated with GhostDoc
+ 

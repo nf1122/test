@@ -1,0 +1,32 @@
+WRobot
+
+FightBG Members
+The FightBG type exposes the following members.
+Methods
+
+
+  NameDescription
+  StartFight()()()() Starts the fight. 
+  StartFight(UInt64) Starts the fight. 
+  StopFight Stops the fight. 
+
+Fields
+
+
+  NameDescription
+  MoveDuringCombat Move the character during the fight (to appear more human) 
+
+Properties
+
+
+  NameDescription
+  CombatStartAtTime The combat start time (use CombatStartAtTime). 
+  CombatStartSince Get combat elapsed time (in milliseconds)(use CombatStartSince). 
+
+See Also
+
+
+FightBG Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,32 @@
+WRobot
+
+Archaeology Members
+The Archaeology type exposes the following members.
+Methods
+
+
+  NameDescription
+  DigsiteZoneIsAvailable Check if the digsite zone is available (active, works only on current continent). 
+  GetAllDigsitesZone Gets all digsites (list saved in the file "WRobot\Data\Digsites.xml") 
+  GetDigsitesZoneAvailable Gets the digsites zone available (active in game and in current continent). 
+  SolveAllArtifact Solves all artifact. 
+
+Fields
+
+
+  NameDescription
+  SurveyList The survey list (SurveyTool) 
+
+Properties
+
+
+  NameDescription
+  ArchaeologyItemsFindList List of gameobjects (entry id) to pick up 
+
+See Also
+
+
+Archaeology Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

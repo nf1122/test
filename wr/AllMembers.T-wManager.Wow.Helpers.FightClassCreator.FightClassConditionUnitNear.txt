@@ -1,0 +1,30 @@
+WRobot
+
+FightClassConditionUnitNear Members
+The FightClassConditionUnitNear type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ Number Gets or sets the number. 
+ Radius Gets or sets the radius. 
+ Type Gets or sets the type. 
+
+See Also
+
+
+FightClassConditionUnitNear Class 
+wManager.Wow.Helpers.FightClassCreator Namespace 
+Help File generated with GhostDoc
+ 

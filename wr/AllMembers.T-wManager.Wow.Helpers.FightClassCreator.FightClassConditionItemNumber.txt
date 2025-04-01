@@ -1,0 +1,30 @@
+WRobot
+
+FightClassConditionItemNumber Members
+The FightClassConditionItemNumber type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ Id Gets or sets the identifier. 
+ Number Gets or sets the number. 
+ Type Gets or sets the type. 
+
+See Also
+
+
+FightClassConditionItemNumber Class 
+wManager.Wow.Helpers.FightClassCreator Namespace 
+Help File generated with GhostDoc
+ 

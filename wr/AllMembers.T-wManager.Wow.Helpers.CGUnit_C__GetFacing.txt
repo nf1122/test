@@ -1,0 +1,17 @@
+WRobot
+
+CGUnit_C__GetFacing Members
+The CGUnit_C__GetFacing type exposes the following members.
+Methods
+
+
+  NameDescription
+  GetFacing Get the rotation. 
+
+See Also
+
+
+CGUnit_C__GetFacing Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,31 @@
+WRobot
+
+ICustomClass Members
+The ICustomClass type exposes the following members.
+Methods
+
+
+  NameDescription
+ Dispose Dispose (bot calls this method when he wants to dispose fightclass (generally when product is stopped or character level up)). 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ Initialize Initialize (bot creates new thread and calls this method, you need to keep this thread alive until the bot calls Dispose()()()()). 
+ MemberwiseClone (Inherited from Object.)
+ ShowConfiguration Show the configuration (called by the bot when user want configure fightclass, this method should display a configuration window). 
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ Range Get combat range (5 for melee classes, 25-35 for ranged classes). 
+
+See Also
+
+
+ICustomClass Interface 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,28 @@
+WRobot
+
+EventsLua Members
+The EventsLua type exposes the following members.
+Methods
+
+
+  NameDescription
+  AttachEventLua(String, EventsLua..::..MethodDelegate) Attach lua event (the bot automatically detaches when you stop the product). 
+  AttachEventLua(LuaEventsId, EventsLua..::..MethodDelegate) Attach lua event (the bot automatically detaches when you stop the product). 
+  DumpEventsId Dumps list (names and IDs) of game events. 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+  UsedCountById Count number of time that event was called. 
+  UsedCountByLuaEventsId Count number of time that event was called. 
+  UsedCountByStringId Count number of time that event was called. 
+
+See Also
+
+
+EventsLua Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

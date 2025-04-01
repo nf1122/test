@@ -1,0 +1,19 @@
+WRobot
+
+ClickOnTerrain Members
+The ClickOnTerrain type exposes the following members.
+Methods
+
+
+  NameDescription
+  Item Use item by ID and click on terrain. 
+  Pulse Click on specified position. 
+  Spell Cast spell by ID and click on terrain. 
+
+See Also
+
+
+ClickOnTerrain Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

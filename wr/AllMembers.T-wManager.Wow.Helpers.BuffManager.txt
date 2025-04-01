@@ -1,0 +1,28 @@
+WRobot
+
+BuffManager Members
+The BuffManager type exposes the following members.
+Methods
+
+
+  NameDescription
+  AuraStack Buff stack count. 
+  CastedBy Casted by (return Guid). 
+  CastedByAll Casted by all (return Guid). 
+  GetAura(UInt32, List<(Of <<'(UInt32>)>>)) Gets the aura by spell id. 
+  GetAura(UInt32, UInt32) Get the buff. 
+  GetAuras(UInt32) Gets the auras. 
+  GetAuras(UInt32, List<(Of <<'(UInt32>)>>)) Gets the auras by spell IDs. 
+  GetAuras(UInt32, UInt32) Get the buffs. 
+  HaveBuff(UInt32, List<(Of <<'(UInt32>)>>)) Have the buff. 
+  HaveBuff(UInt32, UInt32) Have the buff. 
+  HaveBuffLua Check if have buff with lua. 
+  TimeLeft Time left. 
+
+See Also
+
+
+BuffManager Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

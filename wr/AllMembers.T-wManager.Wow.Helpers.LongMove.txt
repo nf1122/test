@@ -1,0 +1,29 @@
+WRobot
+
+LongMove Members
+The LongMove type exposes the following members.
+Methods
+
+
+  NameDescription
+  DecollideFlightPath(Single, Single, Single, Single, Single, Single) Decollide the flight path (with TraceLine). 
+  DecollideFlightPath(Vector3, Single, Single, Single) Decollides the flight path (with TraceLine). 
+  DecollideFlightPath(Vector3, Vector3, Single, Single, Single) Decollides the flight path (with TraceLine). 
+  LongMoveByNewThread Pulse Long move in new thread (flying to specific destination when there are obstacles). 
+  LongMoveGo(Vector3, Double, Double) Pulse Long move (flying to specific destination when there are obstacles). 
+  LongMoveGo(Vector3) Pulse Long move (flying to specific destination when there are obstacles). 
+  StopLongMove Stop long move. 
+
+Properties
+
+
+  NameDescription
+  IsLongMove Get a value indicating whether character is in long move. 
+
+See Also
+
+
+LongMove Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

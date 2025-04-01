@@ -1,0 +1,47 @@
+WRobot
+
+Channel Members
+The Channel type exposes the following members.
+Constructors
+
+
+  NameDescription
+ Channel Initializes a new instance of the Channel class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ReadAllChannel Read all channel. 
+ ReadChannel Read specific channel. 
+ ReadGuildChannel Read the guild channel. 
+  ReadLastMsg Read last message. 
+ ReadMsg Read the message. 
+ ReadSayChannel Read the say channel. 
+ ReadWhisperChannel Read the whisper channel. 
+ ToString (Inherited from Object.)
+
+Fields
+
+
+  NameDescription
+ ActuelRead The actual index position of message to read 
+
+Properties
+
+
+  NameDescription
+  GetMsgActuelInWow The actual index position of message to read in game 
+
+See Also
+
+
+Channel Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

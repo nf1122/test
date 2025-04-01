@@ -1,0 +1,19 @@
+WRobot
+
+CVar Members
+The CVar type exposes the following members.
+Methods
+
+
+  NameDescription
+  GetCVar<(Of <<'(T>)>>) Get CVar value. 
+  RegisterCVar Register CVar. 
+  SetCVar Set the CVar value. 
+
+See Also
+
+
+CVar Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

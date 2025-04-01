@@ -1,0 +1,28 @@
+WRobot
+
+NpcDbWindow Members
+The NpcDbWindow type exposes the following members.
+Constructors
+
+
+  NameDescription
+ NpcDbWindow Initializes a new instance of the NpcDbWindow class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+See Also
+
+
+NpcDbWindow Class 
+wManager.Wow.Forms Namespace 
+Help File generated with GhostDoc
+ 

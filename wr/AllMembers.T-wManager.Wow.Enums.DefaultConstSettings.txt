@@ -1,0 +1,23 @@
+WRobot
+
+DefaultConstSettings Members
+The DefaultConstSettings type exposes the following members.
+Methods
+
+
+  NameDescription
+
+Fields
+
+
+  NameDescription
+  BlacklistTilePolyDefault The defaults pathfinder blacklisted spots (now server side) 
+  OffMeshConnectionsDefault The defaults pathfinder OffMeshConnections (now server side) 
+
+See Also
+
+
+DefaultConstSettings Class 
+wManager.Wow.Enums Namespace 
+Help File generated with GhostDoc
+ 

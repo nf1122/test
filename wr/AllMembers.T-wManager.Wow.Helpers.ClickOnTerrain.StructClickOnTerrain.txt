@@ -1,0 +1,32 @@
+WRobot
+
+ClickOnTerrain..::..StructClickOnTerrain Members
+The ClickOnTerrain..::..StructClickOnTerrain type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from ValueType.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from ValueType.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from ValueType.)
+
+Fields
+
+
+  NameDescription
+ Active active (put 1) 
+ Guid The GUID 
+ X The position x 
+ Y The position y 
+ Z The position z 
+
+See Also
+
+
+ClickOnTerrain..::..StructClickOnTerrain Structure 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,18 @@
+WRobot
+
+Milling Members
+The Milling type exposes the following members.
+Methods
+
+
+  NameDescription
+  NeedRun Needs the run. 
+  Pulse Pulses the specified items. 
+
+See Also
+
+
+Milling Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

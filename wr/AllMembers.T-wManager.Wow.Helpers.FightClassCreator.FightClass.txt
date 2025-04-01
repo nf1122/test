@@ -1,0 +1,30 @@
+WRobot
+
+FightClass Members
+The FightClass type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+  LoadFightClass Loads the fight class. 
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Fields
+
+
+  NameDescription
+ FightClassGeneralSettings The fight class general settings 
+ FightClassSpells The fight class spells 
+
+See Also
+
+
+FightClass Class 
+wManager.Wow.Helpers.FightClassCreator Namespace 
+Help File generated with GhostDoc
+ 

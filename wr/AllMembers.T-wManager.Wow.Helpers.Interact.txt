@@ -1,0 +1,36 @@
+WRobot
+
+Interact Members
+The Interact type exposes the following members.
+Methods
+
+
+  NameDescription
+  ClearTarget Clear target. 
+  InteractGameObject(UInt32, Boolean, Boolean) Interacts with WoWUnit, WoWPlayer or WoWGameObject
+  InteractGameObject(UInt32, Boolean, Boolean, Boolean) Interacts with WoWUnit, WoWPlayer or WoWGameObject
+  Repop Releases your ghost to the graveyard. 
+  RetrieveCorpse Resurrects when the player is standing near its corpse. 
+  SpiritHealerAccept Accept Spirits healer. 
+  TeleportToSpiritHealer Obsolete. 
+Teleports to spirit healer. 
+
+Fields
+
+
+  NameDescription
+  IncorrectCheckIfGoodMouseShortcuts Number of time that IsGoodMouseShortcuts return false. 
+
+Properties
+
+
+  NameDescription
+  IsGoodMouseShortcuts You can found description here: MaxCheckIfGoodMouseShortcutsWhenInteract
+
+See Also
+
+
+Interact Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

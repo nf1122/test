@@ -1,0 +1,41 @@
+WRobot
+
+DBC<(Of <(<'T>)>)> Members
+The DBC<(Of <(<'T>)>)> type exposes the following members.
+Constructors
+
+
+  NameDescription
+ DBC<(Of <(<'T>)>)> Initializes a new instance of DBC class using specified memory address 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetRow Returns a specific row from DBC by it's index 
+ GetRowByIndex 
+ GetType (Inherited from Object.)
+ HasRow 
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ Item 
+ MaxIndex 
+ MinIndex 
+ NumRows 
+ Rows 
+
+See Also
+
+
+DBC<(Of <(<'T>)>)> Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

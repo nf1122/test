@@ -1,0 +1,34 @@
+WRobot
+
+SpellInfo Members
+The SpellInfo type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Fields
+
+
+  NameDescription
+ CastTime The cast time 
+ Icon The icon 
+ ID The spell id 
+ MaxRange The maximum range 
+ MinRange The minimum range 
+ Name The name in game 
+ SubName The sub name in game 
+
+See Also
+
+
+SpellInfo Class 
+wManager.Wow.Class Namespace 
+Help File generated with GhostDoc
+ 

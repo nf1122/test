@@ -1,0 +1,29 @@
+WRobot
+
+FightClassConditionStringBool Members
+The FightClassConditionStringBool type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ Name Gets or sets the name. 
+ Need Gets or sets a value indicating whether this FightClassConditionStringBool is need. 
+
+See Also
+
+
+FightClassConditionStringBool Class 
+wManager.Wow.Helpers.FightClassCreator Namespace 
+Help File generated with GhostDoc
+ 

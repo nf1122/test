@@ -1,0 +1,38 @@
+WRobot
+
+QuestsSorted Members
+The QuestsSorted type exposes the following members.
+Constructors
+
+
+  NameDescription
+ QuestsSorted Initializes a new instance of the QuestsSorted class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ NeedToRun Needs to run. 
+ Run Runs this instance. 
+ ToString Returns a String that represents this instance. 
+
+Properties
+
+
+  NameDescription
+ Action Step action. 
+ NameClass Step action setting. 
+ QuestClassInstance Get the quest class instance (Get instance in QuestsClasses, key is NameClass). 
+
+See Also
+
+
+QuestsSorted Class 
+wManager.Wow.Class Namespace 
+Help File generated with GhostDoc
+ 

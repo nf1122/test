@@ -1,0 +1,39 @@
+WRobot
+
+Lua..::..WowLuaClass Members
+The Lua..::..WowLuaClass type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetDynamicMemberNames (Inherited from DynamicObject.)
+ GetHashCode (Inherited from Object.)
+ GetMetaObject(System.Linq.Expressions.Expression) (Inherited from DynamicObject.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+ TryBinaryOperation(System.Dynamic.BinaryOperationBinder,System.Object,System.Object@) (Inherited from DynamicObject.)
+ TryConvert(System.Dynamic.ConvertBinder,System.Object@) (Inherited from DynamicObject.)
+ TryCreateInstance(System.Dynamic.CreateInstanceBinder,System.Object[],System.Object@) (Inherited from DynamicObject.)
+ TryDeleteIndex(System.Dynamic.DeleteIndexBinder,System.Object[]) (Inherited from DynamicObject.)
+ TryDeleteMember(System.Dynamic.DeleteMemberBinder) (Inherited from DynamicObject.)
+ TryGetIndex(System.Dynamic.GetIndexBinder,System.Object[],System.Object@) (Inherited from DynamicObject.)
+ TryGetMember(GetMemberBinder, Object%) Tries the get member. 
+ TryGetMember(System.Dynamic.GetMemberBinder,System.Object@) (Inherited from DynamicObject.)
+ TryInvoke(System.Dynamic.InvokeBinder,System.Object[],System.Object@) (Inherited from DynamicObject.)
+ TryInvokeMember(InvokeMemberBinder, array<Object>[]()[][], Object%) Tries the invoke member. 
+ TryInvokeMember(System.Dynamic.InvokeMemberBinder,System.Object[],System.Object@) (Inherited from DynamicObject.)
+ TrySetIndex(System.Dynamic.SetIndexBinder,System.Object[],System.Object) (Inherited from DynamicObject.)
+ TrySetMember(SetMemberBinder, Object) Tries the set member. 
+ TrySetMember(System.Dynamic.SetMemberBinder,System.Object) (Inherited from DynamicObject.)
+ TryUnaryOperation(System.Dynamic.UnaryOperationBinder,System.Object@) (Inherited from DynamicObject.)
+
+See Also
+
+
+Lua..::..WowLuaClass Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

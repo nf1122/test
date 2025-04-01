@@ -1,0 +1,29 @@
+WRobot
+
+CustomClass Members
+The CustomClass type exposes the following members.
+Methods
+
+
+  NameDescription
+  DisposeCustomClass Dispose the fightclass (call Dispose()()()()). 
+  LoadCustomClass()()()() Load fightclass (from CustomClass). 
+  LoadCustomClass(String, Boolean) Load fightclass. 
+  ResetCustomClass Reset the fightclass (call DisposeCustomClass()()()() and LoadCustomClass()()()()). 
+  ShowConfigurationCustomClass Show fightclass configuration (ShowConfiguration()()()()). 
+
+Properties
+
+
+  NameDescription
+  CustomClassThread Get the fightclass thread. 
+  GetRange Get combat range (5 for melee classes, 25-35 for ranged classes). 
+  IsAliveCustomClass Get a value indicating whether the fightclass is loaded. 
+
+See Also
+
+
+CustomClass Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

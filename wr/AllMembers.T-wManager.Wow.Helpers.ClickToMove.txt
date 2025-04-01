@@ -1,0 +1,26 @@
+WRobot
+
+ClickToMove Members
+The ClickToMove type exposes the following members.
+Methods
+
+
+  NameDescription
+  CGPlayer_C__ClickToMove Call click to move (move to specific position or face target/position). 
+  GetClickToMovePosition Gets the click to move position. 
+  GetClickToMoveTypePush Gets the click to move push type. 
+
+Properties
+
+
+  NameDescription
+  InMove Gets a value indicating whether CTM is in move. 
+  IsIdle Gets a value indicating whether CTM is idle. 
+
+See Also
+
+
+ClickToMove Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

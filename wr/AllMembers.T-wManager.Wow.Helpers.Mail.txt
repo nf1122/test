@@ -1,0 +1,21 @@
+WRobot
+
+Mail Members
+The Mail type exposes the following members.
+Methods
+
+
+  NameDescription
+  CloseMailFrame Close the mail frame. 
+  GetNumAttachments Get the number of items attachments (on current mail). 
+  MailFrameIsShown Mail frame is shown. 
+  OpenAllAttachments Open all attachments (of all mailbox messages, you need to open mailbox before). 
+  SendMessage Send message with items. 
+
+See Also
+
+
+Mail Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

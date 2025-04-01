@@ -1,0 +1,32 @@
+WRobot
+
+Battleground Members
+The Battleground type exposes the following members.
+Methods
+
+
+  NameDescription
+  AcceptBattlefieldPort Confirms entry into a Battleground you are queued for that is ready. 
+  AcceptBattlefieldPortAll Accept all AcceptBattlefieldPort(Int32, Boolean) index. 
+  BattlefieldStatusQueued Status of battleground queue (value can change on several game version, but example 0 generally means that the bot is not in the queue and not in battleground). 
+  BattlegroundIsStarted Battleground is started. 
+ Equals(System.Object) (Inherited from Object.)
+  ExitBattleGround Leaves the current battlefield. 
+ Finalize (Inherited from Object.)
+  GetCurrentBattleground Get the current battleground ID. 
+ GetHashCode (Inherited from Object.)
+  GetNumberActiveQueue Gets the number active battleground queue. 
+ GetType (Inherited from Object.)
+  IsFinishBattleGround Determines whether battleground is finish. 
+  IsInBattleground Determine whether is in battleground. 
+  JointBattleGroundQueue Queues the player, or the player's group, for a battlefield instance. 
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+See Also
+
+
+Battleground Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

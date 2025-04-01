@@ -1,0 +1,37 @@
+WRobot
+
+Conditions Members
+The Conditions type exposes the following members.
+Methods
+
+
+  NameDescription
+
+Fields
+
+
+  NameDescription
+  ForceIgnoreIsAttacked Force to ignore all attack (if enabled, force IsAttackedAndCannotIgnore to return false) 
+
+Properties
+
+
+  NameDescription
+  InGameAndConnected Get a value indicating whether in game and connected. 
+  InGameAndConnectedAndAlive Get a value indicating whether connected in game and alive. 
+  InGameAndConnectedAndAliveAndProductStarted Get a value indicating whether connected in game, alive and product is started. 
+  InGameAndConnectedAndAliveAndProductStartedNotInPause Get a value indicating whether connected in game, alive, product is started and not in pause. 
+  InGameAndConnectedAndProductStarted Get a value indicating whether connected in game, product is started. 
+  InGameAndConnectedAndProductStartedNotInPause Get a value indicating whether connected in game, product is started and not in pause]. 
+  IsAttackedAndCannotIgnore Get a value indicating whether the character is attacked and can't ignore. The result is based on the bot configurations, not on what happens in the game (the character can be attacked but returned false depending on the options). To force to return false use ForceIgnoreIsAttacked. 
+  ProductInPause Get a value indicating whether product is in pause. 
+  ProductIsStarted Get a value indicating whether product is started. 
+  ProductIsStartedNotInPause Get a value indicating whether product is started and not in pause. 
+
+See Also
+
+
+Conditions Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

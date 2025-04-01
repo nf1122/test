@@ -1,0 +1,40 @@
+WRobot
+
+EntryIndexQuest Members
+The EntryIndexQuest type exposes the following members.
+Constructors
+
+
+  NameDescription
+ EntryIndexQuest()()()() Initializes a new instance of the EntryIndexQuest class. 
+ EntryIndexQuest(Int32, Int32, Int32, Int32, Boolean, String) Initializes a new instance of the EntryIndexQuest class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ Description Gets or sets the description. 
+ Entry Gets or sets the entry id. 
+ Index Gets or sets the objective index. 
+ ObjectiveRequiredAutoDetectCount Gets or sets a value indicating if automatically detect count objective. 
+ ObjectiveRequiredCount Gets or sets the objective required count. 
+ QuestId Gets or sets the quest id. 
+
+See Also
+
+
+EntryIndexQuest Class 
+wManager.Wow.Class Namespace 
+Help File generated with GhostDoc
+ 

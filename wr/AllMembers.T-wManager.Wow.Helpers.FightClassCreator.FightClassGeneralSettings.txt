@@ -1,0 +1,34 @@
+WRobot
+
+FightClassGeneralSettings Members
+The FightClassGeneralSettings type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ AdditionalCode Gets or sets the additional code. 
+ FightClassName Gets or sets the name of the fight class. 
+ FramePerSecond Gets or sets the frame per second. 
+ Pet Gets or sets a value indicating whether this FightClassGeneralSettings is pet. 
+ PetCallSpellName Gets or sets the name of the pet call spell. 
+ PetReviveSpellName Gets or sets the name of the pet revive spell. 
+ Range Gets or sets the range. 
+
+See Also
+
+
+FightClassGeneralSettings Class 
+wManager.Wow.Helpers.FightClassCreator Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,45 @@
+WRobot
+
+ItemInfo Members
+The ItemInfo type exposes the following members.
+Constructors
+
+
+  NameDescription
+ ItemInfo(Int32) Initializes a new instance of the ItemInfo class. 
+ ItemInfo(String) Initializes a new instance of the ItemInfo class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ ItemEquipLoc The inventory equipment location in which the item may be equipped, or "" if it cannot be equipped. 
+ ItemLevel The base item level, not including upgrades 
+ ItemLink The localized lua link of the item. 
+ ItemMinLevel The minimum level required to use the item 
+ ItemName Gets the name of the item. 
+ ItemRarity The quality of the item, WoWItemQuality
+ ItemSellPrice The vendor price in copper, or 0 for items that cannot be sold. 
+ ItemStackCount The max amount of an item per stack, e.g. 200 for Runecloth. 
+ ItemSubType The localized sub-type name of the item: Bows, Guns, Staves, etc. https://wow.gamepedia.com/ItemType 
+ ItemTexture The texture for the item icon. 
+ ItemType The localized type name of the item: Armor, Weapon, Quest, etc. https://wow.gamepedia.com/ItemType 
+
+See Also
+
+
+ItemInfo Class 
+wManager.Wow.Class Namespace 
+Help File generated with GhostDoc
+ 

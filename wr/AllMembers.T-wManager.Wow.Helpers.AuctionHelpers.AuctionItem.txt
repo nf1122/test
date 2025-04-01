@@ -1,0 +1,45 @@
+WRobot
+
+AuctionHelpers..::..AuctionItem Members
+The AuctionHelpers..::..AuctionItem type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ IsValid Returns true if ... is valid. 
+ MemberwiseClone (Inherited from Object.)
+  Parse Parses the specified lua export. 
+ ToString (Inherited from Object.)
+
+Fields
+
+
+  NameDescription
+ BuyoutPrice The buyout price 
+ Count The count 
+ IAmHighBidder The i am high bidder 
+ Id The identifier 
+ IsSold The is sold 
+ ItemId The item id 
+ Name The name 
+ OwnerName The owner name 
+
+Properties
+
+
+  NameDescription
+ BidPrice Gets the bid price. 
+ BidPricePerUnit Gets the bid price per unit. 
+ BuyoutPricePerUnit Gets the buyout price per unit. 
+
+See Also
+
+
+AuctionHelpers..::..AuctionItem Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

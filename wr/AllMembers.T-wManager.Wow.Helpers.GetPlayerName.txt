@@ -1,0 +1,17 @@
+WRobot
+
+GetPlayerName Members
+The GetPlayerName type exposes the following members.
+Methods
+
+
+  NameDescription
+  GetName Gets the name. 
+
+See Also
+
+
+GetPlayerName Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

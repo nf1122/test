@@ -1,0 +1,71 @@
+WRobot
+
+QuestGrinderGathererClass Members
+The QuestGrinderGathererClass type exposes the following members.
+Methods
+
+
+  NameDescription
+ CanConditions Determines whether this can (by default this option return true, conditions can be added by override this method). 
+(Inherited from QuestClass.)
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ HasQuest Check if character have one of QuestId in his quest log, if you use option IsGrinderNotQuest this method check min/max level. 
+ IsComplete Determines if quest objective is complete (Step and StepAutoDetect), if you use option IsGrinderNotQuest this method check min/max level. 
+ IsCompleted Quest is completed (already turn in, or can't do (min/max level, required quest, character class)). 
+(Inherited from QuestClass.)
+ IsCompleteObjectiveIndex Determines whether is complete objective by objective index 
+(Inherited from QuestClass.)
+ MemberwiseClone (Inherited from Object.)
+ PickUp Go to NPC and Pick up quest. 
+(Inherited from QuestClass.)
+ Pulse Pulse quest 
+ PulseAllInOne Pulses all in one (PickUp()()()(), Pulse()()()(), TurnIn()()()()). 
+(Inherited from QuestClass.)
+ Reset Resets this instance (reset to default the progress). When you override this method don't forget to call method of super class. 
+ ToString (Inherited from Object.)
+ TurnIn Go to NPC and turn in quest. 
+(Inherited from QuestClass.)
+ WhenLeaveStep Called one time when the quester product leave this step (with Pulse or PulseAllInOne action). 
+(Inherited from QuestClass.)
+ WhenSelectStep Called one time when the quester product select this step (with Pulse or PulseAllInOne action). 
+(Inherited from QuestClass.)
+
+Fields
+
+
+  NameDescription
+ EntryGathererTarget The Entry of objects to harvests. 
+ EntryGrinderTarget The Entry of mobs to kills. 
+ HotSpots The hotspots (positions to explore, bot will generate paths between your the hotspots) 
+ IsGrinderNotQuest Enable this option if you don't need quest to run this quest (in this case don't forget to assigns MinLevel and MaxLevel). 
+ IsHotspots It is hotspots (if disabled, bot won't generate paths between your HotSpots). 
+ RandomizePositions Randomize positions (if enabled, bot will go to random positions, don't forget to setting RandomizePositionsRadius). 
+ RandomizePositionsRadius Maximum distance from position (HotSpots) to randomized position (don't forget to activate option RandomizePositions).. 
+
+Properties
+
+
+  NameDescription
+ GossipOptionItem Gets or sets the gossip option to use to select reward item. 
+(Inherited from QuestClass.)
+ NpcPickUp Gets the NPC where pick up quest (search in NPCList). 
+(Inherited from QuestClass.)
+ NpcTurnIn Gets the NPC to turn in quest (search in NPCList).. 
+(Inherited from QuestClass.)
+ QuestId Gets or sets the quest IDs list. 
+(Inherited from QuestClass.)
+ Step Gets or sets the quest objectives required count (example, if this quest need 5 kills for objective 3 use Step = new List<int> {0, 0, 5, 0, 0};. 
+(Inherited from QuestClass.)
+ StepAutoDetect Gets or sets the quest objectives to auto detect if complete (example, if you want detect if the objective 4 is done StepAutoDetect = new List<bool> {false, false, false, true, false};. 
+(Inherited from QuestClass.)
+
+See Also
+
+
+QuestGrinderGathererClass Class 
+wManager.Wow.Class Namespace 
+Help File generated with GhostDoc
+ 

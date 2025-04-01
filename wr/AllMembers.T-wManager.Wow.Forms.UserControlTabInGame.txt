@@ -1,0 +1,34 @@
+WRobot
+
+UserControlTabInGame Members
+The UserControlTabInGame type exposes the following members.
+Constructors
+
+
+  NameDescription
+ UserControlTabInGame Initializes a new instance of the UserControlTabInGame class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Fields
+
+
+  NameDescription
+ NotifyIconText The notify icon text 
+
+See Also
+
+
+UserControlTabInGame Class 
+wManager.Wow.Forms Namespace 
+Help File generated with GhostDoc
+ 

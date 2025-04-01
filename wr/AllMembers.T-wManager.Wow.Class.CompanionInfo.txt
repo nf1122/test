@@ -1,0 +1,38 @@
+WRobot
+
+CompanionInfo Members
+The CompanionInfo type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Fields
+
+
+  NameDescription
+ CreatureID The creature id 
+ CreatureName The creature name 
+ Icon The icon 
+ MountFlags The mount flags 
+ SpellID The creature spell id 
+
+Properties
+
+
+  NameDescription
+ Spell Gets creature spell. 
+
+See Also
+
+
+CompanionInfo Class 
+wManager.Wow.Class Namespace 
+Help File generated with GhostDoc
+ 
