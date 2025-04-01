@@ -1,0 +1,27 @@
+WRobot
+
+wManagerSetting..::..IgnoredNerbyPlayerClass Class
+Class IgnoredNerbyPlayerClass ([IgnoredNerbyPlayer]). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class IgnoredNerbyPlayerClass<SerializableAttribute> _
+Public Class IgnoredNerbyPlayerClass[SerializableAttribute]
+public ref class IgnoredNerbyPlayerClass
+Inheritance Hierarchy
+
+
+Object
+  wManager..::..wManagerSetting..::..IgnoredNerbyPlayerClass
+
+See Also
+
+
+wManagerSetting..::..IgnoredNerbyPlayerClass Members
+wManager Namespace
+Help File generated with GhostDoc
+ 

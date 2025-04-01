@@ -1,0 +1,91 @@
+WRobot
+
+Settings Class
+Class Settings. Used by bot to manage settings files. 
+Examples
+
+
+C#
+using System;
+using System.IO;
+using robotManager.Helpful;
+using wManager.Wow.Helpers;
+using wManager.Wow.ObjectManager;
+
+[Serializable]
+public class TestSetting : Settings
+{
+    public static TestSetting CurrentSetting { get; set; }
+
+    private static string FilePath
+    {
+        get
+        {
+            // return path like "C:\WRobot\Settings\Test-NAME.REALMNAME.xml"
+            return AdviserFilePathAndName("Test", ObjectManager.Me.Name + "." + Usefuls.RealmName);
+        }
+    }
+
+    private TestSetting()
+    {
+        TestValue1 = true;
+        TestValue2 = "test text";
+    }
+
+    public bool Save()
+    {
+        try
+        {
+            return Save(FilePath);
+        }
+        catch (Exception e)
+        {
+            Logging.WriteError("TestSetting > Save(): " + e);
+            return false;
+        }
+    }
+
+    public static bool Load()
+    {
+        try
+        {
+            if (File.Exists(FilePath))
+            {
+                CurrentSetting = Load<TestSetting>(FilePath);
+                return true;
+            }
+            CurrentSetting = new TestSetting();
+        }
+        catch (Exception e)
+        {
+            Logging.WriteError("TestSetting > Load(): " + e);
+        }
+        return false;
+    }
+
+    public bool TestValue1 { get; set; }
+
+    public string TestValue2  { get; set; }
+}Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public abstract class Settings<SerializableAttribute> _
+Public MustInherit Class Settings[SerializableAttribute]
+public ref class Settings abstract
+Inheritance Hierarchy
+
+
+Object
+  robotManager.Helpful..::..Settings
+
+See Also
+
+
+Settings Members
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

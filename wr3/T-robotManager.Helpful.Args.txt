@@ -1,0 +1,27 @@
+WRobot
+
+Args Class
+Class Args. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class Args<SerializableAttribute> _
+Public Class Args[SerializableAttribute]
+public ref class Args
+Inheritance Hierarchy
+
+
+Object
+  robotManager.Helpful..::..Args
+
+See Also
+
+
+Args Members
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

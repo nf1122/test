@@ -1,0 +1,27 @@
+WRobot
+
+LanguageExport Class
+Class LanguageExport. 
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class LanguageExport<SerializableAttribute> _
+Public Class LanguageExport[SerializableAttribute]
+public ref class LanguageExport
+Inheritance Hierarchy
+
+
+Object
+  robotManager..::..LanguageExport
+
+See Also
+
+
+LanguageExport Members
+robotManager Namespace
+Help File generated with GhostDoc
+ 

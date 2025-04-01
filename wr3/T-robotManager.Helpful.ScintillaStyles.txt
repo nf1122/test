@@ -1,0 +1,24 @@
+WRobot
+
+ScintillaStyles Class
+Class ScintillaStyles. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static class ScintillaStylesPublic NotInheritable Class ScintillaStylespublic ref class ScintillaStyles abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  robotManager.Helpful..::..ScintillaStyles
+
+See Also
+
+
+ScintillaStyles Members
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

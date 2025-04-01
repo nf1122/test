@@ -1,0 +1,80 @@
+WRobot
+
+IProduct Interface
+Product interface. If you want create your own product you need to compile your code to .dll file and move dll to folder "WRobot\Products\". To be compatible you need to implement this interface on class named "Main" without namespace. 
+Examples
+
+
+C#
+using System.Threading;
+using robotManager.Helpful;
+using robotManager.Products;
+using UserControl = System.Windows.Controls.UserControl;
+
+public class Main : IProduct
+{
+    public void Initialize()
+    {
+        _isStarted = false;
+        Logging.Status = "Initialized";
+        Logging.Write("Initialized");
+    }
+
+    public void Dispose()
+    {
+        Stop();
+        Logging.Status = "Disposed";
+        Logging.Write("Disposed");
+    }
+
+    public void Start()
+    {
+         _isStarted = true;
+        Logging.Status = "Started";
+        Logging.Write("Started");
+
+        while (IsStarted)
+        {
+            if (!Products.InPause)
+            {
+                 Logging.Status = "Running";
+                Logging.Write("Running");
+                Thread.Sleep(1000);
+            }
+        }
+    }
+
+    public void Stop()
+    {
+        _isStarted = false;
+        Logging.Status = "Stopped";
+        Logging.Write("Stopped");
+    }
+
+    public UserControl Settings
+    {
+        get
+        {
+            return new UserControl();
+        }
+    }
+
+    public bool IsStarted
+    {
+        get { return _isStarted; }
+    }
+    private bool _isStarted;
+}Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public interface IProductPublic Interface IProductpublic interface class IProduct
+See Also
+
+
+IProduct Members
+robotManager.Products Namespace
+Help File generated with GhostDoc
+ 

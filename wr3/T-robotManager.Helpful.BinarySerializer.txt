@@ -1,0 +1,24 @@
+WRobot
+
+BinarySerializer Class
+BinarySerializer. Save/Load binary file. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static class BinarySerializerPublic NotInheritable Class BinarySerializerpublic ref class BinarySerializer abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  robotManager.Helpful..::..BinarySerializer
+
+See Also
+
+
+BinarySerializer Members
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

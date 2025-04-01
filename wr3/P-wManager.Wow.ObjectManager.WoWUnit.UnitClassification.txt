@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..UnitClassification Property 
+Gets the unit classification. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public UnitClassification UnitClassification { get; }Public ReadOnly Property UnitClassification As UnitClassification
+	Getpublic:
+property UnitClassification^ UnitClassification {
+	UnitClassification^ get ();
+}Field Value
+The unit classification.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

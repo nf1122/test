@@ -1,0 +1,32 @@
+WRobot
+
+Logging..::..LogType Enumeration
+LogType 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+[FlagsAttribute]
+public enum LogType<FlagsAttribute> _
+Public Enumeration LogType[FlagsAttribute]
+public enum class LogType
+Members
+
+
+Member nameDescription
+None
+Normal
+Debug
+Error
+Navigator
+Fight
+FileOnly
+
+See Also
+
+
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

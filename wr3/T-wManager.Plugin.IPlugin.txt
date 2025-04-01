@@ -1,0 +1,88 @@
+WRobot
+
+IPlugin Interface
+Plugin interface, implement IPlugin to create your plugin.
+You can use .cs (for C#), .vb (for Visual Basic.net) or .dll file (you can also use .lua if you want use lua code with LuaBot, but you don't need to implement this interface), you need to save plugin in the folder "WRobot\Plugins\" (and restart bot to appear in plugins tab).
+Namespace:  wManager.Plugin
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public interface IPluginPublic Interface IPluginpublic interface class IPlugin
+Remarks
+
+
+You need to use class name "main" without namespace for that WRobot found your class.
+Examples
+
+
+
+
+C#
+using System;
+   using System.ComponentModel;
+   using System.Threading;
+   using System.Windows.Forms;
+   using robotManager.Helpful;
+   using robotManager.Products;
+   using wManager.Wow.Helpers;
+   using wManager.Wow.ObjectManager;
+
+   // You need to name class "Main" and you can't use namespace
+   public class Main : wManager.Plugin.IPlugin
+   {
+       private bool _isLaunched;
+
+       // Called when plugin loaded.
+       public void Initialize()
+       {
+           Logging.Write("[IgnoreAllCombat] Starting.");
+
+           _isLaunched = true;
+
+           // Init events (the bot events are automatically cleaned when the product is stopped):
+           wManager.Events.FightEvents.OnFightStart += delegate (WoWUnit unit, CancelEventArgs cancelable)
+           {
+               cancelable.Cancel = true;
+               if (unit.IsValid)
+                   ObjectManager.BlackListGetUnitAttackPlayerGuidTime.Add(unit.Guid, DateTime.Now + TimeSpan.FromMinutes(10));
+           };
+
+           // If you need to watch something else:
+           while (_isLaunched && Products.IsStarted)
+           {
+               try
+               {
+                   if (Conditions.InGameAndConnectedAndAliveAndProductStartedNotInPause)
+                   {
+                       // My code here
+                   }
+               }
+               catch (Exception e)
+               {
+                   Logging.WriteError("[IgnoreAllCombat] " + e);
+               }
+               Thread.Sleep(50);
+           }
+       }
+
+       // Called when plugin disposed.
+       public void Dispose()
+       {
+           _isLaunched = false;
+           Logging.Write("[IgnoreAllCombat] Disposed.");
+       }
+
+       // Called when user click on plugin settings button.
+       public void Settings()
+       {
+           MessageBox.Show("[IgnoreAllCombat] No settings for this plugin.");
+       }
+   }See Also
+
+
+IPlugin Members
+wManager.Plugin Namespace
+Help File generated with GhostDoc
+ 

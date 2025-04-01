@@ -1,0 +1,27 @@
+WRobot
+
+Products..::..IsAliveProductChangeEventArgs Class
+Class IsAliveProductChangeEventArgs. Implements the EventArgs
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public class IsAliveProductChangeEventArgs : EventArgsPublic Class IsAliveProductChangeEventArgs _
+	Inherits EventArgspublic ref class IsAliveProductChangeEventArgs : public EventArgs
+Inheritance Hierarchy
+
+
+Object
+  EventArgs
+    robotManager.Products..::..Products..::..IsAliveProductChangeEventArgs
+
+See Also
+
+
+Products..::..IsAliveProductChangeEventArgs Members
+robotManager.Products Namespace
+EventArgs
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..WowClass Property 
+Gets the wow class. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public WoWClass WowClass { get; }Public ReadOnly Property WowClass As WoWClass
+	Getpublic:
+property WoWClass^ WowClass {
+	WoWClass^ get ();
+}Field Value
+The wow class.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

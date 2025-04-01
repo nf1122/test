@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..Rooted Property 
+Gets a value indicating whether is rooted. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool Rooted { get; }Public ReadOnly Property Rooted As Boolean
+	Getpublic:
+property bool^ Rooted {
+	bool^ get ();
+}Field Value
+true if rooted; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

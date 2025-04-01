@@ -1,0 +1,24 @@
+WRobot
+
+Statistics Class
+Class Statistics (show tab "In Game"). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class StatisticsPublic NotInheritable Class Statisticspublic ref class Statistics abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager..::..Statistics
+
+See Also
+
+
+Statistics Members
+wManager Namespace
+Help File generated with GhostDoc
+ 

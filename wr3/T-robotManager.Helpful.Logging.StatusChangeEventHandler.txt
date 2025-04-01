@@ -1,0 +1,32 @@
+WRobot
+
+Logging..::..StatusChangeEventHandler Delegate
+Delegate StatusChangeEventHandler 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public delegate void StatusChangeEventHandler(
+	Object sender,
+	Logging..::..StatusChangeEventArgs e
+)Public Delegate Sub StatusChangeEventHandler ( _
+	sender As Object, _
+	e As Logging..::..StatusChangeEventArgs _
+)public delegate void StatusChangeEventHandler(
+	Object^ sender, 
+	Logging..::..StatusChangeEventArgs^ e
+)Parameters
+sender
+Type: Object
+The sender.
+e
+Type: robotManager.Helpful..::..Logging..::..StatusChangeEventArgs
+The Logging..::..StatusChangeEventArgs instance containing the event data.
+See Also
+
+
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

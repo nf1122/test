@@ -1,0 +1,24 @@
+WRobot
+
+GraphicsExtensions Class
+Class GraphicsExtensions. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static class GraphicsExtensionsPublic NotInheritable Class GraphicsExtensionspublic ref class GraphicsExtensions abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  robotManager.Helpful..::..GraphicsExtensions
+
+See Also
+
+
+GraphicsExtensions Members
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

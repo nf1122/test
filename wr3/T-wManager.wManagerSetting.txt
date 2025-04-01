@@ -1,0 +1,32 @@
+WRobot
+
+wManagerSetting Class
+Class wManagerSetting. This class contains options attached to the used character. It also contains the session blacklists. 
+File is in folder "WRobot\Settings\", file name format is: Settings.AdviserFilePathAndName("General", ObjectManager.Me.Name + "." + Usefuls.RealmName) (result like "WRobot\Settings\General-PlayerName.RealmName.xml")
+Implements the Settings
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class wManagerSetting : Settings<SerializableAttribute> _
+Public Class wManagerSetting _
+	Inherits Settings[SerializableAttribute]
+public ref class wManagerSetting : public Settings
+Inheritance Hierarchy
+
+
+Object
+  robotManager.Helpful..::..Settings
+    wManager..::..wManagerSetting
+
+See Also
+
+
+wManagerSetting Members
+wManager Namespace
+robotManager.Helpful..::..Settings
+Help File generated with GhostDoc
+ 

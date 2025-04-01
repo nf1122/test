@@ -1,0 +1,27 @@
+WRobot
+
+Logging..::..StatusChangeEventArgs Class
+Class StatusChangeEventArgs. Implements the EventArgs
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public class StatusChangeEventArgs : EventArgsPublic Class StatusChangeEventArgs _
+	Inherits EventArgspublic ref class StatusChangeEventArgs : public EventArgs
+Inheritance Hierarchy
+
+
+Object
+  EventArgs
+    robotManager.Helpful..::..Logging..::..StatusChangeEventArgs
+
+See Also
+
+
+Logging..::..StatusChangeEventArgs Members
+robotManager.Helpful Namespace
+EventArgs
+Help File generated with GhostDoc
+ 

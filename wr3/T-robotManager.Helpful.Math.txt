@@ -1,0 +1,24 @@
+WRobot
+
+Math Class
+Class Math. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static class MathPublic NotInheritable Class Mathpublic ref class Math abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  robotManager.Helpful..::..Math
+
+See Also
+
+
+Math Members
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,27 @@
+WRobot
+
+wManagerSetting..::..PluginSetting Class
+Class PluginSetting. Used in wManagerSetting by the settings [PluginsSettings]. This allows the bot to remember which IPlugin are activated or not ("Plugins" tab). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class PluginSetting<SerializableAttribute> _
+Public Class PluginSetting[SerializableAttribute]
+public ref class PluginSetting
+Inheritance Hierarchy
+
+
+Object
+  wManager..::..wManagerSetting..::..PluginSetting
+
+See Also
+
+
+wManagerSetting..::..PluginSetting Members
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,17 @@
+WRobot
+
+IQuesterCondition Interface
+Namespace:  Quester.Bot
+Assembly:  Quester (in Quester.dll)
+Syntax
+
+
+C#VBC++
+public interface IQuesterConditionPublic Interface IQuesterConditionpublic interface class IQuesterCondition
+See Also
+
+
+IQuesterCondition Members
+Quester.Bot Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,27 @@
+WRobot
+
+ProfileUserSettings Class
+Class ProfileUserSettings. 
+Namespace:  Quester.Bot
+Assembly:  Quester (in Quester.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class ProfileUserSettings<SerializableAttribute> _
+Public Class ProfileUserSettings[SerializableAttribute]
+public ref class ProfileUserSettings
+Inheritance Hierarchy
+
+
+Object
+  Quester.Bot..::..ProfileUserSettings
+
+See Also
+
+
+ProfileUserSettings Members
+Quester.Bot Namespace
+Help File generated with GhostDoc
+ 

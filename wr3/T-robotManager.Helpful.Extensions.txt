@@ -1,0 +1,24 @@
+WRobot
+
+Extensions Class
+Class Extensions. Some useful class extensions. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static class ExtensionsPublic NotInheritable Class Extensionspublic ref class Extensions abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  robotManager.Helpful..::..Extensions
+
+See Also
+
+
+Extensions Members
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

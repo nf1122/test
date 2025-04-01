@@ -1,0 +1,24 @@
+WRobot
+
+Keyboard Class
+Keyboard Manager 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static class KeyboardPublic NotInheritable Class Keyboardpublic ref class Keyboard abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  robotManager.Helpful..::..Keyboard
+
+See Also
+
+
+Keyboard Members
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

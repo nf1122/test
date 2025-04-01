@@ -1,0 +1,32 @@
+WRobot
+
+GeneralSettings Class
+Class GeneralSettings (UI for settings file wManagerSetting). Implements the Form
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class GeneralSettings : FormPublic Class GeneralSettings _
+	Inherits Formpublic ref class GeneralSettings : public Form
+Inheritance Hierarchy
+
+
+Object
+  MarshalByRefObject
+    Component
+      Control
+        ScrollableControl
+          ContainerControl
+            Form
+              wManager..::..GeneralSettings
+
+See Also
+
+
+GeneralSettings Members
+wManager Namespace
+Form
+Help File generated with GhostDoc
+ 

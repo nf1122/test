@@ -1,0 +1,24 @@
+WRobot
+
+Display Class
+Some functions of the Windows API to manage windows/screen 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static class DisplayPublic NotInheritable Class Displaypublic ref class Display abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  robotManager.Helpful..::..Display
+
+See Also
+
+
+Display Members
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

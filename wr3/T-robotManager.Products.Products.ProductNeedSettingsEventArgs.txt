@@ -1,0 +1,27 @@
+WRobot
+
+Products..::..ProductNeedSettingsEventArgs Class
+Class ProductNeedSettingsEventArgs. Implements the EventArgs
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public class ProductNeedSettingsEventArgs : EventArgsPublic Class ProductNeedSettingsEventArgs _
+	Inherits EventArgspublic ref class ProductNeedSettingsEventArgs : public EventArgs
+Inheritance Hierarchy
+
+
+Object
+  EventArgs
+    robotManager.Products..::..Products..::..ProductNeedSettingsEventArgs
+
+See Also
+
+
+Products..::..ProductNeedSettingsEventArgs Members
+robotManager.Products Namespace
+EventArgs
+Help File generated with GhostDoc
+ 

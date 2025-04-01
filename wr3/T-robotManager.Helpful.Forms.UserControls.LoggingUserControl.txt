@@ -1,0 +1,24 @@
+WRobot
+
+LoggingUserControl Class
+LoggingUserControl (the wpf usercontrol used tab "Log") 
+Namespace:  robotManager.Helpful.Forms.UserControls
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public class LoggingUserControlPublic Class LoggingUserControlpublic ref class LoggingUserControl
+Inheritance Hierarchy
+
+
+Object
+  robotManager.Helpful.Forms.UserControls..::..LoggingUserControl
+
+See Also
+
+
+LoggingUserControl Members
+robotManager.Helpful.Forms.UserControls Namespace
+Help File generated with GhostDoc
+ 

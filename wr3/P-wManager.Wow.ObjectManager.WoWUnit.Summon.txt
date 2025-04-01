@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..Summon Property 
+Gets the summon. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public ulong Summon { get; }Public ReadOnly Property Summon As ULong
+	Getpublic:
+property unsigned long long^ Summon {
+	unsigned long long^ get ();
+}Field Value
+The summon.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

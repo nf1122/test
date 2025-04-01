@@ -1,0 +1,27 @@
+WRobot
+
+BlackListSerializable..::..BlackNpc Class
+Class BlackNpc. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class BlackNpc<SerializableAttribute> _
+Public Class BlackNpc[SerializableAttribute]
+public ref class BlackNpc
+Inheritance Hierarchy
+
+
+Object
+  wManager..::..BlackListSerializable..::..BlackNpc
+
+See Also
+
+
+BlackListSerializable..::..BlackNpc Members
+wManager Namespace
+Help File generated with GhostDoc
+ 

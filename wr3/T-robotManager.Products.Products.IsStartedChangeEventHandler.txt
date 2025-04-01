@@ -1,0 +1,26 @@
+WRobot
+
+Products..::..IsStartedChangeEventHandler Delegate
+Delegate IsStartedChangeEventHandler 
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public delegate void IsStartedChangeEventHandler(
+	Products..::..IsStartedChangeEventArgs e
+)Public Delegate Sub IsStartedChangeEventHandler ( _
+	e As Products..::..IsStartedChangeEventArgs _
+)public delegate void IsStartedChangeEventHandler(
+	Products..::..IsStartedChangeEventArgs^ e
+)Parameters
+e
+Type: robotManager.Products..::..Products..::..IsStartedChangeEventArgs
+The Products..::..IsStartedChangeEventArgs instance containing the event data.
+See Also
+
+
+robotManager.Products Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,27 @@
+WRobot
+
+State Class
+State used with Engine. Don't forget to configure Priority and DisplayName (must be unique name) 
+Namespace:  robotManager.FiniteStateMachine
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public abstract class State : IComparable<State>, 
+	IComparer<State>Public MustInherit Class State _
+	Implements IComparable(Of State), IComparer(Of State)public ref class State abstract : IComparable<State^>, 
+	IComparer<State^>
+Inheritance Hierarchy
+
+
+Object
+  robotManager.FiniteStateMachine..::..State
+
+See Also
+
+
+State Members
+robotManager.FiniteStateMachine Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,35 @@
+WRobot
+
+LuaBot Class
+Class LuaBot. Methods to run lua code with access to all .net and bot API. 
+Examples
+
+
+C#
+local log = clr.robotManager.Helpful.Logging
+local wowLua = clr.wManager.Wow.Helpers.Lua.Wow
+local lua = clr.wManager.Wow.Helpers.Lua
+
+local playerName = lua.LuaDoString('return GetUnitName("player")', clr.System.String, '') -- OR wowLua.GetUnitName("player")
+local txt = 'Player name: ' .. playerName .. ' - WRobot version: ' .. clr.wManager.Information.Version
+log.Write(txt);
+clr.System.Windows.MessageBox.Show(txt)Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static class LuaBotPublic NotInheritable Class LuaBotpublic ref class LuaBot abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  robotManager.Helpful..::..LuaBot
+
+See Also
+
+
+LuaBot Members
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

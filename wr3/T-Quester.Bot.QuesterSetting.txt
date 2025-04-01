@@ -1,0 +1,30 @@
+WRobot
+
+QuesterSetting Class
+Class QuesterSetting. Implements the Settings
+Namespace:  Quester.Bot
+Assembly:  Quester (in Quester.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class QuesterSetting : Settings<SerializableAttribute> _
+Public Class QuesterSetting _
+	Inherits Settings[SerializableAttribute]
+public ref class QuesterSetting : public Settings
+Inheritance Hierarchy
+
+
+Object
+  robotManager.Helpful..::..Settings
+    Quester.Bot..::..QuesterSetting
+
+See Also
+
+
+QuesterSetting Members
+Quester.Bot Namespace
+robotManager.Helpful..::..Settings
+Help File generated with GhostDoc
+ 

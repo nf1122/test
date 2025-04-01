@@ -1,0 +1,26 @@
+WRobot
+
+ArchaeologyStates Class
+Archaeology State (search and go to dig-sites, search the fragments). 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class ArchaeologyStates : StatePublic Class ArchaeologyStates _
+	Inherits Statepublic ref class ArchaeologyStates : public State
+Inheritance Hierarchy
+
+
+Object
+  robotManager.FiniteStateMachine..::..State
+    wManager.Wow.Bot.States..::..ArchaeologyStates
+
+See Also
+
+
+ArchaeologyStates Members
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

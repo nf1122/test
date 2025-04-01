@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..Skinnable Property 
+Gets a value indicating whether is skinnable. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool Skinnable { get; }Public ReadOnly Property Skinnable As Boolean
+	Getpublic:
+property bool^ Skinnable {
+	bool^ get ();
+}Field Value
+true if skinnable; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

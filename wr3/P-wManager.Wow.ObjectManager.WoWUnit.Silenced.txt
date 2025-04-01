@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..Silenced Property 
+Gets a value indicating whether is silenced. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool Silenced { get; }Public ReadOnly Property Silenced As Boolean
+	Getpublic:
+property bool^ Silenced {
+	bool^ get ();
+}Field Value
+true if silenced; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

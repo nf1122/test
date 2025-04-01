@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..TargetObject Property 
+Gets the target object. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public WoWUnit TargetObject { get; }Public ReadOnly Property TargetObject As WoWUnit
+	Getpublic:
+property WoWUnit^ TargetObject {
+	WoWUnit^ get ();
+}Field Value
+The target object.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

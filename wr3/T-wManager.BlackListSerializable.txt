@@ -1,0 +1,27 @@
+WRobot
+
+BlackListSerializable Class
+Class BlackListSerializable. This class is saved in an .xml file ("\ Data \ BlackList.xml"). The blacklist contained in this file is used by all characters of this bot installation. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class BlackListSerializable<SerializableAttribute> _
+Public Class BlackListSerializable[SerializableAttribute]
+public ref class BlackListSerializable
+Inheritance Hierarchy
+
+
+Object
+  wManager..::..BlackListSerializable
+
+See Also
+
+
+BlackListSerializable Members
+wManager Namespace
+Help File generated with GhostDoc
+ 

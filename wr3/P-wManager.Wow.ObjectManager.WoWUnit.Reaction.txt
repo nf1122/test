@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..Reaction Property 
+Gets the reaction. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Reaction Reaction { get; }Public ReadOnly Property Reaction As Reaction
+	Getpublic:
+property Reaction^ Reaction {
+	Reaction^ get ();
+}Field Value
+The reaction.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

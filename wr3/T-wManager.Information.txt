@@ -1,0 +1,24 @@
+WRobot
+
+Information Class
+Class Information. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class InformationPublic NotInheritable Class Informationpublic ref class Information abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager..::..Information
+
+See Also
+
+
+Information Members
+wManager Namespace
+Help File generated with GhostDoc
+ 

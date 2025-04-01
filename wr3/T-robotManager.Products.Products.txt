@@ -1,0 +1,24 @@
+WRobot
+
+Products Class
+Class Products. 
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public class ProductsPublic Class Productspublic ref class Products
+Inheritance Hierarchy
+
+
+Object
+  robotManager.Products..::..Products
+
+See Also
+
+
+Products Members
+robotManager.Products Namespace
+Help File generated with GhostDoc
+ 

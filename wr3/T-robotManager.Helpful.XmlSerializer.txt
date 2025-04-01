@@ -1,0 +1,24 @@
+WRobot
+
+XmlSerializer Class
+XmlSerializer 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static class XmlSerializerPublic NotInheritable Class XmlSerializerpublic ref class XmlSerializer abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  robotManager.Helpful..::..XmlSerializer
+
+See Also
+
+
+XmlSerializer Members
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,29 @@
+WRobot
+
+Utf8StringWriter Class
+Class Utf8StringWriter. Implements the StringWriter
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public class Utf8StringWriter : StringWriterPublic Class Utf8StringWriter _
+	Inherits StringWriterpublic ref class Utf8StringWriter : public StringWriter
+Inheritance Hierarchy
+
+
+Object
+  MarshalByRefObject
+    TextWriter
+      StringWriter
+        robotManager.Helpful..::..Utf8StringWriter
+
+See Also
+
+
+Utf8StringWriter Members
+robotManager.Helpful Namespace
+StringWriter
+Help File generated with GhostDoc
+ 

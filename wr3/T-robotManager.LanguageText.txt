@@ -1,0 +1,27 @@
+WRobot
+
+LanguageText Class
+Class LanguageText. 
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class LanguageText<SerializableAttribute> _
+Public Class LanguageText[SerializableAttribute]
+public ref class LanguageText
+Inheritance Hierarchy
+
+
+Object
+  robotManager..::..LanguageText
+
+See Also
+
+
+LanguageText Members
+robotManager Namespace
+Help File generated with GhostDoc
+ 

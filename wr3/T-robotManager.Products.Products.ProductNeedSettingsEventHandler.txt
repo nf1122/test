@@ -1,0 +1,26 @@
+WRobot
+
+Products..::..ProductNeedSettingsEventHandler Delegate
+Delegate ProductNeedSettingsEventHandler 
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public delegate void ProductNeedSettingsEventHandler(
+	Products..::..ProductNeedSettingsEventArgs e
+)Public Delegate Sub ProductNeedSettingsEventHandler ( _
+	e As Products..::..ProductNeedSettingsEventArgs _
+)public delegate void ProductNeedSettingsEventHandler(
+	Products..::..ProductNeedSettingsEventArgs^ e
+)Parameters
+e
+Type: robotManager.Products..::..Products..::..ProductNeedSettingsEventArgs
+The Products..::..ProductNeedSettingsEventArgs instance containing the event data.
+See Also
+
+
+robotManager.Products Namespace
+Help File generated with GhostDoc
+ 

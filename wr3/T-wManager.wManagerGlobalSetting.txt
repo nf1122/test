@@ -1,0 +1,30 @@
+WRobot
+
+wManagerGlobalSetting Class
+Class wManagerGlobalSetting. The configurations in this file are used by all the characters. XML file is in "WRobot\Settings\WRobotGlobalSetting.xml" Implements the Settings
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class wManagerGlobalSetting : Settings<SerializableAttribute> _
+Public Class wManagerGlobalSetting _
+	Inherits Settings[SerializableAttribute]
+public ref class wManagerGlobalSetting : public Settings
+Inheritance Hierarchy
+
+
+Object
+  robotManager.Helpful..::..Settings
+    wManager..::..wManagerGlobalSetting
+
+See Also
+
+
+wManagerGlobalSetting Members
+wManager Namespace
+robotManager.Helpful..::..Settings
+Help File generated with GhostDoc
+ 

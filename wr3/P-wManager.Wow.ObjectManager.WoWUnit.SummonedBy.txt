@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..SummonedBy Property 
+Gets the summoned by GUID. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public ulong SummonedBy { get; }Public ReadOnly Property SummonedBy As ULong
+	Getpublic:
+property unsigned long long^ SummonedBy {
+	unsigned long long^ get ();
+}Field Value
+GUID.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

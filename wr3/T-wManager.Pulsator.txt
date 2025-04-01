@@ -1,0 +1,27 @@
+WRobot
+
+Pulsator Class
+Class Pulsator. Use to attach game and initialize bot. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[ObfuscationAttribute]
+public class Pulsator<ObfuscationAttribute> _
+Public Class Pulsator[ObfuscationAttribute]
+public ref class Pulsator
+Inheritance Hierarchy
+
+
+Object
+  wManager..::..Pulsator
+
+See Also
+
+
+Pulsator Members
+wManager Namespace
+Help File generated with GhostDoc
+ 

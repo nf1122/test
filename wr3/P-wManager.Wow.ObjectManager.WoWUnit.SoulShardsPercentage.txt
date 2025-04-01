@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..SoulShardsPercentage Property 
+Gets the soul shards percentage. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint SoulShardsPercentage { get; }Public ReadOnly Property SoulShardsPercentage As UInteger
+	Getpublic:
+property unsigned int^ SoulShardsPercentage {
+	unsigned int^ get ();
+}Field Value
+The soul shards percentage.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

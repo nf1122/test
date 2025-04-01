@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..Possessed Property 
+Gets a value indicating whether is possessed. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool Possessed { get; }Public ReadOnly Property Possessed As Boolean
+	Getpublic:
+property bool^ Possessed {
+	bool^ get ();
+}Field Value
+true if possessed; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

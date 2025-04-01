@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..SpeedMoving Property 
+Gets the speed moving. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float SpeedMoving { get; }Public ReadOnly Property SpeedMoving As Single
+	Getpublic:
+property float^ SpeedMoving {
+	float^ get ();
+}Field Value
+The speed moving.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

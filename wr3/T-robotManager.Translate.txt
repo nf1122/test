@@ -1,0 +1,24 @@
+WRobot
+
+Translate Class
+Class Translate. Manage program translate. XML translation files are in the folder "WRobot\Data\Lang\Translation.xml" 
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static class TranslatePublic NotInheritable Class Translatepublic ref class Translate abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  robotManager..::..Translate
+
+See Also
+
+
+Translate Members
+robotManager Namespace
+Help File generated with GhostDoc
+ 

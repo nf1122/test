@@ -1,0 +1,36 @@
+WRobot
+
+KeyboardHook Class
+Registers a hot key with Windows. 
+Examples
+
+
+C#
+KeyboardHook hookKeybindingsPause = new KeyboardHook();
+hookKeybindingsPause.RegisterHotKey(ModifierKeys.Alt, Keys.X);
+hookKeybindingsPause.KeyPressed += delegate(object sender, KeyPressedEventArgs args)
+{
+     Products.InPause = !Products.InPause;
+};
+ // ....
+hookKeybindingsPause.Dispose();Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public sealed class KeyboardHook : IDisposablePublic NotInheritable Class KeyboardHook _
+	Implements IDisposablepublic ref class KeyboardHook sealed : IDisposable
+Inheritance Hierarchy
+
+
+Object
+  robotManager.Helpful..::..KeyboardHook
+
+See Also
+
+
+KeyboardHook Members
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,30 @@
+WRobot
+
+robotManagerGlobalSetting Class
+Class robotManagerGlobalSetting. Few settings saved in FilePath Implements the Settings
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class robotManagerGlobalSetting : Settings<SerializableAttribute> _
+Public Class robotManagerGlobalSetting _
+	Inherits Settings[SerializableAttribute]
+public ref class robotManagerGlobalSetting : public Settings
+Inheritance Hierarchy
+
+
+Object
+  robotManager.Helpful..::..Settings
+    robotManager..::..robotManagerGlobalSetting
+
+See Also
+
+
+robotManagerGlobalSetting Members
+robotManager Namespace
+robotManager.Helpful..::..Settings
+Help File generated with GhostDoc
+ 

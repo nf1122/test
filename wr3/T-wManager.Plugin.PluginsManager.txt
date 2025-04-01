@@ -1,0 +1,25 @@
+WRobot
+
+PluginsManager Class
+Class to manage plugins (IPlugin).
+You can use .cs (for C#), .vb (for Visual Basic.net) or .dll file (you can also use .lua if you want use lua code with LuaBot, but you don't need to implement this interface), you need to save plugin in the folder "WRobot\Plugins\" (and restart bot to appear in plugins tab).
+Namespace:  wManager.Plugin
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class PluginsManagerPublic Class PluginsManagerpublic ref class PluginsManager
+Inheritance Hierarchy
+
+
+Object
+  wManager.Plugin..::..PluginsManager
+
+See Also
+
+
+PluginsManager Members
+wManager.Plugin Namespace
+Help File generated with GhostDoc
+ 

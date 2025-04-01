@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..UnitFlags Property 
+Gets the unit flags. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public UnitFlags UnitFlags { get; }Public ReadOnly Property UnitFlags As UnitFlags
+	Getpublic:
+property UnitFlags^ UnitFlags {
+	UnitFlags^ get ();
+}Field Value
+The unit flags.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

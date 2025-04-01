@@ -1,0 +1,150 @@
+WRobot
+
+Engine Class
+FSM Engine. The bot's behavior is mainly based on it.
+Namespace:  robotManager.FiniteStateMachine
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public sealed class EnginePublic NotInheritable Class Enginepublic ref class Engine sealed
+Examples
+
+
+
+
+C#
+using System;
+   using robotManager.FiniteStateMachine;
+
+   namespace EngineSample
+   {
+       class Program
+       {
+           class Context
+           {
+               internal Engine Engine { get; set; }
+               internal int I { get; set; }
+           }
+
+           #region States
+
+           class EvenNumberState : State
+           {
+               internal EvenNumberState(Context c)
+               {
+                   Context = c;
+               }
+               Context Context { get; set; }
+
+               public override bool NeedToRun
+               {
+                   get
+                   {
+                       return Context.I % 2 == 0; // return true if number is even
+                   }
+               }
+
+               public override void Run()
+               {
+                   Console.WriteLine("Number is even: " + Context.I);
+                   Context.I++;
+               }
+           }
+
+           class OddNumberState : State
+           {
+               internal OddNumberState(Context c)
+               {
+                   Context = c;
+               }
+               Context Context { get; set; }
+
+               public override bool NeedToRun
+               {
+                   get
+                   {
+                       return Context.I % 2 != 0; // return true if number is odd
+                   }
+               }
+
+               public override void Run()
+               {
+                   Console.WriteLine("Number is odd: " + Context.I);
+                   Context.I++;
+               }
+           }
+
+           class FinishState : State
+           {
+               internal FinishState(Context c)
+               {
+                   Context = c;
+               }
+               Context Context { get; set; }
+
+               public override bool NeedToRun
+               {
+                   get
+                   {
+                       return Context.I == 5;
+                   }
+               }
+
+               public override void Run()
+               {
+                   Console.WriteLine("Finish: " + Context.I);
+                   Context.Engine.StopEngine();
+               }
+           }
+
+           class AlwaysTrueState : State
+           {
+               public override bool NeedToRun
+               {
+                   get
+                   {
+                       return true;
+                   }
+               }
+
+               public override void Run()
+               {
+                   Console.WriteLine("AlwaysTrueState!");
+               }
+           }
+
+           #endregion States
+
+           static void Main(string[] args)
+           {
+               var c = new Context
+               {
+                   Engine = new Engine(),
+                   I = 0
+               };
+
+               c.Engine.AddState(new FinishState(c) { Priority = 4 }); // if state.NeedToRun (c.I == 5) then state.Run and return to the state with the highest priority (this state) else check next state (OddNumberState)
+               c.Engine.AddState(new OddNumberState(c) { Priority = 3 }); // if state.NeedToRun (c.I is odd) then state.Run and return to the state with the highest priority (FinishState) else check next state (EvenNumberState)
+               c.Engine.AddState(new EvenNumberState(c) { Priority = 2 }); // ....
+               c.Engine.AddState(new AlwaysTrueState() { Priority = 1 }); // should never be called, the number can be odd or even.
+
+               c.Engine.StartEngine(25); // start engine in new thread
+
+               Console.ReadKey();
+           }
+       }
+   }Inheritance Hierarchy
+
+
+Object
+  robotManager.FiniteStateMachine..::..Engine
+
+See Also
+
+
+Engine Members
+robotManager.FiniteStateMachine Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..Runes Property 
+Gets the runes. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public virtual uint Runes { get; }Public Overridable ReadOnly Property Runes As UInteger
+	Getpublic:
+virtual property unsigned int^ Runes {
+	unsigned int^ get ();
+}Field Value
+The runes.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

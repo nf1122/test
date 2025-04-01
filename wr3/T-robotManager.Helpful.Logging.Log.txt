@@ -1,0 +1,24 @@
+WRobot
+
+Logging..::..Log Class
+Class Log. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public class LogPublic Class Logpublic ref class Log
+Inheritance Hierarchy
+
+
+Object
+  robotManager.Helpful..::..Logging..::..Log
+
+See Also
+
+
+Logging..::..Log Members
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

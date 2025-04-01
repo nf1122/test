@@ -1,0 +1,28 @@
+WRobot
+
+Vector3 Class
+Vector3 class 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class Vector3 : IXmlSerializable<SerializableAttribute> _
+Public Class Vector3 _
+	Implements IXmlSerializable[SerializableAttribute]
+public ref class Vector3 : IXmlSerializable
+Inheritance Hierarchy
+
+
+Object
+  robotManager.Helpful..::..Vector3
+
+See Also
+
+
+Vector3 Members
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

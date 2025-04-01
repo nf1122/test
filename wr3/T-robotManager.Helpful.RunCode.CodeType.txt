@@ -1,0 +1,24 @@
+WRobot
+
+RunCode..::..CodeType Enumeration
+CodeType 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public enum CodeTypePublic Enumeration CodeTypepublic enum class CodeType
+Members
+
+
+Member nameDescription
+CSharpC# 
+VBVB.net 
+
+See Also
+
+
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

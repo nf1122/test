@@ -1,0 +1,25 @@
+WRobot
+
+WoWUnit..::..Target Property 
+Gets or sets the target. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public ulong Target { get; set; }Public Property Target As ULong
+	Get
+	Setpublic:
+property unsigned long long^ Target {
+	unsigned long long^ get ();
+	void set (unsigned long long^ value);
+}Field Value
+The target.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

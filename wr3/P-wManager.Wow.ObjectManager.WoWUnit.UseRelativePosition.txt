@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..UseRelativePosition Property 
+Gets a value indicating whether use relative position (by default if you are InTransport and this return false the bot returns the Position relative to the world and not relative to transport (boat, elevator, ...), you can force to return true and use PositionRelativeWithoutType with ForceRelativePosition). 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool UseRelativePosition { get; }Public Shared ReadOnly Property UseRelativePosition As Boolean
+	Getpublic:
+static property bool^ UseRelativePosition {
+	bool^ get ();
+}Field Value
+true if use relative position; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

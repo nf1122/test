@@ -1,0 +1,27 @@
+WRobot
+
+Logging..::..LoggingChangeEventArgs Class
+Class LoggingChangeEventArgs. Implements the EventArgs
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public class LoggingChangeEventArgs : EventArgsPublic Class LoggingChangeEventArgs _
+	Inherits EventArgspublic ref class LoggingChangeEventArgs : public EventArgs
+Inheritance Hierarchy
+
+
+Object
+  EventArgs
+    robotManager.Helpful..::..Logging..::..LoggingChangeEventArgs
+
+See Also
+
+
+Logging..::..LoggingChangeEventArgs Members
+robotManager.Helpful Namespace
+EventArgs
+Help File generated with GhostDoc
+ 

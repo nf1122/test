@@ -1,0 +1,27 @@
+WRobot
+
+Products..::..IsStartedChangeEventArgs Class
+Class IsStartedChangeEventArgs. Implements the EventArgs
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public class IsStartedChangeEventArgs : EventArgsPublic Class IsStartedChangeEventArgs _
+	Inherits EventArgspublic ref class IsStartedChangeEventArgs : public EventArgs
+Inheritance Hierarchy
+
+
+Object
+  EventArgs
+    robotManager.Products..::..Products..::..IsStartedChangeEventArgs
+
+See Also
+
+
+Products..::..IsStartedChangeEventArgs Members
+robotManager.Products Namespace
+EventArgs
+Help File generated with GhostDoc
+ 

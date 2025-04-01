@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..PositionRelativeWithoutType Property 
+Gets position relative without type (more information about relative position here: UseRelativePosition). 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Vector3 PositionRelativeWithoutType { get; }Public ReadOnly Property PositionRelativeWithoutType As Vector3
+	Getpublic:
+property Vector3^ PositionRelativeWithoutType {
+	Vector3^ get ();
+}Field Value
+The position relative without type.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,31 @@
+WRobot
+
+Var Class
+Class Var. Useful to store values for the session. 
+Examples
+
+
+C#
+Var.SetVar("VariableName", "Test value");
+ // ...
+string v = Var.GetVar<string>("VariableName");
+System.Windows.Forms.MessageBox.Show(v);Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static class VarPublic NotInheritable Class Varpublic ref class Var abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  robotManager.Helpful..::..Var
+
+See Also
+
+
+Var Members
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

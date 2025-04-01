@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..ShadowOrbsPercentage Property 
+Gets the Shadow Orbs percentage. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint ShadowOrbsPercentage { get; }Public ReadOnly Property ShadowOrbsPercentage As UInteger
+	Getpublic:
+property unsigned int^ ShadowOrbsPercentage {
+	unsigned int^ get ();
+}Field Value
+The Shadow Orbs percentage.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

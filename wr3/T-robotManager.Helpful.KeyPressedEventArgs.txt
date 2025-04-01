@@ -1,0 +1,26 @@
+WRobot
+
+KeyPressedEventArgs Class
+Event Args for the event that is fired after the hot key has been pressed. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public class KeyPressedEventArgs : EventArgsPublic Class KeyPressedEventArgs _
+	Inherits EventArgspublic ref class KeyPressedEventArgs : public EventArgs
+Inheritance Hierarchy
+
+
+Object
+  EventArgs
+    robotManager.Helpful..::..KeyPressedEventArgs
+
+See Also
+
+
+KeyPressedEventArgs Members
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

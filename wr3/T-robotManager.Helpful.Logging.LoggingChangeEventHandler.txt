@@ -1,0 +1,32 @@
+WRobot
+
+Logging..::..LoggingChangeEventHandler Delegate
+Delegate LoggingChangeEventHandler 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public delegate void LoggingChangeEventHandler(
+	Object sender,
+	Logging..::..LoggingChangeEventArgs e
+)Public Delegate Sub LoggingChangeEventHandler ( _
+	sender As Object, _
+	e As Logging..::..LoggingChangeEventArgs _
+)public delegate void LoggingChangeEventHandler(
+	Object^ sender, 
+	Logging..::..LoggingChangeEventArgs^ e
+)Parameters
+sender
+Type: Object
+The sender.
+e
+Type: robotManager.Helpful..::..Logging..::..LoggingChangeEventArgs
+The Logging..::..LoggingChangeEventArgs instance containing the event data.
+See Also
+
+
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

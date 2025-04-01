@@ -1,0 +1,27 @@
+WRobot
+
+wManagerSetting..::..MyMacro Class
+Class MyMacro. Allows you to simulate the pressing of a keyboard key every X seconds according to simple conditions. This option is rarely used now it is better to use a plugin for this kind of task. Used by state MyMacro
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class MyMacro<SerializableAttribute> _
+Public Class MyMacro[SerializableAttribute]
+public ref class MyMacro
+Inheritance Hierarchy
+
+
+Object
+  wManager..::..wManagerSetting..::..MyMacro
+
+See Also
+
+
+wManagerSetting..::..MyMacro Members
+wManager Namespace
+Help File generated with GhostDoc
+ 

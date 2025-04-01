@@ -1,0 +1,25 @@
+WRobot
+
+WoWUnit..::..Rotation Property 
+Gets or sets the rotation (facing). 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float Rotation { get; set; }Public Property Rotation As Single
+	Get
+	Setpublic:
+property float^ Rotation {
+	float^ get ();
+	void set (float^ value);
+}Field Value
+The rotation.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

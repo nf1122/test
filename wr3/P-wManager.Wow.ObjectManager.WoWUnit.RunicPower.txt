@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..RunicPower Property 
+Gets the runic power. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint RunicPower { get; }Public ReadOnly Property RunicPower As UInteger
+	Getpublic:
+property unsigned int^ RunicPower {
+	unsigned int^ get ();
+}Field Value
+The runic power.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,24 @@
+WRobot
+
+Timer Class
+Class Timer. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public class TimerPublic Class Timerpublic ref class Timer
+Inheritance Hierarchy
+
+
+Object
+  robotManager.Helpful..::..Timer
+
+See Also
+
+
+Timer Members
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

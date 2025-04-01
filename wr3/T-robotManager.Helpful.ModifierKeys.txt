@@ -1,0 +1,29 @@
+WRobot
+
+ModifierKeys Enumeration
+The enumeration of possible modifiers. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+[FlagsAttribute]
+public enum ModifierKeys<FlagsAttribute> _
+Public Enumeration ModifierKeys[FlagsAttribute]
+public enum class ModifierKeys
+Members
+
+
+Member nameDescription
+AltALT 
+ControlCTRL 
+Shiftshift 
+Winwin 
+
+See Also
+
+
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

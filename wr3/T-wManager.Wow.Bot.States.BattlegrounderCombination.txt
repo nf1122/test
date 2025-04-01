@@ -1,0 +1,26 @@
+WRobot
+
+BattlegrounderCombination Class
+Battlegrounder combination State, this State is used in products usable with Battlegrounder product, put high Priority, it is usually just below Pause. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class BattlegrounderCombination : StatePublic Class BattlegrounderCombination _
+	Inherits Statepublic ref class BattlegrounderCombination : public State
+Inheritance Hierarchy
+
+
+Object
+  robotManager.FiniteStateMachine..::..State
+    wManager.Wow.Bot.States..::..BattlegrounderCombination
+
+See Also
+
+
+BattlegrounderCombination Members
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

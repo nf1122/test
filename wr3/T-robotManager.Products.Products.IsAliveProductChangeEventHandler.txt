@@ -1,0 +1,26 @@
+WRobot
+
+Products..::..IsAliveProductChangeEventHandler Delegate
+Delegate IsAliveProductChangeEventHandler 
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public delegate void IsAliveProductChangeEventHandler(
+	Products..::..IsAliveProductChangeEventArgs e
+)Public Delegate Sub IsAliveProductChangeEventHandler ( _
+	e As Products..::..IsAliveProductChangeEventArgs _
+)public delegate void IsAliveProductChangeEventHandler(
+	Products..::..IsAliveProductChangeEventArgs^ e
+)Parameters
+e
+Type: robotManager.Products..::..Products..::..IsAliveProductChangeEventArgs
+The Products..::..IsAliveProductChangeEventArgs instance containing the event data.
+See Also
+
+
+robotManager.Products Namespace
+Help File generated with GhostDoc
+ 

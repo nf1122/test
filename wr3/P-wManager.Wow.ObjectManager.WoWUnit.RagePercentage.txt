@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..RagePercentage Property 
+Gets the rage percentage. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint RagePercentage { get; }Public ReadOnly Property RagePercentage As UInteger
+	Getpublic:
+property unsigned int^ RagePercentage {
+	unsigned int^ get ();
+}Field Value
+The rage percentage.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 
