@@ -1,0 +1,19 @@
+WRobot
+
+LoggingUserControl Constructor 
+Initializes a new instance of the LoggingUserControl class. 
+Namespace:  robotManager.Helpful.Forms.UserControls
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public LoggingUserControl()Public Sub Newpublic:
+LoggingUserControl()
+See Also
+
+
+LoggingUserControl Class
+robotManager.Helpful.Forms.UserControls Namespace
+Help File generated with GhostDoc
+ 

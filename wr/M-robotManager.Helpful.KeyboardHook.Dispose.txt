@@ -1,0 +1,19 @@
+WRobot
+
+KeyboardHook..::..Dispose Method 
+Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public void Dispose()Public Sub Disposepublic:
+void Dispose()
+See Also
+
+
+KeyboardHook Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

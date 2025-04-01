@@ -1,0 +1,31 @@
+WRobot
+
+Extensions..::..Translate Method (TextBlock)
+Translates the specified TextBlock (translate with Translate). 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Translate(
+	this TextBlock thisT
+)<ExtensionAttribute> _
+Public Shared Sub Translate ( _
+	thisT As TextBlock _
+)[ExtensionAttribute]
+public:
+static void Translate(
+	TextBlock^ thisT
+)Parameters
+thisT
+Type: TextBlock
+The wpf TextBlock to translate.
+See Also
+
+
+Extensions Class
+Translate Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,30 @@
+WRobot
+
+GZip..::..Decompress Method 
+Decompresses the specified file. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool Decompress(
+	string filename
+)Public Shared Function Decompress ( _
+	filename As String _
+) As Booleanpublic:
+static bool^ Decompress(
+	String^ filename
+)Parameters
+filename
+Type: String
+The file path.
+Return Value
+true if success, false otherwise.
+See Also
+
+
+GZip Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

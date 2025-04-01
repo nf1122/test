@@ -1,0 +1,31 @@
+WRobot
+
+GZip..::..DecompressInMemoryFromBase64 Method (String)
+Decompresses the in memory from base64. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string DecompressInMemoryFromBase64(
+	string base64string
+)Public Shared Function DecompressInMemoryFromBase64 ( _
+	base64string As String _
+) As Stringpublic:
+static String^ DecompressInMemoryFromBase64(
+	String^ base64string
+)Parameters
+base64string
+Type: String
+The base64string.
+Return Value
+string content file.
+See Also
+
+
+GZip Class
+DecompressInMemoryFromBase64 Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,30 @@
+WRobot
+
+Logging..::..ReadLast Method 
+Read the last log by type. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static Logging..::..Log ReadLast(
+	Logging..::..LogType logType
+)Public Shared Function ReadLast ( _
+	logType As Logging..::..LogType _
+) As Logging..::..Logpublic:
+static Logging..::..Log^ ReadLast(
+	Logging..::..LogType^ logType
+)Parameters
+logType
+Type: robotManager.Helpful..::..Logging..::..LogType
+Type of the log.
+Return Value
+Log.
+See Also
+
+
+Logging Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

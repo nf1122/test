@@ -1,0 +1,19 @@
+WRobot
+
+LoggingUserControl..::..IsBlackStyle Method 
+Determines whether is dark WPF style. 
+Namespace:  robotManager.Helpful.Forms.UserControls
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public void IsBlackStyle()Public Sub IsBlackStylepublic:
+void IsBlackStyle()
+See Also
+
+
+LoggingUserControl Class
+robotManager.Helpful.Forms.UserControls Namespace
+Help File generated with GhostDoc
+ 

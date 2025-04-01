@@ -1,0 +1,28 @@
+WRobot
+
+IniFile Constructor 
+INIFile Constructor. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public IniFile(
+	string iniPath
+)Public Sub New ( _
+	iniPath As String _
+)public:
+IniFile(
+	String^ iniPath
+)Parameters
+iniPath
+Type: String
+The ini path.
+See Also
+
+
+IniFile Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

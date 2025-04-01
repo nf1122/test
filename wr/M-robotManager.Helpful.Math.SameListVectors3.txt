@@ -1,0 +1,36 @@
+WRobot
+
+Math..::..SameListVectors3 Method 
+Is same list of position?. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool SameListVectors3(
+	List<Vector3> listVectors3_1,
+	List<Vector3> listVectors3_2
+)Public Shared Function SameListVectors3 ( _
+	listVectors3_1 As List(Of Vector3), _
+	listVectors3_2 As List(Of Vector3) _
+) As Booleanpublic:
+static bool^ SameListVectors3(
+	List<Vector3^>^ listVectors3_1, 
+	List<Vector3^>^ listVectors3_2
+)Parameters
+listVectors3_1
+Type: List<(Of <(<'Vector3>)>)>
+The list 1.
+listVectors3_2
+Type: List<(Of <(<'Vector3>)>)>
+The list 2.
+Return Value
+true if same list, false otherwise.
+See Also
+
+
+Math Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

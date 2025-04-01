@@ -1,0 +1,32 @@
+WRobot
+
+Extensions..::..IsScrolledToTop Method 
+Determines whether is scrolled to top. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsScrolledToTop(
+	this TextBoxBase textBoxBase
+)<ExtensionAttribute> _
+Public Shared Function IsScrolledToTop ( _
+	textBoxBase As TextBoxBase _
+) As Boolean[ExtensionAttribute]
+public:
+static bool^ IsScrolledToTop(
+	TextBoxBase^ textBoxBase
+)Parameters
+textBoxBase
+Type: TextBoxBase
+The text box base.
+Return Value
+true if is scrolled to top; otherwise, false.
+See Also
+
+
+Extensions Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

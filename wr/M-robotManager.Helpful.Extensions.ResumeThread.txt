@@ -1,0 +1,32 @@
+WRobot
+
+Extensions..::..ResumeThread Method 
+Resumes a thread. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ResumeThread(
+	this ProcessThread thread
+)<ExtensionAttribute> _
+Public Shared Function ResumeThread ( _
+	thread As ProcessThread _
+) As Boolean[ExtensionAttribute]
+public:
+static bool^ ResumeThread(
+	ProcessThread^ thread
+)Parameters
+thread
+Type: ProcessThread
+The thread.
+Return Value
+true if success, false otherwise.
+See Also
+
+
+Extensions Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,48 @@
+WRobot
+
+Math..::..GetPosition2DOfAngleAndPitchAndDistance Method 
+Get the position 3D by angle, pitch and distance. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static Vector3 GetPosition2DOfAngleAndPitchAndDistance(
+	Vector3 from,
+	float distance,
+	float rotationRadians,
+	float pitchRadians
+)Public Shared Function GetPosition2DOfAngleAndPitchAndDistance ( _
+	from As Vector3, _
+	distance As Single, _
+	rotationRadians As Single, _
+	pitchRadians As Single _
+) As Vector3public:
+static Vector3^ GetPosition2DOfAngleAndPitchAndDistance(
+	Vector3^ from, 
+	float^ distance, 
+	float^ rotationRadians, 
+	float^ pitchRadians
+)Parameters
+from
+Type: robotManager.Helpful..::..Vector3
+from position a.
+distance
+Type: Single
+The distance.
+rotationRadians
+Type: Single
+The angle.
+pitchRadians
+Type: Single
+The pitch.
+Return Value
+position 3D.
+See Also
+
+
+Math Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

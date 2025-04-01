@@ -1,0 +1,36 @@
+WRobot
+
+Math..::..GetRadian Method 
+Get radian rotation from A to B. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static float GetRadian(
+	Vector3 pos,
+	Vector3 pos2
+)Public Shared Function GetRadian ( _
+	pos As Vector3, _
+	pos2 As Vector3 _
+) As Singlepublic:
+static float^ GetRadian(
+	Vector3^ pos, 
+	Vector3^ pos2
+)Parameters
+pos
+Type: robotManager.Helpful..::..Vector3
+position A.
+pos2
+Type: robotManager.Helpful..::..Vector3
+position B.
+Return Value
+radian.
+See Also
+
+
+Math Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

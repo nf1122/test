@@ -1,0 +1,30 @@
+WRobot
+
+Extensions..::..SuspendMainThread Method 
+Suspends the main thread of external process. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void SuspendMainThread(
+	this Process process
+)<ExtensionAttribute> _
+Public Shared Sub SuspendMainThread ( _
+	process As Process _
+)[ExtensionAttribute]
+public:
+static void SuspendMainThread(
+	Process^ process
+)Parameters
+process
+Type: Process
+The process.
+See Also
+
+
+Extensions Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

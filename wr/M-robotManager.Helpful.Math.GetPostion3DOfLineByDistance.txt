@@ -1,0 +1,42 @@
+WRobot
+
+Math..::..GetPostion3DOfLineByDistance Method 
+Get position 3D on the line (a-b) by distance 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static Vector3 GetPostion3DOfLineByDistance(
+	Vector3 a,
+	Vector3 b,
+	float distance
+)Public Shared Function GetPostion3DOfLineByDistance ( _
+	a As Vector3, _
+	b As Vector3, _
+	distance As Single _
+) As Vector3public:
+static Vector3^ GetPostion3DOfLineByDistance(
+	Vector3^ a, 
+	Vector3^ b, 
+	float^ distance
+)Parameters
+a
+Type: robotManager.Helpful..::..Vector3
+line start a.
+b
+Type: robotManager.Helpful..::..Vector3
+one point of line b.
+distance
+Type: Single
+The distance.
+Return Value
+position 3d.
+See Also
+
+
+Math Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

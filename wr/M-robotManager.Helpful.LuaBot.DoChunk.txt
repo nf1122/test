@@ -1,0 +1,37 @@
+WRobot
+
+LuaBot..::..DoChunk Method (String, String)
+Run code 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool DoChunk(
+	string script,
+	string name
+)Public Shared Function DoChunk ( _
+	script As String, _
+	name As String _
+) As Booleanpublic:
+static bool^ DoChunk(
+	String^ script, 
+	String^ name
+)Parameters
+script
+Type: String
+The script.
+name
+Type: String
+The name.
+Return Value
+true if success, false otherwise.
+See Also
+
+
+LuaBot Class
+DoChunk Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

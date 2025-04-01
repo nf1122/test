@@ -1,0 +1,45 @@
+WRobot
+
+Extensions..::..Replace Method (array<Byte>[]()[][], UInt64, UInt64)
+Replaces the specified bytes by others. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static byte[] Replace(
+	this byte[] src,
+	ulong find,
+	ulong replaceBy
+)<ExtensionAttribute> _
+Public Shared Function Replace ( _
+	src As Byte(), _
+	find As ULong, _
+	replaceBy As ULong _
+) As Byte()[ExtensionAttribute]
+public:
+static array<unsigned char^>^ Replace(
+	array<unsigned char^>^ src, 
+	unsigned long long^ find, 
+	unsigned long long^ replaceBy
+)Parameters
+src
+Type: array<Byte>[]()[][]
+The source.
+find
+Type: UInt64
+bytes to find.
+replaceBy
+Type: UInt64
+replace found bytes by.
+Return Value
+System.Byte[].
+See Also
+
+
+Extensions Class
+Replace Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

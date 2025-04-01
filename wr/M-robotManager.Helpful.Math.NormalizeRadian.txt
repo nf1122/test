@@ -1,0 +1,30 @@
+WRobot
+
+Math..::..NormalizeRadian Method 
+Normalizes the radian. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static float NormalizeRadian(
+	float radian
+)Public Shared Function NormalizeRadian ( _
+	radian As Single _
+) As Singlepublic:
+static float^ NormalizeRadian(
+	float^ radian
+)Parameters
+radian
+Type: Single
+The radian.
+Return Value
+radian normalized.
+See Also
+
+
+Math Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

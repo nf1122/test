@@ -1,0 +1,45 @@
+WRobot
+
+Extensions..::..Replace Method (array<Byte>[]()[][], Single, Single)
+Replaces the specified bytes by others. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static byte[] Replace(
+	this byte[] src,
+	float find,
+	float replaceBy
+)<ExtensionAttribute> _
+Public Shared Function Replace ( _
+	src As Byte(), _
+	find As Single, _
+	replaceBy As Single _
+) As Byte()[ExtensionAttribute]
+public:
+static array<unsigned char^>^ Replace(
+	array<unsigned char^>^ src, 
+	float^ find, 
+	float^ replaceBy
+)Parameters
+src
+Type: array<Byte>[]()[][]
+The source.
+find
+Type: Single
+bytes to find.
+replaceBy
+Type: Single
+replace found bytes by.
+Return Value
+System.Byte[].
+See Also
+
+
+Extensions Class
+Replace Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

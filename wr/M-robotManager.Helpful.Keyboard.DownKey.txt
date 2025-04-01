@@ -1,0 +1,35 @@
+WRobot
+
+Keyboard..::..DownKey Method (IntPtr, Keys)
+Down a Keyboard Key. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void DownKey(
+	IntPtr mainWindowHandle,
+	Keys key
+)Public Shared Sub DownKey ( _
+	mainWindowHandle As IntPtr, _
+	key As Keys _
+)public:
+static void DownKey(
+	IntPtr^ mainWindowHandle, 
+	Keys^ key
+)Parameters
+mainWindowHandle
+Type: IntPtr
+The main window handle.
+key
+Type: Keys
+The key.
+See Also
+
+
+Keyboard Class
+DownKey Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

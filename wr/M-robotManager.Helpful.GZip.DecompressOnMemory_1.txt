@@ -1,0 +1,31 @@
+WRobot
+
+GZip..::..DecompressOnMemory Method (array<Byte>[]()[][])
+Decompresses the on memory. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static byte[] DecompressOnMemory(
+	byte[] fileBytes
+)Public Shared Function DecompressOnMemory ( _
+	fileBytes As Byte() _
+) As Byte()public:
+static array<unsigned char^>^ DecompressOnMemory(
+	array<unsigned char^>^ fileBytes
+)Parameters
+fileBytes
+Type: array<Byte>[]()[][]
+The file bytes.
+Return Value
+file bytes.
+See Also
+
+
+GZip Class
+DecompressOnMemory Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

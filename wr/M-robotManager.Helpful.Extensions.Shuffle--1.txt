@@ -1,0 +1,35 @@
+WRobot
+
+Extensions..::..Shuffle<(Of <(<'T>)>)> Method (IList<(Of <(<'T>)>)>)
+Shuffles the specified list. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Shuffle<T>(
+	this IList<T> list
+)
+<ExtensionAttribute> _
+Public Shared Sub Shuffle(Of T) ( _
+	list As IList(Of T) _
+)[ExtensionAttribute]
+public:
+generic<typename T>
+static void Shuffle(
+	IList<T>^ list
+)Type Parameters
+T
+Parameters
+list
+Type: IList<(Of <(<'T>)>)>
+The list.
+See Also
+
+
+Extensions Class
+Shuffle Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

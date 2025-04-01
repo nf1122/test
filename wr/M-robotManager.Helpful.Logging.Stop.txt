@@ -1,0 +1,19 @@
+WRobot
+
+Logging..::..Stop Method 
+Stop logging (close file stream). 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Stop()Public Shared Sub Stoppublic:
+static void Stop()
+See Also
+
+
+Logging Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

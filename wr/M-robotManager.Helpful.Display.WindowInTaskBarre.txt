@@ -1,0 +1,28 @@
+WRobot
+
+Display..::..WindowInTaskBarre Method 
+Window is in taskbar (minimized). 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool WindowInTaskBarre(
+	IntPtr mainWindowHandle
+)Public Shared Function WindowInTaskBarre ( _
+	mainWindowHandle As IntPtr _
+) As Booleanpublic:
+static bool^ WindowInTaskBarre(
+	IntPtr^ mainWindowHandle
+)Parameters
+mainWindowHandle
+Type: IntPtr
+The main window handle.
+See Also
+
+
+Display Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

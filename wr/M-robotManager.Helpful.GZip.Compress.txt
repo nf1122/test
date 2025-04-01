@@ -1,0 +1,36 @@
+WRobot
+
+GZip..::..Compress Method 
+Compress the specified file. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool Compress(
+	string filename,
+	string toFile
+)Public Shared Function Compress ( _
+	filename As String, _
+	toFile As String _
+) As Booleanpublic:
+static bool^ Compress(
+	String^ filename, 
+	String^ toFile
+)Parameters
+filename
+Type: String
+The file path.
+toFile
+Type: String
+To file.
+Return Value
+true if success, false otherwise.
+See Also
+
+
+GZip Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

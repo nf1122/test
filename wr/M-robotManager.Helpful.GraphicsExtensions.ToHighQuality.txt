@@ -1,0 +1,30 @@
+WRobot
+
+GraphicsExtensions..::..ToHighQuality Method 
+Converts to highquality. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void ToHighQuality(
+	this Graphics graphics
+)<ExtensionAttribute> _
+Public Shared Sub ToHighQuality ( _
+	graphics As Graphics _
+)[ExtensionAttribute]
+public:
+static void ToHighQuality(
+	Graphics^ graphics
+)Parameters
+graphics
+Type: Graphics
+The graphics.
+See Also
+
+
+GraphicsExtensions Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

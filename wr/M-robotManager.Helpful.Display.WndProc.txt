@@ -1,0 +1,51 @@
+WRobot
+
+Display..::..WndProc Method 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static IntPtr WndProc(
+	IntPtr hwnd,
+	int msg,
+	IntPtr wParam,
+	IntPtr lParam,
+	ref bool handled
+)Public Shared Function WndProc ( _
+	hwnd As IntPtr, _
+	msg As Integer, _
+	wParam As IntPtr, _
+	lParam As IntPtr, _
+	ByRef handled As Boolean _
+) As IntPtrpublic:
+static IntPtr^ WndProc(
+	IntPtr^ hwnd, 
+	int^ msg, 
+	IntPtr^ wParam, 
+	IntPtr^ lParam, 
+	bool^% handled
+)Parameters
+hwnd
+Type: IntPtr
+
+msg
+Type: Int32
+
+wParam
+Type: IntPtr
+
+lParam
+Type: IntPtr
+
+handled
+Type: Boolean%
+
+See Also
+
+
+Display Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

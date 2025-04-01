@@ -1,0 +1,37 @@
+WRobot
+
+Math..::..GetAngle Method (Vector3, Vector3)
+Get angle from A to B 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static float GetAngle(
+	Vector3 Vector3A,
+	Vector3 Vector3B
+)Public Shared Function GetAngle ( _
+	Vector3A As Vector3, _
+	Vector3B As Vector3 _
+) As Singlepublic:
+static float^ GetAngle(
+	Vector3^ Vector3A, 
+	Vector3^ Vector3B
+)Parameters
+Vector3A
+Type: robotManager.Helpful..::..Vector3
+The position A.
+Vector3B
+Type: robotManager.Helpful..::..Vector3
+The position B.
+Return Value
+angle.
+See Also
+
+
+Math Class
+GetAngle Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

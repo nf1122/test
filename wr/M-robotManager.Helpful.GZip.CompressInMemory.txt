@@ -1,0 +1,31 @@
+WRobot
+
+GZip..::..CompressInMemory Method (String)
+Compress the specified file. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static byte[] CompressInMemory(
+	string stringAtCompress
+)Public Shared Function CompressInMemory ( _
+	stringAtCompress As String _
+) As Byte()public:
+static array<unsigned char^>^ CompressInMemory(
+	String^ stringAtCompress
+)Parameters
+stringAtCompress
+Type: String
+string at compress.
+Return Value
+file bytes.
+See Also
+
+
+GZip Class
+CompressInMemory Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

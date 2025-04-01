@@ -1,0 +1,20 @@
+WRobot
+
+Logging..::..NameCurrentLogFile Method 
+Name of current log file. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string NameCurrentLogFile()Public Shared Function NameCurrentLogFile As Stringpublic:
+static String^ NameCurrentLogFile()Return Value
+System.String.
+See Also
+
+
+Logging Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

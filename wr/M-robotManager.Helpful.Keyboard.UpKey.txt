@@ -1,0 +1,35 @@
+WRobot
+
+Keyboard..::..UpKey Method (IntPtr, Keys)
+Up a Keyboard Key. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void UpKey(
+	IntPtr mainWindowHandle,
+	Keys key
+)Public Shared Sub UpKey ( _
+	mainWindowHandle As IntPtr, _
+	key As Keys _
+)public:
+static void UpKey(
+	IntPtr^ mainWindowHandle, 
+	Keys^ key
+)Parameters
+mainWindowHandle
+Type: IntPtr
+The main window handle.
+key
+Type: Keys
+The key.
+See Also
+
+
+Keyboard Class
+UpKey Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

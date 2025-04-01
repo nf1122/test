@@ -1,0 +1,31 @@
+WRobot
+
+GZip..::..DecompressOnMemory Method (String)
+Decompresses the specified file. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static byte[] DecompressOnMemory(
+	string filename
+)Public Shared Function DecompressOnMemory ( _
+	filename As String _
+) As Byte()public:
+static array<unsigned char^>^ DecompressOnMemory(
+	String^ filename
+)Parameters
+filename
+Type: String
+The file path.
+Return Value
+file bytes.
+See Also
+
+
+GZip Class
+DecompressOnMemory Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

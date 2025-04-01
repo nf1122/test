@@ -1,0 +1,19 @@
+WRobot
+
+KeyboardHook Constructor 
+Initializes a new instance of the KeyboardHook class. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public KeyboardHook()Public Sub Newpublic:
+KeyboardHook()
+See Also
+
+
+KeyboardHook Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,35 @@
+WRobot
+
+KeyboardHook..::..RegisterHotKey Method (ModifierKeys, Keys)
+Registers a hot key in the system. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public void RegisterHotKey(
+	ModifierKeys modifier,
+	Keys key
+)Public Sub RegisterHotKey ( _
+	modifier As ModifierKeys, _
+	key As Keys _
+)public:
+void RegisterHotKey(
+	ModifierKeys^ modifier, 
+	Keys^ key
+)Parameters
+modifier
+Type: robotManager.Helpful..::..ModifierKeys
+The modifiers that are associated with the hot key.
+key
+Type: Keys
+The key itself that is associated with the hot key.
+See Also
+
+
+KeyboardHook Class
+RegisterHotKey Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

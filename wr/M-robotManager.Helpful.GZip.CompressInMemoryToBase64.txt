@@ -1,0 +1,30 @@
+WRobot
+
+GZip..::..CompressInMemoryToBase64 Method 
+Compress the specified file. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string CompressInMemoryToBase64(
+	string stringAtCompress
+)Public Shared Function CompressInMemoryToBase64 ( _
+	stringAtCompress As String _
+) As Stringpublic:
+static String^ CompressInMemoryToBase64(
+	String^ stringAtCompress
+)Parameters
+stringAtCompress
+Type: String
+string at compress.
+Return Value
+base64 file.
+See Also
+
+
+GZip Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

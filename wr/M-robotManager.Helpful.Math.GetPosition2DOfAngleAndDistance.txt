@@ -1,0 +1,42 @@
+WRobot
+
+Math..::..GetPosition2DOfAngleAndDistance Method 
+Get the position 2D by angle and distance. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static Vector3 GetPosition2DOfAngleAndDistance(
+	Vector3 a,
+	float angle,
+	float distance
+)Public Shared Function GetPosition2DOfAngleAndDistance ( _
+	a As Vector3, _
+	angle As Single, _
+	distance As Single _
+) As Vector3public:
+static Vector3^ GetPosition2DOfAngleAndDistance(
+	Vector3^ a, 
+	float^ angle, 
+	float^ distance
+)Parameters
+a
+Type: robotManager.Helpful..::..Vector3
+from position a.
+angle
+Type: Single
+The angle.
+distance
+Type: Single
+The distance.
+Return Value
+position 2D.
+See Also
+
+
+Math Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

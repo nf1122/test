@@ -1,0 +1,32 @@
+WRobot
+
+Extensions..::..GetMainThread Method 
+Gets the main thread of external process. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static ProcessThread GetMainThread(
+	this Process process
+)<ExtensionAttribute> _
+Public Shared Function GetMainThread ( _
+	process As Process _
+) As ProcessThread[ExtensionAttribute]
+public:
+static ProcessThread^ GetMainThread(
+	Process^ process
+)Parameters
+process
+Type: Process
+The process.
+Return Value
+ProcessThread.
+See Also
+
+
+Extensions Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

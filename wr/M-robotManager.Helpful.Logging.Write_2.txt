@@ -1,0 +1,29 @@
+WRobot
+
+Logging..::..Write Method (String)
+Write the specified text. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Write(
+	string text
+)Public Shared Sub Write ( _
+	text As String _
+)public:
+static void Write(
+	String^ text
+)Parameters
+text
+Type: String
+The text.
+See Also
+
+
+Logging Class
+Write Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

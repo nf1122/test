@@ -1,0 +1,20 @@
+WRobot
+
+Log Constructor 
+Initializes a new instance of the Logging..::..Log class. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public Log()Public Sub Newpublic:
+Log()
+See Also
+
+
+Logging..::..Log Class
+Logging..::..Log Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

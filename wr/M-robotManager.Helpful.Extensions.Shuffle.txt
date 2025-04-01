@@ -1,0 +1,33 @@
+WRobot
+
+Extensions..::..Shuffle Method (String)
+Shuffles the specified string. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string Shuffle(
+	this string str
+)<ExtensionAttribute> _
+Public Shared Function Shuffle ( _
+	str As String _
+) As String[ExtensionAttribute]
+public:
+static String^ Shuffle(
+	String^ str
+)Parameters
+str
+Type: String
+The string.
+Return Value
+System.String.
+See Also
+
+
+Extensions Class
+Shuffle Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

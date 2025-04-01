@@ -1,0 +1,28 @@
+WRobot
+
+Display..::..ShowWindow Method 
+Show window (used when minimized to restore it). 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void ShowWindow(
+	IntPtr mainWindowHandle
+)Public Shared Sub ShowWindow ( _
+	mainWindowHandle As IntPtr _
+)public:
+static void ShowWindow(
+	IntPtr^ mainWindowHandle
+)Parameters
+mainWindowHandle
+Type: IntPtr
+The main window handle.
+See Also
+
+
+Display Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

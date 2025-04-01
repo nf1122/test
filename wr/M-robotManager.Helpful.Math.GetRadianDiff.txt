@@ -1,0 +1,36 @@
+WRobot
+
+Math..::..GetRadianDiff Method 
+Get radian rotation difference. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static float GetRadianDiff(
+	float rot1,
+	float rot2
+)Public Shared Function GetRadianDiff ( _
+	rot1 As Single, _
+	rot2 As Single _
+) As Singlepublic:
+static float^ GetRadianDiff(
+	float^ rot1, 
+	float^ rot2
+)Parameters
+rot1
+Type: Single
+The rot1.
+rot2
+Type: Single
+The rot2.
+Return Value
+rotation difference.
+See Also
+
+
+Math Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

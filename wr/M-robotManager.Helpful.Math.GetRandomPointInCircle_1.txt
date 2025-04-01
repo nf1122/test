@@ -1,0 +1,37 @@
+WRobot
+
+Math..::..GetRandomPointInCircle Method (Vector3, Single)
+Gets the random point in circle. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static Vector3 GetRandomPointInCircle(
+	Vector3 center,
+	float radius
+)Public Shared Function GetRandomPointInCircle ( _
+	center As Vector3, _
+	radius As Single _
+) As Vector3public:
+static Vector3^ GetRandomPointInCircle(
+	Vector3^ center, 
+	float^ radius
+)Parameters
+center
+Type: robotManager.Helpful..::..Vector3
+The center.
+radius
+Type: Single
+The radius.
+Return Value
+Vector3.
+See Also
+
+
+Math Class
+GetRandomPointInCircle Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

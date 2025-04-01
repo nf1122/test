@@ -1,0 +1,36 @@
+WRobot
+
+Extensions..::..TerminateAllThreads Method 
+Terminates all threads of external process. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void TerminateAllThreads(
+	this Process process,
+	List<int> ignores
+)<ExtensionAttribute> _
+Public Shared Sub TerminateAllThreads ( _
+	process As Process, _
+	ignores As List(Of Integer) _
+)[ExtensionAttribute]
+public:
+static void TerminateAllThreads(
+	Process^ process, 
+	List<int^>^ ignores
+)Parameters
+process
+Type: Process
+The process.
+ignores
+Type: List<(Of <(<'Int32>)>)>
+The thead IDs to ignores.
+See Also
+
+
+Extensions Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

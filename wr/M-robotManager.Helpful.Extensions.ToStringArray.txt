@@ -1,0 +1,32 @@
+WRobot
+
+Extensions..::..ToStringArray Method 
+Converts to string array (by line). 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string[] ToStringArray(
+	this StringBuilder thisT
+)<ExtensionAttribute> _
+Public Shared Function ToStringArray ( _
+	thisT As StringBuilder _
+) As String()[ExtensionAttribute]
+public:
+static array<String^>^ ToStringArray(
+	StringBuilder^ thisT
+)Parameters
+thisT
+Type: StringBuilder
+The this t.
+Return Value
+System.String[].
+See Also
+
+
+Extensions Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

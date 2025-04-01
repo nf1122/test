@@ -1,0 +1,34 @@
+WRobot
+
+Logging..::..WriteError Method 
+Write error log. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void WriteError(
+	string text,
+	bool skipThreadAbortExceptionError
+)Public Shared Sub WriteError ( _
+	text As String, _
+	skipThreadAbortExceptionError As Boolean _
+)public:
+static void WriteError(
+	String^ text, 
+	bool^ skipThreadAbortExceptionError
+)Parameters
+text
+Type: String
+The text.
+skipThreadAbortExceptionError
+Type: Boolean
+if set to true [skip thread abort exception error].
+See Also
+
+
+Logging Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

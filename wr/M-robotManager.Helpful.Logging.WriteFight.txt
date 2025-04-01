@@ -1,0 +1,28 @@
+WRobot
+
+Logging..::..WriteFight Method 
+Write fight log. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void WriteFight(
+	string text
+)Public Shared Sub WriteFight ( _
+	text As String _
+)public:
+static void WriteFight(
+	String^ text
+)Parameters
+text
+Type: String
+The text.
+See Also
+
+
+Logging Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

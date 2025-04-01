@@ -1,0 +1,37 @@
+WRobot
+
+Math..::..GetAngle Method (Single, Single)
+Return Angle to pos x =0 z = 0. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static float GetAngle(
+	float x,
+	float y
+)Public Shared Function GetAngle ( _
+	x As Single, _
+	y As Single _
+) As Singlepublic:
+static float^ GetAngle(
+	float^ x, 
+	float^ y
+)Parameters
+x
+Type: Single
+The x.
+y
+Type: Single
+The y.
+Return Value
+Angle.
+See Also
+
+
+Math Class
+GetAngle Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

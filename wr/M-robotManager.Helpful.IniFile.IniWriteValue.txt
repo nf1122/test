@@ -1,0 +1,40 @@
+WRobot
+
+IniFile..::..IniWriteValue Method 
+Write Data to the INI File 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public void IniWriteValue(
+	string section,
+	string key,
+	string value
+)Public Sub IniWriteValue ( _
+	section As String, _
+	key As String, _
+	value As String _
+)public:
+void IniWriteValue(
+	String^ section, 
+	String^ key, 
+	String^ value
+)Parameters
+section
+Type: String
+The section.
+key
+Type: String
+The key.
+value
+Type: String
+The value.
+See Also
+
+
+IniFile Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+Logging..::..NewFile Method 
+Create new file. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void NewFile()Public Shared Sub NewFilepublic:
+static void NewFile()
+See Also
+
+
+Logging Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

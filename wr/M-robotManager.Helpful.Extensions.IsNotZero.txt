@@ -1,0 +1,32 @@
+WRobot
+
+Extensions..::..IsNotZero Method 
+Determines if the value is not zero. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsNotZero(
+	this ulong thisT
+)<ExtensionAttribute> _
+Public Shared Function IsNotZero ( _
+	thisT As ULong _
+) As Boolean[ExtensionAttribute]
+public:
+static bool^ IsNotZero(
+	unsigned long long^ thisT
+)Parameters
+thisT
+Type: UInt64
+The this t.
+Return Value
+true if the value is not zero; otherwise, false.
+See Also
+
+
+Extensions Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

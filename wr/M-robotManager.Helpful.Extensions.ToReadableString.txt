@@ -1,0 +1,38 @@
+WRobot
+
+Extensions..::..ToReadableString Method 
+Converts to readable string result like "1 day, 10 hours, 30 minutes, 42 seconds". 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string ToReadableString(
+	this TimeSpan span,
+	bool showSecond
+)<ExtensionAttribute> _
+Public Shared Function ToReadableString ( _
+	span As TimeSpan, _
+	showSecond As Boolean _
+) As String[ExtensionAttribute]
+public:
+static String^ ToReadableString(
+	TimeSpan^ span, 
+	bool^ showSecond
+)Parameters
+span
+Type: TimeSpan
+The timespan.
+showSecond
+Type: Boolean
+if set to true to show seconds.
+Return Value
+System.String.
+See Also
+
+
+Extensions Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

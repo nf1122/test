@@ -1,0 +1,28 @@
+WRobot
+
+Logging..::..WriteDebugDev Method 
+Write the debug dev log. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void WriteDebugDev(
+	string text
+)Public Shared Sub WriteDebugDev ( _
+	text As String _
+)public:
+static void WriteDebugDev(
+	String^ text
+)Parameters
+text
+Type: String
+The text.
+See Also
+
+
+Logging Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

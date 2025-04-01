@@ -1,0 +1,36 @@
+WRobot
+
+IniFile..::..IniReadValue Method 
+Read Data Value From the Ini File 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public string IniReadValue(
+	string section,
+	string key
+)Public Function IniReadValue ( _
+	section As String, _
+	key As String _
+) As Stringpublic:
+String^ IniReadValue(
+	String^ section, 
+	String^ key
+)Parameters
+section
+Type: String
+The section.
+key
+Type: String
+The key.
+Return Value
+System.String.
+See Also
+
+
+IniFile Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

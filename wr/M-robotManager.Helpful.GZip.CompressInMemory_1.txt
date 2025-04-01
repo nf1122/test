@@ -1,0 +1,31 @@
+WRobot
+
+GZip..::..CompressInMemory Method (array<Byte>[]()[][])
+Compress the specified file. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static byte[] CompressInMemory(
+	byte[] file
+)Public Shared Function CompressInMemory ( _
+	file As Byte() _
+) As Byte()public:
+static array<unsigned char^>^ CompressInMemory(
+	array<unsigned char^>^ file
+)Parameters
+file
+Type: array<Byte>[]()[][]
+file.
+Return Value
+file bytes.
+See Also
+
+
+GZip Class
+CompressInMemory Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

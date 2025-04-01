@@ -1,0 +1,36 @@
+WRobot
+
+Extensions..::..Serialize<(Of <(<'T>)>)> Method 
+Serializes the specified class (to Xml). 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string Serialize<T>(
+	this T thisT
+)
+<ExtensionAttribute> _
+Public Shared Function Serialize(Of T) ( _
+	thisT As T _
+) As String[ExtensionAttribute]
+public:
+generic<typename T>
+static String^ Serialize(
+	T thisT
+)Type Parameters
+T
+Parameters
+thisT
+Type: T
+The serializable class.
+Return Value
+System.String.
+See Also
+
+
+Extensions Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

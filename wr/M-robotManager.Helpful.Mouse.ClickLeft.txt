@@ -1,0 +1,19 @@
+WRobot
+
+Mouse..::..ClickLeft Method 
+Click Left. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void ClickLeft()Public Shared Sub ClickLeftpublic:
+static void ClickLeft()
+See Also
+
+
+Mouse Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

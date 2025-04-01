@@ -1,0 +1,30 @@
+WRobot
+
+Math..::..RadianToDegree Method 
+Radian to degree 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static float RadianToDegree(
+	float radianValue
+)Public Shared Function RadianToDegree ( _
+	radianValue As Single _
+) As Singlepublic:
+static float^ RadianToDegree(
+	float^ radianValue
+)Parameters
+radianValue
+Type: Single
+The radian value.
+Return Value
+degree.
+See Also
+
+
+Math Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

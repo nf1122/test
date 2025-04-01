@@ -1,0 +1,31 @@
+WRobot
+
+Extensions..::..Translate Method (ContentControl)
+Translates the specified ContentControl (translate with Translate). 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Translate(
+	this ContentControl thisT
+)<ExtensionAttribute> _
+Public Shared Sub Translate ( _
+	thisT As ContentControl _
+)[ExtensionAttribute]
+public:
+static void Translate(
+	ContentControl^ thisT
+)Parameters
+thisT
+Type: ContentControl
+The wpf control to translate.
+See Also
+
+
+Extensions Class
+Translate Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

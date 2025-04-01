@@ -1,0 +1,32 @@
+WRobot
+
+Extensions..::..IsScrolledToEnd Method 
+Determines whether wpf TextBoxBase is scrolled to bottom. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsScrolledToEnd(
+	this TextBoxBase textBoxBase
+)<ExtensionAttribute> _
+Public Shared Function IsScrolledToEnd ( _
+	textBoxBase As TextBoxBase _
+) As Boolean[ExtensionAttribute]
+public:
+static bool^ IsScrolledToEnd(
+	TextBoxBase^ textBoxBase
+)Parameters
+textBoxBase
+Type: TextBoxBase
+The TextBoxBase.
+Return Value
+true if is scrolled to end; otherwise, false.
+See Also
+
+
+Extensions Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

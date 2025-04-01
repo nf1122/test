@@ -1,0 +1,42 @@
+WRobot
+
+Math..::..Clamp Method 
+Returns value clamped to the inclusive range of min and max. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static float Clamp(
+	float f,
+	float Min,
+	float Max
+)Public Shared Function Clamp ( _
+	f As Single, _
+	Min As Single, _
+	Max As Single _
+) As Singlepublic:
+static float^ Clamp(
+	float^ f, 
+	float^ Min, 
+	float^ Max
+)Parameters
+f
+Type: Single
+The value.
+Min
+Type: Single
+Determines the minimum value.
+Max
+Type: Single
+Determines the maximum value.
+Return Value
+value clamped.
+See Also
+
+
+Math Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

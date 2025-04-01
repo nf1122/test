@@ -1,0 +1,36 @@
+WRobot
+
+Math..::..NearestVector3OfListVectors3 Method 
+Find the nearest position in the list of positions (return a id). 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static int NearestVector3OfListVectors3(
+	List<Vector3> listVector3,
+	Vector3 Vector3
+)Public Shared Function NearestVector3OfListVectors3 ( _
+	listVector3 As List(Of Vector3), _
+	Vector3 As Vector3 _
+) As Integerpublic:
+static int^ NearestVector3OfListVectors3(
+	List<Vector3^>^ listVector3, 
+	Vector3^ Vector3
+)Parameters
+listVector3
+Type: List<(Of <(<'Vector3>)>)>
+The list positions.
+Vector3
+Type: robotManager.Helpful..::..Vector3
+The position.
+Return Value
+list index of nearest position.
+See Also
+
+
+Math Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

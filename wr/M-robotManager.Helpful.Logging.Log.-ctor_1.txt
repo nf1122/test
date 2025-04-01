@@ -1,0 +1,41 @@
+WRobot
+
+Log Constructor (String, LogType, Color)
+Initializes a new instance of the Logging..::..Log class. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public Log(
+	string text,
+	Logging..::..LogType logType,
+	Color color
+)Public Sub New ( _
+	text As String, _
+	logType As Logging..::..LogType, _
+	color As Color _
+)public:
+Log(
+	String^ text, 
+	Logging..::..LogType^ logType, 
+	Color^ color
+)Parameters
+text
+Type: String
+The text.
+logType
+Type: robotManager.Helpful..::..Logging..::..LogType
+Type of the log.
+color
+Type: Color
+The color.
+See Also
+
+
+Logging..::..Log Class
+Logging..::..Log Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,41 @@
+WRobot
+
+Logging..::..Write Method (String, LogType, Color)
+Write the specified text. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Write(
+	string text,
+	Logging..::..LogType logType,
+	Color color
+)Public Shared Sub Write ( _
+	text As String, _
+	logType As Logging..::..LogType, _
+	color As Color _
+)public:
+static void Write(
+	String^ text, 
+	Logging..::..LogType^ logType, 
+	Color^ color
+)Parameters
+text
+Type: String
+The text.
+logType
+Type: robotManager.Helpful..::..Logging..::..LogType
+Type of the log.
+color
+Type: Color
+The color.
+See Also
+
+
+Logging Class
+Write Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

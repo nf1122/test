@@ -1,0 +1,36 @@
+WRobot
+
+Math..::..TargetFacingToRadian Method 
+Facing position B from A radian. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static float TargetFacingToRadian(
+	Vector3 start,
+	Vector3 faceTarget
+)Public Shared Function TargetFacingToRadian ( _
+	start As Vector3, _
+	faceTarget As Vector3 _
+) As Singlepublic:
+static float^ TargetFacingToRadian(
+	Vector3^ start, 
+	Vector3^ faceTarget
+)Parameters
+start
+Type: robotManager.Helpful..::..Vector3
+position A.
+faceTarget
+Type: robotManager.Helpful..::..Vector3
+position B.
+Return Value
+radian facing.
+See Also
+
+
+Math Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

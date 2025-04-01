@@ -1,0 +1,31 @@
+WRobot
+
+Logging..::..ReadList Method (LogType)
+Read all logs list by type. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<Logging..::..Log> ReadList(
+	Logging..::..LogType logType
+)Public Shared Function ReadList ( _
+	logType As Logging..::..LogType _
+) As List(Of Logging..::..Log)public:
+static List<Logging..::..Log^>^ ReadList(
+	Logging..::..LogType^ logType
+)Parameters
+logType
+Type: robotManager.Helpful..::..Logging..::..LogType
+Type of the log.
+Return Value
+List.
+See Also
+
+
+Logging Class
+ReadList Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

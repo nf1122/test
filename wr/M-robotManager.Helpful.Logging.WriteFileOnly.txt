@@ -1,0 +1,28 @@
+WRobot
+
+Logging..::..WriteFileOnly Method 
+Write file only log (no show in LoggingUserControl). 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void WriteFileOnly(
+	string text
+)Public Shared Sub WriteFileOnly ( _
+	text As String _
+)public:
+static void WriteFileOnly(
+	String^ text
+)Parameters
+text
+Type: String
+The text.
+See Also
+
+
+Logging Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

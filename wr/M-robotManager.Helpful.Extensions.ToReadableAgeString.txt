@@ -1,0 +1,32 @@
+WRobot
+
+Extensions..::..ToReadableAgeString Method 
+Converts to readable age (in years) string. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string ToReadableAgeString(
+	this TimeSpan span
+)<ExtensionAttribute> _
+Public Shared Function ToReadableAgeString ( _
+	span As TimeSpan _
+) As String[ExtensionAttribute]
+public:
+static String^ ToReadableAgeString(
+	TimeSpan^ span
+)Parameters
+span
+Type: TimeSpan
+The span.
+Return Value
+System.String.
+See Also
+
+
+Extensions Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 
