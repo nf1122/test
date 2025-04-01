@@ -1,0 +1,23 @@
+WRobot
+
+WoWItem..::..Name Property 
+Gets the name. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string Name { get; }Public ReadOnly Property Name As String
+	Getpublic:
+property String^ Name {
+	String^ get ();
+}Field Value
+The name.
+See Also
+
+
+WoWItem Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

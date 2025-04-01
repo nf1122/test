@@ -1,0 +1,25 @@
+WRobot
+
+ObjectManager..::..ObjectList Property 
+Gets the objects list. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWObject> ObjectList { get; set; }Public Shared Property ObjectList As List(Of WoWObject)
+	Get
+	Setpublic:
+static property List<WoWObject^>^ ObjectList {
+	List<WoWObject^>^ get ();
+	void set (List<WoWObject^>^ value);
+}Field Value
+The objects list.
+See Also
+
+
+ObjectManager Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

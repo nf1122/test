@@ -1,0 +1,23 @@
+WRobot
+
+Usefuls..::..LastHardwareAction Property 
+Gets the last hardware action. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static ulong LastHardwareAction { get; }Public Shared ReadOnly Property LastHardwareAction As ULong
+	Getpublic:
+static property unsigned long long^ LastHardwareAction {
+	unsigned long long^ get ();
+}Field Value
+The last hardware action.
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

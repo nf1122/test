@@ -1,0 +1,23 @@
+WRobot
+
+WoWGameObject..::..ParentRotation Property 
+Gets the Parent Rotation. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float ParentRotation { get; }Public ReadOnly Property ParentRotation As Single
+	Getpublic:
+property float^ ParentRotation {
+	float^ get ();
+}Field Value
+The Parent Rotation.
+See Also
+
+
+WoWGameObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

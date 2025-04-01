@@ -1,0 +1,23 @@
+WRobot
+
+WoWGameObject..::..IsGoodInteractDistance Property 
+Gets a value indicating whether is good interact distance. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsGoodInteractDistance { get; }Public ReadOnly Property IsGoodInteractDistance As Boolean
+	Getpublic:
+property bool^ IsGoodInteractDistance {
+	bool^ get ();
+}Field Value
+true if is good interact distance; otherwise, false.
+See Also
+
+
+WoWGameObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

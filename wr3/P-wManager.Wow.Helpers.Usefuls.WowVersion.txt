@@ -1,0 +1,23 @@
+WRobot
+
+Usefuls..::..WowVersion Property 
+Gets game build (extract from WowVersionString(Memory), value like "12340"). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static uint WowVersion { get; }Public Shared ReadOnly Property WowVersion As UInteger
+	Getpublic:
+static property unsigned int^ WowVersion {
+	unsigned int^ get ();
+}Return Value
+the game build.
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

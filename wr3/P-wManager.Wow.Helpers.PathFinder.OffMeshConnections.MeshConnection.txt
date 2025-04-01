@@ -1,0 +1,25 @@
+WRobot
+
+OffMeshConnections..::..MeshConnection Property 
+Get or set offmeshconnections (to use use Add(PathFinder..::..OffMeshConnection, Boolean) or AddRange(List<(Of <<'(PathFinder..::..OffMeshConnection>)>>), Boolean)). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<PathFinder..::..OffMeshConnection> MeshConnection { get; set; }Public Shared Property MeshConnection As List(Of PathFinder..::..OffMeshConnection)
+	Get
+	Setpublic:
+static property List<PathFinder..::..OffMeshConnection^>^ MeshConnection {
+	List<PathFinder..::..OffMeshConnection^>^ get ();
+	void set (List<PathFinder..::..OffMeshConnection^>^ value);
+}Field Value
+The offmeshconnections.
+See Also
+
+
+PathFinder..::..OffMeshConnections Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

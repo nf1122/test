@@ -1,0 +1,23 @@
+WRobot
+
+WoWGameObject..::..GetDistanceZ Property 
+Gets the distance z (from local player). 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float GetDistanceZ { get; }Public ReadOnly Property GetDistanceZ As Single
+	Getpublic:
+property float^ GetDistanceZ {
+	float^ get ();
+}Field Value
+The distance z.
+See Also
+
+
+WoWGameObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

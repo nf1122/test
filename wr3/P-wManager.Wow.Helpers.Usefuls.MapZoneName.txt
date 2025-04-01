@@ -1,0 +1,23 @@
+WRobot
+
+Usefuls..::..MapZoneName Property 
+Gets the name of the map zone. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string MapZoneName { get; }Public Shared ReadOnly Property MapZoneName As String
+	Getpublic:
+static property String^ MapZoneName {
+	String^ get ();
+}Field Value
+The name of the map zone.
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

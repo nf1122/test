@@ -1,0 +1,23 @@
+WRobot
+
+WoWGameObject..::..Data8 Property 
+Gets the data8. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint Data8 { get; }Public ReadOnly Property Data8 As UInteger
+	Getpublic:
+property unsigned int^ Data8 {
+	unsigned int^ get ();
+}Field Value
+The data8.
+See Also
+
+
+WoWGameObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

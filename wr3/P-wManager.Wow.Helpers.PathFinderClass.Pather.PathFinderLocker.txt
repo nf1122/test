@@ -1,0 +1,23 @@
+WRobot
+
+Pather..::..PathFinderLocker Property 
+Get the path finder locker. 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Object PathFinderLocker { get; }Public Shared ReadOnly Property PathFinderLocker As Object
+	Getpublic:
+static property Object^ PathFinderLocker {
+	Object^ get ();
+}Field Value
+The path finder locker.
+See Also
+
+
+Pather Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

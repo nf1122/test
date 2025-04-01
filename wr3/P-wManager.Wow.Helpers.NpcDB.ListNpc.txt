@@ -1,0 +1,25 @@
+WRobot
+
+NpcDB..::..ListNpc Property 
+Get or set the NPCs list (it is better to use AddNpc(Npc, Boolean, Boolean) or AddNpcRange(List<(Of <<'(Npc>)>>), Boolean, Boolean) to add NPC). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<Npc> ListNpc { get; set; }Public Shared Property ListNpc As List(Of Npc)
+	Get
+	Setpublic:
+static property List<Npc^>^ ListNpc {
+	List<Npc^>^ get ();
+	void set (List<Npc^>^ value);
+}Field Value
+The list NPC.
+See Also
+
+
+NpcDB Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

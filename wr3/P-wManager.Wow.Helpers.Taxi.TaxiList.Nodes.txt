@@ -1,0 +1,25 @@
+WRobot
+
+TaxiList..::..Nodes Property 
+Gets or sets the nodes. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<TaxiNode> Nodes { get; set; }Public Shared Property Nodes As List(Of TaxiNode)
+	Get
+	Setpublic:
+static property List<TaxiNode^>^ Nodes {
+	List<TaxiNode^>^ get ();
+	void set (List<TaxiNode^>^ value);
+}Field Value
+The nodes.
+See Also
+
+
+Taxi..::..TaxiList Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

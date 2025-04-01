@@ -1,0 +1,23 @@
+WRobot
+
+PetBattles..::..IsInBattle Property 
+Gets a value indicating whether is in battle. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsInBattle { get; }Public Shared ReadOnly Property IsInBattle As Boolean
+	Getpublic:
+static property bool^ IsInBattle {
+	bool^ get ();
+}Field Value
+true if is in battle; otherwise, false.
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

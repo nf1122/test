@@ -1,0 +1,23 @@
+WRobot
+
+Usefuls..::..ContinentId Property 
+Gets the continent id. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int ContinentId { get; }Public Shared ReadOnly Property ContinentId As Integer
+	Getpublic:
+static property int^ ContinentId {
+	int^ get ();
+}Field Value
+The continent id.
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,23 @@
+WRobot
+
+WoWGameObject..::..CreatedBy Property 
+Gets creator GUID. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public ulong CreatedBy { get; }Public ReadOnly Property CreatedBy As ULong
+	Getpublic:
+property unsigned long long^ CreatedBy {
+	unsigned long long^ get ();
+}Field Value
+The created by.
+See Also
+
+
+WoWGameObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

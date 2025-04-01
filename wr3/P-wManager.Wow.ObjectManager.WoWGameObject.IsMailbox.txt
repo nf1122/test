@@ -1,0 +1,23 @@
+WRobot
+
+WoWGameObject..::..IsMailbox Property 
+Gets a value indicating whether is mailbox. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsMailbox { get; }Public ReadOnly Property IsMailbox As Boolean
+	Getpublic:
+property bool^ IsMailbox {
+	bool^ get ();
+}Field Value
+true if is mailbox; otherwise, false.
+See Also
+
+
+WoWGameObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

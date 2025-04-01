@@ -1,0 +1,23 @@
+WRobot
+
+WoWLocalPlayer..::..CanMove Property 
+Gets a value indicating whether can move (!IsCast && !Influenced && !IsStunned && !IsOnTaxi). 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool CanMove { get; }Public ReadOnly Property CanMove As Boolean
+	Getpublic:
+property bool^ CanMove {
+	bool^ get ();
+}Field Value
+true if can move; otherwise, false.
+See Also
+
+
+WoWLocalPlayer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

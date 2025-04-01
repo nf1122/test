@@ -1,0 +1,25 @@
+WRobot
+
+ObjectManager..::..ObjectDictionary Property 
+Gets or sets the objects dictionary. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Dictionary<ulong, WoWObject> ObjectDictionary { get; set; }Public Shared Property ObjectDictionary As Dictionary(Of ULong, WoWObject)
+	Get
+	Setpublic:
+static property Dictionary<unsigned long long^, WoWObject^>^ ObjectDictionary {
+	Dictionary<unsigned long long^, WoWObject^>^ get ();
+	void set (Dictionary<unsigned long long^, WoWObject^>^ value);
+}Field Value
+The objects dictionary.
+See Also
+
+
+ObjectManager Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

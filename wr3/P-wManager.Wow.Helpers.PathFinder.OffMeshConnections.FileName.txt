@@ -1,0 +1,23 @@
+WRobot
+
+OffMeshConnections..::..FileName Property 
+Get the name file (where MeshConnection is saved, by default "WRobot\Data\OffMeshConnections.xml"). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string FileName { get; }Public Shared ReadOnly Property FileName As String
+	Getpublic:
+static property String^ FileName {
+	String^ get ();
+}Field Value
+The file name.
+See Also
+
+
+PathFinder..::..OffMeshConnections Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

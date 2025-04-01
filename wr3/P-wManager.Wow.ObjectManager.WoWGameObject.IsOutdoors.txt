@@ -1,0 +1,23 @@
+WRobot
+
+WoWGameObject..::..IsOutdoors Property 
+Gets a value indicating whether is outdoors. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsOutdoors { get; }Public ReadOnly Property IsOutdoors As Boolean
+	Getpublic:
+property bool^ IsOutdoors {
+	bool^ get ();
+}Field Value
+true if is outdoors; otherwise, false.
+See Also
+
+
+WoWGameObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,21 @@
+WRobot
+
+ObjectManager..::..ObjectManagerAddress Property 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static uint ObjectManagerAddress { get; }Public Shared ReadOnly Property ObjectManagerAddress As UInteger
+	Getpublic:
+static property unsigned int^ ObjectManagerAddress {
+	unsigned int^ get ();
+}
+See Also
+
+
+ObjectManager Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

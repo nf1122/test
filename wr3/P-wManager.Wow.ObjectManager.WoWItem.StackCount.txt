@@ -1,0 +1,23 @@
+WRobot
+
+WoWItem..::..StackCount Property 
+Gets stack count. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int StackCount { get; }Public ReadOnly Property StackCount As Integer
+	Getpublic:
+property int^ StackCount {
+	int^ get ();
+}Field Value
+The stack count.
+See Also
+
+
+WoWItem Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

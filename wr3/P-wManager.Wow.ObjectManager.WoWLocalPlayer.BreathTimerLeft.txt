@@ -1,0 +1,23 @@
+WRobot
+
+WoWLocalPlayer..::..BreathTimerLeft Property 
+Gets the breath timer left. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int BreathTimerLeft { get; }Public ReadOnly Property BreathTimerLeft As Integer
+	Getpublic:
+property int^ BreathTimerLeft {
+	int^ get ();
+}Field Value
+The breath timer left.
+See Also
+
+
+WoWLocalPlayer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,23 @@
+WRobot
+
+WoWGameObject..::..CanOpen Property 
+Gets a value indicating whether can open. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool CanOpen { get; }Public ReadOnly Property CanOpen As Boolean
+	Getpublic:
+property bool^ CanOpen {
+	bool^ get ();
+}Field Value
+true if can open; otherwise, false.
+See Also
+
+
+WoWGameObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

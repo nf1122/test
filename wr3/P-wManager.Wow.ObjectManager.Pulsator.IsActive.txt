@@ -1,0 +1,23 @@
+WRobot
+
+Pulsator..::..IsActive Property 
+ObjectManager Active. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsActive { get; }Public Shared ReadOnly Property IsActive As Boolean
+	Getpublic:
+static property bool^ IsActive {
+	bool^ get ();
+}Field Value
+true if this instance is active; otherwise, false.
+See Also
+
+
+Pulsator Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

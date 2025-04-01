@@ -1,0 +1,23 @@
+WRobot
+
+Usefuls..::..Latency Property 
+Gets the latency (between LatencyMax and LatencyMin, to get real latency use LatencyReal). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int Latency { get; }Public Shared ReadOnly Property Latency As Integer
+	Getpublic:
+static property int^ Latency {
+	int^ get ();
+}Field Value
+The latency.
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

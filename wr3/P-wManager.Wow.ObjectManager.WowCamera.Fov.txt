@@ -1,0 +1,23 @@
+WRobot
+
+WowCamera..::..Fov Property 
+Gets the fov. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float Fov { get; }Public ReadOnly Property Fov As Single
+	Getpublic:
+property float^ Fov {
+	float^ get ();
+}Field Value
+The fov.
+See Also
+
+
+WowCamera Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

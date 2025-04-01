@@ -1,0 +1,23 @@
+WRobot
+
+MovementManager..::..StuckCount Property 
+Get number of stuck 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int StuckCount { get; }Public Shared ReadOnly Property StuckCount As Integer
+	Getpublic:
+static property int^ StuckCount {
+	int^ get ();
+}Field Value
+The stuck count.
+See Also
+
+
+MovementManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

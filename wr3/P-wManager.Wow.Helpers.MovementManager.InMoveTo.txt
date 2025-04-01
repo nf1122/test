@@ -1,0 +1,23 @@
+WRobot
+
+MovementManager..::..InMoveTo Property 
+Get if character use MoveTo(Vector3). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool InMoveTo { get; }Public Shared ReadOnly Property InMoveTo As Boolean
+	Getpublic:
+static property bool^ InMoveTo {
+	bool^ get ();
+}Field Value
+true if the player is in MoveTo(Vector3); otherwise, false .
+See Also
+
+
+MovementManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

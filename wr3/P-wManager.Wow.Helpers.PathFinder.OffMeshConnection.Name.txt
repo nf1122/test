@@ -1,0 +1,25 @@
+WRobot
+
+OffMeshConnection..::..Name Property 
+Get or set the name (description). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string Name { get; set; }Public Property Name As String
+	Get
+	Setpublic:
+property String^ Name {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The name.
+See Also
+
+
+PathFinder..::..OffMeshConnection Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

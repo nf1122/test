@@ -1,0 +1,23 @@
+WRobot
+
+WowCamera..::..ProjectionMatrix Property 
+Gets the projection matrix. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Matrix ProjectionMatrix { get; }Public ReadOnly Property ProjectionMatrix As Matrix
+	Getpublic:
+property Matrix^ ProjectionMatrix {
+	Matrix^ get ();
+}Field Value
+The projection matrix.
+See Also
+
+
+WowCamera Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

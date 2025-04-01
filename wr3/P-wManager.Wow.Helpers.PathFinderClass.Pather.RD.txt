@@ -1,0 +1,23 @@
+WRobot
+
+Pather..::..RD Property 
+Get rd instance. 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public RD RD { get; }Public ReadOnly Property RD As RD
+	Getpublic:
+property RD^ RD {
+	RD^ get ();
+}Field Value
+The rd.
+See Also
+
+
+Pather Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

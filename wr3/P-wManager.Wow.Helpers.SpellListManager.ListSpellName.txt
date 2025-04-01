@@ -1,0 +1,25 @@
+WRobot
+
+SpellListManager..::..ListSpellName Property 
+Gets the names of spells (in English). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<string> ListSpellName { get; set; }Public Shared Property ListSpellName As List(Of String)
+	Get
+	Setpublic:
+static property List<String^>^ ListSpellName {
+	List<String^>^ get ();
+	void set (List<String^>^ value);
+}Field Value
+list of spells names.
+See Also
+
+
+SpellListManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

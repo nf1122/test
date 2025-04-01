@@ -1,0 +1,23 @@
+WRobot
+
+MovementManager..::..IsUnStuck Property 
+Return true if unstuck is in progress 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsUnStuck { get; }Public Shared ReadOnly Property IsUnStuck As Boolean
+	Getpublic:
+static property bool^ IsUnStuck {
+	bool^ get ();
+}Field Value
+true if unstuck is in progress; otherwise, false.
+See Also
+
+
+MovementManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

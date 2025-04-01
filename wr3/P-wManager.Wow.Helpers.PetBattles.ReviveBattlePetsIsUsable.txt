@@ -1,0 +1,23 @@
+WRobot
+
+PetBattles..::..ReviveBattlePetsIsUsable Property 
+Gets a value indicating whether revive battle pets is usable. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ReviveBattlePetsIsUsable { get; }Public Shared ReadOnly Property ReviveBattlePetsIsUsable As Boolean
+	Getpublic:
+static property bool^ ReviveBattlePetsIsUsable {
+	bool^ get ();
+}Field Value
+true if revive battle pets is usable; otherwise, false.
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

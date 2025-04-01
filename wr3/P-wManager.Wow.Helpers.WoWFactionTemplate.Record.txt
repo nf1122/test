@@ -1,0 +1,31 @@
+WRobot
+
+WoWFactionTemplate..::..Record Property 
+Get record. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[CompilerGeneratedAttribute]
+[CompilerGeneratedAttribute]
+public WoWFactionTemplate..::..FactionTemplateDbcRecord Record { get; set; }<CompilerGeneratedAttribute> _
+<CompilerGeneratedAttribute> _
+Public Property Record As WoWFactionTemplate..::..FactionTemplateDbcRecord
+	Get
+	Set[CompilerGeneratedAttribute]
+[CompilerGeneratedAttribute]
+public:
+property WoWFactionTemplate..::..FactionTemplateDbcRecord^ Record {
+	WoWFactionTemplate..::..FactionTemplateDbcRecord^ get ();
+	void set (WoWFactionTemplate..::..FactionTemplateDbcRecord^ value);
+}Field Value
+The record.
+See Also
+
+
+WoWFactionTemplate Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,23 @@
+WRobot
+
+WowCamera..::..Position Property 
+Gets the position. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Vector3 Position { get; }Public ReadOnly Property Position As Vector3
+	Getpublic:
+property Vector3^ Position {
+	Vector3^ get ();
+}Field Value
+The position.
+See Also
+
+
+WowCamera Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

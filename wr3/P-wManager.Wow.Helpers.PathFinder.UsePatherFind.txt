@@ -1,0 +1,23 @@
+WRobot
+
+PathFinder..::..UsePatherFind Property 
+Enable or disable path finder. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool UsePatherFind { get; }Public Shared ReadOnly Property UsePatherFind As Boolean
+	Getpublic:
+static property bool^ UsePatherFind {
+	bool^ get ();
+}Field Value
+true if use pather finder; otherwise, false .
+See Also
+
+
+PathFinder Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

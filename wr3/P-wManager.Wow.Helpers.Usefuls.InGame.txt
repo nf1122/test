@@ -1,0 +1,23 @@
+WRobot
+
+Usefuls..::..InGame Property 
+Gets a value indicating whether in game (to be safe you need to check if not IsLoadingOrConnecting). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool InGame { get; }Public Shared ReadOnly Property InGame As Boolean
+	Getpublic:
+static property bool^ InGame {
+	bool^ get ();
+}Field Value
+true if in game; otherwise, false.
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

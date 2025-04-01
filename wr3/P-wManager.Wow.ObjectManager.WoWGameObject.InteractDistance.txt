@@ -1,0 +1,25 @@
+WRobot
+
+WoWGameObject..::..InteractDistance Property 
+Gets or sets the interact distance (memorized in InteractDistanceByEntry). 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float InteractDistance { get; set; }Public Property InteractDistance As Single
+	Get
+	Setpublic:
+property float^ InteractDistance {
+	float^ get ();
+	void set (float^ value);
+}Field Value
+The interact distance.
+See Also
+
+
+WoWGameObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

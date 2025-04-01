@@ -1,0 +1,23 @@
+WRobot
+
+WoWGameObject..::..IsIndoors Property 
+Gets a value indicating whether is indoors. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsIndoors { get; }Public ReadOnly Property IsIndoors As Boolean
+	Getpublic:
+property bool^ IsIndoors {
+	bool^ get ();
+}Field Value
+true if is indoors; otherwise, false.
+See Also
+
+
+WoWGameObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

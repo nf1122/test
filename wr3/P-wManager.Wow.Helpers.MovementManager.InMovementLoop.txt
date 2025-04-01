@@ -1,0 +1,23 @@
+WRobot
+
+MovementManager..::..InMovementLoop Property 
+Return true if the player is currently in move (GoLoop(List<(Of <<'(Vector3>)>>), Boolean, Int32)). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool InMovementLoop { get; }Public Shared ReadOnly Property InMovementLoop As Boolean
+	Getpublic:
+static property bool^ InMovementLoop {
+	bool^ get ();
+}Field Value
+true if in movement; otherwise, false .
+See Also
+
+
+MovementManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

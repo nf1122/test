@@ -1,0 +1,25 @@
+WRobot
+
+ObjectManager..::..Me Property 
+Gets local character. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static WoWLocalPlayer Me { get; set; }Public Shared Property Me As WoWLocalPlayer
+	Get
+	Setpublic:
+static property WoWLocalPlayer^ Me {
+	WoWLocalPlayer^ get ();
+	void set (WoWLocalPlayer^ value);
+}Field Value
+local character.
+See Also
+
+
+ObjectManager Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

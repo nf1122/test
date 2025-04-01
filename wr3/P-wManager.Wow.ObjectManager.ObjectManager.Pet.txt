@@ -1,0 +1,23 @@
+WRobot
+
+ObjectManager..::..Pet Property 
+Gets the pet. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static WoWUnit Pet { get; }Public Shared ReadOnly Property Pet As WoWUnit
+	Getpublic:
+static property WoWUnit^ Pet {
+	WoWUnit^ get ();
+}Field Value
+The pet.
+See Also
+
+
+ObjectManager Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

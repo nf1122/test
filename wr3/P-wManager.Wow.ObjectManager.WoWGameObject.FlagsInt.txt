@@ -1,0 +1,23 @@
+WRobot
+
+WoWGameObject..::..FlagsInt Property 
+Gets the Flags. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int FlagsInt { get; }Public ReadOnly Property FlagsInt As Integer
+	Getpublic:
+property int^ FlagsInt {
+	int^ get ();
+}Field Value
+The Flags.
+See Also
+
+
+WoWGameObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

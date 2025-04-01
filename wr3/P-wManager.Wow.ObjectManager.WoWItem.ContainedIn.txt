@@ -1,0 +1,23 @@
+WRobot
+
+WoWItem..::..ContainedIn Property 
+Gets the contained in. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public ulong ContainedIn { get; }Public ReadOnly Property ContainedIn As ULong
+	Getpublic:
+property unsigned long long^ ContainedIn {
+	unsigned long long^ get ();
+}Field Value
+The contained in.
+See Also
+
+
+WoWItem Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

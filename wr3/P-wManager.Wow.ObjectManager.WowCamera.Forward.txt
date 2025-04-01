@@ -1,0 +1,23 @@
+WRobot
+
+WowCamera..::..Forward Property 
+Gets the forward. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Vector3 Forward { get; }Public ReadOnly Property Forward As Vector3
+	Getpublic:
+property Vector3^ Forward {
+	Vector3^ get ();
+}Field Value
+The forward.
+See Also
+
+
+WowCamera Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

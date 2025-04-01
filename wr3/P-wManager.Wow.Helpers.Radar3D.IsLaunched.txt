@@ -1,0 +1,23 @@
+WRobot
+
+Radar3D..::..IsLaunched Property 
+Gets a value indicating whether this instance is launched. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsLaunched { get; }Public Shared ReadOnly Property IsLaunched As Boolean
+	Getpublic:
+static property bool^ IsLaunched {
+	bool^ get ();
+}Field Value
+true if this instance is launched; otherwise, false.
+See Also
+
+
+Radar3D Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

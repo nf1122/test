@@ -1,0 +1,23 @@
+WRobot
+
+Utility..::..RDSettings Property 
+generate the rd settings. 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static RDSettings RDSettings { get; }Public Shared ReadOnly Property RDSettings As RDSettings
+	Getpublic:
+static property RDSettings^ RDSettings {
+	RDSettings^ get ();
+}Field Value
+The rd settings.
+See Also
+
+
+Utility Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

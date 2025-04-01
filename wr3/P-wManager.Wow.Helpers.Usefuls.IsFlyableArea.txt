@@ -1,0 +1,23 @@
+WRobot
+
+Usefuls..::..IsFlyableArea Property 
+Gets a value indicating whether is flyable area (you can force value with ForceIsFlyableArea). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsFlyableArea { get; }Public Shared ReadOnly Property IsFlyableArea As Boolean
+	Getpublic:
+static property bool^ IsFlyableArea {
+	bool^ get ();
+}Field Value
+true if this is flyable area; otherwise, false.
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

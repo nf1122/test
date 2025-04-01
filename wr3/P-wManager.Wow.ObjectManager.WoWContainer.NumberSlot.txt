@@ -1,0 +1,23 @@
+WRobot
+
+WoWContainer..::..NumberSlot Property 
+Gets the number of slot. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int NumberSlot { get; }Public ReadOnly Property NumberSlot As Integer
+	Getpublic:
+property int^ NumberSlot {
+	int^ get ();
+}Field Value
+The number of slot.
+See Also
+
+
+WoWContainer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

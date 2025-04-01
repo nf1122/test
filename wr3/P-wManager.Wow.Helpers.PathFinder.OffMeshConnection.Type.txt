@@ -1,0 +1,25 @@
+WRobot
+
+OffMeshConnection..::..Type Property 
+Get or set the type. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public PathFinder..::..OffMeshConnectionType Type { get; set; }Public Property Type As PathFinder..::..OffMeshConnectionType
+	Get
+	Setpublic:
+property PathFinder..::..OffMeshConnectionType^ Type {
+	PathFinder..::..OffMeshConnectionType^ get ();
+	void set (PathFinder..::..OffMeshConnectionType^ value);
+}Field Value
+The type.
+See Also
+
+
+PathFinder..::..OffMeshConnection Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

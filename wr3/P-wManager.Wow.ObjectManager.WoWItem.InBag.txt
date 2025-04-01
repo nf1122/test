@@ -1,0 +1,21 @@
+WRobot
+
+WoWItem..::..InBag Property 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool InBag { get; }Public ReadOnly Property InBag As Boolean
+	Getpublic:
+property bool^ InBag {
+	bool^ get ();
+}
+See Also
+
+
+WoWItem Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

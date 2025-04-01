@@ -1,0 +1,23 @@
+WRobot
+
+WoWItem..::..GetItemInfo Property 
+Gets the item information. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public ItemInfo GetItemInfo { get; }Public ReadOnly Property GetItemInfo As ItemInfo
+	Getpublic:
+property ItemInfo^ GetItemInfo {
+	ItemInfo^ get ();
+}Field Value
+The item information.
+See Also
+
+
+WoWItem Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

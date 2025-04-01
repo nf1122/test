@@ -1,0 +1,23 @@
+WRobot
+
+WoWGameObject..::..SkillLineRequired Property 
+Gets the skill line required. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public SkillLine SkillLineRequired { get; }Public ReadOnly Property SkillLineRequired As SkillLine
+	Getpublic:
+property SkillLine^ SkillLineRequired {
+	SkillLine^ get ();
+}Field Value
+The skill line required.
+See Also
+
+
+WoWGameObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

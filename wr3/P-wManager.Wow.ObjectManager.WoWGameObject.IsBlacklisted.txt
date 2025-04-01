@@ -1,0 +1,23 @@
+WRobot
+
+WoWGameObject..::..IsBlacklisted Property 
+Gets a value indicating whether this object is blacklisted (IsBlackListedAllConditions(WoWUnit)). 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsBlacklisted { get; }Public ReadOnly Property IsBlacklisted As Boolean
+	Getpublic:
+property bool^ IsBlacklisted {
+	bool^ get ();
+}Field Value
+true if is blacklisted; otherwise, false.
+See Also
+
+
+WoWGameObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

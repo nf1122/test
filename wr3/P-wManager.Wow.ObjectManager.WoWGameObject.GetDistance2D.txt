@@ -1,0 +1,23 @@
+WRobot
+
+WoWGameObject..::..GetDistance2D Property 
+Gets the distance 2d (from local player). 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float GetDistance2D { get; }Public ReadOnly Property GetDistance2D As Single
+	Getpublic:
+property float^ GetDistance2D {
+	float^ get ();
+}Field Value
+The distance 2d.
+See Also
+
+
+WoWGameObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

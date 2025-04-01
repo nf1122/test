@@ -1,0 +1,23 @@
+WRobot
+
+WoWItem..::..IsEquippableItem Property 
+Gets a value indicating whether is equippable item. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsEquippableItem { get; }Public ReadOnly Property IsEquippableItem As Boolean
+	Getpublic:
+property bool^ IsEquippableItem {
+	bool^ get ();
+}Field Value
+true if is equippable item; otherwise, false.
+See Also
+
+
+WoWItem Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

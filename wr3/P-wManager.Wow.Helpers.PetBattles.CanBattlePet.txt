@@ -1,0 +1,23 @@
+WRobot
+
+PetBattles..::..CanBattlePet Property 
+Gets a value indicating whether can battle pet. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool CanBattlePet { get; }Public Shared ReadOnly Property CanBattlePet As Boolean
+	Getpublic:
+static property bool^ CanBattlePet {
+	bool^ get ();
+}Field Value
+true if can battle pet; otherwise, false.
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

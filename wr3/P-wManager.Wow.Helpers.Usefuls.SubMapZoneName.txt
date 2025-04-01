@@ -1,0 +1,23 @@
+WRobot
+
+Usefuls..::..SubMapZoneName Property 
+Gets the name of the sub map zone. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string SubMapZoneName { get; }Public Shared ReadOnly Property SubMapZoneName As String
+	Getpublic:
+static property String^ SubMapZoneName {
+	String^ get ();
+}Field Value
+The name of the sub map zone.
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

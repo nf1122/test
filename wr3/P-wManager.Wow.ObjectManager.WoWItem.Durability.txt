@@ -1,0 +1,23 @@
+WRobot
+
+WoWItem..::..Durability Property 
+Gets durability. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int Durability { get; }Public ReadOnly Property Durability As Integer
+	Getpublic:
+property int^ Durability {
+	int^ get ();
+}Field Value
+The durability.
+See Also
+
+
+WoWItem Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

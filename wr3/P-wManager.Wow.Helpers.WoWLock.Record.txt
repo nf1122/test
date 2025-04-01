@@ -1,0 +1,23 @@
+WRobot
+
+WoWLock..::..Record Property 
+Get record. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public WoWLock..::..LockDbcRecord Record { get; }Public ReadOnly Property Record As WoWLock..::..LockDbcRecord
+	Getpublic:
+property WoWLock..::..LockDbcRecord^ Record {
+	WoWLock..::..LockDbcRecord^ get ();
+}Field Value
+The record.
+See Also
+
+
+WoWLock Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

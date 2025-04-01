@@ -1,0 +1,23 @@
+WRobot
+
+Usefuls..::..ContinentNameMpq Property 
+Gets the continent name (file name). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string ContinentNameMpq { get; }Public Shared ReadOnly Property ContinentNameMpq As String
+	Getpublic:
+static property String^ ContinentNameMpq {
+	String^ get ();
+}Field Value
+The continent name (file name).
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

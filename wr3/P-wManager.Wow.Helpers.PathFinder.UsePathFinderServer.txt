@@ -1,0 +1,23 @@
+WRobot
+
+PathFinder..::..UsePathFinderServer Property 
+Get a value indicating whether use path finder from server. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool UsePathFinderServer { get; }Public Shared ReadOnly Property UsePathFinderServer As Boolean
+	Getpublic:
+static property bool^ UsePathFinderServer {
+	bool^ get ();
+}Field Value
+true if use path finder from server; otherwise, false.
+See Also
+
+
+PathFinder Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

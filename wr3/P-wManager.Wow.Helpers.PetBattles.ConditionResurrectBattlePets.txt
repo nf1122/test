@@ -1,0 +1,23 @@
+WRobot
+
+PetBattles..::..ConditionResurrectBattlePets Property 
+Gets a value indicating whether [condition resurrect battle pets]. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ConditionResurrectBattlePets { get; }Public Shared ReadOnly Property ConditionResurrectBattlePets As Boolean
+	Getpublic:
+static property bool^ ConditionResurrectBattlePets {
+	bool^ get ();
+}Field Value
+true if [condition resurrect battle pets]; otherwise, false.
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

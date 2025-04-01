@@ -1,0 +1,25 @@
+WRobot
+
+OffMeshConnection..::..Path Property 
+Get or set the path. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<Vector3> Path { get; set; }Public Property Path As List(Of Vector3)
+	Get
+	Setpublic:
+property List<Vector3^>^ Path {
+	List<Vector3^>^ get ();
+	void set (List<Vector3^>^ value);
+}Field Value
+The path.
+See Also
+
+
+PathFinder..::..OffMeshConnection Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

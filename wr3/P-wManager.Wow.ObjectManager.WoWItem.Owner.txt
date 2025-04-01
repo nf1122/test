@@ -1,0 +1,23 @@
+WRobot
+
+WoWItem..::..Owner Property 
+Gets the owner. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public ulong Owner { get; }Public ReadOnly Property Owner As ULong
+	Getpublic:
+property unsigned long long^ Owner {
+	unsigned long long^ get ();
+}Field Value
+The owner.
+See Also
+
+
+WoWItem Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

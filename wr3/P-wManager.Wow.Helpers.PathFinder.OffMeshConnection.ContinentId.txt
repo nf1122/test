@@ -1,0 +1,24 @@
+WRobot
+
+OffMeshConnection..::..ContinentId Property 
+Get or set the continent id (-1 to use on all continents). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int ContinentId { get; set; }Public Property ContinentId As Integer
+	Get
+	Setpublic:
+property int^ ContinentId {
+	int^ get ();
+	void set (int^ value);
+}
+See Also
+
+
+PathFinder..::..OffMeshConnection Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

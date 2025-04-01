@@ -1,0 +1,27 @@
+WRobot
+
+Usefuls..::..AreaId Property 
+Note: This API is now obsolete. 
+Gets the area id. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[ObsoleteAttribute]
+public static int AreaId { get; }<ObsoleteAttribute> _
+Public Shared ReadOnly Property AreaId As Integer
+	Get[ObsoleteAttribute]
+public:
+static property int^ AreaId {
+	int^ get ();
+}Field Value
+The area id.
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

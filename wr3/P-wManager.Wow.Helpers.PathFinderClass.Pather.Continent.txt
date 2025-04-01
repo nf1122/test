@@ -1,0 +1,25 @@
+WRobot
+
+Pather..::..Continent Property 
+Get the continent. 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string Continent { get; set; }Public Property Continent As String
+	Get
+	Setpublic:
+property String^ Continent {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The continent.
+See Also
+
+
+Pather Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

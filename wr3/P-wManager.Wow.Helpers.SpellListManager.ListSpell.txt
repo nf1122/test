@@ -1,0 +1,25 @@
+WRobot
+
+SpellListManager..::..ListSpell Property 
+Gets the list spells (key is spell ID, name is in English). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Dictionary<uint, string> ListSpell { get; set; }Public Shared Property ListSpell As Dictionary(Of UInteger, String)
+	Get
+	Setpublic:
+static property Dictionary<unsigned int^, String^>^ ListSpell {
+	Dictionary<unsigned int^, String^>^ get ();
+	void set (Dictionary<unsigned int^, String^>^ value);
+}Field Value
+The list spell.
+See Also
+
+
+SpellListManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

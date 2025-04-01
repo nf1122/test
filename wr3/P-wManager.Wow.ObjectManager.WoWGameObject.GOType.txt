@@ -1,0 +1,23 @@
+WRobot
+
+WoWGameObject..::..GOType Property 
+Gets the type of the gameobject. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public WoWGameObjectType GOType { get; }Public ReadOnly Property GOType As WoWGameObjectType
+	Getpublic:
+property WoWGameObjectType^ GOType {
+	WoWGameObjectType^ get ();
+}Field Value
+The type of the gameobject.
+See Also
+
+
+WoWGameObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

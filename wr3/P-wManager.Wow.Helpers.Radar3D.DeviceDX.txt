@@ -1,0 +1,23 @@
+WRobot
+
+Radar3D..::..DeviceDX Property 
+Gets the directx device (if you need to draw custom objects, add them when OnDrawEvent is called). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Device DeviceDX { get; }Public Shared ReadOnly Property DeviceDX As Device
+	Getpublic:
+static property Device^ DeviceDX {
+	Device^ get ();
+}Field Value
+The directx device.
+See Also
+
+
+Radar3D Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

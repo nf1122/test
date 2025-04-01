@@ -1,0 +1,23 @@
+WRobot
+
+Usefuls..::..RealmName Property 
+Gets the name of the realm. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string RealmName { get; }Public Shared ReadOnly Property RealmName As String
+	Getpublic:
+static property String^ RealmName {
+	String^ get ();
+}Field Value
+The name of the realm.
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

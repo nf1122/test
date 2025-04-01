@@ -1,0 +1,23 @@
+WRobot
+
+Usefuls..::..IsLoadingOrConnecting Property 
+Gets a value indicating whether game is loading or connecting. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsLoadingOrConnecting { get; }Public Shared ReadOnly Property IsLoadingOrConnecting As Boolean
+	Getpublic:
+static property bool^ IsLoadingOrConnecting {
+	bool^ get ();
+}Field Value
+true if is loading or connecting; otherwise, false.
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

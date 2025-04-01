@@ -1,0 +1,25 @@
+WRobot
+
+MovementManager..::..PointId Property 
+Get or set the current path index (position in CurrentPath). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int PointId { get; set; }Public Shared Property PointId As Integer
+	Get
+	Setpublic:
+static property int^ PointId {
+	int^ get ();
+	void set (int^ value);
+}Field Value
+The path index.
+See Also
+
+
+MovementManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

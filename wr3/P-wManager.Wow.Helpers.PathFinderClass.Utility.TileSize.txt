@@ -1,0 +1,23 @@
+WRobot
+
+Utility..::..TileSize Property 
+Get the size of tile. 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static float TileSize { get; }Public Shared ReadOnly Property TileSize As Single
+	Getpublic:
+static property float^ TileSize {
+	float^ get ();
+}Field Value
+The size of the tile.
+See Also
+
+
+Utility Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 
