@@ -1,0 +1,34 @@
+WRobot
+
+Var..::..GetVar<(Of <(<'T>)>)> Method 
+Get variable value. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static T GetVar<T>(
+	string varName
+)
+Public Shared Function GetVar(Of T) ( _
+	varName As String _
+) As Tpublic:
+generic<typename T>
+static T GetVar(
+	String^ varName
+)Type Parameters
+T
+Parameters
+varName
+Type: String
+Name of the variable.
+Return Value
+value.
+See Also
+
+
+Var Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

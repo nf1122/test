@@ -1,0 +1,18 @@
+WRobot
+
+IPlugin..::..Initialize Method 
+WRobot call this method when user start an product (bot) (method is called on new thread, you need to make loop to keep your plugin alive). 
+Namespace:  wManager.Plugin
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+void Initialize()Sub Initializevoid Initialize()
+See Also
+
+
+IPlugin Interface
+wManager.Plugin Namespace
+Help File generated with GhostDoc
+ 

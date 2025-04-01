@@ -1,0 +1,36 @@
+WRobot
+
+Vector3..::..Dot Method 
+Dots the specified v1. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static float Dot(
+	ref Vector3 v1,
+	ref Vector3 v2
+)Public Shared Function Dot ( _
+	ByRef v1 As Vector3, _
+	ByRef v2 As Vector3 _
+) As Singlepublic:
+static float^ Dot(
+	Vector3^% v1, 
+	Vector3^% v2
+)Parameters
+v1
+Type: robotManager.Helpful..::..Vector3%
+position v1.
+v2
+Type: robotManager.Helpful..::..Vector3%
+position v2.
+Return Value
+System.Single.
+See Also
+
+
+Vector3 Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

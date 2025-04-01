@@ -1,0 +1,20 @@
+WRobot
+
+Vector3..::..IsSwimming Method 
+Determines whether is swimming type. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsSwimming()Public Function IsSwimming As Booleanpublic:
+bool^ IsSwimming()Return Value
+true if is swimming type; otherwise, false.
+See Also
+
+
+Vector3 Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

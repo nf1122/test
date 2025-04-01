@@ -1,0 +1,42 @@
+WRobot
+
+Information..::..LaunchBot Method 
+Launch the bot. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int LaunchBot(
+	string arg,
+	Args argsEnvironmentVariables,
+	bool minimizeOnStart
+)Public Shared Function LaunchBot ( _
+	arg As String, _
+	argsEnvironmentVariables As Args, _
+	minimizeOnStart As Boolean _
+) As Integerpublic:
+static int^ LaunchBot(
+	String^ arg, 
+	Args^ argsEnvironmentVariables, 
+	bool^ minimizeOnStart
+)Parameters
+arg
+Type: String
+The argument.
+argsEnvironmentVariables
+Type: robotManager.Helpful..::..Args
+The arguments environment variables.
+minimizeOnStart
+Type: Boolean
+if set to true minimize on start.
+Return Value
+System.Int32.
+See Also
+
+
+Information Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

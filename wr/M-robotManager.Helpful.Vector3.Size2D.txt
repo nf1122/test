@@ -1,0 +1,20 @@
+WRobot
+
+Vector3..::..Size2D Method 
+Size2D. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public float Size2D()Public Function Size2D As Singlepublic:
+float^ Size2D()Return Value
+size.
+See Also
+
+
+Vector3 Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

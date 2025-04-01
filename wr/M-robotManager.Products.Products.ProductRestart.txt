@@ -1,0 +1,20 @@
+WRobot
+
+Products..::..ProductRestart Method 
+Restart product (don't call it from product thread to avoid problem). 
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ProductRestart()Public Shared Function ProductRestart As Booleanpublic:
+static bool^ ProductRestart()Return Value
+true if success, false otherwise.
+See Also
+
+
+Products Class
+robotManager.Products Namespace
+Help File generated with GhostDoc
+ 

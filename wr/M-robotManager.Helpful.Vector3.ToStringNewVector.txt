@@ -1,0 +1,20 @@
+WRobot
+
+Vector3..::..ToStringNewVector Method 
+Converts to stringnewvector. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public string ToStringNewVector()Public Function ToStringNewVector As Stringpublic:
+String^ ToStringNewVector()Return Value
+System.String.
+See Also
+
+
+Vector3 Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,30 @@
+WRobot
+
+Translate..::..Get Method 
+Get the specified translated text by id. 
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string Get(
+	string id
+)Public Shared Function Get ( _
+	id As String _
+) As Stringpublic:
+static String^ Get(
+	String^ id
+)Parameters
+id
+Type: String
+The id.
+Return Value
+translated text.
+See Also
+
+
+Translate Class
+robotManager Namespace
+Help File generated with GhostDoc
+ 

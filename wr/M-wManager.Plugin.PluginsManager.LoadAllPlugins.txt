@@ -1,0 +1,19 @@
+WRobot
+
+PluginsManager..::..LoadAllPlugins Method 
+Load all plugins (plugins activated by user in wManagerSetting). 
+Namespace:  wManager.Plugin
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void LoadAllPlugins()Public Shared Sub LoadAllPluginspublic:
+static void LoadAllPlugins()
+See Also
+
+
+PluginsManager Class
+wManager.Plugin Namespace
+Help File generated with GhostDoc
+ 

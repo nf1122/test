@@ -1,0 +1,18 @@
+WRobot
+
+IProduct..::..Start Method 
+Start Product. 
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+void Start()Sub Startvoid Start()
+See Also
+
+
+IProduct Interface
+robotManager.Products Namespace
+Help File generated with GhostDoc
+ 

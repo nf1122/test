@@ -1,0 +1,35 @@
+WRobot
+
+LanguageText Constructor (String, String)
+Initializes a new instance of the LanguageText class. 
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public LanguageText(
+	string translation,
+	string original
+)Public Sub New ( _
+	translation As String, _
+	original As String _
+)public:
+LanguageText(
+	String^ translation, 
+	String^ original
+)Parameters
+translation
+Type: String
+The translation.
+original
+Type: String
+The original.
+See Also
+
+
+LanguageText Class
+LanguageText Overload
+robotManager Namespace
+Help File generated with GhostDoc
+ 

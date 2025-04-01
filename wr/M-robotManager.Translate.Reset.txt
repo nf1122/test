@@ -1,0 +1,19 @@
+WRobot
+
+Translate..::..Reset Method 
+Reset default translation. 
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Reset()Public Shared Sub Resetpublic:
+static void Reset()
+See Also
+
+
+Translate Class
+robotManager Namespace
+Help File generated with GhostDoc
+ 

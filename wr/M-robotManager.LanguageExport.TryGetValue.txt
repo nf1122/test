@@ -1,0 +1,36 @@
+WRobot
+
+LanguageExport..::..TryGetValue Method 
+Tries the get value. 
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool TryGetValue(
+	string original,
+	out string translation
+)Public Function TryGetValue ( _
+	original As String, _
+	<OutAttribute> ByRef translation As String _
+) As Booleanpublic:
+bool^ TryGetValue(
+	String^ original, 
+	[OutAttribute] String^% translation
+)Parameters
+original
+Type: String
+The original.
+translation
+Type: String%
+The translation.
+Return Value
+true if XXXX, false otherwise.
+See Also
+
+
+LanguageExport Class
+robotManager Namespace
+Help File generated with GhostDoc
+ 

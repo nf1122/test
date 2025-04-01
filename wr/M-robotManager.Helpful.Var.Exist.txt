@@ -1,0 +1,30 @@
+WRobot
+
+Var..::..Exist Method 
+Exist variable name. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool Exist(
+	string varName
+)Public Shared Function Exist ( _
+	varName As String _
+) As Booleanpublic:
+static bool^ Exist(
+	String^ varName
+)Parameters
+varName
+Type: String
+Name of the variable.
+Return Value
+true if exist, false otherwise.
+See Also
+
+
+Var Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

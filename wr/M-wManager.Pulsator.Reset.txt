@@ -1,0 +1,19 @@
+WRobot
+
+Pulsator..::..Reset Method 
+Dispose and Pulse again. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Reset()Public Shared Sub Resetpublic:
+static void Reset()
+See Also
+
+
+Pulsator Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,18 @@
+WRobot
+
+IProduct..::..Initialize Method 
+Initialize Product. 
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+void Initialize()Sub Initializevoid Initialize()
+See Also
+
+
+IProduct Interface
+robotManager.Products Namespace
+Help File generated with GhostDoc
+ 

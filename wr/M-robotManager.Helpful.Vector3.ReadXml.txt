@@ -1,0 +1,28 @@
+WRobot
+
+Vector3..::..ReadXml Method 
+Read XML. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public void ReadXml(
+	XmlReader reader
+)Public Sub ReadXml ( _
+	reader As XmlReader _
+)public:
+void ReadXml(
+	XmlReader^ reader
+)Parameters
+reader
+Type: XmlReader
+The reader.
+See Also
+
+
+Vector3 Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

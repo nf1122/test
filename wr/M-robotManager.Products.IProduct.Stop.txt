@@ -1,0 +1,18 @@
+WRobot
+
+IProduct..::..Stop Method 
+Stop Product. 
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+void Stop()Sub Stopvoid Stop()
+See Also
+
+
+IProduct Interface
+robotManager.Products Namespace
+Help File generated with GhostDoc
+ 

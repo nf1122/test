@@ -1,0 +1,19 @@
+WRobot
+
+Products..::..ProductNeedSettings Method 
+Show product settings tab. 
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void ProductNeedSettings()Public Shared Sub ProductNeedSettingspublic:
+static void ProductNeedSettings()
+See Also
+
+
+Products Class
+robotManager.Products Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,47 @@
+WRobot
+
+Vector3 Constructor (Single, Single, Single, String)
+Initializes a new instance of the Vector3 class. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public Vector3(
+	float x,
+	float y,
+	float z,
+	string type
+)Public Sub New ( _
+	x As Single, _
+	y As Single, _
+	z As Single, _
+	type As String _
+)public:
+Vector3(
+	float^ x, 
+	float^ y, 
+	float^ z, 
+	String^ type
+)Parameters
+x
+Type: Single
+The x.
+y
+Type: Single
+The y.
+z
+Type: Single
+The z.
+type
+Type: String
+Type (Flying, None)
+See Also
+
+
+Vector3 Class
+Vector3 Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

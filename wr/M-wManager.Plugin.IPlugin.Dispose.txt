@@ -1,0 +1,18 @@
+WRobot
+
+IPlugin..::..Dispose Method 
+WRobot call this method when user stop an product (bot). 
+Namespace:  wManager.Plugin
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+void Dispose()Sub Disposevoid Dispose()
+See Also
+
+
+IPlugin Interface
+wManager.Plugin Namespace
+Help File generated with GhostDoc
+ 

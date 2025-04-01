@@ -1,0 +1,30 @@
+WRobot
+
+Timer..::..Peek Method 
+Returns the time that has passed since the Reset() method was called. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public long Peek()Public Function Peek As Longpublic:
+long long^ Peek()Return Value
+A long that contains the time that has passed since the Reset() method was called.
+Exceptions
+
+
+ExceptionCondition
+NotSupportedExceptionThe system does not have a high-resolution performance counter.
+
+Remarks
+
+
+The time is returned in tenths-of-a-millisecond. If the Peek method returns '10000', it means the interval took exactely one second.
+See Also
+
+
+Timer Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

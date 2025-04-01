@@ -1,0 +1,28 @@
+WRobot
+
+Products..::..LoadProducts Method 
+Load and initialise product. 
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void LoadProducts(
+	string nameDll
+)Public Shared Sub LoadProducts ( _
+	nameDll As String _
+)public:
+static void LoadProducts(
+	String^ nameDll
+)Parameters
+nameDll
+Type: String
+The file name (for "WRobot\Products\MyProduct.dll" use "MyProduct").
+See Also
+
+
+Products Class
+robotManager.Products Namespace
+Help File generated with GhostDoc
+ 

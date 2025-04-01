@@ -1,0 +1,19 @@
+WRobot
+
+Blackspot Constructor 
+Initializes a new instance of the BlackListSerializable..::..Blackspot class. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Blackspot()Public Sub Newpublic:
+Blackspot()
+See Also
+
+
+BlackListSerializable..::..Blackspot Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

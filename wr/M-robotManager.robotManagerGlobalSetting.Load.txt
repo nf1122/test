@@ -1,0 +1,20 @@
+WRobot
+
+robotManagerGlobalSetting..::..Load Method 
+Load settings from FilePath. 
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool Load()Public Shared Function Load As Booleanpublic:
+static bool^ Load()Return Value
+true if success, false otherwise.
+See Also
+
+
+robotManagerGlobalSetting Class
+robotManager Namespace
+Help File generated with GhostDoc
+ 

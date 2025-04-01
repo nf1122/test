@@ -1,0 +1,20 @@
+WRobot
+
+Vector3 Constructor 
+Initializes a new instance of the Vector3 class. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public Vector3()Public Sub Newpublic:
+Vector3()
+See Also
+
+
+Vector3 Class
+Vector3 Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

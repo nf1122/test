@@ -1,0 +1,28 @@
+WRobot
+
+Pulsator..::..Pulse Method 
+Attach to game process 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Pulse(
+	int processId
+)Public Shared Sub Pulse ( _
+	processId As Integer _
+)public:
+static void Pulse(
+	int^ processId
+)Parameters
+processId
+Type: Int32
+The process id.
+See Also
+
+
+Pulsator Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

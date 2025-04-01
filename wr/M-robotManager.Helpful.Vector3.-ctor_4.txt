@@ -1,0 +1,29 @@
+WRobot
+
+Vector3 Constructor (array<Single>[]()[][])
+Initializes a new instance of the Vector3 class. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public Vector3(
+	float[] pos
+)Public Sub New ( _
+	pos As Single() _
+)public:
+Vector3(
+	array<float^>^ pos
+)Parameters
+pos
+Type: array<Single>[]()[][]
+The position.
+See Also
+
+
+Vector3 Class
+Vector3 Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 
