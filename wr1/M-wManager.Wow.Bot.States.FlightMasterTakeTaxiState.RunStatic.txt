@@ -1,0 +1,19 @@
+WRobot
+
+FlightMasterTakeTaxiState..::..RunStatic Method 
+Call this method if NeedToRunStatic is true (called by Run()()()()) 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void RunStatic()Public Shared Sub RunStaticpublic:
+static void RunStatic()
+See Also
+
+
+FlightMasterTakeTaxiState Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

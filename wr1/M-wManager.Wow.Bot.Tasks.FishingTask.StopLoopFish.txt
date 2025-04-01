@@ -1,0 +1,19 @@
+WRobot
+
+FishingTask..::..StopLoopFish Method 
+Stop fishing. 
+Namespace:  wManager.Wow.Bot.Tasks
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void StopLoopFish()Public Shared Sub StopLoopFishpublic:
+static void StopLoopFish()
+See Also
+
+
+FishingTask Class
+wManager.Wow.Bot.Tasks Namespace
+Help File generated with GhostDoc
+ 

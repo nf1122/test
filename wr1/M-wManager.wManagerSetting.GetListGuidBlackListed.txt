@@ -1,0 +1,20 @@
+WRobot
+
+wManagerSetting..::..GetListGuidBlackListed Method 
+Gets list of GUID blacklisted. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<ulong> GetListGuidBlackListed()Public Shared Function GetListGuidBlackListed As List(Of ULong)public:
+static List<unsigned long long^>^ GetListGuidBlackListed()Return Value
+List<Int128>.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

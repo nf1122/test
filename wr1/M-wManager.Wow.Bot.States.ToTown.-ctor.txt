@@ -1,0 +1,19 @@
+WRobot
+
+ToTown Constructor 
+Initializes a new instance of the ToTown class. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public ToTown()Public Sub Newpublic:
+ToTown()
+See Also
+
+
+ToTown Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

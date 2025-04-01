@@ -1,0 +1,34 @@
+WRobot
+
+wManagerSetting..::..AddRangeBlackListZone Method 
+Add range zones to blacklist . 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void AddRangeBlackListZone(
+	List<BlackListSerializable..::..Blackspot> listBlackZone,
+	bool isSessionBlacklist
+)Public Shared Sub AddRangeBlackListZone ( _
+	listBlackZone As List(Of BlackListSerializable..::..Blackspot), _
+	isSessionBlacklist As Boolean _
+)public:
+static void AddRangeBlackListZone(
+	List<BlackListSerializable..::..Blackspot^>^ listBlackZone, 
+	bool^ isSessionBlacklist
+)Parameters
+listBlackZone
+Type: List<(Of <(<'BlackListSerializable..::..Blackspot>)>)>
+The list black zone.
+isSessionBlacklist
+Type: Boolean
+if set to true it will be added again to the blacklist if the continent change for example.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

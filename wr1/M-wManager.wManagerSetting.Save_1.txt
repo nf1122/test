@@ -1,0 +1,37 @@
+WRobot
+
+wManagerSetting..::..Save Method (Boolean, Boolean)
+Saves the specified write in log. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool Save(
+	bool writeInLog,
+	bool reloadBlackList
+)Public Function Save ( _
+	writeInLog As Boolean, _
+	reloadBlackList As Boolean _
+) As Booleanpublic:
+bool^ Save(
+	bool^ writeInLog, 
+	bool^ reloadBlackList
+)Parameters
+writeInLog
+Type: Boolean
+if set to true write in log ToStringFormat()()()().
+reloadBlackList
+Type: Boolean
+if set to true reload blacklist (AddBlackListToWRobotSession()()()()).
+Return Value
+true if success, false otherwise.
+See Also
+
+
+wManagerSetting Class
+Save Overload
+wManager Namespace
+Help File generated with GhostDoc
+ 

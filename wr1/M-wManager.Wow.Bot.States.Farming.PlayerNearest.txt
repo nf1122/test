@@ -1,0 +1,28 @@
+WRobot
+
+Farming..::..PlayerNearest Method 
+Cancel farm if another player is within HarvestAvoidPlayersRadius yards (need also option IgnoreIfInBlackListZone to be called by Farming). 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool PlayerNearest(
+	WoWGameObject node
+)Public Shared Function PlayerNearest ( _
+	node As WoWGameObject _
+) As Booleanpublic:
+static bool^ PlayerNearest(
+	WoWGameObject^ node
+)Parameters
+node
+Type: wManager.Wow.ObjectManager..::..WoWGameObject
+The node.
+See Also
+
+
+Farming Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

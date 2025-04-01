@@ -1,0 +1,19 @@
+WRobot
+
+MyMacro..::..Conditions Method 
+Return true if all conditions is ok (time since last Use()()()(), mount, ...) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool Conditions()Public Function Conditions As Booleanpublic:
+bool^ Conditions()
+See Also
+
+
+wManagerSetting..::..MyMacro Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

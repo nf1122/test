@@ -1,0 +1,49 @@
+WRobot
+
+GoToTask..::..ToPositionAndIntecractWith Method (Npc, Boolean, BooleanDelegate, Boolean)
+Go to position and interact with npc (closest to the position, if success the method will select good gossip option depending of Type, for example if it is a repair the bot will choose the gossip option vendor). 
+Namespace:  wManager.Wow.Bot.Tasks
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ToPositionAndIntecractWith(
+	Npc npc,
+	bool skipIfCannotMakePath,
+	BooleanDelegate conditionExit,
+	bool acceptNpcDead
+)Public Shared Function ToPositionAndIntecractWith ( _
+	npc As Npc, _
+	skipIfCannotMakePath As Boolean, _
+	conditionExit As BooleanDelegate, _
+	acceptNpcDead As Boolean _
+) As Booleanpublic:
+static bool^ ToPositionAndIntecractWith(
+	Npc^ npc, 
+	bool^ skipIfCannotMakePath, 
+	BooleanDelegate^ conditionExit, 
+	bool^ acceptNpcDead
+)Parameters
+npc
+Type: wManager.Wow.Class..::..Npc
+The NPC.
+skipIfCannotMakePath
+Type: Boolean
+if set to true skip if PathFinder cannot make path (the method return false).
+conditionExit
+Type: wManager.Wow.Class..::..BooleanDelegate
+Exit condition, default code is: context => (Conditions.InGameAndConnectedAndAliveAndProductStartedNotInPause && !Conditions.IsAttackedAndCannotIgnore);.
+acceptNpcDead
+Type: Boolean
+if set to true bot can interact with dead NPC.
+Return Value
+true if success, false otherwise.
+See Also
+
+
+GoToTask Class
+ToPositionAndIntecractWith Overload
+wManager.Wow.Bot.Tasks Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..AddToBlacklistCurrentProductSession Method 
+Adds blacklist of current product (blacklist added with param isSessionBlacklist = true) to blacklist, this is called by AddBlackListToWRobotSession()()()()) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void AddToBlacklistCurrentProductSession()Public Shared Sub AddToBlacklistCurrentProductSessionpublic:
+static void AddToBlacklistCurrentProductSession()
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

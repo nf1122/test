@@ -1,0 +1,20 @@
+WRobot
+
+Statistics..::..StucksByHr Method 
+Stucks by hour. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int StucksByHr()Public Shared Function StucksByHr As Integerpublic:
+static int^ StucksByHr()Return Value
+Stucks by hour.
+See Also
+
+
+Statistics Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,20 @@
+WRobot
+
+FishingTask..::..LoopFish Method 
+Launch fishing. 
+Namespace:  wManager.Wow.Bot.Tasks
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void LoopFish()Public Shared Sub LoopFishpublic:
+static void LoopFish()
+See Also
+
+
+FishingTask Class
+LoopFish Overload
+wManager.Wow.Bot.Tasks Namespace
+Help File generated with GhostDoc
+ 

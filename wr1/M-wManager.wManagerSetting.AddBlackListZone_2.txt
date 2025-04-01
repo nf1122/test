@@ -1,0 +1,53 @@
+WRobot
+
+wManagerSetting..::..AddBlackListZone Method (Vector3, Single, ContinentId, PolyArea, Boolean)
+Add zone to blacklisted zones. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void AddBlackListZone(
+	Vector3 position,
+	float radius,
+	ContinentId continent,
+	PolyArea typeArea,
+	bool isSessionBlacklist
+)Public Shared Sub AddBlackListZone ( _
+	position As Vector3, _
+	radius As Single, _
+	continent As ContinentId, _
+	typeArea As PolyArea, _
+	isSessionBlacklist As Boolean _
+)public:
+static void AddBlackListZone(
+	Vector3^ position, 
+	float^ radius, 
+	ContinentId^ continent, 
+	PolyArea^ typeArea, 
+	bool^ isSessionBlacklist
+)Parameters
+position
+Type: robotManager.Helpful..::..Vector3
+The position.
+radius
+Type: Single
+The radius.
+continent
+Type: wManager.Wow.Enums..::..ContinentId
+The continent.
+typeArea
+Type: PolyArea
+The type area.
+isSessionBlacklist
+Type: Boolean
+if set to true it will be added again to the blacklist if the continent change for example.
+See Also
+
+
+wManagerSetting Class
+AddBlackListZone Overload
+wManager Namespace
+Help File generated with GhostDoc
+ 

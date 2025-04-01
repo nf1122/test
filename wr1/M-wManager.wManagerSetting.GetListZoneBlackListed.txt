@@ -1,0 +1,20 @@
+WRobot
+
+wManagerSetting..::..GetListZoneBlackListed Method 
+Get list of blacklisted zones. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<BlackListSerializable..::..Blackspot> GetListZoneBlackListed()Public Shared Function GetListZoneBlackListed As List(Of BlackListSerializable..::..Blackspot)public:
+static List<BlackListSerializable..::..Blackspot^>^ GetListZoneBlackListed()Return Value
+List<BlackListSerializable.Blackspot>.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

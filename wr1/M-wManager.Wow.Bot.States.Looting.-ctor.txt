@@ -1,0 +1,18 @@
+WRobot
+
+Looting Constructor 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Looting()Public Sub Newpublic:
+Looting()
+See Also
+
+
+Looting Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

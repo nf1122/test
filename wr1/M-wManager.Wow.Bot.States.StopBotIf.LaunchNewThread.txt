@@ -1,0 +1,19 @@
+WRobot
+
+StopBotIf..::..LaunchNewThread Method 
+Launch new thread with an Engine that contains this state. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void LaunchNewThread()Public Shared Sub LaunchNewThreadpublic:
+static void LaunchNewThread()
+See Also
+
+
+StopBotIf Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

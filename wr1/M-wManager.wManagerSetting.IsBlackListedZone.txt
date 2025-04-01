@@ -1,0 +1,30 @@
+WRobot
+
+wManagerSetting..::..IsBlackListedZone Method 
+Determine if position is blacklisted. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsBlackListedZone(
+	Vector3 position
+)Public Shared Function IsBlackListedZone ( _
+	position As Vector3 _
+) As Booleanpublic:
+static bool^ IsBlackListedZone(
+	Vector3^ position
+)Parameters
+position
+Type: robotManager.Helpful..::..Vector3
+The position.
+Return Value
+true if blacklisted otherwise, false.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

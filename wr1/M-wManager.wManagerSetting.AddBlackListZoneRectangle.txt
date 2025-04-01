@@ -1,0 +1,34 @@
+WRobot
+
+wManagerSetting..::..AddBlackListZoneRectangle Method 
+Add zone to rectangle blacklisted zones. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void AddBlackListZoneRectangle(
+	Vector3 position1,
+	Vector3 position2
+)Public Shared Sub AddBlackListZoneRectangle ( _
+	position1 As Vector3, _
+	position2 As Vector3 _
+)public:
+static void AddBlackListZoneRectangle(
+	Vector3^ position1, 
+	Vector3^ position2
+)Parameters
+position1
+Type: robotManager.Helpful..::..Vector3
+The position1.
+position2
+Type: robotManager.Helpful..::..Vector3
+The position2.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

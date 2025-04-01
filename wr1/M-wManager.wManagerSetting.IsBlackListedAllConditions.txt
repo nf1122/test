@@ -1,0 +1,31 @@
+WRobot
+
+wManagerSetting..::..IsBlackListedAllConditions Method (WoWUnit)
+Determines if unit is blacklisted (position, guid or entry id). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsBlackListedAllConditions(
+	WoWUnit woWUnit
+)Public Shared Function IsBlackListedAllConditions ( _
+	woWUnit As WoWUnit _
+) As Booleanpublic:
+static bool^ IsBlackListedAllConditions(
+	WoWUnit^ woWUnit
+)Parameters
+woWUnit
+Type: wManager.Wow.ObjectManager..::..WoWUnit
+The unit.
+Return Value
+true if blacklisted otherwise, false.
+See Also
+
+
+wManagerSetting Class
+IsBlackListedAllConditions Overload
+wManager Namespace
+Help File generated with GhostDoc
+ 

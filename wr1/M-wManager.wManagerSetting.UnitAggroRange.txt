@@ -1,0 +1,42 @@
+WRobot
+
+wManagerSetting..::..UnitAggroRange Method 
+Get hostiles units who have in their aggro distance of the "position". 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWUnit> UnitAggroRange(
+	Vector3 position,
+	float margin,
+	float maxZDiff
+)Public Shared Function UnitAggroRange ( _
+	position As Vector3, _
+	margin As Single, _
+	maxZDiff As Single _
+) As List(Of WoWUnit)public:
+static List<WoWUnit^>^ UnitAggroRange(
+	Vector3^ position, 
+	float^ margin, 
+	float^ maxZDiff
+)Parameters
+position
+Type: robotManager.Helpful..::..Vector3
+The position.
+margin
+Type: Single
+The margin (woWUnit.Position.DistanceTo2D(position) <= woWUnit.AggroDistance + margin).
+maxZDiff
+Type: Single
+The maximum Z difference.
+Return Value
+List<WoWUnit>.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

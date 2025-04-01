@@ -1,0 +1,19 @@
+WRobot
+
+NPCScanState Constructor 
+Initializes a new instance of the NPCScanState class. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public NPCScanState()Public Sub Newpublic:
+NPCScanState()
+See Also
+
+
+NPCScanState Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

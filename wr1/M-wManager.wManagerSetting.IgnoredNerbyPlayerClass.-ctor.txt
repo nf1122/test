@@ -1,0 +1,19 @@
+WRobot
+
+IgnoredNerbyPlayerClass Constructor 
+Initializes a new instance of the wManagerSetting..::..IgnoredNerbyPlayerClass class. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public IgnoredNerbyPlayerClass()Public Sub Newpublic:
+IgnoredNerbyPlayerClass()
+See Also
+
+
+wManagerSetting..::..IgnoredNerbyPlayerClass Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

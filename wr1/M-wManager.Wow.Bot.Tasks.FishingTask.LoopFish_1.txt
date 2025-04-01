@@ -1,0 +1,89 @@
+WRobot
+
+FishingTask..::..LoopFish Method (UInt64, Boolean, String, String, Int32, String, Int32, Int32, Int32, Int32, Boolean)
+Launch fishing. 
+Namespace:  wManager.Wow.Bot.Tasks
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void LoopFish(
+	ulong guidNode,
+	bool useLure,
+	string lureName,
+	string temporaryBait,
+	int temporaryBaitDurationMs,
+	string customName,
+	int customDurationMs,
+	int waitAfterInteractTime,
+	int waitBobberTime,
+	int waitBobberInteractTime,
+	bool precision
+)Public Shared Sub LoopFish ( _
+	guidNode As ULong, _
+	useLure As Boolean, _
+	lureName As String, _
+	temporaryBait As String, _
+	temporaryBaitDurationMs As Integer, _
+	customName As String, _
+	customDurationMs As Integer, _
+	waitAfterInteractTime As Integer, _
+	waitBobberTime As Integer, _
+	waitBobberInteractTime As Integer, _
+	precision As Boolean _
+)public:
+static void LoopFish(
+	unsigned long long^ guidNode, 
+	bool^ useLure, 
+	String^ lureName, 
+	String^ temporaryBait, 
+	int^ temporaryBaitDurationMs, 
+	String^ customName, 
+	int^ customDurationMs, 
+	int^ waitAfterInteractTime, 
+	int^ waitBobberTime, 
+	int^ waitBobberInteractTime, 
+	bool^ precision
+)Parameters
+guidNode
+Type: UInt64
+The node GUID (MemoryRobot.Int128.Zero() if you don't fishing a school of fish).
+useLure
+Type: Boolean
+if set to true to use lure.
+lureName
+Type: String
+Name of the lure (name like in game).
+temporaryBait
+Type: String
+The temporary bait (name like in game).
+temporaryBaitDurationMs
+Type: Int32
+Temporary bait duration in milliseconds.
+customName
+Type: String
+Name of the custom spell/item (name like in game).
+customDurationMs
+Type: Int32
+The custom spell/item duration in milliseconds.
+waitAfterInteractTime
+Type: Int32
+Wait time after catch in milliseconds.
+waitBobberTime
+Type: Int32
+Wait time to search bobber in milliseconds.
+waitBobberInteractTime
+Type: Int32
+Wait time to interact with bobber when fish in milliseconds.
+precision
+Type: Boolean
+if set to true bot will relaunch the bobber if not close to [guidNode].
+See Also
+
+
+FishingTask Class
+LoopFish Overload
+wManager.Wow.Bot.Tasks Namespace
+Help File generated with GhostDoc
+ 

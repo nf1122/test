@@ -1,0 +1,46 @@
+WRobot
+
+FarmingTask..::..Pulse Method 
+Pulses the specified node. 
+Namespace:  wManager.Wow.Bot.Tasks
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Pulse(
+	WoWGameObject node,
+	bool autoMountIfSuccess,
+	bool ignoreIfPlayerNear,
+	float flyFarmRandomizeNodePostion
+)Public Shared Sub Pulse ( _
+	node As WoWGameObject, _
+	autoMountIfSuccess As Boolean, _
+	ignoreIfPlayerNear As Boolean, _
+	flyFarmRandomizeNodePostion As Single _
+)public:
+static void Pulse(
+	WoWGameObject^ node, 
+	bool^ autoMountIfSuccess, 
+	bool^ ignoreIfPlayerNear, 
+	float^ flyFarmRandomizeNodePostion
+)Parameters
+node
+Type: wManager.Wow.ObjectManager..::..WoWGameObject
+The gamebobject to harvest.
+autoMountIfSuccess
+Type: Boolean
+if set to true automatic mount if success.
+ignoreIfPlayerNear
+Type: Boolean
+if set to true skip if player nearby.
+flyFarmRandomizeNodePostion
+Type: Single
+randomize landing position (if fly).
+See Also
+
+
+FarmingTask Class
+wManager.Wow.Bot.Tasks Namespace
+Help File generated with GhostDoc
+ 

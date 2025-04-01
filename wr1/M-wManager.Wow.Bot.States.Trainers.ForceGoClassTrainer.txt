@@ -1,0 +1,19 @@
+WRobot
+
+Trainers..::..ForceGoClassTrainer Method 
+Force to go the trainer. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void ForceGoClassTrainer()Public Shared Sub ForceGoClassTrainerpublic:
+static void ForceGoClassTrainer()
+See Also
+
+
+Trainers Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

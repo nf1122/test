@@ -1,0 +1,19 @@
+WRobot
+
+NPCScanState..::..Run Method 
+Runs this instance. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public void Run()Public Sub Runpublic:
+void Run()
+See Also
+
+
+NPCScanState Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

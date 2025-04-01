@@ -1,0 +1,43 @@
+WRobot
+
+wManagerSetting..::..IsBlackListedAllConditions Method (Int32, Vector3, UInt64)
+Determines if is blacklisted (position, guid or entry id). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsBlackListedAllConditions(
+	int entryId,
+	Vector3 position,
+	ulong guid
+)Public Shared Function IsBlackListedAllConditions ( _
+	entryId As Integer, _
+	position As Vector3, _
+	guid As ULong _
+) As Booleanpublic:
+static bool^ IsBlackListedAllConditions(
+	int^ entryId, 
+	Vector3^ position, 
+	unsigned long long^ guid
+)Parameters
+entryId
+Type: Int32
+The entry identifier.
+position
+Type: robotManager.Helpful..::..Vector3
+The position.
+guid
+Type: UInt64
+The unique identifier.
+Return Value
+true if blacklisted; otherwise, false.
+See Also
+
+
+wManagerSetting Class
+IsBlackListedAllConditions Overload
+wManager Namespace
+Help File generated with GhostDoc
+ 

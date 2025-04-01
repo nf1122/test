@@ -1,0 +1,178 @@
+WRobot
+
+SpellState Constructor 
+Initializes a new instance of the SpellState class. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public SpellState(
+	string spellName,
+	int priority,
+	BooleanDelegate condition,
+	bool isBuff,
+	bool inCombatOnly,
+	bool castIfInMount,
+	bool castIfMeDead,
+	bool checkIfKnow,
+	bool checkIfSpellUsable,
+	bool checkSpellDistance,
+	bool needInView,
+	int timer,
+	bool notSpellIsLuaScript,
+	bool debug,
+	bool targetFriends,
+	bool aoeSpell,
+	bool aoeSpellMePos,
+	bool oncePerTarget,
+	YesNoAuto canMoveDuringCast,
+	string description,
+	string castOn,
+	bool lockFrame,
+	bool waitDuringCasting,
+	bool notSpellIsCSharpCode,
+	bool notSpellIsVBCode,
+	bool notSpellIsLuaBotCode
+)Public Sub New ( _
+	spellName As String, _
+	priority As Integer, _
+	condition As BooleanDelegate, _
+	isBuff As Boolean, _
+	inCombatOnly As Boolean, _
+	castIfInMount As Boolean, _
+	castIfMeDead As Boolean, _
+	checkIfKnow As Boolean, _
+	checkIfSpellUsable As Boolean, _
+	checkSpellDistance As Boolean, _
+	needInView As Boolean, _
+	timer As Integer, _
+	notSpellIsLuaScript As Boolean, _
+	debug As Boolean, _
+	targetFriends As Boolean, _
+	aoeSpell As Boolean, _
+	aoeSpellMePos As Boolean, _
+	oncePerTarget As Boolean, _
+	canMoveDuringCast As YesNoAuto, _
+	description As String, _
+	castOn As String, _
+	lockFrame As Boolean, _
+	waitDuringCasting As Boolean, _
+	notSpellIsCSharpCode As Boolean, _
+	notSpellIsVBCode As Boolean, _
+	notSpellIsLuaBotCode As Boolean _
+)public:
+SpellState(
+	String^ spellName, 
+	int^ priority, 
+	BooleanDelegate^ condition, 
+	bool^ isBuff, 
+	bool^ inCombatOnly, 
+	bool^ castIfInMount, 
+	bool^ castIfMeDead, 
+	bool^ checkIfKnow, 
+	bool^ checkIfSpellUsable, 
+	bool^ checkSpellDistance, 
+	bool^ needInView, 
+	int^ timer, 
+	bool^ notSpellIsLuaScript, 
+	bool^ debug, 
+	bool^ targetFriends, 
+	bool^ aoeSpell, 
+	bool^ aoeSpellMePos, 
+	bool^ oncePerTarget, 
+	YesNoAuto^ canMoveDuringCast, 
+	String^ description, 
+	String^ castOn, 
+	bool^ lockFrame, 
+	bool^ waitDuringCasting, 
+	bool^ notSpellIsCSharpCode, 
+	bool^ notSpellIsVBCode, 
+	bool^ notSpellIsLuaBotCode
+)Parameters
+spellName
+Type: String
+Name of the spell (in English).
+priority
+Type: Int32
+The priority.
+condition
+Type: wManager.Wow.Class..::..BooleanDelegate
+The condition.
+isBuff
+Type: Boolean
+if set to true is buff (cast only if character haven't this spell).
+inCombatOnly
+Type: Boolean
+if set to true use it in combat only.
+castIfInMount
+Type: Boolean
+if set to true can use when in mount.
+castIfMeDead
+Type: Boolean
+if set to true can use when dead.
+checkIfKnow
+Type: Boolean
+if set to true if you want check if character know the spell.
+checkIfSpellUsable
+Type: Boolean
+if set to true if you want check if spell is usable.
+checkSpellDistance
+Type: Boolean
+if set to true if you want cast only when in good distance.
+needInView
+Type: Boolean
+if set to true your target need to be in line of sight.
+timer
+Type: Int32
+Minimum interval between 2 use (in milliseconds).
+notSpellIsLuaScript
+Type: Boolean
+if set to true[spellName] is lua code (not spell name).
+debug
+Type: Boolean
+if set to true add debug info in log.
+targetFriends
+Type: Boolean
+if set to true target party members (for heals spells).
+aoeSpell
+Type: Boolean
+if set to true it is AOE spell (need to click on ground, by default in target position).
+aoeSpellMePos
+Type: Boolean
+if set to true and [aoeSpell] is true, click on me position.
+oncePerTarget
+Type: Boolean
+if set to true to use once per target.
+canMoveDuringCast
+Type: wManager.Wow.Helpers.FightClassCreator..::..YesNoAuto
+Can move during cast.
+description
+Type: String
+The description.
+castOn
+Type: String
+Cast on.
+lockFrame
+Type: Boolean
+if set to true lock game frame when check spell condition (faster).
+waitDuringCasting
+Type: Boolean
+if set to true wait during casting.
+notSpellIsCSharpCode
+Type: Boolean
+if set to true[spellName] is C# code (not spell name).
+notSpellIsVBCode
+Type: Boolean
+if set to true[spellName] is VB.net code (not spell name).
+notSpellIsLuaBotCode
+Type: Boolean
+if set to true[spellName] is luabot code (not spell name).
+See Also
+
+
+SpellState Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,20 @@
+WRobot
+
+wManagerSetting..::..ToStringFormat Method 
+Converts to string (dump settings). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string ToStringFormat()Public Function ToStringFormat As Stringpublic:
+String^ ToStringFormat()Return Value
+System.String.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

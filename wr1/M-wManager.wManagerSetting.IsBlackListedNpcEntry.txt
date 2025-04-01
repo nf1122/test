@@ -1,0 +1,30 @@
+WRobot
+
+wManagerSetting..::..IsBlackListedNpcEntry Method 
+Determines if entry id blacklisted. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsBlackListedNpcEntry(
+	int entryId
+)Public Shared Function IsBlackListedNpcEntry ( _
+	entryId As Integer _
+) As Booleanpublic:
+static bool^ IsBlackListedNpcEntry(
+	int^ entryId
+)Parameters
+entryId
+Type: Int32
+The entry id.
+Return Value
+true if blacklisted otherwise, false.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

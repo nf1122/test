@@ -1,0 +1,20 @@
+WRobot
+
+NPCScanState..::..ThreadIsLaunched Method 
+Threads the is launched. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ThreadIsLaunched()Public Shared Function ThreadIsLaunched As Booleanpublic:
+static bool^ ThreadIsLaunched()Return Value
+true if thread launched, false otherwise.
+See Also
+
+
+NPCScanState Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

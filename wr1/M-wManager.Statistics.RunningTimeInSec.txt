@@ -1,0 +1,20 @@
+WRobot
+
+Statistics..::..RunningTimeInSec Method 
+Running time in second. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int RunningTimeInSec()Public Shared Function RunningTimeInSec As Integerpublic:
+static int^ RunningTimeInSec()Return Value
+System.Int32.
+See Also
+
+
+Statistics Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

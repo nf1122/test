@@ -1,0 +1,19 @@
+WRobot
+
+LootingRange Constructor 
+Initializes a new instance of the LootingRange class. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public LootingRange()Public Sub Newpublic:
+LootingRange()
+See Also
+
+
+LootingRange Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

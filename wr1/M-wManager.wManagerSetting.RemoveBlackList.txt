@@ -1,0 +1,28 @@
+WRobot
+
+wManagerSetting..::..RemoveBlackList Method 
+Removes GUID from blacklist. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void RemoveBlackList(
+	ulong guid
+)Public Shared Sub RemoveBlackList ( _
+	guid As ULong _
+)public:
+static void RemoveBlackList(
+	unsigned long long^ guid
+)Parameters
+guid
+Type: UInt64
+The GUID.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

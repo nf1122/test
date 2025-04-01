@@ -1,0 +1,34 @@
+WRobot
+
+wManagerSetting..::..AddBlackListNpcEntry Method 
+Add to entry id blacklist. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void AddBlackListNpcEntry(
+	int entryId,
+	bool isSessionBlacklist
+)Public Shared Sub AddBlackListNpcEntry ( _
+	entryId As Integer, _
+	isSessionBlacklist As Boolean _
+)public:
+static void AddBlackListNpcEntry(
+	int^ entryId, 
+	bool^ isSessionBlacklist
+)Parameters
+entryId
+Type: Int32
+The entry id.
+isSessionBlacklist
+Type: Boolean
+if set to true it will be added again to the blacklist if the continent change for example.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

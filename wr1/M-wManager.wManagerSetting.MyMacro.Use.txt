@@ -1,0 +1,19 @@
+WRobot
+
+MyMacro..::..Use Method 
+Press key (and stopmove if option enabled), this reset timer (call this method when Conditions is true). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public void Use()Public Sub Usepublic:
+void Use()
+See Also
+
+
+wManagerSetting..::..MyMacro Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

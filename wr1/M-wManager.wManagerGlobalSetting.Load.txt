@@ -1,0 +1,20 @@
+WRobot
+
+wManagerGlobalSetting..::..Load Method 
+Loads instance from FilePath. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool Load()Public Shared Function Load As Booleanpublic:
+static bool^ Load()Return Value
+true if success, false otherwise.
+See Also
+
+
+wManagerGlobalSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

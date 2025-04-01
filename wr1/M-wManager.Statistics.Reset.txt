@@ -1,0 +1,19 @@
+WRobot
+
+Statistics..::..Reset Method 
+Resets all statistics. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Reset()Public Shared Sub Resetpublic:
+static void Reset()
+See Also
+
+
+Statistics Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

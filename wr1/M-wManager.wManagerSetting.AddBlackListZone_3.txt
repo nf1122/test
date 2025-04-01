@@ -1,0 +1,35 @@
+WRobot
+
+wManagerSetting..::..AddBlackListZone Method (Blackspot, Boolean)
+Add zone to blacklisted zones. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void AddBlackListZone(
+	BlackListSerializable..::..Blackspot blackspot,
+	bool isSessionBlacklist
+)Public Shared Sub AddBlackListZone ( _
+	blackspot As BlackListSerializable..::..Blackspot, _
+	isSessionBlacklist As Boolean _
+)public:
+static void AddBlackListZone(
+	BlackListSerializable..::..Blackspot^ blackspot, 
+	bool^ isSessionBlacklist
+)Parameters
+blackspot
+Type: wManager..::..BlackListSerializable..::..Blackspot
+The blackspot.
+isSessionBlacklist
+Type: Boolean
+if set to true it will be added again to the blacklist if the continent change for example.
+See Also
+
+
+wManagerSetting Class
+AddBlackListZone Overload
+wManager Namespace
+Help File generated with GhostDoc
+ 

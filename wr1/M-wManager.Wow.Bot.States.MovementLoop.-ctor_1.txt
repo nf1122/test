@@ -1,0 +1,20 @@
+WRobot
+
+MovementLoop Constructor 
+Initializes a new instance of the MovementLoop class. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public MovementLoop()Public Sub Newpublic:
+MovementLoop()
+See Also
+
+
+MovementLoop Class
+MovementLoop Overload
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

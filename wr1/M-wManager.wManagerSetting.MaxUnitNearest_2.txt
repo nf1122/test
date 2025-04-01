@@ -1,0 +1,61 @@
+WRobot
+
+wManagerSetting..::..MaxUnitNearest Method (Vector3, Int32, Int32%, UInt64, Single, Single)
+Check if there are more than maxUnitsNear hostiles "units" near (in aggro distance) of the "position".
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool MaxUnitNearest(
+	Vector3 position,
+	int maxUnitsNear,
+	out int number,
+	ulong unitGuid,
+	float margin,
+	float maxZDiff
+)Public Shared Function MaxUnitNearest ( _
+	position As Vector3, _
+	maxUnitsNear As Integer, _
+	<OutAttribute> ByRef number As Integer, _
+	unitGuid As ULong, _
+	margin As Single, _
+	maxZDiff As Single _
+) As Booleanpublic:
+static bool^ MaxUnitNearest(
+	Vector3^ position, 
+	int^ maxUnitsNear, 
+	[OutAttribute] int^% number, 
+	unsigned long long^ unitGuid, 
+	float^ margin, 
+	float^ maxZDiff
+)Parameters
+position
+Type: robotManager.Helpful..::..Vector3
+The position.
+maxUnitsNear
+Type: Int32
+The maximum units near.
+number
+Type: Int32%
+The number of hostiles units near.
+unitGuid
+Type: UInt64
+The object GUID to ignore.
+margin
+Type: Single
+The margin (woWUnit.Position.DistanceTo2D(position) <= woWUnit.AggroDistance + margin).
+maxZDiff
+Type: Single
+The maximum Z difference.
+Return Value
+true if max unit near, false otherwise.
+See Also
+
+
+wManagerSetting Class
+MaxUnitNearest Overload
+wManager Namespace
+Help File generated with GhostDoc
+ 

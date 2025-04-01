@@ -1,0 +1,28 @@
+WRobot
+
+wManagerSetting..::..ClearBlacklistOfCurrentProductSession Method 
+Clear blacklists of current product (blacklist added with param isSessionBlacklist = true, generally it is the blacklist contained in the profile, it is added to blacklist with method AddToBlacklistCurrentProductSession()()()()) This method is called when product start. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void ClearBlacklistOfCurrentProductSession(
+	bool reloadBlacklist
+)Public Shared Sub ClearBlacklistOfCurrentProductSession ( _
+	reloadBlacklist As Boolean _
+)public:
+static void ClearBlacklistOfCurrentProductSession(
+	bool^ reloadBlacklist
+)Parameters
+reloadBlacklist
+Type: Boolean
+if set to true [reload blacklist].
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,30 @@
+WRobot
+
+wManagerSetting..::..IsBlackListed Method 
+Determines GUID is blacklisted 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsBlackListed(
+	ulong guid
+)Public Shared Function IsBlackListed ( _
+	guid As ULong _
+) As Booleanpublic:
+static bool^ IsBlackListed(
+	unsigned long long^ guid
+)Parameters
+guid
+Type: UInt64
+The GUID.
+Return Value
+true if blacklisted otherwise, false.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

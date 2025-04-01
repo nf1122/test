@@ -1,0 +1,37 @@
+WRobot
+
+wManagerSetting..::..MaxUnitNearest Method (WoWUnit, Int32)
+Check if there are more than MaxUnitsNearMobs hostiles units near (in aggro distance) the unit. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool MaxUnitNearest(
+	WoWUnit unit,
+	int ifMaxNearBlackListTimeMs
+)Public Shared Function MaxUnitNearest ( _
+	unit As WoWUnit, _
+	ifMaxNearBlackListTimeMs As Integer _
+) As Booleanpublic:
+static bool^ MaxUnitNearest(
+	WoWUnit^ unit, 
+	int^ ifMaxNearBlackListTimeMs
+)Parameters
+unit
+Type: wManager.Wow.ObjectManager..::..WoWUnit
+The unit.
+ifMaxNearBlackListTimeMs
+Type: Int32
+If more than MaxUnitsNearMobs hostiles units near the unit blacklist the unit X millisecond (-1 to don't blacklist unit).
+Return Value
+true if max unit near, false otherwise.
+See Also
+
+
+wManagerSetting Class
+MaxUnitNearest Overload
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,31 @@
+WRobot
+
+wManagerSetting..::..IsBlackListedAllConditions Method (WoWGameObject)
+Determines if game object is blacklisted (position, guid or entry id). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsBlackListedAllConditions(
+	WoWGameObject woWGameObject
+)Public Shared Function IsBlackListedAllConditions ( _
+	woWGameObject As WoWGameObject _
+) As Booleanpublic:
+static bool^ IsBlackListedAllConditions(
+	WoWGameObject^ woWGameObject
+)Parameters
+woWGameObject
+Type: wManager.Wow.ObjectManager..::..WoWGameObject
+The wo w game object.
+Return Value
+true if blacklisted otherwise, false.
+See Also
+
+
+wManagerSetting Class
+IsBlackListedAllConditions Overload
+wManager Namespace
+Help File generated with GhostDoc
+ 

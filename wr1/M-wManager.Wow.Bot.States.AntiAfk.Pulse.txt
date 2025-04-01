@@ -1,0 +1,19 @@
+WRobot
+
+AntiAfk..::..Pulse Method 
+You can call frequently this method manually to avoid AFK, this method is automatically called by AntiAfk
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Pulse()Public Shared Sub Pulsepublic:
+static void Pulse()
+See Also
+
+
+AntiAfk Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

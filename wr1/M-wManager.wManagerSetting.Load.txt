@@ -1,0 +1,30 @@
+WRobot
+
+wManagerSetting..::..Load Method 
+Loads the specified load blacklist. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool Load(
+	bool loadBlacklist
+)Public Shared Function Load ( _
+	loadBlacklist As Boolean _
+) As Booleanpublic:
+static bool^ Load(
+	bool^ loadBlacklist
+)Parameters
+loadBlacklist
+Type: Boolean
+if set to true load blacklist (AddBlackListToWRobotSession()()()()).
+Return Value
+true if success, false otherwise.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

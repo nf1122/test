@@ -1,0 +1,21 @@
+WRobot
+
+wManagerSetting..::..Save Method 
+Saves this instance. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool Save()Public Function Save As Booleanpublic:
+bool^ Save()Return Value
+true if success, false otherwise.
+See Also
+
+
+wManagerSetting Class
+Save Overload
+wManager Namespace
+Help File generated with GhostDoc
+ 

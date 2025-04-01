@@ -1,0 +1,19 @@
+WRobot
+
+ArchaeologyStates Constructor 
+Initializes a new instance of the ArchaeologyStates class. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public ArchaeologyStates()Public Sub Newpublic:
+ArchaeologyStates()
+See Also
+
+
+ArchaeologyStates Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

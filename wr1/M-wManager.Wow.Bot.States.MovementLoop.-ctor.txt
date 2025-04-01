@@ -1,0 +1,29 @@
+WRobot
+
+MovementLoop Constructor (List<(Of <(<'Vector3>)>)>)
+Initializes a new instance of the MovementLoop class. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public MovementLoop(
+	List<Vector3> pathLoop
+)Public Sub New ( _
+	pathLoop As List(Of Vector3) _
+)public:
+MovementLoop(
+	List<Vector3^>^ pathLoop
+)Parameters
+pathLoop
+Type: List<(Of <(<'Vector3>)>)>
+The path loop.
+See Also
+
+
+MovementLoop Class
+MovementLoop Overload
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

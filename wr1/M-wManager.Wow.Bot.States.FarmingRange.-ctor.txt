@@ -1,0 +1,19 @@
+WRobot
+
+FarmingRange Constructor 
+Initializes a new instance of the FarmingRange class. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public FarmingRange()Public Sub Newpublic:
+FarmingRange()
+See Also
+
+
+FarmingRange Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

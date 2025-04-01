@@ -1,0 +1,20 @@
+WRobot
+
+wManagerSetting..::..GetListZoneBlackListedRectangle Method 
+Get list of blacklisted rectangle zones. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Dictionary<Vector3, Vector3> GetListZoneBlackListedRectangle()Public Shared Function GetListZoneBlackListedRectangle As Dictionary(Of Vector3, Vector3)public:
+static Dictionary<Vector3^, Vector3^>^ GetListZoneBlackListedRectangle()Return Value
+Dictionary<Vector3, Vector3>.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 
