@@ -1,0 +1,19 @@
+WRobot
+
+Utility..::..MinPos Field
+The minimum position (of game continent) 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static float MinPosPublic Shared MinPos As Singlepublic:
+static float^ MinPos
+See Also
+
+
+Utility Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

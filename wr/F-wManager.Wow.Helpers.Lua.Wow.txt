@@ -1,0 +1,24 @@
+WRobot
+
+Lua..::..Wow Field
+Allows to use/mix Lua with C# (or LuaBot). 
+Examples
+
+
+C#
+string playerName = Lua.Wow.GetUnitName("player"); // call https://wowwiki.fandom.com/wiki/API_GetUnitName
+Lua.Wow.print(playerName); // call https://wowwiki.fandom.com/wiki/API_printNamespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Object WowPublic Shared Wow As Objectpublic:
+static Object^ Wow
+See Also
+
+
+Lua Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

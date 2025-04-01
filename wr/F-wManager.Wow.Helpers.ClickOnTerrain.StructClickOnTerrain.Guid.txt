@@ -1,0 +1,19 @@
+WRobot
+
+StructClickOnTerrain..::..Guid Field
+The GUID 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public long GuidPublic Guid As Longpublic:
+long long^ Guid
+See Also
+
+
+ClickOnTerrain..::..StructClickOnTerrain Structure
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

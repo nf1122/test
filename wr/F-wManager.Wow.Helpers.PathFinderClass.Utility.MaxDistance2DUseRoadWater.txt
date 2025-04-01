@@ -1,0 +1,19 @@
+WRobot
+
+Utility..::..MaxDistance2DUseRoadWater Field
+The maximum distance 2d to use road and water when find path (used server side, RatioIncludeDistance2DFromCenter) 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public const float MaxDistance2DUseRoadWaterPublic Const MaxDistance2DUseRoadWater As Singlepublic:
+literal float^ MaxDistance2DUseRoadWater
+See Also
+
+
+Utility Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+AbilityInfo..::..Description Field
+The description 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string DescriptionPublic Description As Stringpublic:
+String^ Description
+See Also
+
+
+PetBattles..::..AbilityInfo Structure
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

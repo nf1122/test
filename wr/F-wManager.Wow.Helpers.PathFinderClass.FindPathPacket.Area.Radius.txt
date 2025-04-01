@@ -1,0 +1,21 @@
+WRobot
+
+Area..::..Radius Field
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[JsonPropertyAttribute]
+public float Radius<JsonPropertyAttribute> _
+Public Radius As Single[JsonPropertyAttribute]
+public:
+float^ Radius
+See Also
+
+
+FindPathPacket..::..Area Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

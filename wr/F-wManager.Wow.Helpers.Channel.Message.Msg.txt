@@ -1,0 +1,19 @@
+WRobot
+
+Message..::..Msg Field
+The message 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string MsgPublic Msg As Stringpublic:
+String^ Msg
+See Also
+
+
+Channel..::..Message Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

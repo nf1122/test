@@ -1,0 +1,21 @@
+WRobot
+
+FindPathPacket..::..WallDistance Field
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[JsonPropertyAttribute]
+public float WallDistance<JsonPropertyAttribute> _
+Public WallDistance As Single[JsonPropertyAttribute]
+public:
+float^ WallDistance
+See Also
+
+
+FindPathPacket Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

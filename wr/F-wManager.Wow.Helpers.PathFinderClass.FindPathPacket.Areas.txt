@@ -1,0 +1,21 @@
+WRobot
+
+FindPathPacket..::..Areas Field
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[JsonPropertyAttribute]
+public List<FindPathPacket..::..Area> Areas<JsonPropertyAttribute> _
+Public Areas As List(Of FindPathPacket..::..Area)[JsonPropertyAttribute]
+public:
+List<FindPathPacket..::..Area^>^ Areas
+See Also
+
+
+FindPathPacket Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

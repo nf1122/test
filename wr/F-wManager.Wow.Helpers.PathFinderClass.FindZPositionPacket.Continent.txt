@@ -1,0 +1,21 @@
+WRobot
+
+FindZPositionPacket..::..Continent Field
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[JsonPropertyAttribute]
+public string Continent<JsonPropertyAttribute> _
+Public Continent As String[JsonPropertyAttribute]
+public:
+String^ Continent
+See Also
+
+
+FindZPositionPacket Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

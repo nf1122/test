@@ -1,0 +1,19 @@
+WRobot
+
+Lua..::..DebugstackFilterMode Field
+Filter "debugstack" (https://wowwiki.fandom.com/wiki/API_debugstack) result (try to remove bot trace). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool DebugstackFilterModePublic Shared DebugstackFilterMode As Booleanpublic:
+static bool^ DebugstackFilterMode
+See Also
+
+
+Lua Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

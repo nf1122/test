@@ -1,0 +1,21 @@
+WRobot
+
+FindZPositionPacket..::..Strict Field
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[JsonPropertyAttribute]
+public bool Strict<JsonPropertyAttribute> _
+Public Strict As Boolean[JsonPropertyAttribute]
+public:
+bool^ Strict
+See Also
+
+
+FindZPositionPacket Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

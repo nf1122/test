@@ -1,0 +1,19 @@
+WRobot
+
+SettingsLogin..::..Login Field
+Game account mail (or name) Login="my@mail.com"
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string LoginPublic Login As Stringpublic:
+String^ Login
+See Also
+
+
+Login..::..SettingsLogin Structure
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

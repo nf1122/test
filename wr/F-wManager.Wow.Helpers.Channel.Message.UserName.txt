@@ -1,0 +1,19 @@
+WRobot
+
+Message..::..UserName Field
+The user name 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string UserNamePublic UserName As Stringpublic:
+String^ UserName
+See Also
+
+
+Channel..::..Message Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

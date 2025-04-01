@@ -1,0 +1,19 @@
+WRobot
+
+LandmarkMiniMap..::..Id Field
+The ID (you can use same name several time) 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string IdPublic Id As Stringpublic:
+String^ Id
+See Also
+
+
+MiniMapGenerator..::..LandmarkMiniMap Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

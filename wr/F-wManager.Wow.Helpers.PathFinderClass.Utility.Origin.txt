@@ -1,0 +1,19 @@
+WRobot
+
+Utility..::..Origin Field
+The origin (game continent) 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static float[] OriginPublic Shared Origin As Single()public:
+static array<float^>^ Origin
+See Also
+
+
+Utility Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

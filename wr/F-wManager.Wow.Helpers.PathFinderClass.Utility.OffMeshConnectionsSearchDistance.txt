@@ -1,0 +1,19 @@
+WRobot
+
+Utility..::..OffMeshConnectionsSearchDistance Field
+The offmeshconnections search distance when find path (used server side, RatioIncludeDistance2DFromCenter) 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static float OffMeshConnectionsSearchDistancePublic Shared OffMeshConnectionsSearchDistance As Singlepublic:
+static float^ OffMeshConnectionsSearchDistance
+See Also
+
+
+Utility Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

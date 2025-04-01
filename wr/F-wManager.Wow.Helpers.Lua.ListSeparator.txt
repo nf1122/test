@@ -1,0 +1,19 @@
+WRobot
+
+Lua..::..ListSeparator Field
+The list separator, use when you want return an array separate the entries with this string (you can found example in [LuaDoString{T}(string,string)]). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public const string ListSeparatorPublic Const ListSeparator As Stringpublic:
+literal String^ ListSeparator
+See Also
+
+
+Lua Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

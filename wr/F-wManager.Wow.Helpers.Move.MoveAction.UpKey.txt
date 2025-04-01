@@ -1,0 +1,19 @@
+WRobot
+
+MoveAction..::..UpKey Field
+Up (start) keyboard key 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public const Move..::..MoveAction UpKeyPublic Const UpKey As Move..::..MoveActionpublic:
+literal Move..::..MoveAction UpKey
+See Also
+
+
+Move..::..MoveAction Enumeration
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

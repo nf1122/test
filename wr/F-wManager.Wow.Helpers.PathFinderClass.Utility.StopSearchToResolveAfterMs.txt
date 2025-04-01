@@ -1,0 +1,19 @@
+WRobot
+
+Utility..::..StopSearchToResolveAfterMs Field
+Stop search after milliseconds 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public const int StopSearchToResolveAfterMsPublic Const StopSearchToResolveAfterMs As Integerpublic:
+literal int^ StopSearchToResolveAfterMs
+See Also
+
+
+Utility Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

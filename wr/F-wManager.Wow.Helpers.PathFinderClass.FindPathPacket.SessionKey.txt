@@ -1,0 +1,21 @@
+WRobot
+
+FindPathPacket..::..SessionKey Field
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[JsonPropertyAttribute]
+public string SessionKey<JsonPropertyAttribute> _
+Public SessionKey As String[JsonPropertyAttribute]
+public:
+String^ SessionKey
+See Also
+
+
+FindPathPacket Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

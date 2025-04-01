@@ -1,0 +1,19 @@
+WRobot
+
+MovementManager..::..StopMoveOnContinentChange Field
+Stop move when continent change 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool StopMoveOnContinentChangePublic Shared StopMoveOnContinentChange As Booleanpublic:
+static bool^ StopMoveOnContinentChange
+See Also
+
+
+MovementManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

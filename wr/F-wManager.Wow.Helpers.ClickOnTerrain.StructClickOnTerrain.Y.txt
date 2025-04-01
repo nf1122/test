@@ -1,0 +1,19 @@
+WRobot
+
+StructClickOnTerrain..::..Y Field
+The position y 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float YPublic Y As Singlepublic:
+float^ Y
+See Also
+
+
+ClickOnTerrain..::..StructClickOnTerrain Structure
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,21 @@
+WRobot
+
+OffMeshConnection..::..TryToUseEvenIfCanFindPathSuccess Field
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[JsonPropertyAttribute]
+public bool TryToUseEvenIfCanFindPathSuccess<JsonPropertyAttribute> _
+Public TryToUseEvenIfCanFindPathSuccess As Boolean[JsonPropertyAttribute]
+public:
+bool^ TryToUseEvenIfCanFindPathSuccess
+See Also
+
+
+FindPathPacket..::..OffMeshConnection Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

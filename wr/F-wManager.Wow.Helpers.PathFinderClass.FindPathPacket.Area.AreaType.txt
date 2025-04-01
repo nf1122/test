@@ -1,0 +1,21 @@
+WRobot
+
+Area..::..AreaType Field
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[JsonPropertyAttribute]
+public PolyArea AreaType<JsonPropertyAttribute> _
+Public AreaType As PolyArea[JsonPropertyAttribute]
+public:
+PolyArea^ AreaType
+See Also
+
+
+FindPathPacket..::..Area Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

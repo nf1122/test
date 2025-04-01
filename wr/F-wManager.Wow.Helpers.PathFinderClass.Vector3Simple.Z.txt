@@ -1,0 +1,18 @@
+WRobot
+
+Vector3Simple..::..Z Field
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float ZPublic Z As Singlepublic:
+float^ Z
+See Also
+
+
+Vector3Simple Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

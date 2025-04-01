@@ -1,0 +1,21 @@
+WRobot
+
+FindPathPacket..::..GarrisonLevel Field
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[JsonPropertyAttribute]
+public int GarrisonLevel<JsonPropertyAttribute> _
+Public GarrisonLevel As Integer[JsonPropertyAttribute]
+public:
+int^ GarrisonLevel
+See Also
+
+
+FindPathPacket Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

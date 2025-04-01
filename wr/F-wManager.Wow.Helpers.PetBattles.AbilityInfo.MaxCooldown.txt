@@ -1,0 +1,19 @@
+WRobot
+
+AbilityInfo..::..MaxCooldown Field
+The maximum cooldown 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int MaxCooldownPublic MaxCooldown As Integerpublic:
+int^ MaxCooldown
+See Also
+
+
+PetBattles..::..AbilityInfo Structure
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+Fight..::..FightLock Field
+The fight locker 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Object FightLockPublic Shared FightLock As Objectpublic:
+static Object^ FightLock
+See Also
+
+
+Fight Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

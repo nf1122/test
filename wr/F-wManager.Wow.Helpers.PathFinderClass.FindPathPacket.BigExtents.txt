@@ -1,0 +1,21 @@
+WRobot
+
+FindPathPacket..::..BigExtents Field
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[JsonPropertyAttribute]
+public bool BigExtents<JsonPropertyAttribute> _
+Public BigExtents As Boolean[JsonPropertyAttribute]
+public:
+bool^ BigExtents
+See Also
+
+
+FindPathPacket Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

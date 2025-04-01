@@ -1,0 +1,19 @@
+WRobot
+
+NpcDB..::..AcceptOnlyProfileNpc Field
+Accept only profile NPC (similar to AcceptOnlyProfileNpc). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool AcceptOnlyProfileNpcPublic Shared AcceptOnlyProfileNpc As Booleanpublic:
+static bool^ AcceptOnlyProfileNpc
+See Also
+
+
+NpcDB Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

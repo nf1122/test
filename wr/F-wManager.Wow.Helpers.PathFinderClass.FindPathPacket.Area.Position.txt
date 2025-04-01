@@ -1,0 +1,21 @@
+WRobot
+
+Area..::..Position Field
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[JsonPropertyAttribute]
+public Vector3Simple Position<JsonPropertyAttribute> _
+Public Position As Vector3Simple[JsonPropertyAttribute]
+public:
+Vector3Simple^ Position
+See Also
+
+
+FindPathPacket..::..Area Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

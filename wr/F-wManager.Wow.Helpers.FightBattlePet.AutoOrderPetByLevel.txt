@@ -1,0 +1,19 @@
+WRobot
+
+FightBattlePet..::..AutoOrderPetByLevel Field
+Automatic order pets by level 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool AutoOrderPetByLevelPublic Shared AutoOrderPetByLevel As Booleanpublic:
+static bool^ AutoOrderPetByLevel
+See Also
+
+
+FightBattlePet Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+FightClass..::..FightClassGeneralSettings Field
+The fight class general settings 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public FightClassGeneralSettings FightClassGeneralSettingsPublic FightClassGeneralSettings As FightClassGeneralSettingspublic:
+FightClassGeneralSettings^ FightClassGeneralSettings
+See Also
+
+
+FightClass Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

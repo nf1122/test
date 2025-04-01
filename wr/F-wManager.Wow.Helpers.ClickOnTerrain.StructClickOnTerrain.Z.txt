@@ -1,0 +1,19 @@
+WRobot
+
+StructClickOnTerrain..::..Z Field
+The position z 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float ZPublic Z As Singlepublic:
+float^ Z
+See Also
+
+
+ClickOnTerrain..::..StructClickOnTerrain Structure
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

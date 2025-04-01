@@ -1,0 +1,21 @@
+WRobot
+
+OffMeshConnection..::..Path Field
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[JsonPropertyAttribute]
+public List<Vector3Simple> Path<JsonPropertyAttribute> _
+Public Path As List(Of Vector3Simple)[JsonPropertyAttribute]
+public:
+List<Vector3Simple^>^ Path
+See Also
+
+
+FindPathPacket..::..OffMeshConnection Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

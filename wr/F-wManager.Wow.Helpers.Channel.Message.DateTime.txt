@@ -1,0 +1,19 @@
+WRobot
+
+Message..::..DateTime Field
+The date time 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string DateTimePublic DateTime As Stringpublic:
+String^ DateTime
+See Also
+
+
+Channel..::..Message Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

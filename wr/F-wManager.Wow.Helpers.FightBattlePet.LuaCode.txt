@@ -1,0 +1,19 @@
+WRobot
+
+FightBattlePet..::..LuaCode Field
+Lua code hook (Empty if no code is used, code is used before combat rotation) 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string LuaCodePublic Shared LuaCode As Stringpublic:
+static String^ LuaCode
+See Also
+
+
+FightBattlePet Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

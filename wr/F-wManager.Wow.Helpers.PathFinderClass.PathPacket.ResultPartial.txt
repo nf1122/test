@@ -1,0 +1,21 @@
+WRobot
+
+PathPacket..::..ResultPartial Field
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[JsonPropertyAttribute]
+public bool ResultPartial<JsonPropertyAttribute> _
+Public ResultPartial As Boolean[JsonPropertyAttribute]
+public:
+bool^ ResultPartial
+See Also
+
+
+PathPacket Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

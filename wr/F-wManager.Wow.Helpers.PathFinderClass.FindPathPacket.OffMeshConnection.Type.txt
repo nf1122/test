@@ -1,0 +1,21 @@
+WRobot
+
+OffMeshConnection..::..Type Field
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[JsonPropertyAttribute]
+public FindPathPacket..::..OffMeshConnection..::..OffMeshConnectionType Type<JsonPropertyAttribute> _
+Public Type As FindPathPacket..::..OffMeshConnection..::..OffMeshConnectionType[JsonPropertyAttribute]
+public:
+FindPathPacket..::..OffMeshConnection..::..OffMeshConnectionType^ Type
+See Also
+
+
+FindPathPacket..::..OffMeshConnection Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

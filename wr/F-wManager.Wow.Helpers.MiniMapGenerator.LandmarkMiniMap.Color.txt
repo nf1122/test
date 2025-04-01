@@ -1,0 +1,19 @@
+WRobot
+
+LandmarkMiniMap..::..Color Field
+The color 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Color ColorPublic Color As Colorpublic:
+Color^ Color
+See Also
+
+
+MiniMapGenerator..::..LandmarkMiniMap Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

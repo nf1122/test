@@ -1,0 +1,19 @@
+WRobot
+
+MiniMapGenerator..::..LowQuality Field
+Use low render quality 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool LowQualityPublic Shared LowQuality As Booleanpublic:
+static bool^ LowQuality
+See Also
+
+
+MiniMapGenerator Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

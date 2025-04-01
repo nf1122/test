@@ -1,0 +1,19 @@
+WRobot
+
+Utility..::..RatioIncludeDistance2DFromCenter Field
+The distance ratio from center of areas and offmeshconnections to include (start.DistanceTo2D(end) * RatioIncludeDistance2DFromCenter;). 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public const float RatioIncludeDistance2DFromCenterPublic Const RatioIncludeDistance2DFromCenter As Singlepublic:
+literal float^ RatioIncludeDistance2DFromCenter
+See Also
+
+
+Utility Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+AbilityInfo..::..Icon Field
+The icon 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string IconPublic Icon As Stringpublic:
+String^ Icon
+See Also
+
+
+PetBattles..::..AbilityInfo Structure
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

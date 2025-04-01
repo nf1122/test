@@ -1,0 +1,19 @@
+WRobot
+
+SettingsLogin..::..BNetName Field
+Game account name BNetName="WoW1"
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string BNetNamePublic BNetName As Stringpublic:
+String^ BNetName
+See Also
+
+
+Login..::..SettingsLogin Structure
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

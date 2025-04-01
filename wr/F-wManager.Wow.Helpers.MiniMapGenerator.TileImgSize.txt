@@ -1,0 +1,19 @@
+WRobot
+
+MiniMapGenerator..::..TileImgSize Field
+The image tile size 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public const int TileImgSizePublic Const TileImgSize As Integerpublic:
+literal int^ TileImgSize
+See Also
+
+
+MiniMapGenerator Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

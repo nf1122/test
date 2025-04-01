@@ -1,0 +1,19 @@
+WRobot
+
+FightBattlePet..::..CaptureAllPets Field
+The capture all pets 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool CaptureAllPetsPublic Shared CaptureAllPets As Booleanpublic:
+static bool^ CaptureAllPets
+See Also
+
+
+FightBattlePet Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+FightBattlePet..::..CaptureIDontHavePets Field
+Capture pet if I do not have it 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool CaptureIDontHavePetsPublic Shared CaptureIDontHavePets As Booleanpublic:
+static bool^ CaptureIDontHavePets
+See Also
+
+
+FightBattlePet Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

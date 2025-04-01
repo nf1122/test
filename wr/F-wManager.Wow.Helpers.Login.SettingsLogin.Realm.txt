@@ -1,0 +1,19 @@
+WRobot
+
+SettingsLogin..::..Realm Field
+Game realmlist name Realm="ServerName"
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string RealmPublic Realm As Stringpublic:
+String^ Realm
+See Also
+
+
+Login..::..SettingsLogin Structure
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+MoveAction..::..DownKey Field
+Down (strop) keyboard key 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public const Move..::..MoveAction DownKeyPublic Const DownKey As Move..::..MoveActionpublic:
+literal Move..::..MoveAction DownKey
+See Also
+
+
+Move..::..MoveAction Enumeration
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+Channel..::..ActuelRead Field
+The actual index position of message to read 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int ActuelReadPublic ActuelRead As Integerpublic:
+int^ ActuelRead
+See Also
+
+
+Channel Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

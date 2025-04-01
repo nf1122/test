@@ -1,0 +1,19 @@
+WRobot
+
+FightBattlePet..::..PetBattlesDontFight Field
+Starting pet battles but don't fight (if you use another addon for rotation) 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool PetBattlesDontFightPublic Shared PetBattlesDontFight As Booleanpublic:
+static bool^ PetBattlesDontFight
+See Also
+
+
+FightBattlePet Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

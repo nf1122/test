@@ -1,0 +1,19 @@
+WRobot
+
+Lua..::..SecureLuaCall Field
+Secure called lua code (a lot of private servers add traps in lua to detect bots). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool SecureLuaCallPublic Shared SecureLuaCall As Booleanpublic:
+static bool^ SecureLuaCall
+See Also
+
+
+Lua Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

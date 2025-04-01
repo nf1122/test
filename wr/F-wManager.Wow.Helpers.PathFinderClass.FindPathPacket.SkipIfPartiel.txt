@@ -1,0 +1,21 @@
+WRobot
+
+FindPathPacket..::..SkipIfPartiel Field
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[JsonPropertyAttribute]
+public bool SkipIfPartiel<JsonPropertyAttribute> _
+Public SkipIfPartiel As Boolean[JsonPropertyAttribute]
+public:
+bool^ SkipIfPartiel
+See Also
+
+
+FindPathPacket Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

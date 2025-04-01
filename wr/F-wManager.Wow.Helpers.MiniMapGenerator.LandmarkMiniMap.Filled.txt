@@ -1,0 +1,19 @@
+WRobot
+
+LandmarkMiniMap..::..Filled Field
+Filled 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool FilledPublic Filled As Booleanpublic:
+bool^ Filled
+See Also
+
+
+MiniMapGenerator..::..LandmarkMiniMap Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

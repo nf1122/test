@@ -1,0 +1,19 @@
+WRobot
+
+PatherServer..::..MaxCacheSize Field
+The maximum cache size 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int MaxCacheSizePublic Shared MaxCacheSize As Integerpublic:
+static int^ MaxCacheSize
+See Also
+
+
+PatherServer Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

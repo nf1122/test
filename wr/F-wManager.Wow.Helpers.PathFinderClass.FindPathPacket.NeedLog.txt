@@ -1,0 +1,21 @@
+WRobot
+
+FindPathPacket..::..NeedLog Field
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[JsonPropertyAttribute]
+public bool NeedLog<JsonPropertyAttribute> _
+Public NeedLog As Boolean[JsonPropertyAttribute]
+public:
+bool^ NeedLog
+See Also
+
+
+FindPathPacket Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

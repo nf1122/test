@@ -1,0 +1,21 @@
+WRobot
+
+PathPacket..::..Logs Field
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[JsonPropertyAttribute]
+public List<string> Logs<JsonPropertyAttribute> _
+Public Logs As List(Of String)[JsonPropertyAttribute]
+public:
+List<String^>^ Logs
+See Also
+
+
+PathPacket Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

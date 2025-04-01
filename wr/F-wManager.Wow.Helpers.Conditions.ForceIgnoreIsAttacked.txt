@@ -1,0 +1,19 @@
+WRobot
+
+Conditions..::..ForceIgnoreIsAttacked Field
+Force to ignore all attack (if enabled, force IsAttackedAndCannotIgnore to return false) 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ForceIgnoreIsAttackedPublic Shared ForceIgnoreIsAttacked As Booleanpublic:
+static bool^ ForceIgnoreIsAttacked
+See Also
+
+
+Conditions Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+StructClickOnTerrain..::..Active Field
+active (put 1) 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int ActivePublic Active As Integerpublic:
+int^ Active
+See Also
+
+
+ClickOnTerrain..::..StructClickOnTerrain Structure
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

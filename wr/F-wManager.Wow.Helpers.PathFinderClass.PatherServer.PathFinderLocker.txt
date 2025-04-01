@@ -1,0 +1,19 @@
+WRobot
+
+PatherServer..::..PathFinderLocker Field
+The path finder locker 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Object PathFinderLockerPublic Shared PathFinderLocker As Objectpublic:
+static Object^ PathFinderLocker
+See Also
+
+
+PatherServer Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

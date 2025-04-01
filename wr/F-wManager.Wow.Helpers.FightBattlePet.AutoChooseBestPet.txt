@@ -1,0 +1,19 @@
+WRobot
+
+FightBattlePet..::..AutoChooseBestPet Field
+Automatic choose best pet in relation to the type of pet to fight 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool AutoChooseBestPetPublic Shared AutoChooseBestPet As Booleanpublic:
+static bool^ AutoChooseBestPet
+See Also
+
+
+FightBattlePet Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

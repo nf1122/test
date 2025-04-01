@@ -1,0 +1,19 @@
+WRobot
+
+FightClassSpell..::..FightClassConditions Field
+The fight class conditions 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<FightClassCondition> FightClassConditionsPublic FightClassConditions As List(Of FightClassCondition)public:
+List<FightClassCondition^>^ FightClassConditions
+See Also
+
+
+FightClassSpell Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

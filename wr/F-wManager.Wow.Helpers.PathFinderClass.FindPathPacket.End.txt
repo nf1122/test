@@ -1,0 +1,21 @@
+WRobot
+
+FindPathPacket..::..End Field
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[JsonPropertyAttribute]
+public Vector3Simple End<JsonPropertyAttribute> _
+Public End As Vector3Simple[JsonPropertyAttribute]
+public:
+Vector3Simple^ End
+See Also
+
+
+FindPathPacket Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

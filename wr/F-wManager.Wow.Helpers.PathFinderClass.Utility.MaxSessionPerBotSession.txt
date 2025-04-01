@@ -1,0 +1,19 @@
+WRobot
+
+Utility..::..MaxSessionPerBotSession Field
+The maximum pathfinder server sessions per bot session 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public const int MaxSessionPerBotSessionPublic Const MaxSessionPerBotSession As Integerpublic:
+literal int^ MaxSessionPerBotSession
+See Also
+
+
+Utility Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

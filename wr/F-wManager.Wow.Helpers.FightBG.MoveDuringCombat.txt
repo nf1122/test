@@ -1,0 +1,19 @@
+WRobot
+
+FightBG..::..MoveDuringCombat Field
+Move the character during the fight (to appear more human) 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool MoveDuringCombatPublic Shared MoveDuringCombat As Booleanpublic:
+static bool^ MoveDuringCombat
+See Also
+
+
+FightBG Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

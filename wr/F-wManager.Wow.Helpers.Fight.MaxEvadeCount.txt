@@ -1,0 +1,19 @@
+WRobot
+
+Fight..::..MaxEvadeCount Field
+The maximum evade count per combat (you need also to active DetectEvadingMob) 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int MaxEvadeCountPublic Shared MaxEvadeCount As Integerpublic:
+static int^ MaxEvadeCount
+See Also
+
+
+Fight Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

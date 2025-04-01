@@ -1,0 +1,19 @@
+WRobot
+
+FightBattlePet..::..AbilitiesBlackListed Field
+The abilities black listed 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<string> AbilitiesBlackListedPublic Shared AbilitiesBlackListed As List(Of String)public:
+static List<String^>^ AbilitiesBlackListed
+See Also
+
+
+FightBattlePet Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

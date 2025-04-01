@@ -1,0 +1,19 @@
+WRobot
+
+LandmarkMiniMap..::..Size Field
+The size 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float SizePublic Size As Singlepublic:
+float^ Size
+See Also
+
+
+MiniMapGenerator..::..LandmarkMiniMap Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

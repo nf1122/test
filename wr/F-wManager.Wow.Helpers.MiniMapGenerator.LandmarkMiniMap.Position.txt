@@ -1,0 +1,19 @@
+WRobot
+
+LandmarkMiniMap..::..Position Field
+The position 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Vector3 PositionPublic Position As Vector3public:
+Vector3^ Position
+See Also
+
+
+MiniMapGenerator..::..LandmarkMiniMap Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

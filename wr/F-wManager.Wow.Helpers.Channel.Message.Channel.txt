@@ -1,0 +1,19 @@
+WRobot
+
+Message..::..Channel Field
+The channel id 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public ChatTypeId ChannelPublic Channel As ChatTypeIdpublic:
+ChatTypeId^ Channel
+See Also
+
+
+Channel..::..Message Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

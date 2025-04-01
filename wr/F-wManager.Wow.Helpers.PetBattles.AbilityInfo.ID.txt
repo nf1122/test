@@ -1,0 +1,19 @@
+WRobot
+
+AbilityInfo..::..ID Field
+The id 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int IDPublic ID As Integerpublic:
+int^ ID
+See Also
+
+
+PetBattles..::..AbilityInfo Structure
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

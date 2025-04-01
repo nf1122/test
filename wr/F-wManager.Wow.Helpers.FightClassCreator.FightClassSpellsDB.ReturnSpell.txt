@@ -1,0 +1,19 @@
+WRobot
+
+FightClassSpellsDB..::..ReturnSpell Field
+The return spell 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public FightClassSpell ReturnSpellPublic ReturnSpell As FightClassSpellpublic:
+FightClassSpell^ ReturnSpell
+See Also
+
+
+FightClassSpellsDB Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

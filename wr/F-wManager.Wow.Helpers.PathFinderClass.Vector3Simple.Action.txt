@@ -1,0 +1,21 @@
+WRobot
+
+Vector3Simple..::..Action Field
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[JsonPropertyAttribute]
+public string Action<JsonPropertyAttribute> _
+Public Action As String[JsonPropertyAttribute]
+public:
+String^ Action
+See Also
+
+
+Vector3Simple Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

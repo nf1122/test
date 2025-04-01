@@ -1,0 +1,19 @@
+WRobot
+
+FightClass..::..FightClassSpells Field
+The fight class spells 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<FightClassSpell> FightClassSpellsPublic FightClassSpells As List(Of FightClassSpell)public:
+List<FightClassSpell^>^ FightClassSpells
+See Also
+
+
+FightClass Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

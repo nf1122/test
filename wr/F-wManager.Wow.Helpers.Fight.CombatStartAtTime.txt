@@ -1,0 +1,19 @@
+WRobot
+
+Fight..::..CombatStartAtTime Field
+The combat start time (Times). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static long CombatStartAtTimePublic Shared CombatStartAtTime As Longpublic:
+static long long^ CombatStartAtTime
+See Also
+
+
+Fight Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 
