@@ -1,0 +1,19 @@
+WRobot
+
+Grinding..::..EntryTarget Field
+Entry list to kills 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<int> EntryTargetPublic EntryTarget As List(Of Integer)public:
+List<int^>^ EntryTarget
+See Also
+
+
+Grinding Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

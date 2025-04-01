@@ -1,0 +1,19 @@
+WRobot
+
+MovementLoop..::..RandomiseDistanceMax Field
+Distance maximum of randomized position RandomisePath
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public double RandomiseDistanceMaxPublic RandomiseDistanceMax As Doublepublic:
+double^ RandomiseDistanceMax
+See Also
+
+
+MovementLoop Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

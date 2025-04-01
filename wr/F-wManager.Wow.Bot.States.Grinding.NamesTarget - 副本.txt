@@ -1,0 +1,19 @@
+WRobot
+
+Grinding..::..NamesTarget Field
+Name list to kills 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<string> NamesTargetPublic NamesTarget As List(Of String)public:
+List<String^>^ NamesTarget
+See Also
+
+
+Grinding Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

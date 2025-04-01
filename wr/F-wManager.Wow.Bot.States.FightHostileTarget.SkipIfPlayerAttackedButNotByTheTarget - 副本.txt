@@ -1,0 +1,19 @@
+WRobot
+
+FightHostileTarget..::..SkipIfPlayerAttackedButNotByTheTarget Field
+Skip if player attacked but not by the target 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool SkipIfPlayerAttackedButNotByTheTargetPublic SkipIfPlayerAttackedButNotByTheTarget As Booleanpublic:
+bool^ SkipIfPlayerAttackedButNotByTheTarget
+See Also
+
+
+FightHostileTarget Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

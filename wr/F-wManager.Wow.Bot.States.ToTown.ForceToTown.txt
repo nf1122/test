@@ -1,0 +1,19 @@
+WRobot
+
+ToTown..::..ForceToTown Field
+Enable this option to force to go to town (this option will be disabled automatically once it is done). 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ForceToTownPublic Shared ForceToTown As Booleanpublic:
+static bool^ ForceToTown
+See Also
+
+
+ToTown Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

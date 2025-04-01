@@ -1,0 +1,19 @@
+WRobot
+
+Farming..::..ByGatherEntryOnly Field
+Put "true" to harvests only objects of the lists GatherEntry and GatherNames (ignore herbs, mines, ...). 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool ByGatherEntryOnlyPublic ByGatherEntryOnly As Booleanpublic:
+bool^ ByGatherEntryOnly
+See Also
+
+
+Farming Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

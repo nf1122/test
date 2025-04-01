@@ -1,0 +1,19 @@
+WRobot
+
+GrindingBG..::..DistanceSearch Field
+Target search distance 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float DistanceSearchPublic DistanceSearch As Singlepublic:
+float^ DistanceSearch
+See Also
+
+
+GrindingBG Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

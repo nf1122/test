@@ -1,0 +1,19 @@
+WRobot
+
+MovementLoop..::..RandomisePath Field
+Randomize path (can cause blockages when the randomized position is underground or in an obstacle, use with caution). 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool RandomisePathPublic RandomisePath As Booleanpublic:
+bool^ RandomisePath
+See Also
+
+
+MovementLoop Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

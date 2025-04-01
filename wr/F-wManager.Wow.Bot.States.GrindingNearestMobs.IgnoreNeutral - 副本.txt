@@ -1,0 +1,19 @@
+WRobot
+
+GrindingNearestMobs..::..IgnoreNeutral Field
+Ignore neutral (reaction) mobs 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IgnoreNeutralPublic IgnoreNeutral As Booleanpublic:
+bool^ IgnoreNeutral
+See Also
+
+
+GrindingNearestMobs Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

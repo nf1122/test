@@ -1,0 +1,19 @@
+WRobot
+
+ToTown..::..PetBattleMode Field
+Enabled this option to use Npc type ResurrectBattlePets (of profile or NpcDB). 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool PetBattleModePublic PetBattleMode As Booleanpublic:
+bool^ PetBattleMode
+See Also
+
+
+ToTown Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

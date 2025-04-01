@@ -1,0 +1,19 @@
+WRobot
+
+Farming..::..GatherEntry Field
+List of Entry to harvest. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<int> GatherEntryPublic GatherEntry As List(Of Integer)public:
+List<int^>^ GatherEntry
+See Also
+
+
+Farming Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

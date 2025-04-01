@@ -1,0 +1,19 @@
+WRobot
+
+StopBotIf..::..TPLastTime Field
+The tp last time 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Stopwatch TPLastTimePublic Shared TPLastTime As Stopwatchpublic:
+static Stopwatch^ TPLastTime
+See Also
+
+
+StopBotIf Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

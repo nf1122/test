@@ -1,0 +1,18 @@
+WRobot
+
+QuestAction..::..Pulse Field
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public const QuestAction PulsePublic Const Pulse As QuestActionpublic:
+literal QuestAction Pulse
+See Also
+
+
+QuestAction Enumeration
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

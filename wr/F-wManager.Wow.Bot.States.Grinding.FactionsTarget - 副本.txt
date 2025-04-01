@@ -1,0 +1,19 @@
+WRobot
+
+Grinding..::..FactionsTarget Field
+Faction list to kills 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<uint> FactionsTargetPublic FactionsTarget As List(Of UInteger)public:
+List<unsigned int^>^ FactionsTarget
+See Also
+
+
+Grinding Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

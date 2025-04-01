@@ -1,0 +1,19 @@
+WRobot
+
+NPCScanState..::..Locker Field
+The thread locker 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Object LockerPublic Shared Locker As Objectpublic:
+static Object^ Locker
+See Also
+
+
+NPCScanState Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+FightHostileTarget..::..AttackOnlyIfFlaggedInCombat Field
+[Fight.StartFight(MemoryRobot.Int128, bool, bool, bool, bool)] only when character flagged in combat 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool AttackOnlyIfFlaggedInCombatPublic AttackOnlyIfFlaggedInCombat As Booleanpublic:
+bool^ AttackOnlyIfFlaggedInCombat
+See Also
+
+
+FightHostileTarget Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

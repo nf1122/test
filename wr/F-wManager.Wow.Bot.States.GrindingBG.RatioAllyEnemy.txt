@@ -1,0 +1,19 @@
+WRobot
+
+GrindingBG..::..RatioAllyEnemy Field
+The ratio allies/enemies to start fight (1 if you want minimum 1 ally for 1 enemy, 0.5 if you want minimum 1 ally for two enemies, 2 if you want 2 allies for 1 enemy). 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public double RatioAllyEnemyPublic RatioAllyEnemy As Doublepublic:
+double^ RatioAllyEnemy
+See Also
+
+
+GrindingBG Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+Farming..::..IgnoreIfPlayerNear Field
+Put "true" to skip node if any player near. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IgnoreIfPlayerNearPublic IgnoreIfPlayerNear As Booleanpublic:
+bool^ IgnoreIfPlayerNear
+See Also
+
+
+Farming Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

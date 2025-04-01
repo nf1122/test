@@ -1,0 +1,19 @@
+WRobot
+
+Aura..::.._timeEnd Field
+The end time 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int _timeEndPublic _timeEnd As Integerpublic:
+int^ _timeEnd
+See Also
+
+
+Aura Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

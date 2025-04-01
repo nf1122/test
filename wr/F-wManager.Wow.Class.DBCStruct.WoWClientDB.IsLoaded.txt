@@ -1,0 +1,18 @@
+WRobot
+
+WoWClientDB..::..IsLoaded Field
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int IsLoadedPublic IsLoaded As Integerpublic:
+int^ IsLoaded
+See Also
+
+
+DBCStruct..::..WoWClientDB Structure
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

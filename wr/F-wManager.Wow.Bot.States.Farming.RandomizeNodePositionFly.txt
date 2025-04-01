@@ -1,0 +1,19 @@
+WRobot
+
+Farming..::..RandomizeNodePositionFly Field
+Fly only, randomize landing position, use small distance, no more than 2.5, this option can add bugs or fails some farming 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float RandomizeNodePositionFlyPublic RandomizeNodePositionFly As Singlepublic:
+float^ RandomizeNodePositionFly
+See Also
+
+
+Farming Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

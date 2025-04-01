@@ -1,0 +1,19 @@
+WRobot
+
+FightHostileTarget..::..ManageMovement Field
+If activated the bot will move the character when he is in combat, if deactivated the movement will be 100% controlled by user. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool ManageMovementPublic ManageMovement As Booleanpublic:
+bool^ ManageMovement
+See Also
+
+
+FightHostileTarget Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

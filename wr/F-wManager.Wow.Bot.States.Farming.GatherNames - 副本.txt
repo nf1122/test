@@ -1,0 +1,19 @@
+WRobot
+
+Farming..::..GatherNames Field
+List of Name to harvest (like is appear in game). 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<string> GatherNamesPublic GatherNames As List(Of String)public:
+List<String^>^ GatherNames
+See Also
+
+
+Farming Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

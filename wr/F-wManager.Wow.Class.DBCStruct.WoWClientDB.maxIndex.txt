@@ -1,0 +1,18 @@
+WRobot
+
+WoWClientDB..::..maxIndex Field
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int maxIndexPublic maxIndex As Integerpublic:
+int^ maxIndex
+See Also
+
+
+DBCStruct..::..WoWClientDB Structure
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

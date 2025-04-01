@@ -1,0 +1,19 @@
+WRobot
+
+StopBotIf..::..TPLastContinent Field
+The tp last continent 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int TPLastContinentPublic Shared TPLastContinent As Integerpublic:
+static int^ TPLastContinent
+See Also
+
+
+StopBotIf Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

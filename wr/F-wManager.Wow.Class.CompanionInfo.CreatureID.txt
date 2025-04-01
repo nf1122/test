@@ -1,0 +1,19 @@
+WRobot
+
+CompanionInfo..::..CreatureID Field
+The creature id 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int CreatureIDPublic CreatureID As Integerpublic:
+int^ CreatureID
+See Also
+
+
+CompanionInfo Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+MovementLoop..::..ReturnToLastPositionWhenLoop Field
+Return to last position after stop move (if disabled the bot goes to the position closest to the PathLoop) 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool ReturnToLastPositionWhenLoopPublic ReturnToLastPositionWhenLoop As Booleanpublic:
+bool^ ReturnToLastPositionWhenLoop
+See Also
+
+
+MovementLoop Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

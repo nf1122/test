@@ -1,0 +1,19 @@
+WRobot
+
+CompanionInfo..::..Icon Field
+The icon 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string IconPublic Icon As Stringpublic:
+String^ Icon
+See Also
+
+
+CompanionInfo Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

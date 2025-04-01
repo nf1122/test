@@ -1,0 +1,18 @@
+WRobot
+
+WoWClientDB..::..FirstRow Field
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint FirstRowPublic FirstRow As UIntegerpublic:
+unsigned int^ FirstRow
+See Also
+
+
+DBCStruct..::..WoWClientDB Structure
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

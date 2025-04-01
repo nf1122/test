@@ -1,0 +1,19 @@
+WRobot
+
+CompanionInfo..::..SpellID Field
+The creature spell id 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int SpellIDPublic SpellID As Integerpublic:
+int^ SpellID
+See Also
+
+
+CompanionInfo Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

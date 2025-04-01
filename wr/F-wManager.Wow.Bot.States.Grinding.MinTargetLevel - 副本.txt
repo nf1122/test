@@ -1,0 +1,19 @@
+WRobot
+
+Grinding..::..MinTargetLevel Field
+Minimum mob level 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint MinTargetLevelPublic MinTargetLevel As UIntegerpublic:
+unsigned int^ MinTargetLevel
+See Also
+
+
+Grinding Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

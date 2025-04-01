@@ -1,0 +1,19 @@
+WRobot
+
+GrindingNearestMobs..::..CenterGinderZone Field
+Center position of grind zone. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Vector3 CenterGinderZonePublic CenterGinderZone As Vector3public:
+Vector3^ CenterGinderZone
+See Also
+
+
+GrindingNearestMobs Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

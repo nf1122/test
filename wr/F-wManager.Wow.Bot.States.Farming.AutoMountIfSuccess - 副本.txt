@@ -1,0 +1,19 @@
+WRobot
+
+Farming..::..AutoMountIfSuccess Field
+Put "true" to mount after all farm. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool AutoMountIfSuccessPublic AutoMountIfSuccess As Booleanpublic:
+bool^ AutoMountIfSuccess
+See Also
+
+
+Farming Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

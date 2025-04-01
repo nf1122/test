@@ -1,0 +1,19 @@
+WRobot
+
+Npc..::..Position Field
+The position 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Vector3 PositionPublic Position As Vector3public:
+Vector3^ Position
+See Also
+
+
+Npc Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

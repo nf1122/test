@@ -1,0 +1,19 @@
+WRobot
+
+CompanionInfo..::..CreatureName Field
+The creature name 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string CreatureNamePublic CreatureName As Stringpublic:
+String^ CreatureName
+See Also
+
+
+CompanionInfo Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

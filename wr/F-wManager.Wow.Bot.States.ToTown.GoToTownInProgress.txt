@@ -1,0 +1,19 @@
+WRobot
+
+ToTown..::..GoToTownInProgress Field
+true if town in progress 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool GoToTownInProgressPublic Shared GoToTownInProgress As Booleanpublic:
+static bool^ GoToTownInProgress
+See Also
+
+
+ToTown Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

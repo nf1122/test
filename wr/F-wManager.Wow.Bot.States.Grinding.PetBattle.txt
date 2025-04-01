@@ -1,0 +1,19 @@
+WRobot
+
+Grinding..::..PetBattle Field
+Start combat with PetBattle 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool PetBattlePublic PetBattle As Booleanpublic:
+bool^ PetBattle
+See Also
+
+
+Grinding Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

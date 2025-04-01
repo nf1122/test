@@ -1,0 +1,18 @@
+WRobot
+
+NpcType..::..ResurrectBattlePets Field
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public const Npc..::..NpcType ResurrectBattlePetsPublic Const ResurrectBattlePets As Npc..::..NpcTypepublic:
+literal Npc..::..NpcType ResurrectBattlePets
+See Also
+
+
+Npc..::..NpcType Enumeration
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

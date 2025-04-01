@@ -1,0 +1,19 @@
+WRobot
+
+FightHostileTarget..::..AttackAll Field
+Attack all character target (even if friendly) 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool AttackAllPublic AttackAll As Booleanpublic:
+bool^ AttackAll
+See Also
+
+
+FightHostileTarget Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+Looting..::..InRangeOnly Field
+Loot only in range (if don't need to move). 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool InRangeOnlyPublic InRangeOnly As Booleanpublic:
+bool^ InRangeOnly
+See Also
+
+
+Looting Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

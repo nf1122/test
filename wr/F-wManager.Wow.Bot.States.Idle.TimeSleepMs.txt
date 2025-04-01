@@ -1,0 +1,19 @@
+WRobot
+
+Idle..::..TimeSleepMs Field
+Sleep time, in milliseconds 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int TimeSleepMsPublic TimeSleepMs As Integerpublic:
+int^ TimeSleepMs
+See Also
+
+
+Idle Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

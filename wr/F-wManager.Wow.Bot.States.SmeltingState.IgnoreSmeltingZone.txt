@@ -1,0 +1,19 @@
+WRobot
+
+SmeltingState..::..IgnoreSmeltingZone Field
+If enabled smelting at current character position, else bot got to nearby Smelting NPC found in NpcDB
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IgnoreSmeltingZonePublic IgnoreSmeltingZone As Booleanpublic:
+bool^ IgnoreSmeltingZone
+See Also
+
+
+SmeltingState Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

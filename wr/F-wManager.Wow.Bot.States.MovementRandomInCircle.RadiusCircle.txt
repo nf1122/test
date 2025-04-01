@@ -1,0 +1,19 @@
+WRobot
+
+MovementRandomInCircle..::..RadiusCircle Field
+Maximum distance from CenterCircle of destination 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float RadiusCirclePublic RadiusCircle As Singlepublic:
+float^ RadiusCircle
+See Also
+
+
+MovementRandomInCircle Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+StopBotIf..::..TPLastPos Field
+The tp last position 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Vector3 TPLastPosPublic Shared TPLastPos As Vector3public:
+static Vector3^ TPLastPos
+See Also
+
+
+StopBotIf Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

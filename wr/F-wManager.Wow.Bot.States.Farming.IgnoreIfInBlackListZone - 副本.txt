@@ -1,0 +1,19 @@
+WRobot
+
+Farming..::..IgnoreIfInBlackListZone Field
+Put "true" to skip nodes in zone blacklisted (HarvestAvoidPlayersRadius). 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IgnoreIfInBlackListZonePublic IgnoreIfInBlackListZone As Booleanpublic:
+bool^ IgnoreIfInBlackListZone
+See Also
+
+
+Farming Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 
