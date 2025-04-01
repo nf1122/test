@@ -1,0 +1,30 @@
+WRobot
+
+ScintillaStyles..::..Lua Method 
+Lua style 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Lua(
+	this ScintillaWPF codeEditor
+)<ExtensionAttribute> _
+Public Shared Sub Lua ( _
+	codeEditor As ScintillaWPF _
+)[ExtensionAttribute]
+public:
+static void Lua(
+	ScintillaWPF^ codeEditor
+)Parameters
+codeEditor
+Type: ScintillaWPF
+The code editor.
+See Also
+
+
+ScintillaStyles Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

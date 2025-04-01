@@ -1,0 +1,30 @@
+WRobot
+
+Others..::..RemoveFile Method 
+Remove file. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool RemoveFile(
+	string strPath
+)Public Shared Function RemoveFile ( _
+	strPath As String _
+) As Booleanpublic:
+static bool^ RemoveFile(
+	String^ strPath
+)Parameters
+strPath
+Type: String
+The string path.
+Return Value
+true if success, false otherwise.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

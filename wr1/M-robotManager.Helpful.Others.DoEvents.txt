@@ -1,0 +1,19 @@
+WRobot
+
+Others..::..DoEvents Method 
+Application.DoEvents (refresh UI, works with wpf et winform). 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void DoEvents()Public Shared Sub DoEventspublic:
+static void DoEvents()
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

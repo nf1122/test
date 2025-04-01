@@ -1,0 +1,36 @@
+WRobot
+
+Others..::..GetFilesDirectory Method 
+Return a list of the file. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<string> GetFilesDirectory(
+	string pathDirectory,
+	string searchPattern
+)Public Shared Function GetFilesDirectory ( _
+	pathDirectory As String, _
+	searchPattern As String _
+) As List(Of String)public:
+static List<String^>^ GetFilesDirectory(
+	String^ pathDirectory, 
+	String^ searchPattern
+)Parameters
+pathDirectory
+Type: String
+The path directory.
+searchPattern
+Type: String
+The search pattern (like "*.dll" or "*.*").
+Return Value
+Files list.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

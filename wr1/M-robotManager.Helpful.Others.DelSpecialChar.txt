@@ -1,0 +1,30 @@
+WRobot
+
+Others..::..DelSpecialChar Method 
+Delete the specials characters. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string DelSpecialChar(
+	string stringSpecialChar
+)Public Shared Function DelSpecialChar ( _
+	stringSpecialChar As String _
+) As Stringpublic:
+static String^ DelSpecialChar(
+	String^ stringSpecialChar
+)Parameters
+stringSpecialChar
+Type: String
+The string with specials characters.
+Return Value
+System.String.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

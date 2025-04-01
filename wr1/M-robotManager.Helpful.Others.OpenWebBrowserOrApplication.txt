@@ -1,0 +1,28 @@
+WRobot
+
+Others..::..OpenWebBrowserOrApplication Method 
+Open WebBrowser or Windows explorer 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void OpenWebBrowserOrApplication(
+	string urlOrPath
+)Public Shared Sub OpenWebBrowserOrApplication ( _
+	urlOrPath As String _
+)public:
+static void OpenWebBrowserOrApplication(
+	String^ urlOrPath
+)Parameters
+urlOrPath
+Type: String
+The URL or path.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

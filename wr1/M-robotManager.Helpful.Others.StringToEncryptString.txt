@@ -1,0 +1,30 @@
+WRobot
+
+Others..::..StringToEncryptString Method 
+Return a encrypted text. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string StringToEncryptString(
+	string text
+)Public Shared Function StringToEncryptString ( _
+	text As String _
+) As Stringpublic:
+static String^ StringToEncryptString(
+	String^ text
+)Parameters
+text
+Type: String
+The text.
+Return Value
+encrypted text.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

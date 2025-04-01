@@ -1,0 +1,37 @@
+WRobot
+
+Others..::..GetRequest Method (String, String)
+Return the code source of the page. Sample: GetRequest("http://www.google.com/index.php", "a=5&b=10" ) 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static Task<string> GetRequest(
+	string url,
+	string data
+)Public Shared Function GetRequest ( _
+	url As String, _
+	data As String _
+) As Task(Of String)public:
+static Task<String^>^ GetRequest(
+	String^ url, 
+	String^ data
+)Parameters
+url
+Type: String
+The URL.
+data
+Type: String
+The data.
+Return Value
+System.String.
+See Also
+
+
+Others Class
+GetRequest Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

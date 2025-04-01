@@ -1,0 +1,37 @@
+WRobot
+
+Others..::..ParseFloat Method (String, Boolean%)
+String to float. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static float ParseFloat(
+	string floatString,
+	out bool result
+)Public Shared Function ParseFloat ( _
+	floatString As String, _
+	<OutAttribute> ByRef result As Boolean _
+) As Singlepublic:
+static float^ ParseFloat(
+	String^ floatString, 
+	[OutAttribute] bool^% result
+)Parameters
+floatString
+Type: String
+The float string.
+result
+Type: Boolean%
+true if success.
+Return Value
+result.
+See Also
+
+
+Others Class
+ParseFloat Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

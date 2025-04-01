@@ -1,0 +1,36 @@
+WRobot
+
+Var..::..SetVar Method 
+Set variable value. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool SetVar(
+	string varName,
+	Object var
+)Public Shared Function SetVar ( _
+	varName As String, _
+	var As Object _
+) As Booleanpublic:
+static bool^ SetVar(
+	String^ varName, 
+	Object^ var
+)Parameters
+varName
+Type: String
+Name of the variable.
+var
+Type: Object
+The variable value.
+Return Value
+true if success, false otherwise.
+See Also
+
+
+Var Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

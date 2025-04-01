@@ -1,0 +1,33 @@
+WRobot
+
+Settings..::..Load<(Of <(<'T>)>)> Method 
+Load from XML file 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+protected static T Load<T>(
+	string settingsPath
+)
+Protected Shared Function Load(Of T) ( _
+	settingsPath As String _
+) As Tprotected:
+generic<typename T>
+static T Load(
+	String^ settingsPath
+)Type Parameters
+T
+Parameters
+settingsPath
+Type: String
+xml file path
+Return Value
+See Also
+
+
+Settings Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

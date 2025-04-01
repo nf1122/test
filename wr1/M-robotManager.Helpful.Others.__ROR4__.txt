@@ -1,0 +1,36 @@
+WRobot
+
+Others..::..__ROR4__ Method 
+ROR4 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static uint __ROR4__(
+	uint value,
+	int count
+)Public Shared Function __ROR4__ ( _
+	value As UInteger, _
+	count As Integer _
+) As UIntegerpublic:
+static unsigned int^ __ROR4__(
+	unsigned int^ value, 
+	int^ count
+)Parameters
+value
+Type: UInt32
+The value.
+count
+Type: Int32
+The count.
+Return Value
+System.UInt32.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

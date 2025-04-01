@@ -1,0 +1,30 @@
+WRobot
+
+ScintillaStyles..::..CSharp Method 
+C# style 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void CSharp(
+	this ScintillaWPF codeEditor
+)<ExtensionAttribute> _
+Public Shared Sub CSharp ( _
+	codeEditor As ScintillaWPF _
+)[ExtensionAttribute]
+public:
+static void CSharp(
+	ScintillaWPF^ codeEditor
+)Parameters
+codeEditor
+Type: ScintillaWPF
+The code editor.
+See Also
+
+
+ScintillaStyles Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

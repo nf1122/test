@@ -1,0 +1,28 @@
+WRobot
+
+Others..::..Wait Method 
+Wait. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Wait(
+	int milsecToWait
+)Public Shared Sub Wait ( _
+	milsecToWait As Integer _
+)public:
+static void Wait(
+	int^ milsecToWait
+)Parameters
+milsecToWait
+Type: Int32
+milliseconds to wait.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

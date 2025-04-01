@@ -1,0 +1,37 @@
+WRobot
+
+Others..::..Random Method (Double, Double)
+Random double. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static double Random(
+	double from,
+	double to
+)Public Shared Function Random ( _
+	from As Double, _
+	to As Double _
+) As Doublepublic:
+static double^ Random(
+	double^ from, 
+	double^ to
+)Parameters
+from
+Type: Double
+From.
+to
+Type: Double
+To.
+Return Value
+System.Double.
+See Also
+
+
+Others Class
+Random Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

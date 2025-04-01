@@ -1,0 +1,37 @@
+WRobot
+
+Others..::..ParseDouble Method (String, Double%)
+String to double. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ParseDouble(
+	string doubleString,
+	out double result
+)Public Shared Function ParseDouble ( _
+	doubleString As String, _
+	<OutAttribute> ByRef result As Double _
+) As Booleanpublic:
+static bool^ ParseDouble(
+	String^ doubleString, 
+	[OutAttribute] double^% result
+)Parameters
+doubleString
+Type: String
+The double string.
+result
+Type: Double%
+The result.
+Return Value
+true if success, false otherwise.
+See Also
+
+
+Others Class
+ParseDouble Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

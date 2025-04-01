@@ -1,0 +1,26 @@
+WRobot
+
+Timer..::..Reset Method 
+Resets the stopwatch. This method should be called when you start measuring. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public void Reset()Public Sub Resetpublic:
+void Reset()
+Exceptions
+
+
+ExceptionCondition
+NotSupportedExceptionThe system does not have a high-resolution performance counter.
+
+See Also
+
+
+Timer Class
+Reset Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

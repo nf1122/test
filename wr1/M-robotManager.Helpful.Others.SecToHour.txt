@@ -1,0 +1,30 @@
+WRobot
+
+Others..::..SecToHour Method 
+int Seconds to string HH:MM:SS. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string SecToHour(
+	int sec
+)Public Shared Function SecToHour ( _
+	sec As Integer _
+) As Stringpublic:
+static String^ SecToHour(
+	int^ sec
+)Parameters
+sec
+Type: Int32
+The seconds.
+Return Value
+System.String.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

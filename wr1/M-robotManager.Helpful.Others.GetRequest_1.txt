@@ -1,0 +1,49 @@
+WRobot
+
+Others..::..GetRequest Method (String, String, Boolean, Int32)
+Return the code source of the page. Sample: GetRequest("http://www.google.com/index.php", "a=5&b=10" ) 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static Task<string> GetRequest(
+	string url,
+	string data,
+	bool showErrors,
+	int requestTimeoutMs
+)Public Shared Function GetRequest ( _
+	url As String, _
+	data As String, _
+	showErrors As Boolean, _
+	requestTimeoutMs As Integer _
+) As Task(Of String)public:
+static Task<String^>^ GetRequest(
+	String^ url, 
+	String^ data, 
+	bool^ showErrors, 
+	int^ requestTimeoutMs
+)Parameters
+url
+Type: String
+The URL.
+data
+Type: String
+The data.
+showErrors
+Type: Boolean
+if set to true [show errors].
+requestTimeoutMs
+Type: Int32
+The request timeout ms.
+Return Value
+System.String.
+See Also
+
+
+Others Class
+GetRequest Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

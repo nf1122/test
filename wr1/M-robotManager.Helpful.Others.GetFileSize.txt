@@ -1,0 +1,30 @@
+WRobot
+
+Others..::..GetFileSize Method 
+Return file size, return -1 if error. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static long GetFileSize(
+	string strPath
+)Public Shared Function GetFileSize ( _
+	strPath As String _
+) As Longpublic:
+static long long^ GetFileSize(
+	String^ strPath
+)Parameters
+strPath
+Type: String
+The string path.
+Return Value
+size.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

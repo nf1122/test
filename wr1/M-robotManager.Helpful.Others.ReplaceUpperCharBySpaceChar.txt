@@ -1,0 +1,30 @@
+WRobot
+
+Others..::..ReplaceUpperCharBySpaceChar Method 
+Replace upper char by space. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string ReplaceUpperCharBySpaceChar(
+	string s
+)Public Shared Function ReplaceUpperCharBySpaceChar ( _
+	s As String _
+) As Stringpublic:
+static String^ ReplaceUpperCharBySpaceChar(
+	String^ s
+)Parameters
+s
+Type: String
+text.
+Return Value
+text without upper case.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

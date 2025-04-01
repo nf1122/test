@@ -1,0 +1,40 @@
+WRobot
+
+Others..::..CallBack Method 
+Call Action every X milliseconds X times. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void CallBack(
+	long ms,
+	int numberOfTimes,
+	Action callBack
+)Public Shared Sub CallBack ( _
+	ms As Long, _
+	numberOfTimes As Integer, _
+	callBack As Action _
+)public:
+static void CallBack(
+	long long^ ms, 
+	int^ numberOfTimes, 
+	Action^ callBack
+)Parameters
+ms
+Type: Int64
+The milliseconds.
+numberOfTimes
+Type: Int32
+The number of times to call Action.
+callBack
+Type: Action
+Action to call.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

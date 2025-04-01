@@ -1,0 +1,31 @@
+WRobot
+
+Others..::..ToUtf8 Method (array<Byte>[]()[][])
+Converts to utf8. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string ToUtf8(
+	byte[] bytes
+)Public Shared Function ToUtf8 ( _
+	bytes As Byte() _
+) As Stringpublic:
+static String^ ToUtf8(
+	array<unsigned char^>^ bytes
+)Parameters
+bytes
+Type: array<Byte>[]()[][]
+The bytes.
+Return Value
+System.String.
+See Also
+
+
+Others Class
+ToUtf8 Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

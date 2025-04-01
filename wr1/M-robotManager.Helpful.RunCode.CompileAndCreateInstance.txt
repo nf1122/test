@@ -1,0 +1,60 @@
+WRobot
+
+RunCode..::..CompileAndCreateInstance Method 
+Compile and create instance. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static Object CompileAndCreateInstance(
+	RunCode..::..CodeType codeType,
+	string code,
+	string createInstanceTypeClassName,
+	out string errors,
+	bool generateInMemory,
+	bool canCache
+)Public Shared Function CompileAndCreateInstance ( _
+	codeType As RunCode..::..CodeType, _
+	code As String, _
+	createInstanceTypeClassName As String, _
+	<OutAttribute> ByRef errors As String, _
+	generateInMemory As Boolean, _
+	canCache As Boolean _
+) As Objectpublic:
+static Object^ CompileAndCreateInstance(
+	RunCode..::..CodeType^ codeType, 
+	String^ code, 
+	String^ createInstanceTypeClassName, 
+	[OutAttribute] String^% errors, 
+	bool^ generateInMemory, 
+	bool^ canCache
+)Parameters
+codeType
+Type: robotManager.Helpful..::..RunCode..::..CodeType
+Type of the code.
+code
+Type: String
+The code.
+createInstanceTypeClassName
+Type: String
+Name of the type like "MyNameSpace.MyClassName".
+errors
+Type: String%
+The errors.
+generateInMemory
+Type: Boolean
+if set to true generate in memory.
+canCache
+Type: Boolean
+if set to true can cache.
+Return Value
+instance.
+See Also
+
+
+RunCode Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,36 @@
+WRobot
+
+Var..::..IsType Method 
+Determine whether the specified variable name is specified type. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsType(
+	string varName,
+	Type type
+)Public Shared Function IsType ( _
+	varName As String, _
+	type As Type _
+) As Booleanpublic:
+static bool^ IsType(
+	String^ varName, 
+	Type^ type
+)Parameters
+varName
+Type: String
+Name of the variable.
+type
+Type: Type
+The type.
+Return Value
+true if the variable name is the specified type; otherwise, false.
+See Also
+
+
+Var Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

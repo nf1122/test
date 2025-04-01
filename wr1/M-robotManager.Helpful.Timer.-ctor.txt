@@ -1,0 +1,26 @@
+WRobot
+
+Timer Constructor 
+Initializes a new instance of the StopWatch class. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public Timer()Public Sub Newpublic:
+Timer()
+Exceptions
+
+
+ExceptionCondition
+NotSupportedExceptionThe system does not have a high-resolution performance counter.
+
+See Also
+
+
+Timer Class
+Timer Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

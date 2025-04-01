@@ -1,0 +1,30 @@
+WRobot
+
+RunCode..::..HasErrors Method 
+Determines whether the specified compiler results has errors. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool HasErrors(
+	CompilerResults compilerResults
+)Public Shared Function HasErrors ( _
+	compilerResults As CompilerResults _
+) As Booleanpublic:
+static bool^ HasErrors(
+	CompilerResults^ compilerResults
+)Parameters
+compilerResults
+Type: CompilerResults
+The compiler results.
+Return Value
+true if the specified compiler results has errors; otherwise, false.
+See Also
+
+
+RunCode Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

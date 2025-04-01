@@ -1,0 +1,31 @@
+WRobot
+
+Others..::..ParseDouble Method (String)
+String to double. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static double ParseDouble(
+	string doubleString
+)Public Shared Function ParseDouble ( _
+	doubleString As String _
+) As Doublepublic:
+static double^ ParseDouble(
+	String^ doubleString
+)Parameters
+doubleString
+Type: String
+The double string.
+Return Value
+result.
+See Also
+
+
+Others Class
+ParseDouble Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

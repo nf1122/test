@@ -1,0 +1,37 @@
+WRobot
+
+Others..::..ParseUInt Method (String, Boolean%)
+String to uint. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static uint ParseUInt(
+	string uintString,
+	out bool result
+)Public Shared Function ParseUInt ( _
+	uintString As String, _
+	<OutAttribute> ByRef result As Boolean _
+) As UIntegerpublic:
+static unsigned int^ ParseUInt(
+	String^ uintString, 
+	[OutAttribute] bool^% result
+)Parameters
+uintString
+Type: String
+The uint string.
+result
+Type: Boolean%
+true if success.
+Return Value
+result.
+See Also
+
+
+Others Class
+ParseUInt Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

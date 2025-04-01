@@ -1,0 +1,30 @@
+WRobot
+
+Others..::..TextToArrayByLine Method 
+String to strings array by line. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string[] TextToArrayByLine(
+	string text
+)Public Shared Function TextToArrayByLine ( _
+	text As String _
+) As String()public:
+static array<String^>^ TextToArrayByLine(
+	String^ text
+)Parameters
+text
+Type: String
+The string.
+Return Value
+strings array.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

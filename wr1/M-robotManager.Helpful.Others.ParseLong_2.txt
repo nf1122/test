@@ -1,0 +1,37 @@
+WRobot
+
+Others..::..ParseLong Method (String, Boolean%)
+String to long. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static long ParseLong(
+	string longString,
+	out bool result
+)Public Shared Function ParseLong ( _
+	longString As String, _
+	<OutAttribute> ByRef result As Boolean _
+) As Longpublic:
+static long long^ ParseLong(
+	String^ longString, 
+	[OutAttribute] bool^% result
+)Parameters
+longString
+Type: String
+The long string.
+result
+Type: Boolean%
+true if success.
+Return Value
+result?
+See Also
+
+
+Others Class
+ParseLong Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

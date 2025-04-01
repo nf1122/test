@@ -1,0 +1,30 @@
+WRobot
+
+Others..::..ExistFile Method 
+Return true if File exist. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ExistFile(
+	string strPath
+)Public Shared Function ExistFile ( _
+	strPath As String _
+) As Booleanpublic:
+static bool^ ExistFile(
+	String^ strPath
+)Parameters
+strPath
+Type: String
+The string path.
+Return Value
+true if exist, false otherwise.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

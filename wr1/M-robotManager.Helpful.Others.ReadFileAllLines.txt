@@ -1,0 +1,30 @@
+WRobot
+
+Others..::..ReadFileAllLines Method 
+Read file and return array by line. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string[] ReadFileAllLines(
+	string path
+)Public Shared Function ReadFileAllLines ( _
+	path As String _
+) As String()public:
+static array<String^>^ ReadFileAllLines(
+	String^ path
+)Parameters
+path
+Type: String
+The file path.
+Return Value
+System.String[].
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

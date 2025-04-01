@@ -1,0 +1,20 @@
+WRobot
+
+Timer..::..TimeLeft Method 
+Returns timer left. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public long TimeLeft()Public Function TimeLeft As Longpublic:
+long long^ TimeLeft()Return Value
+System.Int64.
+See Also
+
+
+Timer Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

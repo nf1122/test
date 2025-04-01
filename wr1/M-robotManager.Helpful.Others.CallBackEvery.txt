@@ -1,0 +1,36 @@
+WRobot
+
+Others..::..CallBackEvery Method 
+Call Action every X milliseconds. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static Timer CallBackEvery(
+	long ms,
+	Action callBack
+)Public Shared Function CallBackEvery ( _
+	ms As Long, _
+	callBack As Action _
+) As Timerpublic:
+static Timer^ CallBackEvery(
+	long long^ ms, 
+	Action^ callBack
+)Parameters
+ms
+Type: Int64
+The milliseconds.
+callBack
+Type: Action
+Action to call.
+Return Value
+Timer used to call
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

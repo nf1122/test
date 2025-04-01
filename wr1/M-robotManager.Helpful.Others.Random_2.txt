@@ -1,0 +1,21 @@
+WRobot
+
+Others..::..Random Method 
+Get Random instance. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static Random Random()Public Shared Function Random As Randompublic:
+static Random^ Random()Return Value
+Random.
+See Also
+
+
+Others Class
+Random Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

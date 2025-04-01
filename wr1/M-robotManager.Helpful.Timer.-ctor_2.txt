@@ -1,0 +1,29 @@
+WRobot
+
+Timer Constructor (TimeSpan)
+Initializes a new instance of the Timer class. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public Timer(
+	TimeSpan countDowntime
+)Public Sub New ( _
+	countDowntime As TimeSpan _
+)public:
+Timer(
+	TimeSpan^ countDowntime
+)Parameters
+countDowntime
+Type: TimeSpan
+The count downtime.
+See Also
+
+
+Timer Class
+Timer Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

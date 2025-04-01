@@ -1,0 +1,29 @@
+WRobot
+
+Timer Constructor (Double)
+Initializes a new instance of the Timer class. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public Timer(
+	double countDowntime
+)Public Sub New ( _
+	countDowntime As Double _
+)public:
+Timer(
+	double^ countDowntime
+)Parameters
+countDowntime
+Type: Double
+The count downtime.
+See Also
+
+
+Timer Class
+Timer Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,34 @@
+WRobot
+
+Others..::..CallBackAfter Method 
+Call Action after X milliseconds. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void CallBackAfter(
+	long ms,
+	Action callBack
+)Public Shared Sub CallBackAfter ( _
+	ms As Long, _
+	callBack As Action _
+)public:
+static void CallBackAfter(
+	long long^ ms, 
+	Action^ callBack
+)Parameters
+ms
+Type: Int64
+The milliseconds.
+callBack
+Type: Action
+Action to call.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 
