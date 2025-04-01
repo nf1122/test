@@ -1,0 +1,19 @@
+WRobot
+
+QuestFollowNpcClass..::..StartPosition Field
+The start position (where bot can found npc to follow, Vector3.Zero to don't use this option). 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Vector3 StartPositionPublic StartPosition As Vector3public:
+Vector3^ StartPosition
+See Also
+
+
+QuestFollowNpcClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

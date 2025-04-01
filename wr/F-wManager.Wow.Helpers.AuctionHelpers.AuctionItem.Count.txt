@@ -1,0 +1,19 @@
+WRobot
+
+AuctionItem..::..Count Field
+The count 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int CountPublic Count As Integerpublic:
+int^ Count
+See Also
+
+
+AuctionHelpers..::..AuctionItem Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

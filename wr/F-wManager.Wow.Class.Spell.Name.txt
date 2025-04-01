@@ -1,0 +1,19 @@
+WRobot
+
+Spell..::..Name Field
+The spell name in english 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string NamePublic Name As Stringpublic:
+String^ Name
+See Also
+
+
+Spell Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

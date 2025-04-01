@@ -1,0 +1,19 @@
+WRobot
+
+ToolboxWindow..::..DbgOutputVarName Field
+The debug output variable name 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string DbgOutputVarNamePublic Shared DbgOutputVarName As Stringpublic:
+static String^ DbgOutputVarName
+See Also
+
+
+ToolboxWindow Class
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

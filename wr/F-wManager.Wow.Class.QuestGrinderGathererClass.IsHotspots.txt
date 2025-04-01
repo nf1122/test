@@ -1,0 +1,19 @@
+WRobot
+
+QuestGrinderGathererClass..::..IsHotspots Field
+It is hotspots (if disabled, bot won't generate paths between your HotSpots). 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsHotspotsPublic IsHotspots As Booleanpublic:
+bool^ IsHotspots
+See Also
+
+
+QuestGrinderGathererClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+QuestUseSpellOnClass..::..SpellId Field
+The spell id 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int SpellIdPublic SpellId As Integerpublic:
+int^ SpellId
+See Also
+
+
+QuestUseSpellOnClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+QuestFollowPathClass..::..Path Field
+The path to follow 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<Vector3> PathPublic Path As List(Of Vector3)public:
+List<Vector3^>^ Path
+See Also
+
+
+QuestFollowPathClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

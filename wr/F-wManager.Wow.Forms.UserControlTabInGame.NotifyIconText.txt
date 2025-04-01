@@ -1,0 +1,19 @@
+WRobot
+
+UserControlTabInGame..::..NotifyIconText Field
+The notify icon text 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string NotifyIconTextPublic NotifyIconText As Stringpublic:
+String^ NotifyIconText
+See Also
+
+
+UserControlTabInGame Class
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+Spell..::..CastTime Field
+Cast time (in seconds) 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float CastTimePublic CastTime As Singlepublic:
+float^ CastTime
+See Also
+
+
+Spell Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

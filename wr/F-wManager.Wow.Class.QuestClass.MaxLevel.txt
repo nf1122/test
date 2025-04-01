@@ -1,0 +1,19 @@
+WRobot
+
+QuestClass..::..MaxLevel Field
+The maximum level 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int MaxLevelPublic MaxLevel As Integerpublic:
+int^ MaxLevel
+See Also
+
+
+QuestClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

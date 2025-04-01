@@ -1,0 +1,19 @@
+WRobot
+
+QuestUseSpellOnClass..::..BlacklistTimeMs Field
+The blacklist time in milliseconds (time to blacklist the object after using the spell on him) 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int BlacklistTimeMsPublic BlacklistTimeMs As Integerpublic:
+int^ BlacklistTimeMs
+See Also
+
+
+QuestUseSpellOnClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

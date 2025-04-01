@@ -1,0 +1,19 @@
+WRobot
+
+CGUnit_C__GetPosition..::..CacheTime Field
+Cache time in milliseconds 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int CacheTimePublic Shared CacheTime As Integerpublic:
+static int^ CacheTime
+See Also
+
+
+CGUnit_C__GetPosition Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

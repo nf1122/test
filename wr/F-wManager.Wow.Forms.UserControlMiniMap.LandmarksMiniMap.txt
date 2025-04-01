@@ -1,0 +1,31 @@
+WRobot
+
+UserControlMiniMap..::..LandmarksMiniMap Field
+The map and radar 3D landmarks. 
+Examples
+
+
+C#
+var miniMapLandmarkName = "MyCustomName";
+var path = new List<Vector3> {new Vector3(1, 2, 3), new Vector3(4, 2, 3), new Vector3(3, 4, 3), }
+UserControlMiniMap.LandmarksMiniMap.Remove(miniMapLandmarkName);
+if (path.Count > 0)
+     UserControlMiniMap.LandmarksMiniMap.Add(path[0], miniMapLandmarkName, Color.Orange, 10, miniMapLandmarkName, true);
+foreach (var vector3 in path)
+{
+    UserControlMiniMap.LandmarksMiniMap.Add(vector3, miniMapLandmarkName, Color.Orange, 10, "", true);
+}Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static MiniMapGenerator..::..LandmarksMiniMap LandmarksMiniMapPublic Shared LandmarksMiniMap As MiniMapGenerator..::..LandmarksMiniMappublic:
+static MiniMapGenerator..::..LandmarksMiniMap^ LandmarksMiniMap
+See Also
+
+
+UserControlMiniMap Class
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

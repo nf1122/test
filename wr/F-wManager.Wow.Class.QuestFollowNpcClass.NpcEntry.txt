@@ -1,0 +1,19 @@
+WRobot
+
+QuestFollowNpcClass..::..NpcEntry Field
+The NPC entry id to follow 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int NpcEntryPublic NpcEntry As Integerpublic:
+int^ NpcEntry
+See Also
+
+
+QuestFollowNpcClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

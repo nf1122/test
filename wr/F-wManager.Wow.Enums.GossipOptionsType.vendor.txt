@@ -1,0 +1,18 @@
+WRobot
+
+GossipOptionsType..::..vendor Field
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public const GossipOptionsType vendorPublic Const vendor As GossipOptionsTypepublic:
+literal GossipOptionsType vendor
+See Also
+
+
+GossipOptionsType Enumeration
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

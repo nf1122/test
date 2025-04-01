@@ -1,0 +1,19 @@
+WRobot
+
+QuestFollowPathClass..::..IsHotSpots Field
+Path is hotspots (and not path). 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsHotSpotsPublic IsHotSpots As Booleanpublic:
+bool^ IsHotSpots
+See Also
+
+
+QuestFollowPathClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

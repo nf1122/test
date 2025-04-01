@@ -1,0 +1,26 @@
+WRobot
+
+QuestParallelQuestsClass..::..SubQuests Field
+The sub quests, add quests in class constructor. 
+Examples
+
+
+C#
+if (wManager.Wow.Helpers.Quest.QuesterCurrentContext.QuestsClasses.ContainsKey("{subQuest}"))
+       SubQuests.Add(wManager.Wow.Helpers.Quest.QuesterCurrentContext.QuestsClasses["{subQuest}"]);
+   else
+       SubQuests.Add(new {subQuest}());Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<QuestClass> SubQuestsPublic SubQuests As List(Of QuestClass)public:
+List<QuestClass^>^ SubQuests
+See Also
+
+
+QuestParallelQuestsClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

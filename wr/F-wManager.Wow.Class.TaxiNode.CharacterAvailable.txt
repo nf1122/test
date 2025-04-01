@@ -1,0 +1,19 @@
+WRobot
+
+TaxiNode..::..CharacterAvailable Field
+List of characters names who can use this taxi 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<string> CharacterAvailablePublic CharacterAvailable As List(Of String)public:
+List<String^>^ CharacterAvailable
+See Also
+
+
+TaxiNode Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

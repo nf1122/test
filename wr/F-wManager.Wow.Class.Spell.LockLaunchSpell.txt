@@ -1,0 +1,19 @@
+WRobot
+
+Spell..::..LockLaunchSpell Field
+Lock (thread) of current spell 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Object LockLaunchSpellPublic Shared LockLaunchSpell As Objectpublic:
+static Object^ LockLaunchSpell
+See Also
+
+
+Spell Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

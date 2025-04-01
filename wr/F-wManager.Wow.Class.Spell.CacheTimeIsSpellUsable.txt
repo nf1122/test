@@ -1,0 +1,19 @@
+WRobot
+
+Spell..::..CacheTimeIsSpellUsable Field
+The cache time is milliseconds for IsSpellUsable
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static double CacheTimeIsSpellUsablePublic Shared CacheTimeIsSpellUsable As Doublepublic:
+static double^ CacheTimeIsSpellUsable
+See Also
+
+
+Spell Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

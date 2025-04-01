@@ -1,0 +1,19 @@
+WRobot
+
+QuestUseScriptOnClass..::..IsCSharpCode Field
+Enable this option is Script contain C# code (and not lua code) 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsCSharpCodePublic IsCSharpCode As Booleanpublic:
+bool^ IsCSharpCode
+See Also
+
+
+QuestUseScriptOnClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

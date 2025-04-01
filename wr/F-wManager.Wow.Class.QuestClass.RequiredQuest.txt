@@ -1,0 +1,19 @@
+WRobot
+
+QuestClass..::..RequiredQuest Field
+The required completed quest id (to pickup and do this quest, 0 if no required quest) 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int RequiredQuestPublic RequiredQuest As Integerpublic:
+int^ RequiredQuest
+See Also
+
+
+QuestClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

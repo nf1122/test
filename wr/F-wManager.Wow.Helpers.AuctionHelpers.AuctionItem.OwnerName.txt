@@ -1,0 +1,19 @@
+WRobot
+
+AuctionItem..::..OwnerName Field
+The owner name 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string OwnerNamePublic OwnerName As Stringpublic:
+String^ OwnerName
+See Also
+
+
+AuctionHelpers..::..AuctionItem Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

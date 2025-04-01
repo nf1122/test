@@ -1,0 +1,19 @@
+WRobot
+
+QuestFollowPathClass..::..ForceToStartFirstPosition Field
+Force to start from first path position (you need to call Reset()()()() before usage if you use this quest several time and use this option) 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool ForceToStartFirstPositionPublic ForceToStartFirstPosition As Booleanpublic:
+bool^ ForceToStartFirstPosition
+See Also
+
+
+QuestFollowPathClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+DefaultConstSettings..::..BlacklistTilePolyDefault Field
+The defaults pathfinder blacklisted spots (now server side) 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Blackspot[] BlacklistTilePolyDefaultPublic Shared BlacklistTilePolyDefault As Blackspot()public:
+static array<Blackspot^>^ BlacklistTilePolyDefault
+See Also
+
+
+DefaultConstSettings Class
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

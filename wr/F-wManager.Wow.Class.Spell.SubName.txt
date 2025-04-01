@@ -1,0 +1,19 @@
+WRobot
+
+Spell..::..SubName Field
+The sub name 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string SubNamePublic SubName As Stringpublic:
+String^ SubName
+See Also
+
+
+Spell Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

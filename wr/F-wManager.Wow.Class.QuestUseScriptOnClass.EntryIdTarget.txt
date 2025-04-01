@@ -1,0 +1,19 @@
+WRobot
+
+QuestUseScriptOnClass..::..EntryIdTarget Field
+The Entry or Entry
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<int> EntryIdTargetPublic EntryIdTarget As List(Of Integer)public:
+List<int^>^ EntryIdTarget
+See Also
+
+
+QuestUseScriptOnClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

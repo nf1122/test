@@ -1,0 +1,19 @@
+WRobot
+
+SpellInfo..::..ID Field
+The spell id 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint IDPublic ID As UIntegerpublic:
+unsigned int^ ID
+See Also
+
+
+SpellInfo Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

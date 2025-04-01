@@ -1,0 +1,19 @@
+WRobot
+
+RuneStruct..::..RuneType Field
+Rune type 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public RuneTypes RuneTypePublic RuneType As RuneTypespublic:
+RuneTypes^ RuneType
+See Also
+
+
+RuneStruct Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

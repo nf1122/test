@@ -1,0 +1,19 @@
+WRobot
+
+SpellInfo..::..MaxRange Field
+The maximum range 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float MaxRangePublic MaxRange As Singlepublic:
+float^ MaxRange
+See Also
+
+
+SpellInfo Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

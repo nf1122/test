@@ -1,0 +1,19 @@
+WRobot
+
+QuestGrinderGathererClass..::..EntryGrinderTarget Field
+The Entry of mobs to kills. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<EntryIndexQuest> EntryGrinderTargetPublic EntryGrinderTarget As List(Of EntryIndexQuest)public:
+List<EntryIndexQuest^>^ EntryGrinderTarget
+See Also
+
+
+QuestGrinderGathererClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

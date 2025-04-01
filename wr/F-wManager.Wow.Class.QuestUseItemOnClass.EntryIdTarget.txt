@@ -1,0 +1,19 @@
+WRobot
+
+QuestUseItemOnClass..::..EntryIdTarget Field
+The Entry or Entry of object on which to use the item. If you want use item at specific position don't use this option. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<int> EntryIdTargetPublic EntryIdTarget As List(Of Integer)public:
+List<int^>^ EntryIdTarget
+See Also
+
+
+QuestUseItemOnClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

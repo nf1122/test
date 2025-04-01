@@ -1,0 +1,19 @@
+WRobot
+
+QuestFollowPathClass..::..IsLoop Field
+To run Path in loop (return to the first when to the last path position) 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsLoopPublic IsLoop As Booleanpublic:
+bool^ IsLoop
+See Also
+
+
+QuestFollowPathClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

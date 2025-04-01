@@ -1,0 +1,19 @@
+WRobot
+
+Archaeology..::..SurveyList Field
+The survey list (SurveyTool) 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<int> SurveyListPublic Shared SurveyList As List(Of Integer)public:
+static List<int^>^ SurveyList
+See Also
+
+
+Archaeology Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

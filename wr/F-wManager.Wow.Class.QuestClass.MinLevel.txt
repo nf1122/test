@@ -1,0 +1,19 @@
+WRobot
+
+QuestClass..::..MinLevel Field
+The minimum level required 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int MinLevelPublic MinLevel As Integerpublic:
+int^ MinLevel
+See Also
+
+
+QuestClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

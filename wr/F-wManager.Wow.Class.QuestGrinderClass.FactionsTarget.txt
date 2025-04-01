@@ -1,0 +1,19 @@
+WRobot
+
+QuestGrinderClass..::..FactionsTarget Field
+The Faction of mobs to kills (it is better to use EntryTarget). 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<uint> FactionsTargetPublic FactionsTarget As List(Of UInteger)public:
+List<unsigned int^>^ FactionsTarget
+See Also
+
+
+QuestGrinderClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

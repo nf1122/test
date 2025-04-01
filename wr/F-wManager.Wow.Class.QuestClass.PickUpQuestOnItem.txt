@@ -1,0 +1,19 @@
+WRobot
+
+QuestClass..::..PickUpQuestOnItem Field
+To pick up quest from item (PickUpQuestOnItemID). 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool PickUpQuestOnItemPublic PickUpQuestOnItem As Booleanpublic:
+bool^ PickUpQuestOnItem
+See Also
+
+
+QuestClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

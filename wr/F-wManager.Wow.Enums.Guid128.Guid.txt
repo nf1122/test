@@ -1,0 +1,19 @@
+WRobot
+
+Guid128..::..Guid Field
+The unique identifier 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Int128 GuidPublic Guid As Int128public:
+Int128^ Guid
+See Also
+
+
+Guid128 Class
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

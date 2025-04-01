@@ -1,0 +1,19 @@
+WRobot
+
+Spell..::..KnownSpell Field
+True if character known spell 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool KnownSpellPublic KnownSpell As Booleanpublic:
+bool^ KnownSpell
+See Also
+
+
+Spell Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

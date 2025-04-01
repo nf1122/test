@@ -1,0 +1,19 @@
+WRobot
+
+RuneStruct..::..IsReady Field
+Rune is ready 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsReadyPublic IsReady As Booleanpublic:
+bool^ IsReady
+See Also
+
+
+RuneStruct Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

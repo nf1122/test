@@ -1,0 +1,19 @@
+WRobot
+
+QuestGathererClass..::..HotSpots Field
+The hot spots 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<Vector3> HotSpotsPublic HotSpots As List(Of Vector3)public:
+List<Vector3^>^ HotSpots
+See Also
+
+
+QuestGathererClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

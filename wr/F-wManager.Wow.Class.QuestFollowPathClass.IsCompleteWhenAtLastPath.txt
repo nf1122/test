@@ -1,0 +1,19 @@
+WRobot
+
+QuestFollowPathClass..::..IsCompleteWhenAtLastPath Field
+This quest objective is complete when at last position of path (go to next profile step). 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsCompleteWhenAtLastPathPublic IsCompleteWhenAtLastPath As Booleanpublic:
+bool^ IsCompleteWhenAtLastPath
+See Also
+
+
+QuestFollowPathClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

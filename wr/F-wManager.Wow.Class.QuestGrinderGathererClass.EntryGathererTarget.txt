@@ -1,0 +1,19 @@
+WRobot
+
+QuestGrinderGathererClass..::..EntryGathererTarget Field
+The Entry of objects to harvests. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<EntryIndexQuest> EntryGathererTargetPublic EntryGathererTarget As List(Of EntryIndexQuest)public:
+List<EntryIndexQuest^>^ EntryGathererTarget
+See Also
+
+
+QuestGrinderGathererClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

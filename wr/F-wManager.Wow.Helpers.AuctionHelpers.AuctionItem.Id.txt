@@ -1,0 +1,19 @@
+WRobot
+
+AuctionItem..::..Id Field
+The identifier 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int IdPublic Id As Integerpublic:
+int^ Id
+See Also
+
+
+AuctionHelpers..::..AuctionItem Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

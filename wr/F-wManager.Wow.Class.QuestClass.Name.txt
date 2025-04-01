@@ -1,0 +1,19 @@
+WRobot
+
+QuestClass..::..Name Field
+The name 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string NamePublic Name As Stringpublic:
+String^ Name
+See Also
+
+
+QuestClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

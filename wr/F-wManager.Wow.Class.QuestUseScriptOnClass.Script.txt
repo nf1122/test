@@ -1,0 +1,19 @@
+WRobot
+
+QuestUseScriptOnClass..::..Script Field
+The script (by default it is lua code, if you want use c# code activate option IsCSharpCode) 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string ScriptPublic Script As Stringpublic:
+String^ Script
+See Also
+
+
+QuestUseScriptOnClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

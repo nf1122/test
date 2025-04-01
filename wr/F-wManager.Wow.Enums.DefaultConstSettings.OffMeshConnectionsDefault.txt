@@ -1,0 +1,19 @@
+WRobot
+
+DefaultConstSettings..::..OffMeshConnectionsDefault Field
+The defaults pathfinder OffMeshConnections (now server side) 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static OffMeshConnection[] OffMeshConnectionsDefaultPublic Shared OffMeshConnectionsDefault As OffMeshConnection()public:
+static array<OffMeshConnection^>^ OffMeshConnectionsDefault
+See Also
+
+
+DefaultConstSettings Class
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

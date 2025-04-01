@@ -1,0 +1,19 @@
+WRobot
+
+UserControlTabMain..::..ProductSettingsGrid Field
+The product settings grid 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Grid ProductSettingsGridPublic ProductSettingsGrid As Gridpublic:
+Grid^ ProductSettingsGrid
+See Also
+
+
+UserControlTabMain Class
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

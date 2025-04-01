@@ -1,0 +1,19 @@
+WRobot
+
+Spell..::..Ids Field
+Others spell IDs found (with same english name). 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<uint> IdsPublic Ids As List(Of UInteger)public:
+List<unsigned int^>^ Ids
+See Also
+
+
+Spell Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

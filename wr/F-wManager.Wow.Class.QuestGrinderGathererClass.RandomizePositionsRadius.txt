@@ -1,0 +1,19 @@
+WRobot
+
+QuestGrinderGathererClass..::..RandomizePositionsRadius Field
+Maximum distance from position (HotSpots) to randomized position (don't forget to activate option RandomizePositions).. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float RandomizePositionsRadiusPublic RandomizePositionsRadius As Singlepublic:
+float^ RandomizePositionsRadius
+See Also
+
+
+QuestGrinderGathererClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

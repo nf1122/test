@@ -1,0 +1,19 @@
+WRobot
+
+QuestGrinderGathererClass..::..IsGrinderNotQuest Field
+Enable this option if you don't need quest to run this quest (in this case don't forget to assigns MinLevel and MaxLevel). 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsGrinderNotQuestPublic IsGrinderNotQuest As Booleanpublic:
+bool^ IsGrinderNotQuest
+See Also
+
+
+QuestGrinderGathererClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

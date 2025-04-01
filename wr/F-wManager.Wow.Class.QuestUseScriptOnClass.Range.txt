@@ -1,0 +1,19 @@
+WRobot
+
+QuestUseScriptOnClass..::..Range Field
+The range of script 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float RangePublic Range As Singlepublic:
+float^ Range
+See Also
+
+
+QuestUseScriptOnClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

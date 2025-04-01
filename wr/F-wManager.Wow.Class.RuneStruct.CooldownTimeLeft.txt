@@ -1,0 +1,19 @@
+WRobot
+
+RuneStruct..::..CooldownTimeLeft Field
+The time left 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int CooldownTimeLeftPublic CooldownTimeLeft As Integerpublic:
+int^ CooldownTimeLeft
+See Also
+
+
+RuneStruct Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

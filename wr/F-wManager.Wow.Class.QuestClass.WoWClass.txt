@@ -1,0 +1,19 @@
+WRobot
+
+QuestClass..::..WoWClass Field
+To limit quest to one player class 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public WoWClass WoWClassPublic WoWClass As WoWClasspublic:
+WoWClass^ WoWClass
+See Also
+
+
+QuestClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

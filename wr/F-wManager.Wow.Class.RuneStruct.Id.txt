@@ -1,0 +1,19 @@
+WRobot
+
+RuneStruct..::..Id Field
+The rune id 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int IdPublic Id As Integerpublic:
+int^ Id
+See Also
+
+
+RuneStruct Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

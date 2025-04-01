@@ -1,0 +1,19 @@
+WRobot
+
+QuestGrinderGathererClass..::..RandomizePositions Field
+Randomize positions (if enabled, bot will go to random positions, don't forget to setting RandomizePositionsRadius). 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool RandomizePositionsPublic RandomizePositions As Booleanpublic:
+bool^ RandomizePositions
+See Also
+
+
+QuestGrinderGathererClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

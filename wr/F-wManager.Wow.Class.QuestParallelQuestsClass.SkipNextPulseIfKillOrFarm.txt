@@ -1,0 +1,19 @@
+WRobot
+
+QuestParallelQuestsClass..::..SkipNextPulseIfKillOrFarm Field
+Skip next pulse if kill or farm 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool SkipNextPulseIfKillOrFarmPublic SkipNextPulseIfKillOrFarm As Booleanpublic:
+bool^ SkipNextPulseIfKillOrFarm
+See Also
+
+
+QuestParallelQuestsClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

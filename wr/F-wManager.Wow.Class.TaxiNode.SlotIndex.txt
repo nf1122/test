@@ -1,0 +1,19 @@
+WRobot
+
+TaxiNode..::..SlotIndex Field
+The slot index 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int SlotIndexPublic SlotIndex As Integerpublic:
+int^ SlotIndex
+See Also
+
+
+TaxiNode Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

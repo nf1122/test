@@ -1,0 +1,19 @@
+WRobot
+
+Spell..::..MinRange Field
+The minimum spell range 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float MinRangePublic MinRange As Singlepublic:
+float^ MinRange
+See Also
+
+
+Spell Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

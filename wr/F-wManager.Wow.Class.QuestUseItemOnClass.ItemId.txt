@@ -1,0 +1,19 @@
+WRobot
+
+QuestUseItemOnClass..::..ItemId Field
+The item id 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int ItemIdPublic ItemId As Integerpublic:
+int^ ItemId
+See Also
+
+
+QuestUseItemOnClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

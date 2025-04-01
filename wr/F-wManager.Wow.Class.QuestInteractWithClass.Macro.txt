@@ -1,0 +1,19 @@
+WRobot
+
+QuestInteractWithClass..::..Macro Field
+The lua macro to run when interact 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string MacroPublic Macro As Stringpublic:
+String^ Macro
+See Also
+
+
+QuestInteractWithClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

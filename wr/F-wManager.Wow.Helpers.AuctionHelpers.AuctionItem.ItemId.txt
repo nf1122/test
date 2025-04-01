@@ -1,0 +1,19 @@
+WRobot
+
+AuctionItem..::..ItemId Field
+The item id 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int ItemIdPublic ItemId As Integerpublic:
+int^ ItemId
+See Also
+
+
+AuctionHelpers..::..AuctionItem Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 
