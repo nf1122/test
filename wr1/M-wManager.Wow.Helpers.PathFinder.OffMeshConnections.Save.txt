@@ -1,0 +1,19 @@
+WRobot
+
+OffMeshConnections..::..Save Method 
+Save MeshConnection to FileName. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Save()Public Shared Sub Savepublic:
+static void Save()
+See Also
+
+
+PathFinder..::..OffMeshConnections Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

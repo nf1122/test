@@ -1,0 +1,41 @@
+WRobot
+
+Pather..::..GetLocationByTile Method (Double, Double, array<Single>[]()[][]%)
+Get location by tile. 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void GetLocationByTile(
+	double x,
+	double y,
+	out float[] loc
+)Public Shared Sub GetLocationByTile ( _
+	x As Double, _
+	y As Double, _
+	<OutAttribute> ByRef loc As Single() _
+)public:
+static void GetLocationByTile(
+	double^ x, 
+	double^ y, 
+	[OutAttribute] array<float^>^% loc
+)Parameters
+x
+Type: Double
+The x.
+y
+Type: Double
+The y.
+loc
+Type: array<Single>[]()[][]%
+The loc.
+See Also
+
+
+Pather Class
+GetLocationByTile Overload
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

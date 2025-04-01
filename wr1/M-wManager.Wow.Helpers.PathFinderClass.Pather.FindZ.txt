@@ -1,0 +1,36 @@
+WRobot
+
+Pather..::..FindZ Method 
+Get Z position (better to use GetZPosition(Vector3, Boolean)). 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float FindZ(
+	Vector3 position,
+	bool strict
+)Public Function FindZ ( _
+	position As Vector3, _
+	strict As Boolean _
+) As Singlepublic:
+float^ FindZ(
+	Vector3^ position, 
+	bool^ strict
+)Parameters
+position
+Type: robotManager.Helpful..::..Vector3
+The position.
+strict
+Type: Boolean
+if set to true [strict].
+Return Value
+System.Single.
+See Also
+
+
+Pather Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

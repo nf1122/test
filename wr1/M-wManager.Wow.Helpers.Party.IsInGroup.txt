@@ -1,0 +1,20 @@
+WRobot
+
+Party..::..IsInGroup Method 
+Determines whether character is in group (party and raid). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsInGroup()Public Shared Function IsInGroup As Booleanpublic:
+static bool^ IsInGroup()Return Value
+true if is in group; otherwise, false.
+See Also
+
+
+Party Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

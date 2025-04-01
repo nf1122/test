@@ -1,0 +1,34 @@
+WRobot
+
+OffMeshConnections..::..Add Method 
+Add specified offmeshconnection to MeshConnection. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Add(
+	PathFinder..::..OffMeshConnection offMeshConnection,
+	bool skipIfAlreadyInList
+)Public Shared Sub Add ( _
+	offMeshConnection As PathFinder..::..OffMeshConnection, _
+	skipIfAlreadyInList As Boolean _
+)public:
+static void Add(
+	PathFinder..::..OffMeshConnection^ offMeshConnection, 
+	bool^ skipIfAlreadyInList
+)Parameters
+offMeshConnection
+Type: wManager.Wow.Helpers..::..PathFinder..::..OffMeshConnection
+The offmeshconnection.
+skipIfAlreadyInList
+Type: Boolean
+if set to true ignore offmeshconnection if already in list.
+See Also
+
+
+PathFinder..::..OffMeshConnections Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

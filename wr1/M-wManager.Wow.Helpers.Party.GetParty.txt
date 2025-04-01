@@ -1,0 +1,18 @@
+WRobot
+
+Party..::..GetParty Method 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWPlayer> GetParty()Public Shared Function GetParty As List(Of WoWPlayer)public:
+static List<WoWPlayer^>^ GetParty()
+See Also
+
+
+Party Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

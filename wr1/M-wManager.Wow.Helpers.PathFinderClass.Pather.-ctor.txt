@@ -1,0 +1,28 @@
+WRobot
+
+Pather Constructor 
+Initializes a new instance of the Pather class. 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Pather(
+	string continent
+)Public Sub New ( _
+	continent As String _
+)public:
+Pather(
+	String^ continent
+)Parameters
+continent
+Type: String
+The continent.
+See Also
+
+
+Pather Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

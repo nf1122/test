@@ -1,0 +1,28 @@
+WRobot
+
+Pather..::..LoadAround Method 
+Load tiles around. 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public void LoadAround(
+	Vector3 loc
+)Public Sub LoadAround ( _
+	loc As Vector3 _
+)public:
+void LoadAround(
+	Vector3^ loc
+)Parameters
+loc
+Type: robotManager.Helpful..::..Vector3
+The loc.
+See Also
+
+
+Pather Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,37 @@
+WRobot
+
+PathFinder..::..FindPath Method (Vector3, Boolean%)
+Find path. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<Vector3> FindPath(
+	Vector3 to,
+	out bool resultSuccess
+)Public Shared Function FindPath ( _
+	to As Vector3, _
+	<OutAttribute> ByRef resultSuccess As Boolean _
+) As List(Of Vector3)public:
+static List<Vector3^>^ FindPath(
+	Vector3^ to, 
+	[OutAttribute] bool^% resultSuccess
+)Parameters
+to
+Type: robotManager.Helpful..::..Vector3
+destination position.
+resultSuccess
+Type: Boolean%
+if set to true success.
+Return Value
+path.
+See Also
+
+
+PathFinder Class
+FindPath Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

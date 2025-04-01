@@ -1,0 +1,36 @@
+WRobot
+
+Pather..::..GetTilePath Method 
+Get tile path. 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string GetTilePath(
+	int x,
+	int y
+)Public Function GetTilePath ( _
+	x As Integer, _
+	y As Integer _
+) As Stringpublic:
+String^ GetTilePath(
+	int^ x, 
+	int^ y
+)Parameters
+x
+Type: Int32
+The x.
+y
+Type: Int32
+The y.
+Return Value
+System.String.
+See Also
+
+
+Pather Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

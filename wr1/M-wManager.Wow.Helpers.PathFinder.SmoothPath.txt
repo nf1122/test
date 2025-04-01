@@ -1,0 +1,36 @@
+WRobot
+
+PathFinder..::..SmoothPath Method 
+Smooth the path. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<Vector3> SmoothPath(
+	List<Vector3> path,
+	float smoothPathDistance
+)Public Shared Function SmoothPath ( _
+	path As List(Of Vector3), _
+	smoothPathDistance As Single _
+) As List(Of Vector3)public:
+static List<Vector3^>^ SmoothPath(
+	List<Vector3^>^ path, 
+	float^ smoothPathDistance
+)Parameters
+path
+Type: List<(Of <(<'Vector3>)>)>
+The path.
+smoothPathDistance
+Type: Single
+The smooth path distance.
+Return Value
+path.
+See Also
+
+
+PathFinder Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

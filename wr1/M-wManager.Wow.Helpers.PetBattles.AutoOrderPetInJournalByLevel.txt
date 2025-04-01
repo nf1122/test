@@ -1,0 +1,20 @@
+WRobot
+
+PetBattles..::..AutoOrderPetInJournalByLevel Method 
+Order pets in journal by level. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool AutoOrderPetInJournalByLevel()Public Shared Function AutoOrderPetInJournalByLevel As Booleanpublic:
+static bool^ AutoOrderPetInJournalByLevel()Return Value
+true if success, false otherwise.
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

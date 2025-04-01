@@ -1,0 +1,37 @@
+WRobot
+
+PathFinder..::..FindPath Method (Vector3, Vector3)
+Find path. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<Vector3> FindPath(
+	Vector3 from,
+	Vector3 to
+)Public Shared Function FindPath ( _
+	from As Vector3, _
+	to As Vector3 _
+) As List(Of Vector3)public:
+static List<Vector3^>^ FindPath(
+	Vector3^ from, 
+	Vector3^ to
+)Parameters
+from
+Type: robotManager.Helpful..::..Vector3
+
+to
+Type: robotManager.Helpful..::..Vector3
+Starting position.destination position.
+Return Value
+path.
+See Also
+
+
+PathFinder Class
+FindPath Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

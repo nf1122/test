@@ -1,0 +1,18 @@
+WRobot
+
+Party..::..GetRaidMembers Method 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWPlayer> GetRaidMembers()Public Shared Function GetRaidMembers As List(Of WoWPlayer)public:
+static List<WoWPlayer^>^ GetRaidMembers()
+See Also
+
+
+Party Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

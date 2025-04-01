@@ -1,0 +1,20 @@
+WRobot
+
+PetBattles..::..ActionSelected Method 
+Actions the selected. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ActionSelected()Public Shared Function ActionSelected As Booleanpublic:
+static bool^ ActionSelected()Return Value
+true if selected, false otherwise.
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

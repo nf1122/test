@@ -1,0 +1,33 @@
+WRobot
+
+Utility..::..ToRecast Method (array<Single>[]()[][])
+Converts to recast position (from wow). 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static float[] ToRecast(
+	this float[] v
+)<ExtensionAttribute> _
+Public Shared Function ToRecast ( _
+	v As Single() _
+) As Single()[ExtensionAttribute]
+public:
+static array<float^>^ ToRecast(
+	array<float^>^ v
+)Parameters
+v
+Type: array<Single>[]()[][]
+The v.
+Return Value
+System.Single[].
+See Also
+
+
+Utility Class
+ToRecast Overload
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

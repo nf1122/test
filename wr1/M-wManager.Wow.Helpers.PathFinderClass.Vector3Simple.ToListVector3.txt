@@ -1,0 +1,27 @@
+WRobot
+
+Vector3Simple..::..ToListVector3 Method 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<Vector3> ToListVector3(
+	List<Vector3Simple> v
+)Public Shared Function ToListVector3 ( _
+	v As List(Of Vector3Simple) _
+) As List(Of Vector3)public:
+static List<Vector3^>^ ToListVector3(
+	List<Vector3Simple^>^ v
+)Parameters
+v
+Type: List<(Of <(<'Vector3Simple>)>)>
+
+See Also
+
+
+Vector3Simple Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

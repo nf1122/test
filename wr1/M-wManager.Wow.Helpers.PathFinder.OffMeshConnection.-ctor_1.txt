@@ -1,0 +1,35 @@
+WRobot
+
+OffMeshConnection Constructor (List<(Of <(<'Vector3>)>)>, Int32)
+Initialize a new instance of the PathFinder..::..OffMeshConnection class. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public OffMeshConnection(
+	List<Vector3> path,
+	int continentId
+)Public Sub New ( _
+	path As List(Of Vector3), _
+	continentId As Integer _
+)public:
+OffMeshConnection(
+	List<Vector3^>^ path, 
+	int^ continentId
+)Parameters
+path
+Type: List<(Of <(<'Vector3>)>)>
+The path.
+continentId
+Type: Int32
+The continent id (-1 to use on all continents).
+See Also
+
+
+PathFinder..::..OffMeshConnection Class
+PathFinder..::..OffMeshConnection Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

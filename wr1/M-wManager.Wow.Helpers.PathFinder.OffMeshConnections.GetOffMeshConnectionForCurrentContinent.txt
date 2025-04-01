@@ -1,0 +1,20 @@
+WRobot
+
+OffMeshConnections..::..GetOffMeshConnectionForCurrentContinent Method 
+Get offmeshconnections for current continent (from MeshConnection and OffMeshConnectionsDefault). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<PathFinder..::..OffMeshConnection> GetOffMeshConnectionForCurrentContinent()Public Shared Function GetOffMeshConnectionForCurrentContinent As List(Of PathFinder..::..OffMeshConnection)public:
+static List<PathFinder..::..OffMeshConnection^>^ GetOffMeshConnectionForCurrentContinent()Return Value
+offmeshconnections list.
+See Also
+
+
+PathFinder..::..OffMeshConnections Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

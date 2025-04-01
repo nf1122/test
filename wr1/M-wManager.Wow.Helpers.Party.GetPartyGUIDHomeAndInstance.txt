@@ -1,0 +1,20 @@
+WRobot
+
+Party..::..GetPartyGUIDHomeAndInstance Method 
+Gets the group GUIDs (party and raid). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<ulong> GetPartyGUIDHomeAndInstance()Public Shared Function GetPartyGUIDHomeAndInstance As List(Of ULong)public:
+static List<unsigned long long^>^ GetPartyGUIDHomeAndInstance()Return Value
+List<Int128>.
+See Also
+
+
+Party Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

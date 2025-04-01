@@ -1,0 +1,19 @@
+WRobot
+
+Party..::..GetMember2GUID Method 
+Get group member 2 GUID. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static ulong GetMember2GUID()Public Shared Function GetMember2GUID As ULongpublic:
+static unsigned long long^ GetMember2GUID()
+See Also
+
+
+Party Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

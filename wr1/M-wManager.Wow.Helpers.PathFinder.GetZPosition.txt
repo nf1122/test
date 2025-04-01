@@ -1,0 +1,36 @@
+WRobot
+
+PathFinder..::..GetZPosition Method 
+Get position Z. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static float GetZPosition(
+	Vector3 point,
+	bool strict
+)Public Shared Function GetZPosition ( _
+	point As Vector3, _
+	strict As Boolean _
+) As Singlepublic:
+static float^ GetZPosition(
+	Vector3^ point, 
+	bool^ strict
+)Parameters
+point
+Type: robotManager.Helpful..::..Vector3
+Position where get height.
+strict
+Type: Boolean
+if set to true the pathfinder will be strict, if set to false if pathfinder don't found Z position of specified X,Y position he will look for the Z position of a near X,Y position.
+Return Value
+position Z.
+See Also
+
+
+PathFinder Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

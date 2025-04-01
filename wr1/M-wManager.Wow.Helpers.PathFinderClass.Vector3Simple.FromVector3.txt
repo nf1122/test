@@ -1,0 +1,27 @@
+WRobot
+
+Vector3Simple..::..FromVector3 Method 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Vector3Simple FromVector3(
+	Vector3 v
+)Public Shared Function FromVector3 ( _
+	v As Vector3 _
+) As Vector3Simplepublic:
+static Vector3Simple^ FromVector3(
+	Vector3^ v
+)Parameters
+v
+Type: robotManager.Helpful..::..Vector3
+
+See Also
+
+
+Vector3Simple Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

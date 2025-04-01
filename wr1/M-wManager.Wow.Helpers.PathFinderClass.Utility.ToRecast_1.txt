@@ -1,0 +1,33 @@
+WRobot
+
+Utility..::..ToRecast Method (Vector3)
+Converts to recast position (from wow). 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Vector3 ToRecast(
+	this Vector3 v
+)<ExtensionAttribute> _
+Public Shared Function ToRecast ( _
+	v As Vector3 _
+) As Vector3[ExtensionAttribute]
+public:
+static Vector3^ ToRecast(
+	Vector3^ v
+)Parameters
+v
+Type: robotManager.Helpful..::..Vector3
+The v.
+Return Value
+Vector3.
+See Also
+
+
+Utility Class
+ToRecast Overload
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

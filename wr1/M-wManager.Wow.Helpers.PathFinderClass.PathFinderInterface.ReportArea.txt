@@ -1,0 +1,47 @@
+WRobot
+
+PathFinderInterface..::..ReportArea Method 
+Report the area. 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+bool ReportArea(
+	Vector3 position,
+	float radius,
+	PolyArea areaType,
+	bool addToList
+)Function ReportArea ( _
+	position As Vector3, _
+	radius As Single, _
+	areaType As PolyArea, _
+	addToList As Boolean _
+) As Booleanbool^ ReportArea(
+	Vector3^ position, 
+	float^ radius, 
+	PolyArea^ areaType, 
+	bool^ addToList
+)Parameters
+position
+Type: robotManager.Helpful..::..Vector3
+The position.
+radius
+Type: Single
+The radius.
+areaType
+Type: PolyArea
+Type of the area.
+addToList
+Type: Boolean
+if set to true add to list (by default AddAreaToList(ReportAreaStruct)).
+Return Value
+true if added, false otherwise.
+See Also
+
+
+PathFinderInterface Interface
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

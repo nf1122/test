@@ -1,0 +1,19 @@
+WRobot
+
+OffMeshConnections..::..Load Method 
+Load MeshConnection from FileName. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Load()Public Shared Sub Loadpublic:
+static void Load()
+See Also
+
+
+PathFinder..::..OffMeshConnections Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

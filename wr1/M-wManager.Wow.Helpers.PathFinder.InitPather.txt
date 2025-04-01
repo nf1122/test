@@ -1,0 +1,20 @@
+WRobot
+
+PathFinder..::..InitPather Method 
+Initialize the pather (with current continent). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void InitPather()Public Shared Sub InitPatherpublic:
+static void InitPather()
+See Also
+
+
+PathFinder Class
+InitPather Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

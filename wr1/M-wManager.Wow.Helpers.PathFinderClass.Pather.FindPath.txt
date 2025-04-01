@@ -1,0 +1,72 @@
+WRobot
+
+Pather..::..FindPath Method 
+Find path (use [PathFinder.FindPath(robotManager.Helpful.Vector3)]). 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<Vector3> FindPath(
+	Vector3 startVec,
+	Vector3 endVec,
+	out bool resultSuccess,
+	out bool resultPartial,
+	int maxPathCount,
+	float wallDistance,
+	bool bigExtents,
+	bool skipIfPartiel
+)Public Function FindPath ( _
+	startVec As Vector3, _
+	endVec As Vector3, _
+	<OutAttribute> ByRef resultSuccess As Boolean, _
+	<OutAttribute> ByRef resultPartial As Boolean, _
+	maxPathCount As Integer, _
+	wallDistance As Single, _
+	bigExtents As Boolean, _
+	skipIfPartiel As Boolean _
+) As List(Of Vector3)public:
+List<Vector3^>^ FindPath(
+	Vector3^ startVec, 
+	Vector3^ endVec, 
+	[OutAttribute] bool^% resultSuccess, 
+	[OutAttribute] bool^% resultPartial, 
+	int^ maxPathCount, 
+	float^ wallDistance, 
+	bool^ bigExtents, 
+	bool^ skipIfPartiel
+)Parameters
+startVec
+Type: robotManager.Helpful..::..Vector3
+The start vec.
+endVec
+Type: robotManager.Helpful..::..Vector3
+The end vec.
+resultSuccess
+Type: Boolean%
+if set to true [result success].
+resultPartial
+Type: Boolean%
+if set to true [result partial].
+maxPathCount
+Type: Int32
+The maximum path count.
+wallDistance
+Type: Single
+The wall distance.
+bigExtents
+Type: Boolean
+if set to true [big extents].
+skipIfPartiel
+Type: Boolean
+if set to true [skip if partiel].
+Return Value
+List<Vector3>.
+See Also
+
+
+Pather Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

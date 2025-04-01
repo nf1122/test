@@ -1,0 +1,48 @@
+WRobot
+
+PatherServer..::..GetTileName Method 
+Get name of the tile. 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string GetTileName(
+	string continent,
+	int x,
+	int y,
+	bool continentNameOnly
+)Public Shared Function GetTileName ( _
+	continent As String, _
+	x As Integer, _
+	y As Integer, _
+	continentNameOnly As Boolean _
+) As Stringpublic:
+static String^ GetTileName(
+	String^ continent, 
+	int^ x, 
+	int^ y, 
+	bool^ continentNameOnly
+)Parameters
+continent
+Type: String
+The continent.
+x
+Type: Int32
+The x.
+y
+Type: Int32
+The y.
+continentNameOnly
+Type: Boolean
+if set to true [continent name only].
+Return Value
+System.String.
+See Also
+
+
+PatherServer Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

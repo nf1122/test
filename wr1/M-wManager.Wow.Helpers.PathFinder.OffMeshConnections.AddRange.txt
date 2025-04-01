@@ -1,0 +1,34 @@
+WRobot
+
+OffMeshConnections..::..AddRange Method 
+Add several offmeshconnections to MeshConnection. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void AddRange(
+	List<PathFinder..::..OffMeshConnection> offMeshConnections,
+	bool skipIfAlreadyInList
+)Public Shared Sub AddRange ( _
+	offMeshConnections As List(Of PathFinder..::..OffMeshConnection), _
+	skipIfAlreadyInList As Boolean _
+)public:
+static void AddRange(
+	List<PathFinder..::..OffMeshConnection^>^ offMeshConnections, 
+	bool^ skipIfAlreadyInList
+)Parameters
+offMeshConnections
+Type: List<(Of <(<'PathFinder..::..OffMeshConnection>)>)>
+Offmeshconnections list.
+skipIfAlreadyInList
+Type: Boolean
+if set to true ignore offmeshconnection if already in list.
+See Also
+
+
+PathFinder..::..OffMeshConnections Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

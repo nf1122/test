@@ -1,0 +1,19 @@
+WRobot
+
+Party..::..GetPartyLeaderGUID Method 
+Get group leader GUID. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static ulong GetPartyLeaderGUID()Public Shared Function GetPartyLeaderGUID As ULongpublic:
+static unsigned long long^ GetPartyLeaderGUID()
+See Also
+
+
+Party Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

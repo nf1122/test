@@ -1,0 +1,20 @@
+WRobot
+
+Party..::..IsInGroupHome Method 
+Determines whether is in party group. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsInGroupHome()Public Shared Function IsInGroupHome As Booleanpublic:
+static bool^ IsInGroupHome()Return Value
+true if is in party; otherwise, false.
+See Also
+
+
+Party Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

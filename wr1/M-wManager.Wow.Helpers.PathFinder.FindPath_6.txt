@@ -1,0 +1,49 @@
+WRobot
+
+PathFinder..::..FindPath Method (Vector3, Boolean%, Boolean, Boolean)
+Find path. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<Vector3> FindPath(
+	Vector3 to,
+	out bool resultSuccess,
+	bool skipIfPartiel,
+	bool ignoreServerRoadsWater
+)Public Shared Function FindPath ( _
+	to As Vector3, _
+	<OutAttribute> ByRef resultSuccess As Boolean, _
+	skipIfPartiel As Boolean, _
+	ignoreServerRoadsWater As Boolean _
+) As List(Of Vector3)public:
+static List<Vector3^>^ FindPath(
+	Vector3^ to, 
+	[OutAttribute] bool^% resultSuccess, 
+	bool^ skipIfPartiel, 
+	bool^ ignoreServerRoadsWater
+)Parameters
+to
+Type: robotManager.Helpful..::..Vector3
+destination position.
+resultSuccess
+Type: Boolean%
+if set to true success.
+skipIfPartiel
+Type: Boolean
+if set to true skip if partial (don't try to resolve path with offmeshconnetions).
+ignoreServerRoadsWater
+Type: Boolean
+if set to true [ignore server roads water].
+Return Value
+path.
+See Also
+
+
+PathFinder Class
+FindPath Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

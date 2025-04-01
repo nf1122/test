@@ -1,0 +1,20 @@
+WRobot
+
+PetBattles..::..AllPetDead Method 
+All pet are dead. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool AllPetDead()Public Shared Function AllPetDead As Booleanpublic:
+static bool^ AllPetDead()Return Value
+true if all are dead, false otherwise.
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

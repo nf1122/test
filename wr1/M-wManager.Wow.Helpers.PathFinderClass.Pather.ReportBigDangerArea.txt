@@ -1,0 +1,36 @@
+WRobot
+
+Pather..::..ReportBigDangerArea Method 
+Report big danger area. 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool ReportBigDangerArea(
+	Vector3 position,
+	float radius
+)Public Function ReportBigDangerArea ( _
+	position As Vector3, _
+	radius As Single _
+) As Booleanpublic:
+bool^ ReportBigDangerArea(
+	Vector3^ position, 
+	float^ radius
+)Parameters
+position
+Type: robotManager.Helpful..::..Vector3
+The position.
+radius
+Type: Single
+The radius.
+Return Value
+true if added, false otherwise.
+See Also
+
+
+Pather Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

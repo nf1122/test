@@ -1,0 +1,33 @@
+WRobot
+
+Utility..::..ToWoW Method (array<Single>[]()[][])
+Converts to wow position (from recast). 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static float[] ToWoW(
+	this float[] v
+)<ExtensionAttribute> _
+Public Shared Function ToWoW ( _
+	v As Single() _
+) As Single()[ExtensionAttribute]
+public:
+static array<float^>^ ToWoW(
+	array<float^>^ v
+)Parameters
+v
+Type: array<Single>[]()[][]
+The v.
+Return Value
+System.Single[].
+See Also
+
+
+Utility Class
+ToWoW Overload
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

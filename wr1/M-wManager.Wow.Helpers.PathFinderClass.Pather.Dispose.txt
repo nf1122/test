@@ -1,0 +1,19 @@
+WRobot
+
+Pather..::..Dispose Method 
+Disposes this instance. 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public void Dispose()Public Sub Disposepublic:
+void Dispose()
+See Also
+
+
+Pather Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

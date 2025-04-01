@@ -1,0 +1,20 @@
+WRobot
+
+Party..::..IsInGroupInstance Method 
+Determines whether is in raid group. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsInGroupInstance()Public Shared Function IsInGroupInstance As Booleanpublic:
+static bool^ IsInGroupInstance()Return Value
+true if is in raid; otherwise, false.
+See Also
+
+
+Party Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

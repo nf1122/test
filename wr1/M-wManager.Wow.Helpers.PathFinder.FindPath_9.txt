@@ -1,0 +1,73 @@
+WRobot
+
+PathFinder..::..FindPath Method (Vector3, Vector3, String, Boolean%, Boolean, Boolean, Boolean, Boolean)
+Find path. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<Vector3> FindPath(
+	Vector3 from,
+	Vector3 to,
+	string continentNameMpq,
+	out bool resultSuccess,
+	bool addFromAndStart,
+	bool loadAllTile,
+	bool skipIfPartiel,
+	bool ignoreServerRoadsWater
+)Public Shared Function FindPath ( _
+	from As Vector3, _
+	to As Vector3, _
+	continentNameMpq As String, _
+	<OutAttribute> ByRef resultSuccess As Boolean, _
+	addFromAndStart As Boolean, _
+	loadAllTile As Boolean, _
+	skipIfPartiel As Boolean, _
+	ignoreServerRoadsWater As Boolean _
+) As List(Of Vector3)public:
+static List<Vector3^>^ FindPath(
+	Vector3^ from, 
+	Vector3^ to, 
+	String^ continentNameMpq, 
+	[OutAttribute] bool^% resultSuccess, 
+	bool^ addFromAndStart, 
+	bool^ loadAllTile, 
+	bool^ skipIfPartiel, 
+	bool^ ignoreServerRoadsWater
+)Parameters
+from
+Type: robotManager.Helpful..::..Vector3
+
+to
+Type: robotManager.Helpful..::..Vector3
+Starting position.destination position.
+continentNameMpq
+Type: String
+The continent name (file name like ContinentNameMpq).
+resultSuccess
+Type: Boolean%
+if set to true success.
+addFromAndStart
+Type: Boolean
+if set to true [add from and start].
+loadAllTile
+Type: Boolean
+if set to true [load all tile].
+skipIfPartiel
+Type: Boolean
+if set to true skip if partial (don't try to resolve path with offmeshconnetions).
+ignoreServerRoadsWater
+Type: Boolean
+if set to true [ignore server roads water].
+Return Value
+path.
+See Also
+
+
+PathFinder Class
+FindPath Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

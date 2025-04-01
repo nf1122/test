@@ -1,0 +1,20 @@
+WRobot
+
+Party..::..CurrentPlayerIsLeader Method 
+Current player is leader. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool CurrentPlayerIsLeader()Public Shared Function CurrentPlayerIsLeader As Booleanpublic:
+static bool^ CurrentPlayerIsLeader()Return Value
+true if character is leader, false otherwise.
+See Also
+
+
+Party Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

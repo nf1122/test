@@ -1,0 +1,18 @@
+WRobot
+
+Party..::..GetRaidMembersGuid Method 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<ulong> GetRaidMembersGuid()Public Shared Function GetRaidMembersGuid As List(Of ULong)public:
+static List<unsigned long long^>^ GetRaidMembersGuid()
+See Also
+
+
+Party Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

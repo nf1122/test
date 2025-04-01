@@ -1,0 +1,41 @@
+WRobot
+
+PatherServer..::..GetTileByLocation Method (Vector3, Single%, Single%)
+Get tile by location. 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void GetTileByLocation(
+	Vector3 loc,
+	out float x,
+	out float y
+)Public Shared Sub GetTileByLocation ( _
+	loc As Vector3, _
+	<OutAttribute> ByRef x As Single, _
+	<OutAttribute> ByRef y As Single _
+)public:
+static void GetTileByLocation(
+	Vector3^ loc, 
+	[OutAttribute] float^% x, 
+	[OutAttribute] float^% y
+)Parameters
+loc
+Type: robotManager.Helpful..::..Vector3
+The loc.
+x
+Type: Single%
+The x.
+y
+Type: Single%
+The y.
+See Also
+
+
+PatherServer Class
+GetTileByLocation Overload
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

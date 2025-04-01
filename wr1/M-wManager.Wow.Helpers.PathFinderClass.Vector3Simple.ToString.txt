@@ -1,0 +1,18 @@
+WRobot
+
+Vector3Simple..::..ToString Method 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string ToString()Public Function ToString As Stringpublic:
+String^ ToString()
+See Also
+
+
+Vector3Simple Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

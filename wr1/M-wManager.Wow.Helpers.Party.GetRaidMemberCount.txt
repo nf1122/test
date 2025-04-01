@@ -1,0 +1,18 @@
+WRobot
+
+Party..::..GetRaidMemberCount Method 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int GetRaidMemberCount()Public Shared Function GetRaidMemberCount As Integerpublic:
+static int^ GetRaidMemberCount()
+See Also
+
+
+Party Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

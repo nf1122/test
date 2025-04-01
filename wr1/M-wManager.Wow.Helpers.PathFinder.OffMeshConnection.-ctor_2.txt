@@ -1,0 +1,47 @@
+WRobot
+
+OffMeshConnection Constructor (List<(Of <(<'Vector3>)>)>, Int32, OffMeshConnectionType, Boolean)
+Initialize a new instance of the PathFinder..::..OffMeshConnection class. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public OffMeshConnection(
+	List<Vector3> path,
+	int continentId,
+	PathFinder..::..OffMeshConnectionType type,
+	bool tryToUseEvenIfCanFindPathSuccess
+)Public Sub New ( _
+	path As List(Of Vector3), _
+	continentId As Integer, _
+	type As PathFinder..::..OffMeshConnectionType, _
+	tryToUseEvenIfCanFindPathSuccess As Boolean _
+)public:
+OffMeshConnection(
+	List<Vector3^>^ path, 
+	int^ continentId, 
+	PathFinder..::..OffMeshConnectionType^ type, 
+	bool^ tryToUseEvenIfCanFindPathSuccess
+)Parameters
+path
+Type: List<(Of <(<'Vector3>)>)>
+The path.
+continentId
+Type: Int32
+The continent id (-1 to use on all continents)
+type
+Type: wManager.Wow.Helpers..::..PathFinder..::..OffMeshConnectionType
+The type.
+tryToUseEvenIfCanFindPathSuccess
+Type: Boolean
+if set to true try to use even if can find path success (and use this if path distance is smaller with), use this option if you know what you are doing.
+See Also
+
+
+PathFinder..::..OffMeshConnection Class
+PathFinder..::..OffMeshConnection Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

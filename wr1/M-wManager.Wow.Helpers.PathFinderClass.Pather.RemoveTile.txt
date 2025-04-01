@@ -1,0 +1,36 @@
+WRobot
+
+Pather..::..RemoveTile Method 
+unload tile. 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool RemoveTile(
+	int x,
+	int y
+)Public Function RemoveTile ( _
+	x As Integer, _
+	y As Integer _
+) As Booleanpublic:
+bool^ RemoveTile(
+	int^ x, 
+	int^ y
+)Parameters
+x
+Type: Int32
+The x.
+y
+Type: Int32
+The y.
+Return Value
+true if XXXX, false otherwise.
+See Also
+
+
+Pather Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

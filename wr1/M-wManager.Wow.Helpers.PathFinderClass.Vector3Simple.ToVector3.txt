@@ -1,0 +1,18 @@
+WRobot
+
+Vector3Simple..::..ToVector3 Method 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Vector3 ToVector3()Public Function ToVector3 As Vector3public:
+Vector3^ ToVector3()
+See Also
+
+
+Vector3Simple Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

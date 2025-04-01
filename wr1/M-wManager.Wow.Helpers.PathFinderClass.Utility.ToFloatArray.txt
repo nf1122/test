@@ -1,0 +1,32 @@
+WRobot
+
+Utility..::..ToFloatArray Method 
+Convert vector3 to float array. 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static float[] ToFloatArray(
+	this Vector3 v
+)<ExtensionAttribute> _
+Public Shared Function ToFloatArray ( _
+	v As Vector3 _
+) As Single()[ExtensionAttribute]
+public:
+static array<float^>^ ToFloatArray(
+	Vector3^ v
+)Parameters
+v
+Type: robotManager.Helpful..::..Vector3
+The vector3.
+Return Value
+position float array.
+See Also
+
+
+Utility Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

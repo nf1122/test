@@ -1,0 +1,32 @@
+WRobot
+
+Utility..::..ToWowListVector3 Method 
+Convert from recast to wow list vector3. 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<Vector3> ToWowListVector3(
+	this List<float> array
+)<ExtensionAttribute> _
+Public Shared Function ToWowListVector3 ( _
+	array As List(Of Single) _
+) As List(Of Vector3)[ExtensionAttribute]
+public:
+static List<Vector3^>^ ToWowListVector3(
+	List<float^>^ array
+)Parameters
+array
+Type: List<(Of <(<'Single>)>)>
+The recast position.
+Return Value
+List<Vector3>.
+See Also
+
+
+Utility Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

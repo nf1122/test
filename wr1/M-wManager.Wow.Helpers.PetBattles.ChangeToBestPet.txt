@@ -1,0 +1,19 @@
+WRobot
+
+PetBattles..::..ChangeToBestPet Method 
+Changes to best pet. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void ChangeToBestPet()Public Shared Sub ChangeToBestPetpublic:
+static void ChangeToBestPet()
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

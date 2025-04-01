@@ -1,0 +1,30 @@
+WRobot
+
+OffMeshConnection..::..IsSame Method 
+Determines whether the specified o is same. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsSame(
+	PathFinder..::..OffMeshConnection o
+)Public Function IsSame ( _
+	o As PathFinder..::..OffMeshConnection _
+) As Booleanpublic:
+bool^ IsSame(
+	PathFinder..::..OffMeshConnection^ o
+)Parameters
+o
+Type: wManager.Wow.Helpers..::..PathFinder..::..OffMeshConnection
+compare to.
+Return Value
+true if the specified offMeshConnection is same; otherwise, false.
+See Also
+
+
+PathFinder..::..OffMeshConnection Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

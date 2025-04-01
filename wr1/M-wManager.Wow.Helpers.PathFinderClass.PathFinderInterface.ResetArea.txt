@@ -1,0 +1,39 @@
+WRobot
+
+PathFinderInterface..::..ResetArea Method 
+Reset area to POLYAREA_GROUND()()()() by position and type. 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+void ResetArea(
+	Vector3 position,
+	float radius,
+	PolyArea areaType
+)Sub ResetArea ( _
+	position As Vector3, _
+	radius As Single, _
+	areaType As PolyArea _
+)void ResetArea(
+	Vector3^ position, 
+	float^ radius, 
+	PolyArea^ areaType
+)Parameters
+position
+Type: robotManager.Helpful..::..Vector3
+The position.
+radius
+Type: Single
+The radius.
+areaType
+Type: PolyArea
+Type of area.
+See Also
+
+
+PathFinderInterface Interface
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

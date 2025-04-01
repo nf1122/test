@@ -1,0 +1,27 @@
+WRobot
+
+PathFinderInterface..::..ResetAreaByType Method 
+Reset area to POLYAREA_GROUND()()()() by type. 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+void ResetAreaByType(
+	PolyArea areaType
+)Sub ResetAreaByType ( _
+	areaType As PolyArea _
+)void ResetAreaByType(
+	PolyArea^ areaType
+)Parameters
+areaType
+Type: PolyArea
+Type to reset.
+See Also
+
+
+PathFinderInterface Interface
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

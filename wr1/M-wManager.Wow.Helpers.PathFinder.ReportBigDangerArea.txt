@@ -1,0 +1,36 @@
+WRobot
+
+PathFinder..::..ReportBigDangerArea Method 
+Reports the big danger area (POLYAREA_BIGDANGER()()()()). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ReportBigDangerArea(
+	Vector3 position,
+	float radius
+)Public Shared Function ReportBigDangerArea ( _
+	position As Vector3, _
+	radius As Single _
+) As Booleanpublic:
+static bool^ ReportBigDangerArea(
+	Vector3^ position, 
+	float^ radius
+)Parameters
+position
+Type: robotManager.Helpful..::..Vector3
+The position.
+radius
+Type: Single
+The radius.
+Return Value
+true if added, false otherwise.
+See Also
+
+
+PathFinder Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

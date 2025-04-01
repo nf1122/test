@@ -1,0 +1,20 @@
+WRobot
+
+Party..::..GetPartyNumberPlayers Method 
+Get group members count. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static uint GetPartyNumberPlayers()Public Shared Function GetPartyNumberPlayers As UIntegerpublic:
+static unsigned int^ GetPartyNumberPlayers()Return Value
+System.UInt32.
+See Also
+
+
+Party Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

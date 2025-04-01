@@ -1,0 +1,27 @@
+WRobot
+
+PathFinderInterface..::..InitPather Method 
+Initialize the pather. 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+void InitPather(
+	string continentNameMpq
+)Sub InitPather ( _
+	continentNameMpq As String _
+)void InitPather(
+	String^ continentNameMpq
+)Parameters
+continentNameMpq
+Type: String
+The continent name (ContinentNameMpq).
+See Also
+
+
+PathFinderInterface Interface
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 
