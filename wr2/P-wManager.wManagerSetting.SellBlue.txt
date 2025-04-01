@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..SellBlue Property 
+Sell all blue items (you need to activate option Selling). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool SellBlue { get; set; }Public Property SellBlue As Boolean
+	Get
+	Setpublic:
+property bool^ SellBlue {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

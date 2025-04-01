@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..Repair Property 
+Repair when go to town. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool Repair { get; set; }Public Property Repair As Boolean
+	Get
+	Setpublic:
+property bool^ Repair {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..MailWhite Property 
+Send white items (you need to activate option UseMail). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool MailWhite { get; set; }Public Property MailWhite As Boolean
+	Get
+	Setpublic:
+property bool^ MailWhite {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

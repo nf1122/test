@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..HarvestTimber Property 
+Harvest timber. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool HarvestTimber { get; set; }Public Property HarvestTimber As Boolean
+	Get
+	Setpublic:
+property bool^ HarvestTimber {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

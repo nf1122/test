@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..FlightMasterTaxiDistance Property 
+Flightmaster search distance (to take only is nearby taxi use FlightMasterTaxiUseOnlyIfNear, you need to use option FlightMasterTaxiUse). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float FlightMasterTaxiDistance { get; set; }Public Property FlightMasterTaxiDistance As Single
+	Get
+	Setpublic:
+property float^ FlightMasterTaxiDistance {
+	float^ get ();
+	void set (float^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

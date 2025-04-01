@@ -1,0 +1,25 @@
+WRobot
+
+wManagerSetting..::..MillingList Property 
+Milling items list (like the name appears in game, you need to enable Milling). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<string> MillingList { get; set; }Public Property MillingList As List(Of String)
+	Get
+	Setpublic:
+property List<String^>^ MillingList {
+	List<String^>^ get ();
+	void set (List<String^>^ value);
+}Field Value
+The milling list.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

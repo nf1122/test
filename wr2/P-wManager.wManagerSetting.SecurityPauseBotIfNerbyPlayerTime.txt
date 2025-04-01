@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..SecurityPauseBotIfNerbyPlayerTime Property 
+Nearby player since X seconds before to pause bot (option for SecurityPauseBotIfNerbyPlayer) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int SecurityPauseBotIfNerbyPlayerTime { get; set; }Public Property SecurityPauseBotIfNerbyPlayerTime As Integer
+	Get
+	Setpublic:
+property int^ SecurityPauseBotIfNerbyPlayerTime {
+	int^ get ();
+	void set (int^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

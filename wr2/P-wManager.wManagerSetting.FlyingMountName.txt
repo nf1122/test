@@ -1,0 +1,25 @@
+WRobot
+
+wManagerSetting..::..FlyingMountName Property 
+Gets or sets the name of the flying mount (like it appears in game). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string FlyingMountName { get; set; }Public Property FlyingMountName As String
+	Get
+	Setpublic:
+property String^ FlyingMountName {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The name of the flying mount.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..FlightMasterDiscoverRange Property 
+Flightmasters discover range (0 to don't discover unknown flightmasters (with green exclamation)). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float FlightMasterDiscoverRange { get; set; }Public Property FlightMasterDiscoverRange As Single
+	Get
+	Setpublic:
+property float^ FlightMasterDiscoverRange {
+	float^ get ();
+	void set (float^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

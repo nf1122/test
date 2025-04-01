@@ -1,0 +1,25 @@
+WRobot
+
+wManagerSetting..::..FoodIsSpell Property 
+FoodName is spell name (not item) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool FoodIsSpell { get; set; }Public Property FoodIsSpell As Boolean
+	Get
+	Setpublic:
+property bool^ FoodIsSpell {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if it is spell name, false if it is item name.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

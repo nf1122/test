@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..Milling Property 
+Milling (MillingState, don't forget to complete MillingList). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool Milling { get; set; }Public Property Milling As Boolean
+	Get
+	Setpublic:
+property bool^ Milling {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

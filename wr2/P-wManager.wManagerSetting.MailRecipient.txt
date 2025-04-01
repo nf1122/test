@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..MailRecipient Property 
+Mail recipient name (you need to activate option UseMail). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string MailRecipient { get; set; }Public Property MailRecipient As String
+	Get
+	Setpublic:
+property String^ MailRecipient {
+	String^ get ();
+	void set (String^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

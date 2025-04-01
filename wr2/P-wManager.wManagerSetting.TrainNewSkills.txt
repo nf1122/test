@@ -1,0 +1,25 @@
+WRobot
+
+wManagerSetting..::..TrainNewSkills Property 
+Train New Skills (used in Trainers) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool TrainNewSkills { get; set; }Public Property TrainNewSkills As Boolean
+	Get
+	Setpublic:
+property bool^ TrainNewSkills {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if Train New Skills; otherwise, false.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,25 @@
+WRobot
+
+wManagerSetting..::..UseMount Property 
+Use ground mount (need GroundMountName) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool UseMount { get; set; }Public Property UseMount As Boolean
+	Get
+	Setpublic:
+property bool^ UseMount {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if [use mount]; otherwise, false.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

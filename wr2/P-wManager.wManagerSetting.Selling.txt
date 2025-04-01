@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..Selling Property 
+Sell the bag items when go to town (look options SellGray, SellWhite, SellGreen, SellBlue, SellPurple, DoNotSellList, ForceSellList). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool Selling { get; set; }Public Property Selling As Boolean
+	Get
+	Setpublic:
+property bool^ Selling {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

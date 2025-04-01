@@ -1,0 +1,31 @@
+WRobot
+
+wManagerSetting..::..SecurityRecordWhisperInLogFile Property 
+Note: This API is now obsolete. 
+Obsolete, RecordChatInLog
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[XmlIgnoreAttribute]
+[ObsoleteAttribute]
+public bool SecurityRecordWhisperInLogFile { get; set; }<XmlIgnoreAttribute> _
+<ObsoleteAttribute> _
+Public Property SecurityRecordWhisperInLogFile As Boolean
+	Get
+	Set[XmlIgnoreAttribute]
+[ObsoleteAttribute]
+public:
+property bool^ SecurityRecordWhisperInLogFile {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

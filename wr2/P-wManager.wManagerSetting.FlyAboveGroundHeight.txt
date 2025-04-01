@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..FlyAboveGroundHeight Property 
+When the bot uses the flying mount on a normal (ground) path how high to fly? 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float FlyAboveGroundHeight { get; set; }Public Property FlyAboveGroundHeight As Single
+	Get
+	Setpublic:
+property float^ FlyAboveGroundHeight {
+	float^ get ();
+	void set (float^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

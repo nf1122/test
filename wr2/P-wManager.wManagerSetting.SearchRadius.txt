@@ -1,0 +1,35 @@
+WRobot
+
+wManagerSetting..::..SearchRadius Property 
+Note: This API is now obsolete. 
+Obsolete, use SearchRadiusMobs and SearchRadiusObjects
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[ObsoleteAttribute]
+[XmlIgnoreAttribute]
+[JsonIgnoreAttribute]
+public float SearchRadius { get; set; }<ObsoleteAttribute> _
+<XmlIgnoreAttribute> _
+<JsonIgnoreAttribute> _
+Public Property SearchRadius As Single
+	Get
+	Set[ObsoleteAttribute]
+[XmlIgnoreAttribute]
+[JsonIgnoreAttribute]
+public:
+property float^ SearchRadius {
+	float^ get ();
+	void set (float^ value);
+}Field Value
+The search radius.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..PathFinderPostionOffset Property 
+Pathfinder is too precise, sometimes you have to be exactly at position A to be able to reach position B without any obstacle. The problem is that the bot cannot go exactly to position A (CTM not always precise and this cause sudden movement because it stops move when it gets to the position). This option allows you to shift away the position of the position A (1.0 by default) which allows the bot to go to point B when distance to position A is PathFinderPostionOffset (the character is actually at the original position of point A). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float PathFinderPostionOffset { get; set; }Public Property PathFinderPostionOffset As Single
+	Get
+	Setpublic:
+property float^ PathFinderPostionOffset {
+	float^ get ();
+	void set (float^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

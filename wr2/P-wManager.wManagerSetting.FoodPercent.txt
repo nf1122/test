@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..FoodPercent Property 
+Start character regen if less than X % of health. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int FoodPercent { get; set; }Public Property FoodPercent As Integer
+	Get
+	Setpublic:
+property int^ FoodPercent {
+	int^ get ();
+	void set (int^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

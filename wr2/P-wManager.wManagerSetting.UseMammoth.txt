@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..UseMammoth Property 
+Use "Traveler's Tundra Mammoth" to repair and sell instead of go to town 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool UseMammoth { get; set; }Public Property UseMammoth As Boolean
+	Get
+	Setpublic:
+property bool^ UseMammoth {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

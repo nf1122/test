@@ -1,0 +1,25 @@
+WRobot
+
+wManagerSetting..::..IgnoreFightGoundMount Property 
+Ignore fight when in mount 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IgnoreFightGoundMount { get; set; }Public Property IgnoreFightGoundMount As Boolean
+	Get
+	Setpublic:
+property bool^ IgnoreFightGoundMount {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if ignore fight when in mount; otherwise, false.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

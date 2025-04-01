@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..MinFreeBagSlotsToGoToTown Property 
+Minimum free bag slots to go to town. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int MinFreeBagSlotsToGoToTown { get; set; }Public Property MinFreeBagSlotsToGoToTown As Integer
+	Get
+	Setpublic:
+property int^ MinFreeBagSlotsToGoToTown {
+	int^ get ();
+	void set (int^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

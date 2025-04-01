@@ -1,0 +1,25 @@
+WRobot
+
+wManagerSetting..::..FoodName Property 
+Gets or sets the name of the food (like it appears in game). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string FoodName { get; set; }Public Property FoodName As String
+	Get
+	Setpublic:
+property String^ FoodName {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The name of the food.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

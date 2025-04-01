@@ -1,0 +1,25 @@
+WRobot
+
+wManagerSetting..::..GroundMountName Property 
+The name of the ground mount (like it appears in game). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string GroundMountName { get; set; }Public Property GroundMountName As String
+	Get
+	Setpublic:
+property String^ GroundMountName {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The name of the ground mount.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,25 @@
+WRobot
+
+wManagerSetting..::..SecuritySongIfNewWhisper Property 
+Play song if new whisper (if you want use custom song, you can put song file at "WRobot\Data\newWhisper.wav"). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool SecuritySongIfNewWhisper { get; set; }Public Property SecuritySongIfNewWhisper As Boolean
+	Get
+	Setpublic:
+property bool^ SecuritySongIfNewWhisper {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if [security song if new whisper]; otherwise, false.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

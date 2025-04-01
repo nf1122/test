@@ -1,0 +1,34 @@
+WRobot
+
+wManagerSetting..::..MaxUnitsNear Property 
+Note: This API is now obsolete. 
+Obsolete, use MaxUnitsNearMobs and MaxUnitsNearObjects
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[ObsoleteAttribute]
+[XmlIgnoreAttribute]
+[JsonIgnoreAttribute]
+public int MaxUnitsNear { get; set; }<ObsoleteAttribute> _
+<XmlIgnoreAttribute> _
+<JsonIgnoreAttribute> _
+Public Property MaxUnitsNear As Integer
+	Get
+	Set[ObsoleteAttribute]
+[XmlIgnoreAttribute]
+[JsonIgnoreAttribute]
+public:
+property int^ MaxUnitsNear {
+	int^ get ();
+	void set (int^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

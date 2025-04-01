@@ -1,0 +1,25 @@
+WRobot
+
+wManagerSetting..::..UseFlyingMount Property 
+Use flying mount (need FlyingMountName) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool UseFlyingMount { get; set; }Public Property UseFlyingMount As Boolean
+	Get
+	Setpublic:
+property bool^ UseFlyingMount {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if [use flying mount]; otherwise, false.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

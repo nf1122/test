@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..NpcMailboxSearchRadius Property 
+NPC (Npc vendor, repair, ...) and Mailbox search radius 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float NpcMailboxSearchRadius { get; set; }Public Property NpcMailboxSearchRadius As Single
+	Get
+	Setpublic:
+property float^ NpcMailboxSearchRadius {
+	float^ get ();
+	void set (float^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

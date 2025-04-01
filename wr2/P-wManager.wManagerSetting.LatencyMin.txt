@@ -1,0 +1,25 @@
+WRobot
+
+wManagerSetting..::..LatencyMin Property 
+Use this value if real latency is smaller than this value (look also LatencyMax, bot use latency time to wait after action (https://wow.gamepedia.com/API_GetNetStats realLatency = latencyHome + latencyWorld), but sometime result is bad). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int LatencyMin { get; set; }Public Property LatencyMin As Integer
+	Get
+	Setpublic:
+property int^ LatencyMin {
+	int^ get ();
+	void set (int^ value);
+}Field Value
+The latency minimum.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

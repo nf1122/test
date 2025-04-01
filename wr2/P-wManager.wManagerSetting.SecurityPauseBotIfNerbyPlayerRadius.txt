@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..SecurityPauseBotIfNerbyPlayerRadius Property 
+Nearby player search radius (option for SecurityPauseBotIfNerbyPlayer) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int SecurityPauseBotIfNerbyPlayerRadius { get; set; }Public Property SecurityPauseBotIfNerbyPlayerRadius As Integer
+	Get
+	Setpublic:
+property int^ SecurityPauseBotIfNerbyPlayerRadius {
+	int^ get ();
+	void set (int^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

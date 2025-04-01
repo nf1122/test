@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..MailGreen Property 
+Send green items (you need to activate option UseMail). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool MailGreen { get; set; }Public Property MailGreen As Boolean
+	Get
+	Setpublic:
+property bool^ MailGreen {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

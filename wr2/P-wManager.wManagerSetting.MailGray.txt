@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..MailGray Property 
+Send gray items (you need to activate option UseMail). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool MailGray { get; set; }Public Property MailGray As Boolean
+	Get
+	Setpublic:
+property bool^ MailGray {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

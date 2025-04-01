@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..WallDistancePathFinder Property 
+Wall distance of generated path by PathFinder (sometime this option can return a funny path). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float WallDistancePathFinder { get; set; }Public Property WallDistancePathFinder As Single
+	Get
+	Setpublic:
+property float^ WallDistancePathFinder {
+	float^ get ();
+	void set (float^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

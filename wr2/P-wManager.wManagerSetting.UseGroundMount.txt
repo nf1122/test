@@ -1,0 +1,28 @@
+WRobot
+
+wManagerSetting..::..UseGroundMount Property 
+Gets or sets a value indicating whether [use ground mount]. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[XmlIgnoreAttribute]
+public bool UseGroundMount { get; set; }<XmlIgnoreAttribute> _
+Public Property UseGroundMount As Boolean
+	Get
+	Set[XmlIgnoreAttribute]
+public:
+property bool^ UseGroundMount {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if [use ground mount]; otherwise, false.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

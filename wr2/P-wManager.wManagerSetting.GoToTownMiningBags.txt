@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..GoToTownMiningBags Property 
+Go to town when mining bags are fulls. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool GoToTownMiningBags { get; set; }Public Property GoToTownMiningBags As Boolean
+	Get
+	Setpublic:
+property bool^ GoToTownMiningBags {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

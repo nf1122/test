@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..ToTownTimer Property 
+Force to go to town every X minutes (you need to activate ToTownTimerActivated) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int ToTownTimer { get; set; }Public Property ToTownTimer As Integer
+	Get
+	Setpublic:
+property int^ ToTownTimer {
+	int^ get ();
+	void set (int^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..ProspectingList Property 
+Prospecting items list (like the name appears in game, you need to enable Prospecting). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<string> ProspectingList { get; set; }Public Property ProspectingList As List(Of String)
+	Get
+	Setpublic:
+property List<String^>^ ProspectingList {
+	List<String^>^ get ();
+	void set (List<String^>^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

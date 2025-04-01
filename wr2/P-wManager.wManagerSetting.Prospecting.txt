@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..Prospecting Property 
+Prospecting, you need to complete ProspectingList and ProspectingTime or ProspectingInTown. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool Prospecting { get; set; }Public Property Prospecting As Boolean
+	Get
+	Setpublic:
+property bool^ Prospecting {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

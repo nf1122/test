@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..SecurityPauseBotIfNerbyPlayer Property 
+Pause Bot if nearby other player (combined with options SecurityPauseBotIfNerbyPlayerRadius, SecurityPauseBotIfNerbyPlayerTime, IgnoredNerbyPlayer, DisableNearPlayerToTown). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool SecurityPauseBotIfNerbyPlayer { get; set; }Public Property SecurityPauseBotIfNerbyPlayer As Boolean
+	Get
+	Setpublic:
+property bool^ SecurityPauseBotIfNerbyPlayer {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

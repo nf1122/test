@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..IgnoredNerbyPlayer Property 
+List if accepted players when you activate option SecurityPauseBotIfNerbyPlayer
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public wManagerSetting..::..IgnoredNerbyPlayerClass IgnoredNerbyPlayer { get; set; }Public Property IgnoredNerbyPlayer As wManagerSetting..::..IgnoredNerbyPlayerClass
+	Get
+	Setpublic:
+property wManagerSetting..::..IgnoredNerbyPlayerClass^ IgnoredNerbyPlayer {
+	wManagerSetting..::..IgnoredNerbyPlayerClass^ get ();
+	void set (wManagerSetting..::..IgnoredNerbyPlayerClass^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

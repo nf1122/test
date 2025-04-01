@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..ListHarvestByName Property 
+List of gameobjects name to harvest. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<string> ListHarvestByName { get; set; }Public Property ListHarvestByName As List(Of String)
+	Get
+	Setpublic:
+property List<String^>^ ListHarvestByName {
+	List<String^>^ get ();
+	void set (List<String^>^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

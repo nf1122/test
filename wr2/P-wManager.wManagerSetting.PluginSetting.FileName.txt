@@ -1,0 +1,25 @@
+WRobot
+
+PluginSetting..::..FileName Property 
+File name like "My plugin.cs" (plugins are in folder "WRobot\Plugins\") 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string FileName { get; set; }Public Property FileName As String
+	Get
+	Setpublic:
+property String^ FileName {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The name of the file.
+See Also
+
+
+wManagerSetting..::..PluginSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..FlightMasterTaxiUseOnlyIfNear Property 
+Take taxi only if flightmaster is nearby (else the bot searchs by distance with FlightMasterTaxiDistance, you need to use option FlightMasterTaxiUse). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool FlightMasterTaxiUseOnlyIfNear { get; set; }Public Property FlightMasterTaxiUseOnlyIfNear As Boolean
+	Get
+	Setpublic:
+property bool^ FlightMasterTaxiUseOnlyIfNear {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

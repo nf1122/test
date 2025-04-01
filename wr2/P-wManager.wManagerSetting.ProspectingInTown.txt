@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..ProspectingInTown Property 
+Prospecting when go to town (you need to enable Prospecting). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool ProspectingInTown { get; set; }Public Property ProspectingInTown As Boolean
+	Get
+	Setpublic:
+property bool^ ProspectingInTown {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

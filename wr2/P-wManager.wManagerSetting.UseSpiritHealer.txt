@@ -1,0 +1,25 @@
+WRobot
+
+wManagerSetting..::..UseSpiritHealer Property 
+Use spirit healer to revive 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool UseSpiritHealer { get; set; }Public Property UseSpiritHealer As Boolean
+	Get
+	Setpublic:
+property bool^ UseSpiritHealer {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if [use spirit healer]; otherwise, false.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

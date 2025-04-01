@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..HarvestAvoidPlayersRadius Property 
+Cancel farm if another player is within X yards (0 to don't avoid players). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float HarvestAvoidPlayersRadius { get; set; }Public Property HarvestAvoidPlayersRadius As Single
+	Get
+	Setpublic:
+property float^ HarvestAvoidPlayersRadius {
+	float^ get ();
+	void set (float^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..ProspectingTime Property 
+Prospecting every X minutes (you need to enable Prospecting). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int ProspectingTime { get; set; }Public Property ProspectingTime As Integer
+	Get
+	Setpublic:
+property int^ ProspectingTime {
+	int^ get ();
+	void set (int^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

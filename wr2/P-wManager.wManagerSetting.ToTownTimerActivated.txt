@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..ToTownTimerActivated Property 
+Activate go to town every ToTownTimer minutes 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool ToTownTimerActivated { get; set; }Public Property ToTownTimerActivated As Boolean
+	Get
+	Setpublic:
+property bool^ ToTownTimerActivated {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

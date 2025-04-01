@@ -1,0 +1,33 @@
+WRobot
+
+IgnoredNerbyPlayerClass..::..ListPlayer Property 
+List of players names allowed to be nearby the character. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[CategoryAttribute]
+[DescriptionAttribute]
+[EditorAttribute]
+public List<string> ListPlayer { get; set; }<CategoryAttribute> _
+<DescriptionAttribute> _
+<EditorAttribute> _
+Public Property ListPlayer As List(Of String)
+	Get
+	Set[CategoryAttribute]
+[DescriptionAttribute]
+[EditorAttribute]
+public:
+property List<String^>^ ListPlayer {
+	List<String^>^ get ();
+	void set (List<String^>^ value);
+}
+See Also
+
+
+wManagerSetting..::..IgnoredNerbyPlayerClass Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

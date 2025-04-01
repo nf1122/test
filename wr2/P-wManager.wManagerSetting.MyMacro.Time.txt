@@ -1,0 +1,33 @@
+WRobot
+
+MyMacro..::..Time Property 
+Press the key every X seconds. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public int Time { get; set; }<CategoryAttribute> _
+<DisplayNameAttribute> _
+<DescriptionAttribute> _
+Public Property Time As Integer
+	Get
+	Set[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public:
+property int^ Time {
+	int^ get ();
+	void set (int^ value);
+}
+See Also
+
+
+wManagerSetting..::..MyMacro Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..Smelting Property 
+Smelting (SmeltingState, you need to add in NpcDB fake NPC type NpcType.Smelting nearest smelting zone). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool Smelting { get; set; }Public Property Smelting As Boolean
+	Get
+	Setpublic:
+property bool^ Smelting {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

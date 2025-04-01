@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..FlightMasterTaxiUse Property 
+Take taxi (from FlightMaster) if can. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool FlightMasterTaxiUse { get; set; }Public Property FlightMasterTaxiUse As Boolean
+	Get
+	Setpublic:
+property bool^ FlightMasterTaxiUse {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

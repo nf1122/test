@@ -1,0 +1,33 @@
+WRobot
+
+MyMacro..::..LaunchIfNoInCombat Property 
+Press key only if character is not in combat. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public bool LaunchIfNoInCombat { get; set; }<CategoryAttribute> _
+<DisplayNameAttribute> _
+<DescriptionAttribute> _
+Public Property LaunchIfNoInCombat As Boolean
+	Get
+	Set[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public:
+property bool^ LaunchIfNoInCombat {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting..::..MyMacro Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

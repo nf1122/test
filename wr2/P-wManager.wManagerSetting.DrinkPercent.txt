@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..DrinkPercent Property 
+Start character regen if less than X % of mana. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int DrinkPercent { get; set; }Public Property DrinkPercent As Integer
+	Get
+	Setpublic:
+property int^ DrinkPercent {
+	int^ get ();
+	void set (int^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

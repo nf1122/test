@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..SellPurple Property 
+Sell all purple items (you need to activate option Selling). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool SellPurple { get; set; }Public Property SellPurple As Boolean
+	Get
+	Setpublic:
+property bool^ SellPurple {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

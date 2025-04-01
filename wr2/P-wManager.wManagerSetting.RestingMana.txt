@@ -1,0 +1,25 @@
+WRobot
+
+wManagerSetting..::..RestingMana Property 
+Regen character mana 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool RestingMana { get; set; }Public Property RestingMana As Boolean
+	Get
+	Setpublic:
+property bool^ RestingMana {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if you want regen mana otherwise, false.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

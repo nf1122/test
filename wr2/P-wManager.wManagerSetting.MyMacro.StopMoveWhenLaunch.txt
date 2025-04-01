@@ -1,0 +1,33 @@
+WRobot
+
+MyMacro..::..StopMoveWhenLaunch Property 
+Stop move for press key. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public bool StopMoveWhenLaunch { get; set; }<CategoryAttribute> _
+<DisplayNameAttribute> _
+<DescriptionAttribute> _
+Public Property StopMoveWhenLaunch As Boolean
+	Get
+	Set[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public:
+property bool^ StopMoveWhenLaunch {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting..::..MyMacro Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

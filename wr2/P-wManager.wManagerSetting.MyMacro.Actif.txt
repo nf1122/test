@@ -1,0 +1,33 @@
+WRobot
+
+MyMacro..::..Actif Property 
+Indicates whether or not this macro is used 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public bool Actif { get; set; }<CategoryAttribute> _
+<DisplayNameAttribute> _
+<DescriptionAttribute> _
+Public Property Actif As Boolean
+	Get
+	Set[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public:
+property bool^ Actif {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting..::..MyMacro Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

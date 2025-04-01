@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..MailSubject Property 
+Mail subject (you need to activate option UseMail). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string MailSubject { get; set; }Public Property MailSubject As String
+	Get
+	Setpublic:
+property String^ MailSubject {
+	String^ get ();
+	void set (String^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..HarvestMinerals Property 
+Harvest minerals. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool HarvestMinerals { get; set; }Public Property HarvestMinerals As Boolean
+	Get
+	Setpublic:
+property bool^ HarvestMinerals {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

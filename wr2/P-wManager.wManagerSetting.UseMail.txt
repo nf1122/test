@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..UseMail Property 
+Send items by email when the bot goes to town (look options MailRecipient, MailSubject, UseMollE, MailGray, MailWhite, MailGreen, MailBlue, MailPurple, DoNotMailList, ForceMailList). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool UseMail { get; set; }Public Property UseMail As Boolean
+	Get
+	Setpublic:
+property bool^ UseMail {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

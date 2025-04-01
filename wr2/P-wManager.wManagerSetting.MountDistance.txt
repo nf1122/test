@@ -1,0 +1,25 @@
+WRobot
+
+wManagerSetting..::..MountDistance Property 
+Required minimum path distance to use mount (if it is path loop, bot use mount without distance check) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float MountDistance { get; set; }Public Property MountDistance As Single
+	Get
+	Setpublic:
+property float^ MountDistance {
+	float^ get ();
+	void set (float^ value);
+}Field Value
+The minimum distance to use mount.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

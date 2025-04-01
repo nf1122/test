@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..UnlockMaxFps Property 
+Most versions of bot works better with high FPS in-game (but this use more CPU and RAM. This option unlock the "Maximum FPS" option in game (https://wowwiki.fandom.com/wiki/CVar_maxFPS and https://wowwiki.fandom.com/wiki/CVar_maxFPSBk) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool UnlockMaxFps { get; set; }Public Property UnlockMaxFps As Boolean
+	Get
+	Setpublic:
+property bool^ UnlockMaxFps {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 
