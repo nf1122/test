@@ -1,0 +1,19 @@
+WRobot
+
+robotManagerGlobalSetting..::..InstallDateTime Field
+creation date 
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public DateTime InstallDateTimePublic InstallDateTime As DateTimepublic:
+DateTime^ InstallDateTime
+See Also
+
+
+robotManagerGlobalSetting Class
+robotManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+LanguageExport..::..LanguageTexts Field
+The language texts 
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public List<LanguageText> LanguageTextsPublic LanguageTexts As List(Of LanguageText)public:
+List<LanguageText^>^ LanguageTexts
+See Also
+
+
+LanguageExport Class
+robotManager Namespace
+Help File generated with GhostDoc
+ 

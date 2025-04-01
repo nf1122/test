@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..BlacklistUnitDefaultTimeMs Field
+Unit blacklist default time (in millisecond) (mobs, npc) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int BlacklistUnitDefaultTimeMsPublic BlacklistUnitDefaultTimeMs As Integerpublic:
+int^ BlacklistUnitDefaultTimeMs
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

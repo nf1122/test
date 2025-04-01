@@ -1,0 +1,19 @@
+WRobot
+
+wManagerGlobalSetting..::..PathShow Field
+Show path (in map 2D and 3D tab "Map") 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool PathShowPublic PathShow As Booleanpublic:
+bool^ PathShow
+See Also
+
+
+wManagerGlobalSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

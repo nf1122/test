@@ -1,0 +1,19 @@
+WRobot
+
+BlackListSerializable..::..BlackNpcs Field
+NPCs GUID blacklist 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<BlackListSerializable..::..BlackNpc> BlackNpcsPublic BlackNpcs As List(Of BlackListSerializable..::..BlackNpc)public:
+List<BlackListSerializable..::..BlackNpc^>^ BlackNpcs
+See Also
+
+
+BlackListSerializable Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+wManagerGlobalSetting..::..NpcShow Field
+Show NPCs (in map 2D and 3D tab "Map") 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool NpcShowPublic NpcShow As Booleanpublic:
+bool^ NpcShow
+See Also
+
+
+wManagerGlobalSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

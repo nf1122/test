@@ -1,0 +1,19 @@
+WRobot
+
+LoggingUserControl..::..SendLogProductName Field
+CanSendLog selected product name info 
+Namespace:  robotManager.Helpful.Forms.UserControls
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string SendLogProductNamePublic Shared SendLogProductName As Stringpublic:
+static String^ SendLogProductName
+See Also
+
+
+LoggingUserControl Class
+robotManager.Helpful.Forms.UserControls Namespace
+Help File generated with GhostDoc
+ 

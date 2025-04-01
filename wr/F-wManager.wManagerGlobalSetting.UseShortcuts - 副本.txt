@@ -1,0 +1,19 @@
+WRobot
+
+wManagerGlobalSetting..::..UseShortcuts Field
+Use shortcuts, activate shortcuts to start/stop/pause bot (you need to restart bot to activate/disable this feature) (option found tab "Tools") 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool UseShortcutsPublic UseShortcuts As Booleanpublic:
+bool^ UseShortcuts
+See Also
+
+
+wManagerGlobalSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

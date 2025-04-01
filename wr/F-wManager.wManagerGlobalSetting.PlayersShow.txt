@@ -1,0 +1,19 @@
+WRobot
+
+wManagerGlobalSetting..::..PlayersShow Field
+Show other players (in map 2D and 3D tab "Map") 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool PlayersShowPublic PlayersShow As Booleanpublic:
+bool^ PlayersShow
+See Also
+
+
+wManagerGlobalSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

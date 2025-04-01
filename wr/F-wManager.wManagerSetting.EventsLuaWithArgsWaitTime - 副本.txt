@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..EventsLuaWithArgsWaitTime Field
+Refresh time of EventsLuaWithArgs (read new in game events) (in milliseconds) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int EventsLuaWithArgsWaitTimePublic EventsLuaWithArgsWaitTime As Integerpublic:
+int^ EventsLuaWithArgsWaitTime
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

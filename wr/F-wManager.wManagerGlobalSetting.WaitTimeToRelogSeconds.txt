@@ -1,0 +1,19 @@
+WRobot
+
+wManagerGlobalSetting..::..WaitTimeToRelogSeconds Field
+Time to wait (second) before reconnecting after disconnection. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int WaitTimeToRelogSecondsPublic WaitTimeToRelogSeconds As Integerpublic:
+int^ WaitTimeToRelogSeconds
+See Also
+
+
+wManagerGlobalSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+robotManagerGlobalSetting..::..normalCb Field
+Show normal log 
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool normalCbPublic normalCb As Booleanpublic:
+bool^ normalCb
+See Also
+
+
+robotManagerGlobalSetting Class
+robotManager Namespace
+Help File generated with GhostDoc
+ 

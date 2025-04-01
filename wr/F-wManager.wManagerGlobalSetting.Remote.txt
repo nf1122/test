@@ -1,0 +1,19 @@
+WRobot
+
+wManagerGlobalSetting..::..Remote Field
+Activate remote option (to access to the bot from the website) (option found tab "Main") 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool RemotePublic Remote As Booleanpublic:
+bool^ Remote
+See Also
+
+
+wManagerGlobalSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

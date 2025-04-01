@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..AcceptOnlyProfileNpc Field
+Accept only NPC (vendor, repair, ...) of the product profile (don't use NPC already in NpcDB, when you start product he adds NPCs to the NpcDB with CurrentProfileNpc at true, when you use AcceptOnlyProfileNpc option bot search only NPC with Npc.CurrentProfileNpc = true). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool AcceptOnlyProfileNpcPublic AcceptOnlyProfileNpc As Booleanpublic:
+bool^ AcceptOnlyProfileNpc
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

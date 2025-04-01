@@ -1,0 +1,19 @@
+WRobot
+
+LoggingUserControl..::..CanSendLog Field
+Can send errors log (this option is no longer used) 
+Namespace:  robotManager.Helpful.Forms.UserControls
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool CanSendLogPublic Shared CanSendLog As Booleanpublic:
+static bool^ CanSendLog
+See Also
+
+
+LoggingUserControl Class
+robotManager.Helpful.Forms.UserControls Namespace
+Help File generated with GhostDoc
+ 

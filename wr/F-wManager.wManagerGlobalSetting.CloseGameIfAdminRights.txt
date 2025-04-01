@@ -1,0 +1,19 @@
+WRobot
+
+wManagerGlobalSetting..::..CloseGameIfAdminRights Field
+Close the game if it has Administrator rights (Windows) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool CloseGameIfAdminRightsPublic CloseGameIfAdminRights As Booleanpublic:
+bool^ CloseGameIfAdminRights
+See Also
+
+
+wManagerGlobalSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

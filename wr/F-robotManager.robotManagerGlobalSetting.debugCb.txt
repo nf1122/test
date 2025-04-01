@@ -1,0 +1,19 @@
+WRobot
+
+robotManagerGlobalSetting..::..debugCb Field
+Show debug log 
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool debugCbPublic debugCb As Booleanpublic:
+bool^ debugCb
+See Also
+
+
+robotManagerGlobalSetting Class
+robotManager Namespace
+Help File generated with GhostDoc
+ 

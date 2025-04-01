@@ -1,0 +1,19 @@
+WRobot
+
+wManagerGlobalSetting..::..WRobotFileName Field
+Security option used in few bot versions to assign name of generated executable bot launcher. The name is automatically generated but can be changed. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string WRobotFileNamePublic WRobotFileName As Stringpublic:
+String^ WRobotFileName
+See Also
+
+
+wManagerGlobalSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

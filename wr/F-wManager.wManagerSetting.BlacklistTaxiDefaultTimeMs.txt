@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..BlacklistTaxiDefaultTimeMs Field
+Taxi blacklist default time (in millisecond) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int BlacklistTaxiDefaultTimeMsPublic BlacklistTaxiDefaultTimeMs As Integerpublic:
+int^ BlacklistTaxiDefaultTimeMs
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

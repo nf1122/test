@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..FightInteractTargetMinDistance Field
+Interact with target during fight if distance is lower than X even if not line of sight 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float FightInteractTargetMinDistancePublic FightInteractTargetMinDistance As Singlepublic:
+float^ FightInteractTargetMinDistance
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

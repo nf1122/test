@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..DismountLandGroundDistance Field
+Dismount flying mount ground distance (when Land(Single, Single) 0 to dismount when hit the ground) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float DismountLandGroundDistancePublic DismountLandGroundDistance As Singlepublic:
+float^ DismountLandGroundDistance
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

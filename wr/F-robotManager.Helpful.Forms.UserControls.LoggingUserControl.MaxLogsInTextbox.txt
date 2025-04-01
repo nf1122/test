@@ -1,0 +1,19 @@
+WRobot
+
+LoggingUserControl..::..MaxLogsInTextbox Field
+The maximum logs count in textbox 
+Namespace:  robotManager.Helpful.Forms.UserControls
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static int MaxLogsInTextboxPublic Shared MaxLogsInTextbox As Integerpublic:
+static int^ MaxLogsInTextbox
+See Also
+
+
+LoggingUserControl Class
+robotManager.Helpful.Forms.UserControls Namespace
+Help File generated with GhostDoc
+ 

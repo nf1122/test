@@ -1,0 +1,19 @@
+WRobot
+
+ArgsParser..::..Args Field
+The arguments (initialized at startup, GetCommandLineArgs used). 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string[] ArgsPublic Shared Args As String()public:
+static array<String^>^ Args
+See Also
+
+
+ArgsParser Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

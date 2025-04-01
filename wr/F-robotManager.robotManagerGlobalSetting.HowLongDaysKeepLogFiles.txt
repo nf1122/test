@@ -1,0 +1,19 @@
+WRobot
+
+robotManagerGlobalSetting..::..HowLongDaysKeepLogFiles Field
+How many days keep log files (in folder "Logs", after files are removed) 
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public double HowLongDaysKeepLogFilesPublic HowLongDaysKeepLogFiles As Doublepublic:
+double^ HowLongDaysKeepLogFiles
+See Also
+
+
+robotManagerGlobalSetting Class
+robotManager Namespace
+Help File generated with GhostDoc
+ 

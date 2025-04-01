@@ -1,0 +1,19 @@
+WRobot
+
+LuaBot..::..Lua Field
+Lua instance 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static Lua LuaPublic Shared Lua As Luapublic:
+static Lua^ Lua
+See Also
+
+
+LuaBot Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

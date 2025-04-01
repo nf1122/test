@@ -1,0 +1,19 @@
+WRobot
+
+robotManagerGlobalSetting..::..ShowMs Field
+Log show milliseconds 
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool ShowMsPublic ShowMs As Booleanpublic:
+bool^ ShowMs
+See Also
+
+
+robotManagerGlobalSetting Class
+robotManager Namespace
+Help File generated with GhostDoc
+ 

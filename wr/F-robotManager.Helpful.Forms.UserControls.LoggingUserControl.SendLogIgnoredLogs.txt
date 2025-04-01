@@ -1,0 +1,19 @@
+WRobot
+
+LoggingUserControl..::..SendLogIgnoredLogs Field
+List of errors log to don't send to server (CanSendLog). 
+Namespace:  robotManager.Helpful.Forms.UserControls
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<string> SendLogIgnoredLogsPublic Shared SendLogIgnoredLogs As List(Of String)public:
+static List<String^>^ SendLogIgnoredLogs
+See Also
+
+
+LoggingUserControl Class
+robotManager.Helpful.Forms.UserControls Namespace
+Help File generated with GhostDoc
+ 

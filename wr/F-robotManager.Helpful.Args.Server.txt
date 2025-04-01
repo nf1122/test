@@ -1,0 +1,19 @@
+WRobot
+
+Args..::..Server Field
+Game realmlist name Server="ServerName"
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public string ServerPublic Server As Stringpublic:
+String^ Server
+See Also
+
+
+Args Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

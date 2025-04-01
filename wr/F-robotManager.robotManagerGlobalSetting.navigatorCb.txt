@@ -1,0 +1,19 @@
+WRobot
+
+robotManagerGlobalSetting..::..navigatorCb Field
+Show navigator log 
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool navigatorCbPublic navigatorCb As Booleanpublic:
+bool^ navigatorCb
+See Also
+
+
+robotManagerGlobalSetting Class
+robotManager Namespace
+Help File generated with GhostDoc
+ 

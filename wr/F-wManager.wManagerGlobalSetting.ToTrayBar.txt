@@ -1,0 +1,19 @@
+WRobot
+
+wManagerGlobalSetting..::..ToTrayBar Field
+Minimize to tray bar (option found tab "Tools") 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool ToTrayBarPublic ToTrayBar As Booleanpublic:
+bool^ ToTrayBar
+See Also
+
+
+wManagerGlobalSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

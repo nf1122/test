@@ -1,0 +1,19 @@
+WRobot
+
+wManagerGlobalSetting..::..BlacklistShow Field
+Show blacklists (in map 2D and 3D tab "Map") 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool BlacklistShowPublic BlacklistShow As Booleanpublic:
+bool^ BlacklistShow
+See Also
+
+
+wManagerGlobalSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

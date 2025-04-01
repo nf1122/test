@@ -1,0 +1,19 @@
+WRobot
+
+wManagerGlobalSetting..::..MaxLuaMemoryUsage Field
+The maximum amount of memory in use by Lua (in kilobytes). If the value is greater than this option the bot uses the lua reload function. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int MaxLuaMemoryUsagePublic MaxLuaMemoryUsage As Integerpublic:
+int^ MaxLuaMemoryUsage
+See Also
+
+
+wManagerGlobalSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

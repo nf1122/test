@@ -1,0 +1,19 @@
+WRobot
+
+robotManagerGlobalSetting..::..ArgsEnvironmentVariables Field
+The arguments environment variables ArgsParser
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public string ArgsEnvironmentVariablesPublic ArgsEnvironmentVariables As Stringpublic:
+String^ ArgsEnvironmentVariables
+See Also
+
+
+robotManagerGlobalSetting Class
+robotManager Namespace
+Help File generated with GhostDoc
+ 

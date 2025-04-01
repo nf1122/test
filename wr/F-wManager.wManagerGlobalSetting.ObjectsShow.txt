@@ -1,0 +1,19 @@
+WRobot
+
+wManagerGlobalSetting..::..ObjectsShow Field
+Show objects (in map 2D and 3D tab "Map") 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool ObjectsShowPublic ObjectsShow As Booleanpublic:
+bool^ ObjectsShow
+See Also
+
+
+wManagerGlobalSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

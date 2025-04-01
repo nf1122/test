@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..HearthstoneNameOrIdAfterXBlockagesLatest10Minutes Field
+Hearthstone item name or id (used with HearthstoneAfterXBlockagesLatest10Minutes) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string HearthstoneNameOrIdAfterXBlockagesLatest10MinutesPublic HearthstoneNameOrIdAfterXBlockagesLatest10Minutes As Stringpublic:
+String^ HearthstoneNameOrIdAfterXBlockagesLatest10Minutes
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

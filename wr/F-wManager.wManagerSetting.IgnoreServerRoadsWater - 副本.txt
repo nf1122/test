@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..IgnoreServerRoadsWater Field
+If you don't want use roads and water of the PathFinder server (the bot take the shortest paths instead of the roads) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IgnoreServerRoadsWaterPublic IgnoreServerRoadsWater As Booleanpublic:
+bool^ IgnoreServerRoadsWater
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

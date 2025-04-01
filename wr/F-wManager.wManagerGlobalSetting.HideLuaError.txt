@@ -1,0 +1,19 @@
+WRobot
+
+wManagerGlobalSetting..::..HideLuaError Field
+Hide in-game lua error 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool HideLuaErrorPublic HideLuaError As Booleanpublic:
+bool^ HideLuaError
+See Also
+
+
+wManagerGlobalSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

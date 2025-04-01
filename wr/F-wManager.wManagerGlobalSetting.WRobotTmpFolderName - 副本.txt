@@ -1,0 +1,19 @@
+WRobot
+
+wManagerGlobalSetting..::..WRobotTmpFolderName Field
+Security option used in few bot versions to assign folder where to save WRobotFileName. The name is automatically generated but can be changed. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string WRobotTmpFolderNamePublic WRobotTmpFolderName As Stringpublic:
+String^ WRobotTmpFolderName
+See Also
+
+
+wManagerGlobalSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

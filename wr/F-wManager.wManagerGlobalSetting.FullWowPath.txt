@@ -1,0 +1,19 @@
+WRobot
+
+wManagerGlobalSetting..::..FullWowPath Field
+The path to Wow 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string FullWowPathPublic FullWowPath As Stringpublic:
+String^ FullWowPath
+See Also
+
+
+wManagerGlobalSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

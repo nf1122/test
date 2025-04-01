@@ -1,0 +1,19 @@
+WRobot
+
+LuaBot..::..Environment Field
+Lua environment instance 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static LuaGlobal EnvironmentPublic Shared Environment As LuaGlobalpublic:
+static LuaGlobal^ Environment
+See Also
+
+
+LuaBot Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

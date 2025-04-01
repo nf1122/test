@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..BlacklistGameObjectDefaultTimeMs Field
+GameObject blacklist default time (in millisecond) (herbs, mines, chest, ...) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int BlacklistGameObjectDefaultTimeMsPublic BlacklistGameObjectDefaultTimeMs As Integerpublic:
+int^ BlacklistGameObjectDefaultTimeMs
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

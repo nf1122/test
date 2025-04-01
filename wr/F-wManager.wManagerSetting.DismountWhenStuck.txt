@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..DismountWhenStuck Field
+Dismount when character seems stuck 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool DismountWhenStuckPublic DismountWhenStuck As Booleanpublic:
+bool^ DismountWhenStuck
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

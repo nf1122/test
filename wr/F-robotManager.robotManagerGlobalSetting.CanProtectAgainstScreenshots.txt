@@ -1,0 +1,19 @@
+WRobot
+
+robotManagerGlobalSetting..::..CanProtectAgainstScreenshots Field
+Protect against screenshots 
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool CanProtectAgainstScreenshotsPublic CanProtectAgainstScreenshots As Booleanpublic:
+bool^ CanProtectAgainstScreenshots
+See Also
+
+
+robotManagerGlobalSetting Class
+robotManager Namespace
+Help File generated with GhostDoc
+ 

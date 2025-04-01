@@ -1,0 +1,19 @@
+WRobot
+
+wManagerGlobalSetting..::..LowFps Field
+Low FPS (in map 2D and 3D tab "Map") 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool LowFpsPublic LowFps As Booleanpublic:
+bool^ LowFps
+See Also
+
+
+wManagerGlobalSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

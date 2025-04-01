@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..DrinkMaxPercent Field
+Stop character regen if more than X % of mana. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int DrinkMaxPercentPublic DrinkMaxPercent As Integerpublic:
+int^ DrinkMaxPercent
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

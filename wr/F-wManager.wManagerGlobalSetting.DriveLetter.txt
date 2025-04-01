@@ -1,0 +1,19 @@
+WRobot
+
+wManagerGlobalSetting..::..DriveLetter Field
+Security option used in few bot versions to create fake drive that link to WRobotFileName folder. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string DriveLetterPublic DriveLetter As Stringpublic:
+String^ DriveLetter
+See Also
+
+
+wManagerGlobalSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+wManagerGlobalSetting..::..MaxFPS Field
+Most versions require a minimum of FPS in-game to work properly. This option increase the "Maximum FPS" option in game if it is lower than the value of this option (https://wowwiki.fandom.com/wiki/CVar_maxFPS and https://wowwiki.fandom.com/wiki/CVar_maxFPSBk) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int MaxFPSPublic MaxFPS As Integerpublic:
+int^ MaxFPS
+See Also
+
+
+wManagerGlobalSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

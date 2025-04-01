@@ -1,0 +1,19 @@
+WRobot
+
+wManagerGlobalSetting..::..MeShow Field
+Show my character (in map 2D and 3D tab "Map") 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool MeShowPublic MeShow As Booleanpublic:
+bool^ MeShow
+See Also
+
+
+wManagerGlobalSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

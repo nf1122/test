@@ -1,0 +1,19 @@
+WRobot
+
+wManagerGlobalSetting..::..TargetShow Field
+Show target (in map 2D and 3D tab "Map") 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool TargetShowPublic TargetShow As Booleanpublic:
+bool^ TargetShow
+See Also
+
+
+wManagerGlobalSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+robotManagerGlobalSetting..::..ErrorCb Field
+Show error log 
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool ErrorCbPublic ErrorCb As Booleanpublic:
+bool^ ErrorCb
+See Also
+
+
+robotManagerGlobalSetting Class
+robotManager Namespace
+Help File generated with GhostDoc
+ 

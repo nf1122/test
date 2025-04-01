@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..CustomClass Field
+FightClass selected, file name like "MyFightclass.xml" (fightclasses are in folder "WRobot\FightClass\") 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string CustomClassPublic CustomClass As Stringpublic:
+String^ CustomClass
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

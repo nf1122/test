@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..IgnoreFightWithPlayer Field
+Ignore combat with other players 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IgnoreFightWithPlayerPublic IgnoreFightWithPlayer As Booleanpublic:
+bool^ IgnoreFightWithPlayer
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

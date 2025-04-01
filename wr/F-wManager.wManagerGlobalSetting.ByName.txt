@@ -1,0 +1,19 @@
+WRobot
+
+wManagerGlobalSetting..::..ByName Field
+Show NPC/object by name (in map 2D and 3D tab "Map") 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string ByNamePublic ByName As Stringpublic:
+String^ ByName
+See Also
+
+
+wManagerGlobalSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

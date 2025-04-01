@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..IgnoreFightWhenInMove Field
+Ignore fight when traveling 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IgnoreFightWhenInMovePublic IgnoreFightWhenInMove As Booleanpublic:
+bool^ IgnoreFightWhenInMove
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

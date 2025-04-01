@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..EquipAvailableBagIfFreeContainerSlot Field
+Equip available bag if free container slot 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool EquipAvailableBagIfFreeContainerSlotPublic EquipAvailableBagIfFreeContainerSlot As Booleanpublic:
+bool^ EquipAvailableBagIfFreeContainerSlot
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+robotManagerGlobalSetting..::..ForceStaticEncryptKey Field
+0 to don't use, but if you use same bot settings files on several Windows installations/computers you can use static key to encrypt passwords (use by StringToEncryptString(String)EncryptStringToString(String)) 
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public int ForceStaticEncryptKeyPublic ForceStaticEncryptKey As Integerpublic:
+int^ ForceStaticEncryptKey
+See Also
+
+
+robotManagerGlobalSetting Class
+robotManager Namespace
+Help File generated with GhostDoc
+ 

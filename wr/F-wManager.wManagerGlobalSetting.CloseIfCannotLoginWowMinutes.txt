@@ -1,0 +1,19 @@
+WRobot
+
+wManagerGlobalSetting..::..CloseIfCannotLoginWowMinutes Field
+Close bot if cannot login ingame after X minutes (this option is only used if you are using the relloger application) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public double CloseIfCannotLoginWowMinutesPublic CloseIfCannotLoginWowMinutes As Doublepublic:
+double^ CloseIfCannotLoginWowMinutes
+See Also
+
+
+wManagerGlobalSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

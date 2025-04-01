@@ -1,0 +1,19 @@
+WRobot
+
+Var..::..VarDictionary Field
+The storage dictionary, should not be used directly. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static Dictionary<string, Object> VarDictionaryPublic Shared VarDictionary As Dictionary(Of String, Object)public:
+static Dictionary<String^, Object^>^ VarDictionary
+See Also
+
+
+Var Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

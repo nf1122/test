@@ -1,0 +1,19 @@
+WRobot
+
+Args..::..WaitTimeToRelog Field
+The wait time (in seconds) to relog character after a disconnection WaitTimeToRelog=15
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public int WaitTimeToRelogPublic WaitTimeToRelog As Integerpublic:
+int^ WaitTimeToRelog
+See Also
+
+
+Args Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

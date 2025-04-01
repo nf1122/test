@@ -1,0 +1,19 @@
+WRobot
+
+robotManagerGlobalSetting..::..fightCb Field
+Show fight log 
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool fightCbPublic fightCb As Booleanpublic:
+bool^ fightCb
+See Also
+
+
+robotManagerGlobalSetting Class
+robotManager Namespace
+Help File generated with GhostDoc
+ 

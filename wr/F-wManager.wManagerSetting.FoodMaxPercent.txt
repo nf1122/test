@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..FoodMaxPercent Field
+Stop character regen if more than X % of health. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int FoodMaxPercentPublic FoodMaxPercent As Integerpublic:
+int^ FoodMaxPercent
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

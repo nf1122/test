@@ -1,0 +1,19 @@
+WRobot
+
+RunCode..::..CompiledCache Field
+Compiled cache 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static Dictionary<string, CompilerResults> CompiledCachePublic Shared CompiledCache As Dictionary(Of String, CompilerResults)public:
+static Dictionary<String^, CompilerResults^>^ CompiledCache
+See Also
+
+
+RunCode Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

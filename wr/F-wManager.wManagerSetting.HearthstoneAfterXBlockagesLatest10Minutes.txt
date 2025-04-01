@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..HearthstoneAfterXBlockagesLatest10Minutes Field
+Use hearthstone after x blockages latest 10 minutes (0 to disable, see also HearthstoneNameOrIdAfterXBlockagesLatest10Minutes) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int HearthstoneAfterXBlockagesLatest10MinutesPublic HearthstoneAfterXBlockagesLatest10Minutes As Integerpublic:
+int^ HearthstoneAfterXBlockagesLatest10Minutes
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

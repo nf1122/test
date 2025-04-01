@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..ForceAutoLoot Field
+Force auto loot 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool ForceAutoLootPublic ForceAutoLoot As Booleanpublic:
+bool^ ForceAutoLoot
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

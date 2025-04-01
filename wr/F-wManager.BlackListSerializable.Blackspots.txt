@@ -1,0 +1,19 @@
+WRobot
+
+BlackListSerializable..::..Blackspots Field
+The blackspots 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<BlackListSerializable..::..Blackspot> BlackspotsPublic Blackspots As List(Of BlackListSerializable..::..Blackspot)public:
+List<BlackListSerializable..::..Blackspot^>^ Blackspots
+See Also
+
+
+BlackListSerializable Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

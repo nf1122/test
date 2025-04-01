@@ -1,0 +1,19 @@
+WRobot
+
+wManagerGlobalSetting..::..WindowName Field
+Bot window name (empty to use default window name) (option found tab "Tools") 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string WindowNamePublic WindowName As Stringpublic:
+String^ WindowName
+See Also
+
+
+wManagerGlobalSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

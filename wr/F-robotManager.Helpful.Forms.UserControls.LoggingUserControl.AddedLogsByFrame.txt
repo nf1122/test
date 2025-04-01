@@ -1,0 +1,19 @@
+WRobot
+
+LoggingUserControl..::..AddedLogsByFrame Field
+Maximum number of logs to add by frame 
+Namespace:  robotManager.Helpful.Forms.UserControls
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static int AddedLogsByFramePublic Shared AddedLogsByFrame As Integerpublic:
+static int^ AddedLogsByFrame
+See Also
+
+
+LoggingUserControl Class
+robotManager.Helpful.Forms.UserControls Namespace
+Help File generated with GhostDoc
+ 

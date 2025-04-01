@@ -1,0 +1,19 @@
+WRobot
+
+wManagerGlobalSetting..::..TopMost Field
+Bot window away in top most (option found tab "Tools") 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool TopMostPublic TopMost As Booleanpublic:
+bool^ TopMost
+See Also
+
+
+wManagerGlobalSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

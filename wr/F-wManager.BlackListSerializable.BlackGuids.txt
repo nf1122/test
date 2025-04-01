@@ -1,0 +1,19 @@
+WRobot
+
+BlackListSerializable..::..BlackGuids Field
+The GUID blacklist, OLD prefer BlackNpcs
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<ulong> BlackGuidsPublic BlackGuids As List(Of ULong)public:
+List<unsigned long long^>^ BlackGuids
+See Also
+
+
+BlackListSerializable Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

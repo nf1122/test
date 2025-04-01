@@ -1,0 +1,19 @@
+WRobot
+
+Keyboard..::..ErrorSendKeyCount Field
+The error send key count 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static int ErrorSendKeyCountPublic Shared ErrorSendKeyCount As Integerpublic:
+static int^ ErrorSendKeyCount
+See Also
+
+
+Keyboard Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 
