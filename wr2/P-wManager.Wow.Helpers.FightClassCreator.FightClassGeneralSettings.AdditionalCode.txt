@@ -1,0 +1,43 @@
+WRobot
+
+FightClassGeneralSettings..::..AdditionalCode Property 
+Gets or sets the additional code. 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+[EditorAttribute]
+public string AdditionalCode { get; set; }<SettingAttribute> _
+<DefaultValueAttribute> _
+<CategoryAttribute> _
+<DisplayNameAttribute> _
+<DescriptionAttribute> _
+<EditorAttribute> _
+Public Property AdditionalCode As String
+	Get
+	Set[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+[EditorAttribute]
+public:
+property String^ AdditionalCode {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The additional code.
+See Also
+
+
+FightClassGeneralSettings Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

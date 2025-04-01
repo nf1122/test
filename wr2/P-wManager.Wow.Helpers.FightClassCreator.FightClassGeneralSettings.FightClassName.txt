@@ -1,0 +1,40 @@
+WRobot
+
+FightClassGeneralSettings..::..FightClassName Property 
+Gets or sets the name of the fight class. 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public string FightClassName { get; set; }<SettingAttribute> _
+<DefaultValueAttribute> _
+<CategoryAttribute> _
+<DisplayNameAttribute> _
+<DescriptionAttribute> _
+Public Property FightClassName As String
+	Get
+	Set[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public:
+property String^ FightClassName {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The name of the fight class.
+See Also
+
+
+FightClassGeneralSettings Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

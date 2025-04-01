@@ -1,0 +1,23 @@
+WRobot
+
+PathImage..::..Result Property 
+Gets the result. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Bitmap Result { get; }Public ReadOnly Property Result As Bitmap
+	Getpublic:
+property Bitmap^ Result {
+	Bitmap^ get ();
+}Field Value
+The result.
+See Also
+
+
+MiniMapGenerator..::..PathImage Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

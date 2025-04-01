@@ -1,0 +1,25 @@
+WRobot
+
+PathImage..::..Landmarks Property 
+Gets the landmarks. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public MiniMapGenerator..::..LandmarksMiniMap Landmarks { get; set; }Public Property Landmarks As MiniMapGenerator..::..LandmarksMiniMap
+	Get
+	Setpublic:
+property MiniMapGenerator..::..LandmarksMiniMap^ Landmarks {
+	MiniMapGenerator..::..LandmarksMiniMap^ get ();
+	void set (MiniMapGenerator..::..LandmarksMiniMap^ value);
+}Field Value
+The landmarks.
+See Also
+
+
+MiniMapGenerator..::..PathImage Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

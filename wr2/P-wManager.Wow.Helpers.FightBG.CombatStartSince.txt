@@ -1,0 +1,23 @@
+WRobot
+
+FightBG..::..CombatStartSince Property 
+Get combat elapsed time (in milliseconds)(use CombatStartSince). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static long CombatStartSince { get; }Public Shared ReadOnly Property CombatStartSince As Long
+	Getpublic:
+static property long long^ CombatStartSince {
+	long long^ get ();
+}Field Value
+combat elapsed time (in milliseconds).
+See Also
+
+
+FightBG Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

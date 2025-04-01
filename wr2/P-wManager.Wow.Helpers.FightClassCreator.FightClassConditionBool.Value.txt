@@ -1,0 +1,40 @@
+WRobot
+
+FightClassConditionBool..::..Value Property 
+Gets or sets a value indicating whether this FightClassConditionBool is value. 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public bool Value { get; set; }<SettingAttribute> _
+<DefaultValueAttribute> _
+<CategoryAttribute> _
+<DisplayNameAttribute> _
+<DescriptionAttribute> _
+Public Property Value As Boolean
+	Get
+	Set[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public:
+property bool^ Value {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if value; otherwise, false.
+See Also
+
+
+FightClassConditionBool Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

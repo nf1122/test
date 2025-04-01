@@ -1,0 +1,40 @@
+WRobot
+
+FightClassConditionLua..::..VarRet Property 
+Gets or sets the variable ret. 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public string VarRet { get; set; }<SettingAttribute> _
+<DefaultValueAttribute> _
+<CategoryAttribute> _
+<DisplayNameAttribute> _
+<DescriptionAttribute> _
+Public Property VarRet As String
+	Get
+	Set[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public:
+property String^ VarRet {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The variable ret.
+See Also
+
+
+FightClassConditionLua Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

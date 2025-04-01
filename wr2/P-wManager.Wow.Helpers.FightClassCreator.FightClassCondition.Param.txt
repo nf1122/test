@@ -1,0 +1,25 @@
+WRobot
+
+FightClassCondition..::..Param Property 
+Gets or sets the parameter. 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public FightClassConditionBase Param { get; set; }Public Property Param As FightClassConditionBase
+	Get
+	Setpublic:
+property FightClassConditionBase^ Param {
+	FightClassConditionBase^ get ();
+	void set (FightClassConditionBase^ value);
+}Field Value
+The parameter.
+See Also
+
+
+FightClassCondition Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

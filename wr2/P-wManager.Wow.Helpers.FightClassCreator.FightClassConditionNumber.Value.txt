@@ -1,0 +1,40 @@
+WRobot
+
+FightClassConditionNumber..::..Value Property 
+Gets or sets the value. 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public int Value { get; set; }<SettingAttribute> _
+<DefaultValueAttribute> _
+<CategoryAttribute> _
+<DisplayNameAttribute> _
+<DescriptionAttribute> _
+Public Property Value As Integer
+	Get
+	Set[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public:
+property int^ Value {
+	int^ get ();
+	void set (int^ value);
+}Field Value
+The value.
+See Also
+
+
+FightClassConditionNumber Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

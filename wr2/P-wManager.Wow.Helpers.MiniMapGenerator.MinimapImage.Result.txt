@@ -1,0 +1,25 @@
+WRobot
+
+MinimapImage..::..Result Property 
+Gets or sets the result. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Bitmap Result { get; set; }Public Property Result As Bitmap
+	Get
+	Setpublic:
+property Bitmap^ Result {
+	Bitmap^ get ();
+	void set (Bitmap^ value);
+}Field Value
+The result.
+See Also
+
+
+MiniMapGenerator..::..MinimapImage Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

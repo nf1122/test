@@ -1,0 +1,23 @@
+WRobot
+
+CustomClass..::..CustomClassThread Property 
+Get the fightclass thread. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Thread CustomClassThread { get; }Public Shared ReadOnly Property CustomClassThread As Thread
+	Getpublic:
+static property Thread^ CustomClassThread {
+	Thread^ get ();
+}Field Value
+The fightclass thread.
+See Also
+
+
+CustomClass Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,40 @@
+WRobot
+
+FightClassSpell..::..LockFrame Property 
+Gets or sets a value indicating whether [lock frame]. 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public bool LockFrame { get; set; }<SettingAttribute> _
+<DefaultValueAttribute> _
+<CategoryAttribute> _
+<DisplayNameAttribute> _
+<DescriptionAttribute> _
+Public Property LockFrame As Boolean
+	Get
+	Set[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public:
+property bool^ LockFrame {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if [lock frame]; otherwise, false.
+See Also
+
+
+FightClassSpell Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

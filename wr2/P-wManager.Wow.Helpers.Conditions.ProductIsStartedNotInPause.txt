@@ -1,0 +1,22 @@
+WRobot
+
+Conditions..::..ProductIsStartedNotInPause Property 
+Get a value indicating whether product is started and not in pause. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ProductIsStartedNotInPause { get; }Public Shared ReadOnly Property ProductIsStartedNotInPause As Boolean
+	Getpublic:
+static property bool^ ProductIsStartedNotInPause {
+	bool^ get ();
+}
+See Also
+
+
+Conditions Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,40 @@
+WRobot
+
+FightClassSpell..::..CheckIfSpellUsable Property 
+Gets or sets a value indicating whether [check if spell usable]. 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public bool CheckIfSpellUsable { get; set; }<SettingAttribute> _
+<DefaultValueAttribute> _
+<CategoryAttribute> _
+<DisplayNameAttribute> _
+<DescriptionAttribute> _
+Public Property CheckIfSpellUsable As Boolean
+	Get
+	Set[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public:
+property bool^ CheckIfSpellUsable {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if [check if spell usable]; otherwise, false.
+See Also
+
+
+FightClassSpell Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

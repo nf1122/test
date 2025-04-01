@@ -1,0 +1,25 @@
+WRobot
+
+MinimapImage..::..TileHeight Property 
+Gets the height of the tile. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int TileHeight { get; set; }Public Property TileHeight As Integer
+	Get
+	Setpublic:
+property int^ TileHeight {
+	int^ get ();
+	void set (int^ value);
+}Field Value
+The height of the tile.
+See Also
+
+
+MiniMapGenerator..::..MinimapImage Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

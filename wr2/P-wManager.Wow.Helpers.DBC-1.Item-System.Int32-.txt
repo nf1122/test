@@ -1,0 +1,28 @@
+WRobot
+
+DBC<(Of <(<'T>)>)>..::..Item Property 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public T this[
+	int index
+] { get; }Public ReadOnly Default Property Item ( _
+	index As Integer _
+) As T
+	Getpublic:
+property T default[int^ index] {
+	T get (int^ index);
+}Parameters
+index
+Type: Int32
+
+See Also
+
+
+DBC<(Of <(<'T>)>)> Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

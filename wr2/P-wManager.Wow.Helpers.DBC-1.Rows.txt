@@ -1,0 +1,21 @@
+WRobot
+
+DBC<(Of <(<'T>)>)>..::..Rows Property 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Dictionary<int, T> Rows { get; }Public ReadOnly Property Rows As Dictionary(Of Integer, T)
+	Getpublic:
+property Dictionary<int^, T>^ Rows {
+	Dictionary<int^, T>^ get ();
+}
+See Also
+
+
+DBC<(Of <(<'T>)>)> Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

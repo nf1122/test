@@ -1,0 +1,40 @@
+WRobot
+
+FightClassSpell..::..AddToSettingsActiveByDefault Property 
+Gets or sets a value indicating whether [add to settings active by default]. 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public bool AddToSettingsActiveByDefault { get; set; }<SettingAttribute> _
+<DefaultValueAttribute> _
+<CategoryAttribute> _
+<DisplayNameAttribute> _
+<DescriptionAttribute> _
+Public Property AddToSettingsActiveByDefault As Boolean
+	Get
+	Set[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public:
+property bool^ AddToSettingsActiveByDefault {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if [add to settings active by default]; otherwise, false.
+See Also
+
+
+FightClassSpell Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

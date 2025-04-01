@@ -1,0 +1,25 @@
+WRobot
+
+Fight..::..CurrentTarget Property 
+Get or set the current target (avoid changing it unless you know what you are doing). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static WoWUnit CurrentTarget { get; set; }Public Shared Property CurrentTarget As WoWUnit
+	Get
+	Setpublic:
+static property WoWUnit^ CurrentTarget {
+	WoWUnit^ get ();
+	void set (WoWUnit^ value);
+}Field Value
+The current target.
+See Also
+
+
+Fight Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,25 @@
+WRobot
+
+PathImage..::..Background Property 
+Gets the background. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public MiniMapGenerator..::..MinimapImage Background { get; set; }Public Property Background As MiniMapGenerator..::..MinimapImage
+	Get
+	Setpublic:
+property MiniMapGenerator..::..MinimapImage^ Background {
+	MiniMapGenerator..::..MinimapImage^ get ();
+	void set (MiniMapGenerator..::..MinimapImage^ value);
+}Field Value
+The background.
+See Also
+
+
+MiniMapGenerator..::..PathImage Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

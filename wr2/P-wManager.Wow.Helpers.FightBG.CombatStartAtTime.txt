@@ -1,0 +1,24 @@
+WRobot
+
+FightBG..::..CombatStartAtTime Property 
+The combat start time (use CombatStartAtTime). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static long CombatStartAtTime { get; set; }Public Shared Property CombatStartAtTime As Long
+	Get
+	Setpublic:
+static property long long^ CombatStartAtTime {
+	long long^ get ();
+	void set (long long^ value);
+}
+See Also
+
+
+FightBG Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

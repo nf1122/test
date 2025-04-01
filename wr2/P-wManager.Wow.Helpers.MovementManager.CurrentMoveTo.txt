@@ -1,0 +1,23 @@
+WRobot
+
+MovementManager..::..CurrentMoveTo Property 
+Get the current move to position. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Vector3 CurrentMoveTo { get; }Public Shared ReadOnly Property CurrentMoveTo As Vector3
+	Getpublic:
+static property Vector3^ CurrentMoveTo {
+	Vector3^ get ();
+}Field Value
+The current move to position.
+See Also
+
+
+MovementManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

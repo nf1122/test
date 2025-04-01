@@ -1,0 +1,25 @@
+WRobot
+
+MinimapImage..::..TilesX Property 
+Gets the tiles x. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int TilesX { get; set; }Public Property TilesX As Integer
+	Get
+	Setpublic:
+property int^ TilesX {
+	int^ get ();
+	void set (int^ value);
+}Field Value
+The tiles x.
+See Also
+
+
+MiniMapGenerator..::..MinimapImage Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

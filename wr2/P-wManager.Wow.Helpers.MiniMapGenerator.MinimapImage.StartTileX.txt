@@ -1,0 +1,25 @@
+WRobot
+
+MinimapImage..::..StartTileX Property 
+Gets the start tile x. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int StartTileX { get; set; }Public Property StartTileX As Integer
+	Get
+	Setpublic:
+property int^ StartTileX {
+	int^ get ();
+	void set (int^ value);
+}Field Value
+The start tile x.
+See Also
+
+
+MiniMapGenerator..::..MinimapImage Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

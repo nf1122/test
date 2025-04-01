@@ -1,0 +1,22 @@
+WRobot
+
+ICustomClass..::..Range Property 
+Get combat range (5 for melee classes, 25-35 for ranged classes). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+float Range { get; }ReadOnly Property Range As Single
+	Getproperty float^ Range {
+	float^ get ();
+}Field Value
+The combat range.
+See Also
+
+
+ICustomClass Interface
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

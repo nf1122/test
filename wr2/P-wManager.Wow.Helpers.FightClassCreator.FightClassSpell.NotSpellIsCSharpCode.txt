@@ -1,0 +1,40 @@
+WRobot
+
+FightClassSpell..::..NotSpellIsCSharpCode Property 
+Gets or sets a value indicating whether [not spell is c sharp code]. 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public bool NotSpellIsCSharpCode { get; set; }<SettingAttribute> _
+<DefaultValueAttribute> _
+<CategoryAttribute> _
+<DisplayNameAttribute> _
+<DescriptionAttribute> _
+Public Property NotSpellIsCSharpCode As Boolean
+	Get
+	Set[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public:
+property bool^ NotSpellIsCSharpCode {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if [not spell is c sharp code]; otherwise, false.
+See Also
+
+
+FightClassSpell Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

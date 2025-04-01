@@ -1,0 +1,43 @@
+WRobot
+
+FightClassSpell..::..SpellName Property 
+Gets or sets the name of the spell. 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+[EditorAttribute]
+public string SpellName { get; set; }<SettingAttribute> _
+<DefaultValueAttribute> _
+<CategoryAttribute> _
+<DisplayNameAttribute> _
+<DescriptionAttribute> _
+<EditorAttribute> _
+Public Property SpellName As String
+	Get
+	Set[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+[EditorAttribute]
+public:
+property String^ SpellName {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The name of the spell.
+See Also
+
+
+FightClassSpell Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

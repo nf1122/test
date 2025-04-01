@@ -1,0 +1,23 @@
+WRobot
+
+MovementManager..::..CurrentPathOrigine Property 
+Get the unmodified current path (because CurrentPath can be modified). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<Vector3> CurrentPathOrigine { get; }Public Shared ReadOnly Property CurrentPathOrigine As List(Of Vector3)
+	Getpublic:
+static property List<Vector3^>^ CurrentPathOrigine {
+	List<Vector3^>^ get ();
+}Field Value
+The initial current path.
+See Also
+
+
+MovementManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

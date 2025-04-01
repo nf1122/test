@@ -1,0 +1,21 @@
+WRobot
+
+DBC<(Of <(<'T>)>)>..::..MinIndex Property 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int MinIndex { get; }Public ReadOnly Property MinIndex As Integer
+	Getpublic:
+property int^ MinIndex {
+	int^ get ();
+}
+See Also
+
+
+DBC<(Of <(<'T>)>)> Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

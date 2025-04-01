@@ -1,0 +1,40 @@
+WRobot
+
+FightClassConditionUnitNear..::..Type Property 
+Gets or sets the type. 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public FightClassConditionNumberType Type { get; set; }<SettingAttribute> _
+<DefaultValueAttribute> _
+<CategoryAttribute> _
+<DisplayNameAttribute> _
+<DescriptionAttribute> _
+Public Property Type As FightClassConditionNumberType
+	Get
+	Set[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public:
+property FightClassConditionNumberType^ Type {
+	FightClassConditionNumberType^ get ();
+	void set (FightClassConditionNumberType^ value);
+}Field Value
+The type.
+See Also
+
+
+FightClassConditionUnitNear Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

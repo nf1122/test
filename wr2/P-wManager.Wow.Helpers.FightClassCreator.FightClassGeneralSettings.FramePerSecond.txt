@@ -1,0 +1,40 @@
+WRobot
+
+FightClassGeneralSettings..::..FramePerSecond Property 
+Gets or sets the frame per second. 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public int FramePerSecond { get; set; }<SettingAttribute> _
+<DefaultValueAttribute> _
+<CategoryAttribute> _
+<DisplayNameAttribute> _
+<DescriptionAttribute> _
+Public Property FramePerSecond As Integer
+	Get
+	Set[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public:
+property int^ FramePerSecond {
+	int^ get ();
+	void set (int^ value);
+}Field Value
+The frame per second.
+See Also
+
+
+FightClassGeneralSettings Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

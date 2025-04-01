@@ -1,0 +1,25 @@
+WRobot
+
+PathImage..::..World Property 
+Gets the world. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string World { get; set; }Public Property World As String
+	Get
+	Setpublic:
+property String^ World {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The world.
+See Also
+
+
+MiniMapGenerator..::..PathImage Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

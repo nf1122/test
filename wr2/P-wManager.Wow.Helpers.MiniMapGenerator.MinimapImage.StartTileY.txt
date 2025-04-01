@@ -1,0 +1,25 @@
+WRobot
+
+MinimapImage..::..StartTileY Property 
+Gets the start tile y. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int StartTileY { get; set; }Public Property StartTileY As Integer
+	Get
+	Setpublic:
+property int^ StartTileY {
+	int^ get ();
+	void set (int^ value);
+}Field Value
+The start tile y.
+See Also
+
+
+MiniMapGenerator..::..MinimapImage Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,40 @@
+WRobot
+
+FightClassGeneralSettings..::..PetCallSpellName Property 
+Gets or sets the name of the pet call spell. 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public string PetCallSpellName { get; set; }<SettingAttribute> _
+<DefaultValueAttribute> _
+<CategoryAttribute> _
+<DisplayNameAttribute> _
+<DescriptionAttribute> _
+Public Property PetCallSpellName As String
+	Get
+	Set[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public:
+property String^ PetCallSpellName {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The name of the pet call spell.
+See Also
+
+
+FightClassGeneralSettings Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

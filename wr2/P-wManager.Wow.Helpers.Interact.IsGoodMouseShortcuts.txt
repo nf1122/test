@@ -1,0 +1,22 @@
+WRobot
+
+Interact..::..IsGoodMouseShortcuts Property 
+You can found description here: MaxCheckIfGoodMouseShortcutsWhenInteract
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsGoodMouseShortcuts { get; }Public Shared ReadOnly Property IsGoodMouseShortcuts As Boolean
+	Getpublic:
+static property bool^ IsGoodMouseShortcuts {
+	bool^ get ();
+}
+See Also
+
+
+Interact Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

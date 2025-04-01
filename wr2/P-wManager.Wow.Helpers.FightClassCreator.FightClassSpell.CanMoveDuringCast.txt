@@ -1,0 +1,40 @@
+WRobot
+
+FightClassSpell..::..CanMoveDuringCast Property 
+Gets or sets the can move during cast. 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public YesNoAuto CanMoveDuringCast { get; set; }<SettingAttribute> _
+<DefaultValueAttribute> _
+<CategoryAttribute> _
+<DisplayNameAttribute> _
+<DescriptionAttribute> _
+Public Property CanMoveDuringCast As YesNoAuto
+	Get
+	Set[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public:
+property YesNoAuto^ CanMoveDuringCast {
+	YesNoAuto^ get ();
+	void set (YesNoAuto^ value);
+}Field Value
+The can move during cast.
+See Also
+
+
+FightClassSpell Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

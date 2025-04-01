@@ -1,0 +1,25 @@
+WRobot
+
+Lua..::..LuaFile Property 
+Get or set the lua file. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string LuaFile { get; set; }Public Shared Property LuaFile As String
+	Get
+	Setpublic:
+static property String^ LuaFile {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The lua file.
+See Also
+
+
+Lua Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

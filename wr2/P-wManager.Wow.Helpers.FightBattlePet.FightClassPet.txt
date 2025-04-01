@@ -1,0 +1,25 @@
+WRobot
+
+FightBattlePet..::..FightClassPet Property 
+Get or set the pet fight class (if no assigned use DefaultPetBattleFightClass). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static FightBattlePet..::..IFightClassPet FightClassPet { get; set; }Public Shared Property FightClassPet As FightBattlePet..::..IFightClassPet
+	Get
+	Setpublic:
+static property FightBattlePet..::..IFightClassPet^ FightClassPet {
+	FightBattlePet..::..IFightClassPet^ get ();
+	void set (FightBattlePet..::..IFightClassPet^ value);
+}Field Value
+The pet fight class.
+See Also
+
+
+FightBattlePet Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

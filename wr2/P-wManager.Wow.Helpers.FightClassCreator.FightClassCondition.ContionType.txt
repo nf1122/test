@@ -1,0 +1,25 @@
+WRobot
+
+FightClassCondition..::..ContionType Property 
+Gets or sets the type of the contion. 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public FightClassContionsType ContionType { get; set; }Public Property ContionType As FightClassContionsType
+	Get
+	Setpublic:
+property FightClassContionsType^ ContionType {
+	FightClassContionsType^ get ();
+	void set (FightClassContionsType^ value);
+}Field Value
+The type of the contion.
+See Also
+
+
+FightClassCondition Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

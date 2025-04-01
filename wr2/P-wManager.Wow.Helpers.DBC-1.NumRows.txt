@@ -1,0 +1,21 @@
+WRobot
+
+DBC<(Of <(<'T>)>)>..::..NumRows Property 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int NumRows { get; }Public ReadOnly Property NumRows As Integer
+	Getpublic:
+property int^ NumRows {
+	int^ get ();
+}
+See Also
+
+
+DBC<(Of <(<'T>)>)> Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

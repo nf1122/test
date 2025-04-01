@@ -1,0 +1,23 @@
+WRobot
+
+CustomClass..::..IsAliveCustomClass Property 
+Get a value indicating whether the fightclass is loaded. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsAliveCustomClass { get; }Public Shared ReadOnly Property IsAliveCustomClass As Boolean
+	Getpublic:
+static property bool^ IsAliveCustomClass {
+	bool^ get ();
+}Field Value
+true if fightclass is loaded; otherwise, false.
+See Also
+
+
+CustomClass Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

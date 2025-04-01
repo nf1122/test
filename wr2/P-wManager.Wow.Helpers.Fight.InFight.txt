@@ -1,0 +1,25 @@
+WRobot
+
+Fight..::..InFight Property 
+Get or set a value indicating whether in fight. Do not confuse with InCombat, if it returns true it means that StartFight(Boolean, Boolean, Boolean, Boolean) has been called. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool InFight { get; set; }Public Shared Property InFight As Boolean
+	Get
+	Setpublic:
+static property bool^ InFight {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if in fight; otherwise, false.
+See Also
+
+
+Fight Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

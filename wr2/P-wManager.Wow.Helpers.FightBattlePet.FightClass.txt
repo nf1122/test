@@ -1,0 +1,25 @@
+WRobot
+
+FightBattlePet..::..FightClass Property 
+Get or set the pet battles fight class file, empty if you want use default class (relative to the folder "WRobot\FightClass\Pet Battle\", value like "MyPetFightclass.cs" , you can found sample code in FightBattlePet..::..IFightClassPet description). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string FightClass { get; set; }Public Shared Property FightClass As String
+	Get
+	Setpublic:
+static property String^ FightClass {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The fight class.
+See Also
+
+
+FightBattlePet Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

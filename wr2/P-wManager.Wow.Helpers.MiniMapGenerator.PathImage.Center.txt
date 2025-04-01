@@ -1,0 +1,25 @@
+WRobot
+
+PathImage..::..Center Property 
+Gets the center. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Vector3 Center { get; set; }Public Property Center As Vector3
+	Get
+	Setpublic:
+property Vector3^ Center {
+	Vector3^ get ();
+	void set (Vector3^ value);
+}Field Value
+The center.
+See Also
+
+
+MiniMapGenerator..::..PathImage Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

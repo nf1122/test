@@ -1,0 +1,43 @@
+WRobot
+
+FightClassConditionString..::..Value Property 
+Gets or sets the value. 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+[EditorAttribute]
+public string Value { get; set; }<SettingAttribute> _
+<DefaultValueAttribute> _
+<CategoryAttribute> _
+<DisplayNameAttribute> _
+<DescriptionAttribute> _
+<EditorAttribute> _
+Public Property Value As String
+	Get
+	Set[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+[EditorAttribute]
+public:
+property String^ Value {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The value.
+See Also
+
+
+FightClassConditionString Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

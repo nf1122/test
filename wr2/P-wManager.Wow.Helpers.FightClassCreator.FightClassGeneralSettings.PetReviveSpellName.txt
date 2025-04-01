@@ -1,0 +1,40 @@
+WRobot
+
+FightClassGeneralSettings..::..PetReviveSpellName Property 
+Gets or sets the name of the pet revive spell. 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public string PetReviveSpellName { get; set; }<SettingAttribute> _
+<DefaultValueAttribute> _
+<CategoryAttribute> _
+<DisplayNameAttribute> _
+<DescriptionAttribute> _
+Public Property PetReviveSpellName As String
+	Get
+	Set[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public:
+property String^ PetReviveSpellName {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The name of the pet revive spell.
+See Also
+
+
+FightClassGeneralSettings Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

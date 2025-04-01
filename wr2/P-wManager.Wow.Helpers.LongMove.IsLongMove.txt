@@ -1,0 +1,22 @@
+WRobot
+
+LongMove..::..IsLongMove Property 
+Get a value indicating whether character is in long move. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsLongMove { get; }Public Shared ReadOnly Property IsLongMove As Boolean
+	Getpublic:
+static property bool^ IsLongMove {
+	bool^ get ();
+}
+See Also
+
+
+LongMove Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

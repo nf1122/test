@@ -1,0 +1,23 @@
+WRobot
+
+MovementManager..::..CurrentPath Property 
+Get the current path (can be modified by MovementManager when character are stuck, unmodified path is CurrentPathOrigine). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<Vector3> CurrentPath { get; }Public Shared ReadOnly Property CurrentPath As List(Of Vector3)
+	Getpublic:
+static property List<Vector3^>^ CurrentPath {
+	List<Vector3^>^ get ();
+}Field Value
+The current path.
+See Also
+
+
+MovementManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

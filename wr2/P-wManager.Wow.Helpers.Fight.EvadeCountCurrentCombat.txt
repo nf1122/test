@@ -1,0 +1,24 @@
+WRobot
+
+Fight..::..EvadeCountCurrentCombat Property 
+Evade count of current combat. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int EvadeCountCurrentCombat { get; set; }Public Shared Property EvadeCountCurrentCombat As Integer
+	Get
+	Setpublic:
+static property int^ EvadeCountCurrentCombat {
+	int^ get ();
+	void set (int^ value);
+}
+See Also
+
+
+Fight Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

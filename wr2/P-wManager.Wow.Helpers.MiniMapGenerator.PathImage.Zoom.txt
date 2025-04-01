@@ -1,0 +1,25 @@
+WRobot
+
+PathImage..::..Zoom Property 
+Gets or sets the zoom. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float Zoom { get; set; }Public Property Zoom As Single
+	Get
+	Setpublic:
+property float^ Zoom {
+	float^ get ();
+	void set (float^ value);
+}Field Value
+The zoom.
+See Also
+
+
+MiniMapGenerator..::..PathImage Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

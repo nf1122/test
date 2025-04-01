@@ -1,0 +1,22 @@
+WRobot
+
+Conditions..::..ProductIsStarted Property 
+Get a value indicating whether product is started. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ProductIsStarted { get; }Public Shared ReadOnly Property ProductIsStarted As Boolean
+	Getpublic:
+static property bool^ ProductIsStarted {
+	bool^ get ();
+}
+See Also
+
+
+Conditions Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

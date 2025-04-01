@@ -1,0 +1,23 @@
+WRobot
+
+LandmarksMiniMap..::..Landmarks Property 
+Gets the landmarks. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<MiniMapGenerator..::..LandmarkMiniMap> Landmarks { get; }Public ReadOnly Property Landmarks As List(Of MiniMapGenerator..::..LandmarkMiniMap)
+	Getpublic:
+property List<MiniMapGenerator..::..LandmarkMiniMap^>^ Landmarks {
+	List<MiniMapGenerator..::..LandmarkMiniMap^>^ get ();
+}Field Value
+The landmarks.
+See Also
+
+
+MiniMapGenerator..::..LandmarksMiniMap Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

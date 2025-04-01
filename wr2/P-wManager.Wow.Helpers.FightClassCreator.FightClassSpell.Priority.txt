@@ -1,0 +1,43 @@
+WRobot
+
+FightClassSpell..::..Priority Property 
+Gets or sets the priority. 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SettingAttribute]
+[DefaultValueAttribute]
+[ReadOnlyAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public int Priority { get; set; }<SettingAttribute> _
+<DefaultValueAttribute> _
+<ReadOnlyAttribute> _
+<CategoryAttribute> _
+<DisplayNameAttribute> _
+<DescriptionAttribute> _
+Public Property Priority As Integer
+	Get
+	Set[SettingAttribute]
+[DefaultValueAttribute]
+[ReadOnlyAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+public:
+property int^ Priority {
+	int^ get ();
+	void set (int^ value);
+}Field Value
+The priority.
+See Also
+
+
+FightClassSpell Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,25 @@
+WRobot
+
+PathImage..::..Width Property 
+Gets or sets the width. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int Width { get; set; }Public Property Width As Integer
+	Get
+	Setpublic:
+property int^ Width {
+	int^ get ();
+	void set (int^ value);
+}Field Value
+The width.
+See Also
+
+
+MiniMapGenerator..::..PathImage Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,21 @@
+WRobot
+
+DBC<(Of <(<'T>)>)>..::..MaxIndex Property 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int MaxIndex { get; }Public ReadOnly Property MaxIndex As Integer
+	Getpublic:
+property int^ MaxIndex {
+	int^ get ();
+}
+See Also
+
+
+DBC<(Of <(<'T>)>)> Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

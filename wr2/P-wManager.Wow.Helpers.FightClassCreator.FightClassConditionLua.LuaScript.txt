@@ -1,0 +1,43 @@
+WRobot
+
+FightClassConditionLua..::..LuaScript Property 
+Gets or sets the lua script. 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+[EditorAttribute]
+public string LuaScript { get; set; }<SettingAttribute> _
+<DefaultValueAttribute> _
+<CategoryAttribute> _
+<DisplayNameAttribute> _
+<DescriptionAttribute> _
+<EditorAttribute> _
+Public Property LuaScript As String
+	Get
+	Set[SettingAttribute]
+[DefaultValueAttribute]
+[CategoryAttribute]
+[DisplayNameAttribute]
+[DescriptionAttribute]
+[EditorAttribute]
+public:
+property String^ LuaScript {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The lua script.
+See Also
+
+
+FightClassConditionLua Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 
