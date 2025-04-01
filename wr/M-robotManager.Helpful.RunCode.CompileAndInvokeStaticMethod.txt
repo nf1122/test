@@ -1,0 +1,66 @@
+WRobot
+
+RunCode..::..CompileAndInvokeStaticMethod Method 
+Compiles the and invoke static method. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool CompileAndInvokeStaticMethod(
+	RunCode..::..CodeType codeType,
+	string code,
+	string invokeTypeClassName,
+	string invokeMethodName,
+	out string errors,
+	bool generateInMemory,
+	bool canCache
+)Public Shared Function CompileAndInvokeStaticMethod ( _
+	codeType As RunCode..::..CodeType, _
+	code As String, _
+	invokeTypeClassName As String, _
+	invokeMethodName As String, _
+	<OutAttribute> ByRef errors As String, _
+	generateInMemory As Boolean, _
+	canCache As Boolean _
+) As Booleanpublic:
+static bool^ CompileAndInvokeStaticMethod(
+	RunCode..::..CodeType^ codeType, 
+	String^ code, 
+	String^ invokeTypeClassName, 
+	String^ invokeMethodName, 
+	[OutAttribute] String^% errors, 
+	bool^ generateInMemory, 
+	bool^ canCache
+)Parameters
+codeType
+Type: robotManager.Helpful..::..RunCode..::..CodeType
+Type of the code.
+code
+Type: String
+The code.
+invokeTypeClassName
+Type: String
+Name of the class type like "MyNameSpace.MyClassName".
+invokeMethodName
+Type: String
+Name of the invoke method.
+errors
+Type: String%
+The errors.
+generateInMemory
+Type: Boolean
+if set to true generate in memory.
+canCache
+Type: Boolean
+if set to true can cache.
+Return Value
+true if success, false otherwise.
+See Also
+
+
+RunCode Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

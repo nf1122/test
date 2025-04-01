@@ -1,0 +1,48 @@
+WRobot
+
+Others..::..GetReqWithAuthHeader Method 
+Request with authentication header. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<string> GetReqWithAuthHeader(
+	string url,
+	string userName,
+	string userPassword,
+	string othersValue
+)Public Shared Function GetReqWithAuthHeader ( _
+	url As String, _
+	userName As String, _
+	userPassword As String, _
+	othersValue As String _
+) As List(Of String)public:
+static List<String^>^ GetReqWithAuthHeader(
+	String^ url, 
+	String^ userName, 
+	String^ userPassword, 
+	String^ othersValue
+)Parameters
+url
+Type: String
+The URL.
+userName
+Type: String
+Name of the user.
+userPassword
+Type: String
+The user password.
+othersValue
+Type: String
+The others value.
+Return Value
+result.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

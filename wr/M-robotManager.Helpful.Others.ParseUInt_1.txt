@@ -1,0 +1,31 @@
+WRobot
+
+Others..::..ParseUInt Method (String)
+String to uint. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static uint ParseUInt(
+	string uintString
+)Public Shared Function ParseUInt ( _
+	uintString As String _
+) As UIntegerpublic:
+static unsigned int^ ParseUInt(
+	String^ uintString
+)Parameters
+uintString
+Type: String
+The uint string.
+Return Value
+result.
+See Also
+
+
+Others Class
+ParseUInt Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

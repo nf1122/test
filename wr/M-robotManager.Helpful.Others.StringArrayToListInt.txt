@@ -1,0 +1,30 @@
+WRobot
+
+Others..::..StringArrayToListInt Method 
+Strings array to int arrays. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<int> StringArrayToListInt(
+	IEnumerable<string> array
+)Public Shared Function StringArrayToListInt ( _
+	array As IEnumerable(Of String) _
+) As List(Of Integer)public:
+static List<int^>^ StringArrayToListInt(
+	IEnumerable<String^>^ array
+)Parameters
+array
+Type: IEnumerable<(Of <(<'String>)>)>
+The strings array.
+Return Value
+int arrays.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

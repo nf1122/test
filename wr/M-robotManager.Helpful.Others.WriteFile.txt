@@ -1,0 +1,34 @@
+WRobot
+
+Others..::..WriteFile Method 
+Write string file. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void WriteFile(
+	string filePath,
+	string value
+)Public Shared Sub WriteFile ( _
+	filePath As String, _
+	value As String _
+)public:
+static void WriteFile(
+	String^ filePath, 
+	String^ value
+)Parameters
+filePath
+Type: String
+The file path.
+value
+Type: String
+The value.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

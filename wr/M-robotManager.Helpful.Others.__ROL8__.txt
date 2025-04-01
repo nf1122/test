@@ -1,0 +1,36 @@
+WRobot
+
+Others..::..__ROL8__ Method 
+_ROL8 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static ulong __ROL8__(
+	ulong value,
+	int count
+)Public Shared Function __ROL8__ ( _
+	value As ULong, _
+	count As Integer _
+) As ULongpublic:
+static unsigned long long^ __ROL8__(
+	unsigned long long^ value, 
+	int^ count
+)Parameters
+value
+Type: UInt64
+The value.
+count
+Type: Int32
+The count.
+Return Value
+System.UInt64.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

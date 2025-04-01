@@ -1,0 +1,36 @@
+WRobot
+
+Others..::..DialogBoxOpenFileMultiselect Method 
+"Open File" (multi files mode) dialog box and return selected files paths. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string[] DialogBoxOpenFileMultiselect(
+	string path,
+	string typeFile
+)Public Shared Function DialogBoxOpenFileMultiselect ( _
+	path As String, _
+	typeFile As String _
+) As String()public:
+static array<String^>^ DialogBoxOpenFileMultiselect(
+	String^ path, 
+	String^ typeFile
+)Parameters
+path
+Type: String
+The base path.
+typeFile
+Type: String
+The file type (like "XML files (*.xml)|*.xml").
+Return Value
+selected files paths.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

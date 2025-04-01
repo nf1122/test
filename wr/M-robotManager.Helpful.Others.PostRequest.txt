@@ -1,0 +1,48 @@
+WRobot
+
+Others..::..PostRequest Method 
+Post request. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static Task<string> PostRequest(
+	string url,
+	Dictionary<string, string> parameters,
+	bool showErrors,
+	int requestTimeoutMs
+)Public Shared Function PostRequest ( _
+	url As String, _
+	parameters As Dictionary(Of String, String), _
+	showErrors As Boolean, _
+	requestTimeoutMs As Integer _
+) As Task(Of String)public:
+static Task<String^>^ PostRequest(
+	String^ url, 
+	Dictionary<String^, String^>^ parameters, 
+	bool^ showErrors, 
+	int^ requestTimeoutMs
+)Parameters
+url
+Type: String
+The URL.
+parameters
+Type: Dictionary<(Of <(<'String, String>)>)>
+The parameters (like new Dictionary<string, string> { { "Name", "Value" } }).
+showErrors
+Type: Boolean
+if set to true show errors in log.
+requestTimeoutMs
+Type: Int32
+The request timeout milliseconds.
+Return Value
+result.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

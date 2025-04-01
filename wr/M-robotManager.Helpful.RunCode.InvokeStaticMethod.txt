@@ -1,0 +1,48 @@
+WRobot
+
+RunCode..::..InvokeStaticMethod Method 
+Invoke static method from CompilerResults.. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool InvokeStaticMethod(
+	CompilerResults compilerResults,
+	string typeClassName,
+	string methodName,
+	bool ignoreCase
+)Public Shared Function InvokeStaticMethod ( _
+	compilerResults As CompilerResults, _
+	typeClassName As String, _
+	methodName As String, _
+	ignoreCase As Boolean _
+) As Booleanpublic:
+static bool^ InvokeStaticMethod(
+	CompilerResults^ compilerResults, 
+	String^ typeClassName, 
+	String^ methodName, 
+	bool^ ignoreCase
+)Parameters
+compilerResults
+Type: CompilerResults
+The compiler results.
+typeClassName
+Type: String
+Name of the class type like "MyNameSpace.MyClassName".
+methodName
+Type: String
+Name of the method.
+ignoreCase
+Type: Boolean
+if set to true ignore case.
+Return Value
+true if success, false otherwise.
+See Also
+
+
+RunCode Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

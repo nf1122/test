@@ -1,0 +1,19 @@
+WRobot
+
+Mouse..::..ClickRoller Method 
+Click Roller. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void ClickRoller()Public Shared Sub ClickRollerpublic:
+static void ClickRoller()
+See Also
+
+
+Mouse Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,30 @@
+WRobot
+
+Others..::..EncrypterMD5 Method 
+Return MD5. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string EncrypterMD5(
+	string value
+)Public Shared Function EncrypterMD5 ( _
+	value As String _
+) As Stringpublic:
+static String^ EncrypterMD5(
+	String^ value
+)Parameters
+value
+Type: String
+The value.
+Return Value
+System.String.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

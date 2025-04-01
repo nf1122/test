@@ -1,0 +1,19 @@
+WRobot
+
+Others..::..GetVisualCpp2010 Method 
+Gets if visual C++2010 is installed. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void GetVisualCpp2010()Public Shared Sub GetVisualCpp2010public:
+static void GetVisualCpp2010()
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,37 @@
+WRobot
+
+Others..::..ParseInt Method (String, Int32%)
+String to int. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ParseInt(
+	string IntString,
+	out int result
+)Public Shared Function ParseInt ( _
+	IntString As String, _
+	<OutAttribute> ByRef result As Integer _
+) As Booleanpublic:
+static bool^ ParseInt(
+	String^ IntString, 
+	[OutAttribute] int^% result
+)Parameters
+IntString
+Type: String
+The int string.
+result
+Type: Int32%
+The result.
+Return Value
+true if success, false otherwise.
+See Also
+
+
+Others Class
+ParseInt Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,39 @@
+WRobot
+
+Settings..::..ConfigWinForm Method 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+protected void ConfigWinForm(
+	Point size,
+	string windowName,
+	bool resizable
+)Protected Sub ConfigWinForm ( _
+	size As Point, _
+	windowName As String, _
+	resizable As Boolean _
+)protected:
+void ConfigWinForm(
+	Point^ size, 
+	String^ windowName, 
+	bool^ resizable
+)Parameters
+size
+Type: Point
+
+windowName
+Type: String
+
+resizable
+Type: Boolean
+
+See Also
+
+
+Settings Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

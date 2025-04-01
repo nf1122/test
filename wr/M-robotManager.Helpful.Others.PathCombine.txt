@@ -1,0 +1,30 @@
+WRobot
+
+Others..::..PathCombine Method 
+Combines an array of strings into a path (file path). 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string PathCombine(
+	params string[] paths
+)Public Shared Function PathCombine ( _
+	ParamArray paths As String() _
+) As Stringpublic:
+static String^ PathCombine(
+	... array<String^>^ paths
+)Parameters
+paths
+Type: array<String>[]()[][]
+The path array.
+Return Value
+path.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

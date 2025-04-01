@@ -1,0 +1,19 @@
+WRobot
+
+Others..::..ShutDownPc Method 
+ShutDown the Computer. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void ShutDownPc()Public Shared Sub ShutDownPcpublic:
+static void ShutDownPc()
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

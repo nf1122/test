@@ -1,0 +1,30 @@
+WRobot
+
+Settings..::..Save Method 
+Save to xml file 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+protected bool Save(
+	string settingsPath
+)Protected Function Save ( _
+	settingsPath As String _
+) As Booleanprotected:
+bool^ Save(
+	String^ settingsPath
+)Parameters
+settingsPath
+Type: String
+file path
+Return Value
+success
+See Also
+
+
+Settings Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

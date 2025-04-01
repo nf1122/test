@@ -1,0 +1,30 @@
+WRobot
+
+Others..::..ReadFile Method 
+Read file content to string. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string ReadFile(
+	string filePath
+)Public Shared Function ReadFile ( _
+	filePath As String _
+) As Stringpublic:
+static String^ ReadFile(
+	String^ filePath
+)Parameters
+filePath
+Type: String
+The file path.
+Return Value
+file content.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,31 @@
+WRobot
+
+Others..::..ToUtf8 Method (String)
+Text to UTF8. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string ToUtf8(
+	string text
+)Public Shared Function ToUtf8 ( _
+	text As String _
+) As Stringpublic:
+static String^ ToUtf8(
+	String^ text
+)Parameters
+text
+Type: String
+The text.
+Return Value
+UTF8 text.
+See Also
+
+
+Others Class
+ToUtf8 Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

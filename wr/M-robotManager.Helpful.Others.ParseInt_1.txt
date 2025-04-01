@@ -1,0 +1,31 @@
+WRobot
+
+Others..::..ParseInt Method (String)
+String to int. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static int ParseInt(
+	string intString
+)Public Shared Function ParseInt ( _
+	intString As String _
+) As Integerpublic:
+static int^ ParseInt(
+	String^ intString
+)Parameters
+intString
+Type: String
+The int string.
+Return Value
+result.
+See Also
+
+
+Others Class
+ParseInt Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

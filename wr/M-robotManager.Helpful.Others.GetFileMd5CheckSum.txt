@@ -1,0 +1,30 @@
+WRobot
+
+Others..::..GetFileMd5CheckSum Method 
+Return the MD5 checksum of the file. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string GetFileMd5CheckSum(
+	string filePath
+)Public Shared Function GetFileMd5CheckSum ( _
+	filePath As String _
+) As Stringpublic:
+static String^ GetFileMd5CheckSum(
+	String^ filePath
+)Parameters
+filePath
+Type: String
+The file path.
+Return Value
+MD5 checksum.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,34 @@
+WRobot
+
+Settings..::..AdviserFilePathAndName Method 
+return path like "C:\WRobot\Settings\productName-ID.xml" 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+protected static string AdviserFilePathAndName(
+	string productName,
+	string id
+)Protected Shared Function AdviserFilePathAndName ( _
+	productName As String, _
+	id As String _
+) As Stringprotected:
+static String^ AdviserFilePathAndName(
+	String^ productName, 
+	String^ id
+)Parameters
+productName
+Type: String
+product name
+id
+Type: String
+id
+See Also
+
+
+Settings Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

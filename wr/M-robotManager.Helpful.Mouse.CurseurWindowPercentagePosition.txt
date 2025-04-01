@@ -1,0 +1,40 @@
+WRobot
+
+Mouse..::..CurseurWindowPercentagePosition Method 
+Position Curseur in window. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void CurseurWindowPercentagePosition(
+	IntPtr mainWindowHandle,
+	int percentageX,
+	int percentageY
+)Public Shared Sub CurseurWindowPercentagePosition ( _
+	mainWindowHandle As IntPtr, _
+	percentageX As Integer, _
+	percentageY As Integer _
+)public:
+static void CurseurWindowPercentagePosition(
+	IntPtr^ mainWindowHandle, 
+	int^ percentageX, 
+	int^ percentageY
+)Parameters
+mainWindowHandle
+Type: IntPtr
+The main window handle.
+percentageX
+Type: Int32
+The percentage x.
+percentageY
+Type: Int32
+The percentage y.
+See Also
+
+
+Mouse Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

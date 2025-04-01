@@ -1,0 +1,20 @@
+WRobot
+
+Settings..::..ToStringFormat Method 
+Converts to stringformat. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public string ToStringFormat()Public Function ToStringFormat As Stringpublic:
+String^ ToStringFormat()Return Value
+System.String.
+See Also
+
+
+Settings Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

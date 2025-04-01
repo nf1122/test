@@ -1,0 +1,36 @@
+WRobot
+
+Others..::..GetRandomStringReadable Method 
+Get random string readable. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string GetRandomStringReadable(
+	int maxSize,
+	bool firstCharUpper
+)Public Shared Function GetRandomStringReadable ( _
+	maxSize As Integer, _
+	firstCharUpper As Boolean _
+) As Stringpublic:
+static String^ GetRandomStringReadable(
+	int^ maxSize, 
+	bool^ firstCharUpper
+)Parameters
+maxSize
+Type: Int32
+The size.
+firstCharUpper
+Type: Boolean
+if set to true first character upper case.
+Return Value
+System.String.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

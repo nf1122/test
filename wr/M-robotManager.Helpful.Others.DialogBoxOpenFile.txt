@@ -1,0 +1,36 @@
+WRobot
+
+Others..::..DialogBoxOpenFile Method 
+"Open File" dialog box and return selected file path. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string DialogBoxOpenFile(
+	string path,
+	string typeFile
+)Public Shared Function DialogBoxOpenFile ( _
+	path As String, _
+	typeFile As String _
+) As Stringpublic:
+static String^ DialogBoxOpenFile(
+	String^ path, 
+	String^ typeFile
+)Parameters
+path
+Type: String
+The base path.
+typeFile
+Type: String
+The file type (like "XML files (*.xml)|*.xml").
+Return Value
+selected file path.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

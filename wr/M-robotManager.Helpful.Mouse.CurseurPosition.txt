@@ -1,0 +1,34 @@
+WRobot
+
+Mouse..::..CurseurPosition Method 
+Position Curseur. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void CurseurPosition(
+	int posX,
+	int posY
+)Public Shared Sub CurseurPosition ( _
+	posX As Integer, _
+	posY As Integer _
+)public:
+static void CurseurPosition(
+	int^ posX, 
+	int^ posY
+)Parameters
+posX
+Type: Int32
+The position x.
+posY
+Type: Int32
+The position y.
+See Also
+
+
+Mouse Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

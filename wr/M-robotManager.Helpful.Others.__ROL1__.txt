@@ -1,0 +1,36 @@
+WRobot
+
+Others..::..__ROL1__ Method 
+ROL1 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static byte __ROL1__(
+	byte value,
+	int count
+)Public Shared Function __ROL1__ ( _
+	value As Byte, _
+	count As Integer _
+) As Bytepublic:
+static unsigned char^ __ROL1__(
+	unsigned char^ value, 
+	int^ count
+)Parameters
+value
+Type: Byte
+The value.
+count
+Type: Int32
+The count.
+Return Value
+System.Byte.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

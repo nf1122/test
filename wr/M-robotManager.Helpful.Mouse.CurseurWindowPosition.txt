@@ -1,0 +1,40 @@
+WRobot
+
+Mouse..::..CurseurWindowPosition Method 
+Position Curseur in window. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void CurseurWindowPosition(
+	IntPtr mainWindowHandle,
+	int posX,
+	int posY
+)Public Shared Sub CurseurWindowPosition ( _
+	mainWindowHandle As IntPtr, _
+	posX As Integer, _
+	posY As Integer _
+)public:
+static void CurseurWindowPosition(
+	IntPtr^ mainWindowHandle, 
+	int^ posX, 
+	int^ posY
+)Parameters
+mainWindowHandle
+Type: IntPtr
+The main window handle.
+posX
+Type: Int32
+The position x.
+posY
+Type: Int32
+The position y.
+See Also
+
+
+Mouse Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

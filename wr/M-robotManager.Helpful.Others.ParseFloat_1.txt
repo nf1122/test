@@ -1,0 +1,31 @@
+WRobot
+
+Others..::..ParseFloat Method (String)
+String to float. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static float ParseFloat(
+	string floatString
+)Public Shared Function ParseFloat ( _
+	floatString As String _
+) As Singlepublic:
+static float^ ParseFloat(
+	String^ floatString
+)Parameters
+floatString
+Type: String
+The float string.
+Return Value
+result.
+See Also
+
+
+Others Class
+ParseFloat Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

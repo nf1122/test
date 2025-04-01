@@ -1,0 +1,30 @@
+WRobot
+
+Others..::..GetFileSizeHttp Method 
+Get file size from http address, return -1 if error. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static long GetFileSizeHttp(
+	string httpUrl
+)Public Shared Function GetFileSizeHttp ( _
+	httpUrl As String _
+) As Longpublic:
+static long long^ GetFileSizeHttp(
+	String^ httpUrl
+)Parameters
+httpUrl
+Type: String
+The HTTP URL.
+Return Value
+size
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

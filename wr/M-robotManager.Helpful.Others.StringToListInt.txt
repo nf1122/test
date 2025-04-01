@@ -1,0 +1,30 @@
+WRobot
+
+Others..::..StringToListInt Method 
+Strings to list int. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<int> StringToListInt(
+	string text
+)Public Shared Function StringToListInt ( _
+	text As String _
+) As List(Of Integer)public:
+static List<int^>^ StringToListInt(
+	String^ text
+)Parameters
+text
+Type: String
+The text.
+Return Value
+List<System.Int32>.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

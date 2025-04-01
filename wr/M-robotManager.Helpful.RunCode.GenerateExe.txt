@@ -1,0 +1,66 @@
+WRobot
+
+RunCode..::..GenerateExe Method 
+Generate executable from code. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool GenerateExe(
+	RunCode..::..CodeType codeType,
+	string code,
+	string pathOutput,
+	out string errors,
+	bool includeDebugInfo,
+	string[] assemblyNames,
+	bool targetWinexeInsteadConsole
+)Public Shared Function GenerateExe ( _
+	codeType As RunCode..::..CodeType, _
+	code As String, _
+	pathOutput As String, _
+	<OutAttribute> ByRef errors As String, _
+	includeDebugInfo As Boolean, _
+	assemblyNames As String(), _
+	targetWinexeInsteadConsole As Boolean _
+) As Booleanpublic:
+static bool^ GenerateExe(
+	RunCode..::..CodeType^ codeType, 
+	String^ code, 
+	String^ pathOutput, 
+	[OutAttribute] String^% errors, 
+	bool^ includeDebugInfo, 
+	array<String^>^ assemblyNames, 
+	bool^ targetWinexeInsteadConsole
+)Parameters
+codeType
+Type: robotManager.Helpful..::..RunCode..::..CodeType
+Type of the code.
+code
+Type: String
+The code.
+pathOutput
+Type: String
+The path output.
+errors
+Type: String%
+The errors.
+includeDebugInfo
+Type: Boolean
+if set to true include debug information.
+assemblyNames
+Type: array<String>[]()[][]
+The assembly names.
+targetWinexeInsteadConsole
+Type: Boolean
+if set to true target winexe instead console.
+Return Value
+true if success, false otherwise.
+See Also
+
+
+RunCode Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

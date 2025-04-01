@@ -1,0 +1,42 @@
+WRobot
+
+RunCode..::..CreateInstance Method 
+Create instance from CompilerResults. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static Object CreateInstance(
+	CompilerResults compilerResults,
+	string typeName,
+	bool ignoreCase
+)Public Shared Function CreateInstance ( _
+	compilerResults As CompilerResults, _
+	typeName As String, _
+	ignoreCase As Boolean _
+) As Objectpublic:
+static Object^ CreateInstance(
+	CompilerResults^ compilerResults, 
+	String^ typeName, 
+	bool^ ignoreCase
+)Parameters
+compilerResults
+Type: CompilerResults
+The compiler results.
+typeName
+Type: String
+Name of the type like "MyNameSpace.MyClassName".
+ignoreCase
+Type: Boolean
+if set to true ignore case.
+Return Value
+instance.
+See Also
+
+
+RunCode Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

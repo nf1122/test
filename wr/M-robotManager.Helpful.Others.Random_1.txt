@@ -1,0 +1,37 @@
+WRobot
+
+Others..::..Random Method (Int32, Int32)
+Return Random number. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static int Random(
+	int from,
+	int to
+)Public Shared Function Random ( _
+	from As Integer, _
+	to As Integer _
+) As Integerpublic:
+static int^ Random(
+	int^ from, 
+	int^ to
+)Parameters
+from
+Type: Int32
+From.
+to
+Type: Int32
+To.
+Return Value
+System.Int32.
+See Also
+
+
+Others Class
+Random Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

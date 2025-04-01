@@ -1,0 +1,65 @@
+WRobot
+
+Others..::..CreateShortcut Method 
+Create Windows shortcut 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void CreateShortcut(
+	string sourceFile,
+	string shortcutFile,
+	string description,
+	string arguments,
+	string hotKey,
+	string workingDirectory
+)Public Shared Sub CreateShortcut ( _
+	sourceFile As String, _
+	shortcutFile As String, _
+	description As String, _
+	arguments As String, _
+	hotKey As String, _
+	workingDirectory As String _
+)public:
+static void CreateShortcut(
+	String^ sourceFile, 
+	String^ shortcutFile, 
+	String^ description, 
+	String^ arguments, 
+	String^ hotKey, 
+	String^ workingDirectory
+)Parameters
+sourceFile
+Type: String
+A file you want to make shortcut to
+shortcutFile
+Type: String
+Path and shortcut file name including file extension (.lnk)
+description
+Type: String
+Shortcut description
+arguments
+Type: String
+Command line arguments
+hotKey
+Type: String
+Shortcut hot key as a string, for example "Ctrl+F"
+workingDirectory
+Type: String
+"Start in" shortcut parameter
+Exceptions
+
+
+ExceptionCondition
+ArgumentNullExceptionsourceFile
+ArgumentNullExceptionshortcutFile
+
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,48 @@
+WRobot
+
+Others..::..DownloadFile Method 
+Download file from http address, return true if success. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool DownloadFile(
+	string httpUrl,
+	string fileDest,
+	bool showErrorLog,
+	bool doEvents
+)Public Shared Function DownloadFile ( _
+	httpUrl As String, _
+	fileDest As String, _
+	showErrorLog As Boolean, _
+	doEvents As Boolean _
+) As Booleanpublic:
+static bool^ DownloadFile(
+	String^ httpUrl, 
+	String^ fileDest, 
+	bool^ showErrorLog, 
+	bool^ doEvents
+)Parameters
+httpUrl
+Type: String
+The HTTP URL.
+fileDest
+Type: String
+The file dest.
+showErrorLog
+Type: Boolean
+if set to true show errors in log
+doEvents
+Type: Boolean
+if set to true do events when wait (avoid UI freeze).
+Return Value
+true if success, false otherwise.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

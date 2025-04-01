@@ -1,0 +1,48 @@
+WRobot
+
+Others..::..StringBetween Method 
+Find strings between two string delimiters 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string StringBetween(
+	string str,
+	string start,
+	string end,
+	bool trim
+)Public Shared Function StringBetween ( _
+	str As String, _
+	start As String, _
+	end As String, _
+	trim As Boolean _
+) As Stringpublic:
+static String^ StringBetween(
+	String^ str, 
+	String^ start, 
+	String^ end, 
+	bool^ trim
+)Parameters
+str
+Type: String
+The string to search.
+start
+Type: String
+The beginning of the string to find. Passing an empty string starts at the beginning
+end
+Type: String
+The end of the string to find. Passing an empty string searches from $sStart to end of string.
+trim
+Type: Boolean
+if set to true if you want trim result.
+Return Value
+result.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

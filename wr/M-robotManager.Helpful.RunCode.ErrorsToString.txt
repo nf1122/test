@@ -1,0 +1,30 @@
+WRobot
+
+RunCode..::..ErrorsToString Method 
+Errors or CompilerResults to string. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string ErrorsToString(
+	CompilerResults compilerResults
+)Public Shared Function ErrorsToString ( _
+	compilerResults As CompilerResults _
+) As Stringpublic:
+static String^ ErrorsToString(
+	CompilerResults^ compilerResults
+)Parameters
+compilerResults
+Type: CompilerResults
+The compiler results.
+Return Value
+errors.
+See Also
+
+
+RunCode Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 
