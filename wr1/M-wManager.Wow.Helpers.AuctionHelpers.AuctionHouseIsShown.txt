@@ -1,0 +1,19 @@
+WRobot
+
+AuctionHelpers..::..AuctionHouseIsShown Method 
+Auctions the house is shown. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool AuctionHouseIsShown()Public Shared Function AuctionHouseIsShown As Booleanpublic:
+static bool^ AuctionHouseIsShown()
+See Also
+
+
+AuctionHelpers Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

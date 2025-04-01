@@ -1,0 +1,28 @@
+WRobot
+
+AuctionHelpers..::..BrowseFilterSet Method 
+Browses the filter set. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void BrowseFilterSet(
+	AuctionHelpers..::..Filters filter
+)Public Shared Sub BrowseFilterSet ( _
+	filter As AuctionHelpers..::..Filters _
+)public:
+static void BrowseFilterSet(
+	AuctionHelpers..::..Filters^ filter
+)Parameters
+filter
+Type: wManager.Wow.Helpers..::..AuctionHelpers..::..Filters
+The filter.
+See Also
+
+
+AuctionHelpers Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

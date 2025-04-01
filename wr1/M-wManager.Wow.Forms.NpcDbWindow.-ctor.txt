@@ -1,0 +1,19 @@
+WRobot
+
+NpcDbWindow Constructor 
+Initializes a new instance of the NpcDbWindow class. 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public NpcDbWindow()Public Sub Newpublic:
+NpcDbWindow()
+See Also
+
+
+NpcDbWindow Class
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

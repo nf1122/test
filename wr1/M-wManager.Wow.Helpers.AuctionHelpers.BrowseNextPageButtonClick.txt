@@ -1,0 +1,19 @@
+WRobot
+
+AuctionHelpers..::..BrowseNextPageButtonClick Method 
+Browses the next page button click. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void BrowseNextPageButtonClick()Public Shared Sub BrowseNextPageButtonClickpublic:
+static void BrowseNextPageButtonClick()
+See Also
+
+
+AuctionHelpers Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

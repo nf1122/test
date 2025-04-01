@@ -1,0 +1,28 @@
+WRobot
+
+AuctionHelpers..::..BrowseMinLevelSetText Method 
+Browses the minimum level set text. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void BrowseMinLevelSetText(
+	int level
+)Public Shared Sub BrowseMinLevelSetText ( _
+	level As Integer _
+)public:
+static void BrowseMinLevelSetText(
+	int^ level
+)Parameters
+level
+Type: Int32
+The level.
+See Also
+
+
+AuctionHelpers Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

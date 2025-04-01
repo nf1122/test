@@ -1,0 +1,52 @@
+WRobot
+
+AuctionHelpers..::..StartAuction Method 
+Starts the auction. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void StartAuction(
+	int minBid,
+	int buyoutPrice,
+	AuctionHelpers..::..Duration runTime,
+	int stackSize,
+	int numStacks
+)Public Shared Sub StartAuction ( _
+	minBid As Integer, _
+	buyoutPrice As Integer, _
+	runTime As AuctionHelpers..::..Duration, _
+	stackSize As Integer, _
+	numStacks As Integer _
+)public:
+static void StartAuction(
+	int^ minBid, 
+	int^ buyoutPrice, 
+	AuctionHelpers..::..Duration^ runTime, 
+	int^ stackSize, 
+	int^ numStacks
+)Parameters
+minBid
+Type: Int32
+The minimum bid.
+buyoutPrice
+Type: Int32
+The buyout price.
+runTime
+Type: wManager.Wow.Helpers..::..AuctionHelpers..::..Duration
+The run time.
+stackSize
+Type: Int32
+Size of the stack.
+numStacks
+Type: Int32
+The number stacks.
+See Also
+
+
+AuctionHelpers Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

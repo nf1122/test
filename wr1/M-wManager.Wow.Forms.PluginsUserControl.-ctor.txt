@@ -1,0 +1,19 @@
+WRobot
+
+PluginsUserControl Constructor 
+Initializes a new instance of the PluginsUserControl class. 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public PluginsUserControl()Public Sub Newpublic:
+PluginsUserControl()
+See Also
+
+
+PluginsUserControl Class
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

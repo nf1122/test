@@ -1,0 +1,29 @@
+WRobot
+
+Bag..::..PickupContainerItem Method (List<(Of <(<'Int32>)>)>)
+Pickups the container item. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void PickupContainerItem(
+	List<int> bagAndSlot
+)Public Shared Sub PickupContainerItem ( _
+	bagAndSlot As List(Of Integer) _
+)public:
+static void PickupContainerItem(
+	List<int^>^ bagAndSlot
+)Parameters
+bagAndSlot
+Type: List<(Of <(<'Int32>)>)>
+The bag and slot.
+See Also
+
+
+Bag Class
+PickupContainerItem Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

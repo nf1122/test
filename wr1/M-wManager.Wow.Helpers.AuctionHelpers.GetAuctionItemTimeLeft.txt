@@ -1,0 +1,31 @@
+WRobot
+
+AuctionHelpers..::..GetAuctionItemTimeLeft Method (Int32)
+Gets the auction item time left. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static AuctionHelpers..::..TimeLeft GetAuctionItemTimeLeft(
+	int id
+)Public Shared Function GetAuctionItemTimeLeft ( _
+	id As Integer _
+) As AuctionHelpers..::..TimeLeftpublic:
+static AuctionHelpers..::..TimeLeft^ GetAuctionItemTimeLeft(
+	int^ id
+)Parameters
+id
+Type: Int32
+The identifier.
+Return Value
+TimeLeft.
+See Also
+
+
+AuctionHelpers Class
+GetAuctionItemTimeLeft Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

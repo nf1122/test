@@ -1,0 +1,20 @@
+WRobot
+
+Battleground..::..GetCurrentBattleground Method 
+Get the current battleground ID. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static BattleGroundID GetCurrentBattleground()Public Shared Function GetCurrentBattleground As BattleGroundIDpublic:
+static BattleGroundID^ GetCurrentBattleground()Return Value
+BattleGroundID.
+See Also
+
+
+Battleground Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

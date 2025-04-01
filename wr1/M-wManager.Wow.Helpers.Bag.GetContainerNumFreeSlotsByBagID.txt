@@ -1,0 +1,31 @@
+WRobot
+
+Bag..::..GetContainerNumFreeSlotsByBagID Method (Int32)
+Get number of free slots by container id 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int GetContainerNumFreeSlotsByBagID(
+	int bagID
+)Public Shared Function GetContainerNumFreeSlotsByBagID ( _
+	bagID As Integer _
+) As Integerpublic:
+static int^ GetContainerNumFreeSlotsByBagID(
+	int^ bagID
+)Parameters
+bagID
+Type: Int32
+The bag id.
+Return Value
+System.Int32.
+See Also
+
+
+Bag Class
+GetContainerNumFreeSlotsByBagID Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

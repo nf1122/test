@@ -1,0 +1,20 @@
+WRobot
+
+Bag..::..BagCount Method 
+Count number of bags equipped 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int BagCount()Public Shared Function BagCount As Integerpublic:
+static int^ BagCount()Return Value
+System.Int32.
+See Also
+
+
+Bag Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

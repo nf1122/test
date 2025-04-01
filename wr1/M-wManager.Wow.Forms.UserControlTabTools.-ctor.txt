@@ -1,0 +1,19 @@
+WRobot
+
+UserControlTabTools Constructor 
+Initializes a new instance of the UserControlTabTools class. 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public UserControlTabTools()Public Sub Newpublic:
+UserControlTabTools()
+See Also
+
+
+UserControlTabTools Class
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,34 @@
+WRobot
+
+AuctionHelpers..::..PlaceAuctionBid Method 
+Places the auction bid. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void PlaceAuctionBid(
+	int index,
+	int bidPrice
+)Public Shared Sub PlaceAuctionBid ( _
+	index As Integer, _
+	bidPrice As Integer _
+)public:
+static void PlaceAuctionBid(
+	int^ index, 
+	int^ bidPrice
+)Parameters
+index
+Type: Int32
+The index.
+bidPrice
+Type: Int32
+The bid price.
+See Also
+
+
+AuctionHelpers Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

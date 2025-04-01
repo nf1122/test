@@ -1,0 +1,20 @@
+WRobot
+
+Guid128..::..ToString Method 
+Returns a String that represents this instance. 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string ToString()Public Function ToString As Stringpublic:
+String^ ToString()Return Value
+A String that represents this instance.
+See Also
+
+
+Guid128 Class
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

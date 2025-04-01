@@ -1,0 +1,29 @@
+WRobot
+
+OffMeshConnectionWindow Constructor (List<(Of <(<'OffMeshConnection>)>)>%)
+Initializes a new instance of the OffMeshConnectionWindow class. 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public OffMeshConnectionWindow(
+	ref List<PathFinder..::..OffMeshConnection> offMeshConnections
+)Public Sub New ( _
+	ByRef offMeshConnections As List(Of PathFinder..::..OffMeshConnection) _
+)public:
+OffMeshConnectionWindow(
+	List<PathFinder..::..OffMeshConnection^>^% offMeshConnections
+)Parameters
+offMeshConnections
+Type: List<(Of <(<'PathFinder..::..OffMeshConnection>)>)>%
+The off mesh connections.
+See Also
+
+
+OffMeshConnectionWindow Class
+OffMeshConnectionWindow Overload
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

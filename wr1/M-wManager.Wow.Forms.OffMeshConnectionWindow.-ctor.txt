@@ -1,0 +1,20 @@
+WRobot
+
+OffMeshConnectionWindow Constructor 
+Initializes a new instance of the OffMeshConnectionWindow class. 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public OffMeshConnectionWindow()Public Sub Newpublic:
+OffMeshConnectionWindow()
+See Also
+
+
+OffMeshConnectionWindow Class
+OffMeshConnectionWindow Overload
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

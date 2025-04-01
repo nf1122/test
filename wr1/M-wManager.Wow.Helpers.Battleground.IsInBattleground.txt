@@ -1,0 +1,20 @@
+WRobot
+
+Battleground..::..IsInBattleground Method 
+Determine whether is in battleground. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsInBattleground()Public Shared Function IsInBattleground As Booleanpublic:
+static bool^ IsInBattleground()Return Value
+true if is in battleground otherwise, false.
+See Also
+
+
+Battleground Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

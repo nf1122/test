@@ -1,0 +1,19 @@
+WRobot
+
+UserControlTabInGame Constructor 
+Initializes a new instance of the UserControlTabInGame class. 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public UserControlTabInGame()Public Sub Newpublic:
+UserControlTabInGame()
+See Also
+
+
+UserControlTabInGame Class
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

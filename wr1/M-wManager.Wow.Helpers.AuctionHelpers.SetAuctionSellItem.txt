@@ -1,0 +1,28 @@
+WRobot
+
+AuctionHelpers..::..SetAuctionSellItem Method 
+Sets the auction sell item. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool SetAuctionSellItem(
+	string itemName
+)Public Shared Function SetAuctionSellItem ( _
+	itemName As String _
+) As Booleanpublic:
+static bool^ SetAuctionSellItem(
+	String^ itemName
+)Parameters
+itemName
+Type: String
+Name of the item.
+See Also
+
+
+AuctionHelpers Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

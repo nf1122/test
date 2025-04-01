@@ -1,0 +1,28 @@
+WRobot
+
+AuctionHelpers..::..BrowseMaxLevelSetText Method 
+Browses the maximum level set text. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void BrowseMaxLevelSetText(
+	int level
+)Public Shared Sub BrowseMaxLevelSetText ( _
+	level As Integer _
+)public:
+static void BrowseMaxLevelSetText(
+	int^ level
+)Parameters
+level
+Type: Int32
+The level.
+See Also
+
+
+AuctionHelpers Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

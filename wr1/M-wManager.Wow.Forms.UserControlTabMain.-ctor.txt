@@ -1,0 +1,19 @@
+WRobot
+
+UserControlTabMain Constructor 
+Initializes a new instance of the UserControlTabMain class. 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public UserControlTabMain()Public Sub Newpublic:
+UserControlTabMain()
+See Also
+
+
+UserControlTabMain Class
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

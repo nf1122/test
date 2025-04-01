@@ -1,0 +1,19 @@
+WRobot
+
+UserControlTabGeneralSettings Constructor 
+Initializes a new instance of the UserControlTabGeneralSettings class. 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public UserControlTabGeneralSettings()Public Sub Newpublic:
+UserControlTabGeneralSettings()
+See Also
+
+
+UserControlTabGeneralSettings Class
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

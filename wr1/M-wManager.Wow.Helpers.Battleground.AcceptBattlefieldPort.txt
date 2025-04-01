@@ -1,0 +1,34 @@
+WRobot
+
+Battleground..::..AcceptBattlefieldPort Method 
+Confirms entry into a Battleground you are queued for that is ready. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void AcceptBattlefieldPort(
+	int index,
+	bool accept
+)Public Shared Sub AcceptBattlefieldPort ( _
+	index As Integer, _
+	accept As Boolean _
+)public:
+static void AcceptBattlefieldPort(
+	int^ index, 
+	bool^ accept
+)Parameters
+index
+Type: Int32
+The battlefield in queue to enter.
+accept
+Type: Boolean
+Whether or not to accept entry to the battlefield.
+See Also
+
+
+Battleground Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,28 @@
+WRobot
+
+AuctionHelpers..::..BrowseRaritySet Method 
+Browses the rarity set. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void BrowseRaritySet(
+	AuctionHelpers..::..Rarity rarity
+)Public Shared Sub BrowseRaritySet ( _
+	rarity As AuctionHelpers..::..Rarity _
+)public:
+static void BrowseRaritySet(
+	AuctionHelpers..::..Rarity^ rarity
+)Parameters
+rarity
+Type: wManager.Wow.Helpers..::..AuctionHelpers..::..Rarity
+The rarity.
+See Also
+
+
+AuctionHelpers Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,20 @@
+WRobot
+
+AuctionHelpers..::..GetSelectedAuctionItem Method 
+Gets the selected auction item. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int GetSelectedAuctionItem()Public Shared Function GetSelectedAuctionItem As Integerpublic:
+static int^ GetSelectedAuctionItem()Return Value
+System.Int32.
+See Also
+
+
+AuctionHelpers Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

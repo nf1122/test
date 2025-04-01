@@ -1,0 +1,19 @@
+WRobot
+
+AuctionHelpers..::..SelectAuctionsTab Method 
+Selects the auctions tab. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void SelectAuctionsTab()Public Shared Sub SelectAuctionsTabpublic:
+static void SelectAuctionsTab()
+See Also
+
+
+AuctionHelpers Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

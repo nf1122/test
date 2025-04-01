@@ -1,0 +1,28 @@
+WRobot
+
+AuctionHelpers..::..IsUsableCheckButtonSetChecked Method 
+Determines whether [is usable check button set checked] [the specified is checked]. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void IsUsableCheckButtonSetChecked(
+	bool isChecked
+)Public Shared Sub IsUsableCheckButtonSetChecked ( _
+	isChecked As Boolean _
+)public:
+static void IsUsableCheckButtonSetChecked(
+	bool^ isChecked
+)Parameters
+isChecked
+Type: Boolean
+if set to true [is checked].
+See Also
+
+
+AuctionHelpers Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

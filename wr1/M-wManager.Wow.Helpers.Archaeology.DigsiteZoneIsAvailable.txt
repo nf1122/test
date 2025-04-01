@@ -1,0 +1,28 @@
+WRobot
+
+Archaeology..::..DigsiteZoneIsAvailable Method 
+Check if the digsite zone is available (active, works only on current continent). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool DigsiteZoneIsAvailable(
+	Digsite digsitesZone
+)Public Shared Function DigsiteZoneIsAvailable ( _
+	digsitesZone As Digsite _
+) As Booleanpublic:
+static bool^ DigsiteZoneIsAvailable(
+	Digsite^ digsitesZone
+)Parameters
+digsitesZone
+Type: wManager.Wow.Class..::..Digsite
+The digsite.
+See Also
+
+
+Archaeology Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

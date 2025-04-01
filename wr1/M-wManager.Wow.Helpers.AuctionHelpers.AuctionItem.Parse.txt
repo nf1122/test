@@ -1,0 +1,30 @@
+WRobot
+
+AuctionItem..::..Parse Method 
+Parses the specified lua export. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static AuctionHelpers..::..AuctionItem Parse(
+	string luaExport
+)Public Shared Function Parse ( _
+	luaExport As String _
+) As AuctionHelpers..::..AuctionItempublic:
+static AuctionHelpers..::..AuctionItem^ Parse(
+	String^ luaExport
+)Parameters
+luaExport
+Type: String
+The lua export.
+Return Value
+AuctionItem.
+See Also
+
+
+AuctionHelpers..::..AuctionItem Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

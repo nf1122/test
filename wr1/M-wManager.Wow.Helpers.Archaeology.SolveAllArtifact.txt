@@ -1,0 +1,28 @@
+WRobot
+
+Archaeology..::..SolveAllArtifact Method 
+Solves all artifact. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool SolveAllArtifact(
+	bool completeFragments
+)Public Shared Function SolveAllArtifact ( _
+	completeFragments As Boolean _
+) As Booleanpublic:
+static bool^ SolveAllArtifact(
+	bool^ completeFragments
+)Parameters
+completeFragments
+Type: Boolean
+if set to true complete fragments.
+See Also
+
+
+Archaeology Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

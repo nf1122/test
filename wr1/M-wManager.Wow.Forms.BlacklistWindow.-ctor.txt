@@ -1,0 +1,19 @@
+WRobot
+
+BlacklistWindow Constructor 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public BlacklistWindow()Public Sub Newpublic:
+BlacklistWindow()
+See Also
+
+
+BlacklistWindow Class
+BlacklistWindow Overload
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

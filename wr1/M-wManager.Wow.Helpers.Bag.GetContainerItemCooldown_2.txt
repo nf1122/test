@@ -1,0 +1,31 @@
+WRobot
+
+Bag..::..GetContainerItemCooldown Method (List<(Of <(<'Int32>)>)>)
+Gets the container item cooldown. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int GetContainerItemCooldown(
+	List<int> bagAndSlot
+)Public Shared Function GetContainerItemCooldown ( _
+	bagAndSlot As List(Of Integer) _
+) As Integerpublic:
+static int^ GetContainerItemCooldown(
+	List<int^>^ bagAndSlot
+)Parameters
+bagAndSlot
+Type: List<(Of <(<'Int32>)>)>
+The bag and slot.
+Return Value
+System.Int32.
+See Also
+
+
+Bag Class
+GetContainerItemCooldown Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

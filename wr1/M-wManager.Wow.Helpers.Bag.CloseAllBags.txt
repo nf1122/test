@@ -1,0 +1,19 @@
+WRobot
+
+Bag..::..CloseAllBags Method 
+Closes all bags. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void CloseAllBags()Public Shared Sub CloseAllBagspublic:
+static void CloseAllBags()
+See Also
+
+
+Bag Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,34 @@
+WRobot
+
+Battleground..::..JointBattleGroundQueue Method 
+Queues the player, or the player's group, for a battlefield instance. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void JointBattleGroundQueue(
+	BattleGroundID id,
+	bool asGroup
+)Public Shared Sub JointBattleGroundQueue ( _
+	id As BattleGroundID, _
+	asGroup As Boolean _
+)public:
+static void JointBattleGroundQueue(
+	BattleGroundID^ id, 
+	bool^ asGroup
+)Parameters
+id
+Type: wManager.Wow.Enums..::..BattleGroundID
+Which battlefield instance to queue for (0 for first available), or which arena bracket to queue for.
+asGroup
+Type: Boolean
+If true-equivalent, the player's group is queued for the battlefield, otherwise, only the player is queued.
+See Also
+
+
+Battleground Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

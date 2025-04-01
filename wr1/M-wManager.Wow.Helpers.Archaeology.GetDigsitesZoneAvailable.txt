@@ -1,0 +1,20 @@
+WRobot
+
+Archaeology..::..GetDigsitesZoneAvailable Method 
+Gets the digsites zone available (active in game and in current continent). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<Digsite> GetDigsitesZoneAvailable()Public Shared Function GetDigsitesZoneAvailable As List(Of Digsite)public:
+static List<Digsite^>^ GetDigsitesZoneAvailable()Return Value
+List<Digsite>.
+See Also
+
+
+Archaeology Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

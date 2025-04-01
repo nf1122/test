@@ -1,0 +1,19 @@
+WRobot
+
+AuctionHelpers..::..BrowsePrevPageButtonIsEnabled Method 
+Browses the previous page button is enabled. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool BrowsePrevPageButtonIsEnabled()Public Shared Function BrowsePrevPageButtonIsEnabled As Booleanpublic:
+static bool^ BrowsePrevPageButtonIsEnabled()
+See Also
+
+
+AuctionHelpers Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

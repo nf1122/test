@@ -1,0 +1,19 @@
+WRobot
+
+AuctionHelpers..::..BrowseNextPageButtonIsEnabled Method 
+Browses the next page button is enabled. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool BrowseNextPageButtonIsEnabled()Public Shared Function BrowseNextPageButtonIsEnabled As Booleanpublic:
+static bool^ BrowseNextPageButtonIsEnabled()
+See Also
+
+
+AuctionHelpers Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

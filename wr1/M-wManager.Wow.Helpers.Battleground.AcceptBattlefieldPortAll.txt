@@ -1,0 +1,19 @@
+WRobot
+
+Battleground..::..AcceptBattlefieldPortAll Method 
+Accept all AcceptBattlefieldPort(Int32, Boolean) index. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void AcceptBattlefieldPortAll()Public Shared Sub AcceptBattlefieldPortAllpublic:
+static void AcceptBattlefieldPortAll()
+See Also
+
+
+Battleground Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

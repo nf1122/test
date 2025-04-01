@@ -1,0 +1,28 @@
+WRobot
+
+AuctionHelpers..::..BrowseNameSetText Method 
+Browses the name set text. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void BrowseNameSetText(
+	string text
+)Public Shared Sub BrowseNameSetText ( _
+	text As String _
+)public:
+static void BrowseNameSetText(
+	String^ text
+)Parameters
+text
+Type: String
+The text.
+See Also
+
+
+AuctionHelpers Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

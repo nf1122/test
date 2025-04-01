@@ -1,0 +1,20 @@
+WRobot
+
+Battleground..::..BattlegroundIsStarted Method 
+Battleground is started. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool BattlegroundIsStarted()Public Shared Function BattlegroundIsStarted As Booleanpublic:
+static bool^ BattlegroundIsStarted()Return Value
+true if is started (doors open), false otherwise.
+See Also
+
+
+Battleground Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

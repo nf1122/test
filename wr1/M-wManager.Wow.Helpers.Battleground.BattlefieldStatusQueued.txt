@@ -1,0 +1,20 @@
+WRobot
+
+Battleground..::..BattlefieldStatusQueued Method 
+Status of battleground queue (value can change on several game version, but example 0 generally means that the bot is not in the queue and not in battleground). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool BattlefieldStatusQueued()Public Shared Function BattlefieldStatusQueued As Booleanpublic:
+static bool^ BattlefieldStatusQueued()Return Value
+System.Int32.
+See Also
+
+
+Battleground Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

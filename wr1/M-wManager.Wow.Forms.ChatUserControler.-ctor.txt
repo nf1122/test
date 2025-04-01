@@ -1,0 +1,19 @@
+WRobot
+
+ChatUserControler Constructor 
+Initializes a new instance of the ChatUserControler class. 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public ChatUserControler()Public Sub Newpublic:
+ChatUserControler()
+See Also
+
+
+ChatUserControler Class
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

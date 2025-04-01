@@ -1,0 +1,19 @@
+WRobot
+
+AuctionHelpers..::..BrowsePrevPageButtonClick Method 
+Browses the previous page button click. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void BrowsePrevPageButtonClick()Public Shared Sub BrowsePrevPageButtonClickpublic:
+static void BrowsePrevPageButtonClick()
+See Also
+
+
+AuctionHelpers Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

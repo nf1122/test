@@ -1,0 +1,19 @@
+WRobot
+
+Bag..::..PutSelectedItemInBag Method 
+Puts the selected item in bag. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void PutSelectedItemInBag()Public Shared Sub PutSelectedItemInBagpublic:
+static void PutSelectedItemInBag()
+See Also
+
+
+Bag Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

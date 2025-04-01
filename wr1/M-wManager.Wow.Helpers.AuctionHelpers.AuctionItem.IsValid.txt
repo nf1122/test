@@ -1,0 +1,20 @@
+WRobot
+
+AuctionItem..::..IsValid Method 
+Returns true if ... is valid. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsValid()Public Function IsValid As Booleanpublic:
+bool^ IsValid()Return Value
+true if this instance is valid; otherwise, false.
+See Also
+
+
+AuctionHelpers..::..AuctionItem Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

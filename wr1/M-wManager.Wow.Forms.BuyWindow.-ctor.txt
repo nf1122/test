@@ -1,0 +1,19 @@
+WRobot
+
+BuyWindow Constructor 
+Initializes a new instance of the BuyWindow class. 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public BuyWindow()Public Sub Newpublic:
+BuyWindow()
+See Also
+
+
+BuyWindow Class
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

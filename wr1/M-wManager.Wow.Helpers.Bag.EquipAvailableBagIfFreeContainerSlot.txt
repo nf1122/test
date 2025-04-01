@@ -1,0 +1,20 @@
+WRobot
+
+Bag..::..EquipAvailableBagIfFreeContainerSlot Method 
+Equips the best available bag if free container slot. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool EquipAvailableBagIfFreeContainerSlot()Public Shared Function EquipAvailableBagIfFreeContainerSlot As Booleanpublic:
+static bool^ EquipAvailableBagIfFreeContainerSlot()Return Value
+true if bag equipped, false otherwise.
+See Also
+
+
+Bag Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

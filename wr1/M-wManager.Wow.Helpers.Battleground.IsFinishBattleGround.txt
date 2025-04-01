@@ -1,0 +1,20 @@
+WRobot
+
+Battleground..::..IsFinishBattleGround Method 
+Determines whether battleground is finish. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsFinishBattleGround()Public Shared Function IsFinishBattleGround As Booleanpublic:
+static bool^ IsFinishBattleGround()Return Value
+true if battleground is finish otherwise, false.
+See Also
+
+
+Battleground Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

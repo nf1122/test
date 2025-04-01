@@ -1,0 +1,30 @@
+WRobot
+
+AuctionHelpers..::..PlayerAuctionsCountStacksByItemName Method 
+Players the name of the auctions count stacks by item. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int PlayerAuctionsCountStacksByItemName(
+	string itemName
+)Public Shared Function PlayerAuctionsCountStacksByItemName ( _
+	itemName As String _
+) As Integerpublic:
+static int^ PlayerAuctionsCountStacksByItemName(
+	String^ itemName
+)Parameters
+itemName
+Type: String
+Name of the item.
+Return Value
+System.Int32.
+See Also
+
+
+AuctionHelpers Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

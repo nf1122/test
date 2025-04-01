@@ -1,0 +1,19 @@
+WRobot
+
+UserControlMiniMap Constructor 
+Initializes a new instance of the UserControlMiniMap class. 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public UserControlMiniMap()Public Sub Newpublic:
+UserControlMiniMap()
+See Also
+
+
+UserControlMiniMap Class
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+AuctionHelpers..::..ResetAuctionFrameBrowse Method 
+Resets the auction frame browse. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void ResetAuctionFrameBrowse()Public Shared Sub ResetAuctionFrameBrowsepublic:
+static void ResetAuctionFrameBrowse()
+See Also
+
+
+AuctionHelpers Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

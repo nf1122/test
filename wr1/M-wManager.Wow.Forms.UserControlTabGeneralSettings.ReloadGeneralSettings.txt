@@ -1,0 +1,19 @@
+WRobot
+
+UserControlTabGeneralSettings..::..ReloadGeneralSettings Method 
+Reloads the general settings. 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void ReloadGeneralSettings()Public Shared Sub ReloadGeneralSettingspublic:
+static void ReloadGeneralSettings()
+See Also
+
+
+UserControlTabGeneralSettings Class
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

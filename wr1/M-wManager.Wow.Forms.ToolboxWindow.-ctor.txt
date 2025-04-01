@@ -1,0 +1,19 @@
+WRobot
+
+ToolboxWindow Constructor 
+Initializes a new instance of the ToolboxWindow class. 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public ToolboxWindow()Public Sub Newpublic:
+ToolboxWindow()
+See Also
+
+
+ToolboxWindow Class
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

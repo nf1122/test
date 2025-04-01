@@ -1,0 +1,28 @@
+WRobot
+
+AuctionHelpers..::..SelectAuctionItem Method 
+Selects the auction item. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool SelectAuctionItem(
+	int id
+)Public Shared Function SelectAuctionItem ( _
+	id As Integer _
+) As Booleanpublic:
+static bool^ SelectAuctionItem(
+	int^ id
+)Parameters
+id
+Type: Int32
+The identifier.
+See Also
+
+
+AuctionHelpers Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

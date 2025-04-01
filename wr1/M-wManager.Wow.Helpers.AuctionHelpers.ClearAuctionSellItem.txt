@@ -1,0 +1,19 @@
+WRobot
+
+AuctionHelpers..::..ClearAuctionSellItem Method 
+Clears the auction sell item. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void ClearAuctionSellItem()Public Shared Sub ClearAuctionSellItempublic:
+static void ClearAuctionSellItem()
+See Also
+
+
+AuctionHelpers Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+TaxiDbWindow Constructor 
+Initializes a new instance of the TaxiDbWindow class. 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public TaxiDbWindow()Public Sub Newpublic:
+TaxiDbWindow()
+See Also
+
+
+TaxiDbWindow Class
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

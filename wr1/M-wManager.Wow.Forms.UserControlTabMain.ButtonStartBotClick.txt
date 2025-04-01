@@ -1,0 +1,34 @@
+WRobot
+
+UserControlTabMain..::..ButtonStartBotClick Method 
+Buttons the start bot click. 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public void ButtonStartBotClick(
+	Object sender,
+	RoutedEventArgs e
+)Public Sub ButtonStartBotClick ( _
+	sender As Object, _
+	e As RoutedEventArgs _
+)public:
+void ButtonStartBotClick(
+	Object^ sender, 
+	RoutedEventArgs^ e
+)Parameters
+sender
+Type: Object
+The sender.
+e
+Type: RoutedEventArgs
+The RoutedEventArgs instance containing the event data.
+See Also
+
+
+UserControlTabMain Class
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

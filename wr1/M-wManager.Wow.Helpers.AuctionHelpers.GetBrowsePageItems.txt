@@ -1,0 +1,30 @@
+WRobot
+
+AuctionHelpers..::..GetBrowsePageItems Method 
+Gets the browse page items. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<AuctionHelpers..::..AuctionItem> GetBrowsePageItems(
+	string type
+)Public Shared Function GetBrowsePageItems ( _
+	type As String _
+) As List(Of AuctionHelpers..::..AuctionItem)public:
+static List<AuctionHelpers..::..AuctionItem^>^ GetBrowsePageItems(
+	String^ type
+)Parameters
+type
+Type: String
+The type.
+Return Value
+List<AuctionItem>.
+See Also
+
+
+AuctionHelpers Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,40 @@
+WRobot
+
+BlacklistWindow Constructor (List<(Of <(<'Blackspot>)>)>, List<(Of <(<'BlackNpc>)>)>, List<(Of <(<'BlackNpcType>)>)>)
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public BlacklistWindow(
+	List<BlackListSerializable..::..Blackspot> spots,
+	List<BlackListSerializable..::..BlackNpc> npcs,
+	List<BlackListSerializable..::..BlackNpcType> types
+)Public Sub New ( _
+	spots As List(Of BlackListSerializable..::..Blackspot), _
+	npcs As List(Of BlackListSerializable..::..BlackNpc), _
+	types As List(Of BlackListSerializable..::..BlackNpcType) _
+)public:
+BlacklistWindow(
+	List<BlackListSerializable..::..Blackspot^>^ spots, 
+	List<BlackListSerializable..::..BlackNpc^>^ npcs, 
+	List<BlackListSerializable..::..BlackNpcType^>^ types
+)Parameters
+spots
+Type: List<(Of <(<'BlackListSerializable..::..Blackspot>)>)>
+
+npcs
+Type: List<(Of <(<'BlackListSerializable..::..BlackNpc>)>)>
+
+types
+Type: List<(Of <(<'BlackListSerializable..::..BlackNpcType>)>)>
+
+See Also
+
+
+BlacklistWindow Class
+BlacklistWindow Overload
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

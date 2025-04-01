@@ -1,0 +1,19 @@
+WRobot
+
+AuctionHelpers..::..SelectBrowseTab Method 
+Selects the browse tab. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void SelectBrowseTab()Public Shared Sub SelectBrowseTabpublic:
+static void SelectBrowseTab()
+See Also
+
+
+AuctionHelpers Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

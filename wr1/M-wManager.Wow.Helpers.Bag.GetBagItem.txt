@@ -1,0 +1,20 @@
+WRobot
+
+Bag..::..GetBagItem Method 
+Gets the bag item. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWItem> GetBagItem()Public Shared Function GetBagItem As List(Of WoWItem)public:
+static List<WoWItem^>^ GetBagItem()Return Value
+List<WoWItem>.
+See Also
+
+
+Bag Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

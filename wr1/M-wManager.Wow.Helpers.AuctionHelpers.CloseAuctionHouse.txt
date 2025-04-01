@@ -1,0 +1,19 @@
+WRobot
+
+AuctionHelpers..::..CloseAuctionHouse Method 
+Closes the auction house. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void CloseAuctionHouse()Public Shared Sub CloseAuctionHousepublic:
+static void CloseAuctionHouse()
+See Also
+
+
+AuctionHelpers Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

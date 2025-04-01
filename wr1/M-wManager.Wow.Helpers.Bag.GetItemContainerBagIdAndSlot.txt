@@ -1,0 +1,31 @@
+WRobot
+
+Bag..::..GetItemContainerBagIdAndSlot Method (Int32)
+Get container bag id and bag slot id which contains the chosen item 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<int> GetItemContainerBagIdAndSlot(
+	int itemId
+)Public Shared Function GetItemContainerBagIdAndSlot ( _
+	itemId As Integer _
+) As List(Of Integer)public:
+static List<int^>^ GetItemContainerBagIdAndSlot(
+	int^ itemId
+)Parameters
+itemId
+Type: Int32
+The item id.
+Return Value
+List<System.Int32>.
+See Also
+
+
+Bag Class
+GetItemContainerBagIdAndSlot Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

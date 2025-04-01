@@ -1,0 +1,20 @@
+WRobot
+
+Archaeology..::..GetAllDigsitesZone Method 
+Gets all digsites (list saved in the file "WRobot\Data\Digsites.xml") 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<Digsite> GetAllDigsitesZone()Public Shared Function GetAllDigsitesZone As List(Of Digsite)public:
+static List<Digsite^>^ GetAllDigsitesZone()Return Value
+List<Digsite>.
+See Also
+
+
+Archaeology Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

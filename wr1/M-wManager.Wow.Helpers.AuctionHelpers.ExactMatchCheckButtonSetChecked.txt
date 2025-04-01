@@ -1,0 +1,28 @@
+WRobot
+
+AuctionHelpers..::..ExactMatchCheckButtonSetChecked Method 
+Exacts the match check button set checked. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void ExactMatchCheckButtonSetChecked(
+	bool isChecked
+)Public Shared Sub ExactMatchCheckButtonSetChecked ( _
+	isChecked As Boolean _
+)public:
+static void ExactMatchCheckButtonSetChecked(
+	bool^ isChecked
+)Parameters
+isChecked
+Type: Boolean
+if set to true [is checked].
+See Also
+
+
+AuctionHelpers Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

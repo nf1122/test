@@ -1,0 +1,20 @@
+WRobot
+
+Battleground..::..GetNumberActiveQueue Method 
+Gets the number active battleground queue. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int GetNumberActiveQueue()Public Shared Function GetNumberActiveQueue As Integerpublic:
+static int^ GetNumberActiveQueue()Return Value
+System.Int32.
+See Also
+
+
+Battleground Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

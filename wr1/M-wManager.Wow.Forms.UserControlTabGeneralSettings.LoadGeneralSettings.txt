@@ -1,0 +1,19 @@
+WRobot
+
+UserControlTabGeneralSettings..::..LoadGeneralSettings Method 
+Loads the general settings. 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public void LoadGeneralSettings()Public Sub LoadGeneralSettingspublic:
+void LoadGeneralSettings()
+See Also
+
+
+UserControlTabGeneralSettings Class
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+Bag..::..ForceResetNumFreeSlotsCache Method 
+Forces the reset cache of GetContainerNumFreeSlots and GetContainerNumFreeSlotsNormalType
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void ForceResetNumFreeSlotsCache()Public Shared Sub ForceResetNumFreeSlotsCachepublic:
+static void ForceResetNumFreeSlotsCache()
+See Also
+
+
+Bag Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

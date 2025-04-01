@@ -1,0 +1,19 @@
+WRobot
+
+AuctionHelpers..::..BuyoutBidPopupIsShown Method 
+Buyouts the bid popup is shown. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool BuyoutBidPopupIsShown()Public Shared Function BuyoutBidPopupIsShown As Booleanpublic:
+static bool^ BuyoutBidPopupIsShown()
+See Also
+
+
+AuctionHelpers Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 
