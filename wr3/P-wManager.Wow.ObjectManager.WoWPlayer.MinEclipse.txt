@@ -1,0 +1,21 @@
+WRobot
+
+WoWPlayer..::..MinEclipse Property 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int MinEclipse { get; }Public ReadOnly Property MinEclipse As Integer
+	Getpublic:
+property int^ MinEclipse {
+	int^ get ();
+}
+See Also
+
+
+WoWPlayer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

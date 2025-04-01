@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..ArcaneChargesPercentage Property 
+Gets the arcane charges percentage. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint ArcaneChargesPercentage { get; }Public ReadOnly Property ArcaneChargesPercentage As UInteger
+	Getpublic:
+property unsigned int^ ArcaneChargesPercentage {
+	unsigned int^ get ();
+}Field Value
+The arcane charges percentage.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

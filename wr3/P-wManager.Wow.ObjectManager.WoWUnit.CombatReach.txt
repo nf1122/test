@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..CombatReach Property 
+Gets the combat reach. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float CombatReach { get; }Public ReadOnly Property CombatReach As Single
+	Getpublic:
+property float^ CombatReach {
+	float^ get ();
+}Field Value
+The combat reach.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

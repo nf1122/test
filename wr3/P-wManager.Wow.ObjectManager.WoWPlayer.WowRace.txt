@@ -1,0 +1,23 @@
+WRobot
+
+WoWPlayer..::..WowRace Property 
+Gets the wow race. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public WoWRace WowRace { get; }Public ReadOnly Property WowRace As WoWRace
+	Getpublic:
+property WoWRace^ WowRace {
+	WoWRace^ get ();
+}Field Value
+The wow race.
+See Also
+
+
+WoWPlayer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

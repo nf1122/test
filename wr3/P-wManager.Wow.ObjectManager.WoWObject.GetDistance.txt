@@ -1,0 +1,23 @@
+WRobot
+
+WoWObject..::..GetDistance Property 
+Gets the distance (from local character). 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public virtual float GetDistance { get; }Public Overridable ReadOnly Property GetDistance As Single
+	Getpublic:
+virtual property float^ GetDistance {
+	float^ get ();
+}Field Value
+The distance.
+See Also
+
+
+WoWObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,23 @@
+WRobot
+
+WoWLocalPlayer..::..IsInParty Property 
+Gets a value indicating whethe is in party. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsInParty { get; }Public ReadOnly Property IsInParty As Boolean
+	Getpublic:
+property bool^ IsInParty {
+	bool^ get ();
+}Field Value
+true if is in party; otherwise, false.
+See Also
+
+
+WoWLocalPlayer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

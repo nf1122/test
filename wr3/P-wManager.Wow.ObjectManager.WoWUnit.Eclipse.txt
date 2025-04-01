@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..Eclipse Property 
+Gets the Eclipse. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int Eclipse { get; }Public ReadOnly Property Eclipse As Integer
+	Getpublic:
+property int^ Eclipse {
+	int^ get ();
+}Field Value
+The Eclipse.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

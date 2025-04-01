@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..DemonicFuryPercentage Property 
+Gets the Demonic Fury percentage. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint DemonicFuryPercentage { get; }Public ReadOnly Property DemonicFuryPercentage As UInteger
+	Getpublic:
+property unsigned int^ DemonicFuryPercentage {
+	unsigned int^ get ();
+}Field Value
+The Demonic Fury percentage.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

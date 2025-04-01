@@ -1,0 +1,23 @@
+WRobot
+
+WoWObject..::..GetDescriptorStartAddress Property 
+Gets the descriptor start address. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint GetDescriptorStartAddress { get; }Public ReadOnly Property GetDescriptorStartAddress As UInteger
+	Getpublic:
+property unsigned int^ GetDescriptorStartAddress {
+	unsigned int^ get ();
+}Field Value
+The descriptor start address.
+See Also
+
+
+WoWObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

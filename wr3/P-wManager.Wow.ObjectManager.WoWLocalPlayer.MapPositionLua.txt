@@ -1,0 +1,23 @@
+WRobot
+
+WoWLocalPlayer..::..MapPositionLua Property 
+Gets the map position lua (X = MapPositionLua[0], Y = MapPositionLua[1]). 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string[] MapPositionLua { get; }Public ReadOnly Property MapPositionLua As String()
+	Getpublic:
+property array<String^>^ MapPositionLua {
+	array<String^>^ get ();
+}Field Value
+The map position lua.
+See Also
+
+
+WoWLocalPlayer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

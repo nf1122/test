@@ -1,0 +1,23 @@
+WRobot
+
+WoWPlayer..::..IsAlliance Property 
+Gets a value indicating whether is in alliance. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsAlliance { get; }Public ReadOnly Property IsAlliance As Boolean
+	Getpublic:
+property bool^ IsAlliance {
+	bool^ get ();
+}Field Value
+true if is in alliance; otherwise, false.
+See Also
+
+
+WoWPlayer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

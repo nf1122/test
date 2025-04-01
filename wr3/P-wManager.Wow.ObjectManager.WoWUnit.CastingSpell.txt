@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..CastingSpell Property 
+Gets the casting spell. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Spell CastingSpell { get; }Public ReadOnly Property CastingSpell As Spell
+	Getpublic:
+property Spell^ CastingSpell {
+	Spell^ get ();
+}Field Value
+The casting spell.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

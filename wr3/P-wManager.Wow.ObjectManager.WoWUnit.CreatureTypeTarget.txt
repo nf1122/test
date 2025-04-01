@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..CreatureTypeTarget Property 
+Gets the creature type target (work only in unit is your current target). 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string CreatureTypeTarget { get; }Public ReadOnly Property CreatureTypeTarget As String
+	Getpublic:
+property String^ CreatureTypeTarget {
+	String^ get ();
+}Field Value
+The creature type target.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

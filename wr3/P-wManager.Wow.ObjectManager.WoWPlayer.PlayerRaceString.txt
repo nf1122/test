@@ -1,0 +1,23 @@
+WRobot
+
+WoWPlayer..::..PlayerRaceString Property 
+Gets the player race string. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string PlayerRaceString { get; }Public ReadOnly Property PlayerRaceString As String
+	Getpublic:
+property String^ PlayerRaceString {
+	String^ get ();
+}Field Value
+The player race string.
+See Also
+
+
+WoWPlayer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

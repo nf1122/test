@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..CastingTimeLeft Property 
+Gets the casting time left (in milliseconds). 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int CastingTimeLeft { get; }Public ReadOnly Property CastingTimeLeft As Integer
+	Getpublic:
+property int^ CastingTimeLeft {
+	int^ get ();
+}Field Value
+The casting time left (in milliseconds).
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

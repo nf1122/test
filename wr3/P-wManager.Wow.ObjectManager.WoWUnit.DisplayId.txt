@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..DisplayId Property 
+Gets the display id. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint DisplayId { get; }Public ReadOnly Property DisplayId As UInteger
+	Getpublic:
+property unsigned int^ DisplayId {
+	unsigned int^ get ();
+}Field Value
+The display id.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

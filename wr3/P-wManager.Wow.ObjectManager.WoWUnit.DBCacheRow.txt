@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..DBCacheRow Property 
+Gets the database cache row. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint DBCacheRow { get; }Public ReadOnly Property DBCacheRow As UInteger
+	Getpublic:
+property unsigned int^ DBCacheRow {
+	unsigned int^ get ();
+}Field Value
+The database cache row.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

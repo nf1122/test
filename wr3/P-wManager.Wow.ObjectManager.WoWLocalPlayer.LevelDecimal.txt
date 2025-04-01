@@ -1,0 +1,23 @@
+WRobot
+
+WoWLocalPlayer..::..LevelDecimal Property 
+Gets level decimal (Level + Experience / ExperienceMax). 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public double LevelDecimal { get; }Public ReadOnly Property LevelDecimal As Double
+	Getpublic:
+property double^ LevelDecimal {
+	double^ get ();
+}Field Value
+The level decimal.
+See Also
+
+
+WoWLocalPlayer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

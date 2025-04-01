@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..ArcaneCharges Property 
+Gets the arcane charges. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint ArcaneCharges { get; }Public ReadOnly Property ArcaneCharges As UInteger
+	Getpublic:
+property unsigned int^ ArcaneCharges {
+	unsigned int^ get ();
+}Field Value
+The arcane charges.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

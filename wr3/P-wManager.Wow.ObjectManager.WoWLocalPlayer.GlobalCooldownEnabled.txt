@@ -1,0 +1,23 @@
+WRobot
+
+WoWLocalPlayer..::..GlobalCooldownEnabled Property 
+Gets a value indicating whether global cooldown enabled. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool GlobalCooldownEnabled { get; }Public ReadOnly Property GlobalCooldownEnabled As Boolean
+	Getpublic:
+property bool^ GlobalCooldownEnabled {
+	bool^ get ();
+}Field Value
+true if global cooldown is enabled; otherwise, false.
+See Also
+
+
+WoWLocalPlayer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

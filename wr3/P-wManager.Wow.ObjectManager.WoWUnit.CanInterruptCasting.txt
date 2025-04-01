@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..CanInterruptCasting Property 
+Gets a value indicating whether can interrupt casting. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool CanInterruptCasting { get; }Public ReadOnly Property CanInterruptCasting As Boolean
+	Getpublic:
+property bool^ CanInterruptCasting {
+	bool^ get ();
+}Field Value
+true if can interrupt casting; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

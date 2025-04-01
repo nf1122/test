@@ -1,0 +1,21 @@
+WRobot
+
+WoWPlayer..::..Eclipse Property 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int Eclipse { get; }Public ReadOnly Property Eclipse As Integer
+	Getpublic:
+property int^ Eclipse {
+	int^ get ();
+}
+See Also
+
+
+WoWPlayer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

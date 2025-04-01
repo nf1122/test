@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..BurningEmbersPercentage Property 
+Gets the Burning Embers percentage. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint BurningEmbersPercentage { get; }Public ReadOnly Property BurningEmbersPercentage As UInteger
+	Getpublic:
+property unsigned int^ BurningEmbersPercentage {
+	unsigned int^ get ();
+}Field Value
+The Burning Embers percentage.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

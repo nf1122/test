@@ -1,0 +1,23 @@
+WRobot
+
+WoWObject..::..Position Property 
+Gets the position. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public virtual Vector3 Position { get; }Public Overridable ReadOnly Property Position As Vector3
+	Getpublic:
+virtual property Vector3^ Position {
+	Vector3^ get ();
+}Field Value
+The position.
+See Also
+
+
+WoWObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

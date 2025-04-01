@@ -1,0 +1,23 @@
+WRobot
+
+WoWLocalPlayer..::..GetWeaponDurabilityPercent Property 
+Gets the weapon durability percent. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public double GetWeaponDurabilityPercent { get; }Public ReadOnly Property GetWeaponDurabilityPercent As Double
+	Getpublic:
+property double^ GetWeaponDurabilityPercent {
+	double^ get ();
+}Field Value
+The weapon durability percent.
+See Also
+
+
+WoWLocalPlayer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,21 @@
+WRobot
+
+WoWPlayer..::..EclipsePercentage Property 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int EclipsePercentage { get; }Public ReadOnly Property EclipsePercentage As Integer
+	Getpublic:
+property int^ EclipsePercentage {
+	int^ get ();
+}
+See Also
+
+
+WoWPlayer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..ChiPercentage Property 
+Gets the chi percentage. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint ChiPercentage { get; }Public ReadOnly Property ChiPercentage As UInteger
+	Getpublic:
+property unsigned int^ ChiPercentage {
+	unsigned int^ get ();
+}Field Value
+The chi percentage.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

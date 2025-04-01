@@ -1,0 +1,23 @@
+WRobot
+
+WoWObject..::..Scale Property 
+Gets the scale. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float Scale { get; }Public ReadOnly Property Scale As Single
+	Getpublic:
+property float^ Scale {
+	float^ get ();
+}Field Value
+The scale.
+See Also
+
+
+WoWObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

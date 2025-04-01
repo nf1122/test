@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..EnergyPercentage Property 
+Gets the energy percentage. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint EnergyPercentage { get; }Public ReadOnly Property EnergyPercentage As UInteger
+	Getpublic:
+property unsigned int^ EnergyPercentage {
+	unsigned int^ get ();
+}Field Value
+The energy percentage.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

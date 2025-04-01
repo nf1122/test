@@ -1,0 +1,23 @@
+WRobot
+
+WoWObject..::..BaseAddress Property 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+protected uint BaseAddress { get; set; }Protected Property BaseAddress As UInteger
+	Get
+	Setprotected:
+property unsigned int^ BaseAddress {
+	unsigned int^ get ();
+	void set (unsigned int^ value);
+}
+See Also
+
+
+WoWObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

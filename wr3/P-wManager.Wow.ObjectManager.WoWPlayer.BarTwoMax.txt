@@ -1,0 +1,23 @@
+WRobot
+
+WoWPlayer..::..BarTwoMax Property 
+Gets the bar two max value. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint BarTwoMax { get; }Public ReadOnly Property BarTwoMax As UInteger
+	Getpublic:
+property unsigned int^ BarTwoMax {
+	unsigned int^ get ();
+}Field Value
+The bar two max value.
+See Also
+
+
+WoWPlayer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

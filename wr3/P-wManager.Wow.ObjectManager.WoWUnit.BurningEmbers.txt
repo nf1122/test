@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..BurningEmbers Property 
+Gets the Burning Embers. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint BurningEmbers { get; }Public ReadOnly Property BurningEmbers As UInteger
+	Getpublic:
+property unsigned int^ BurningEmbers {
+	unsigned int^ get ();
+}Field Value
+The Burning Embers.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

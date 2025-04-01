@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..Focus Property 
+Gets the focus. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint Focus { get; }Public ReadOnly Property Focus As UInteger
+	Getpublic:
+property unsigned int^ Focus {
+	unsigned int^ get ();
+}Field Value
+The focus.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

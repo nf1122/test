@@ -1,0 +1,23 @@
+WRobot
+
+WoWPlayer..::..ComboPoint Property 
+Gets the combo point. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int ComboPoint { get; }Public ReadOnly Property ComboPoint As Integer
+	Getpublic:
+property int^ ComboPoint {
+	int^ get ();
+}Field Value
+The combo point.
+See Also
+
+
+WoWPlayer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

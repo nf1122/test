@@ -1,0 +1,23 @@
+WRobot
+
+WoWObject..::..Type Property 
+Gets the type. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public WoWObjectType Type { get; }Public ReadOnly Property Type As WoWObjectType
+	Getpublic:
+property WoWObjectType^ Type {
+	WoWObjectType^ get ();
+}Field Value
+The type.
+See Also
+
+
+WoWObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

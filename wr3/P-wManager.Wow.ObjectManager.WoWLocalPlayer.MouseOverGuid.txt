@@ -1,0 +1,25 @@
+WRobot
+
+WoWLocalPlayer..::..MouseOverGuid Property 
+Gets or sets the mouse over GUID. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public ulong MouseOverGuid { get; set; }Public Property MouseOverGuid As ULong
+	Get
+	Setpublic:
+property unsigned long long^ MouseOverGuid {
+	unsigned long long^ get ();
+	void set (unsigned long long^ value);
+}Field Value
+The mouse over GUID.
+See Also
+
+
+WoWLocalPlayer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

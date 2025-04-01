@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..Faction Property 
+Gets the faction. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint Faction { get; }Public ReadOnly Property Faction As UInteger
+	Getpublic:
+property unsigned int^ Faction {
+	unsigned int^ get ();
+}Field Value
+The faction.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

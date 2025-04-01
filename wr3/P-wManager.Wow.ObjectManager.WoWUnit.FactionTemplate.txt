@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..FactionTemplate Property 
+Gets the faction template. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public WoWFactionTemplate FactionTemplate { get; }Public ReadOnly Property FactionTemplate As WoWFactionTemplate
+	Getpublic:
+property WoWFactionTemplate^ FactionTemplate {
+	WoWFactionTemplate^ get ();
+}Field Value
+The faction template.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

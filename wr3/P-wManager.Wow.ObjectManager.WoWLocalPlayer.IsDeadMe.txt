@@ -1,0 +1,23 @@
+WRobot
+
+WoWLocalPlayer..::..IsDeadMe Property 
+Gets a value indicating whether is dead. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsDeadMe { get; }Public ReadOnly Property IsDeadMe As Boolean
+	Getpublic:
+property bool^ IsDeadMe {
+	bool^ get ();
+}Field Value
+true if is dead; otherwise, false.
+See Also
+
+
+WoWLocalPlayer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

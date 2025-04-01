@@ -1,0 +1,23 @@
+WRobot
+
+WoWLocalPlayer..::..GetLowerItemDurabilityPercent Property 
+Gets the lower item durability percent. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public double GetLowerItemDurabilityPercent { get; }Public ReadOnly Property GetLowerItemDurabilityPercent As Double
+	Getpublic:
+property double^ GetLowerItemDurabilityPercent {
+	double^ get ();
+}Field Value
+The lower item durability percent.
+See Also
+
+
+WoWLocalPlayer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

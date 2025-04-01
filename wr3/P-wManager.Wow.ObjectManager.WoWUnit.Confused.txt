@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..Confused Property 
+Gets a value indicating whether is confused. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool Confused { get; }Public ReadOnly Property Confused As Boolean
+	Getpublic:
+property bool^ Confused {
+	bool^ get ();
+}Field Value
+true if confused; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,23 @@
+WRobot
+
+WoWLocalPlayer..::..Experience Property 
+Gets experience. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int Experience { get; }Public ReadOnly Property Experience As Integer
+	Getpublic:
+property int^ Experience {
+	int^ get ();
+}Field Value
+The experience.
+See Also
+
+
+WoWLocalPlayer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

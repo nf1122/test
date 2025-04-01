@@ -1,0 +1,23 @@
+WRobot
+
+WoWObject..::..IsValid Property 
+Returns true if is valid. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsValid { get; }Public ReadOnly Property IsValid As Boolean
+	Getpublic:
+property bool^ IsValid {
+	bool^ get ();
+}Field Value
+true if this instance is valid; otherwise, false.
+See Also
+
+
+WoWObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

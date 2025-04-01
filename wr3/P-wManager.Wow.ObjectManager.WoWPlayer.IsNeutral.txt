@@ -1,0 +1,23 @@
+WRobot
+
+WoWPlayer..::..IsNeutral Property 
+Gets a value indicating whether is neutral (no horde or alliance faction). 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsNeutral { get; }Public ReadOnly Property IsNeutral As Boolean
+	Getpublic:
+property bool^ IsNeutral {
+	bool^ get ();
+}Field Value
+true if is neutral; otherwise, false.
+See Also
+
+
+WoWPlayer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 
