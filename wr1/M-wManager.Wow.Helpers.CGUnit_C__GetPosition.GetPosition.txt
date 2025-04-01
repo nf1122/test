@@ -1,0 +1,30 @@
+WRobot
+
+CGUnit_C__GetPosition..::..GetPosition Method 
+Get the position. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Vector3 GetPosition(
+	uint baseAddress
+)Public Shared Function GetPosition ( _
+	baseAddress As UInteger _
+) As Vector3public:
+static Vector3^ GetPosition(
+	unsigned int^ baseAddress
+)Parameters
+baseAddress
+Type: UInt32
+The base address (GetBaseAddress).
+Return Value
+Vector3.
+See Also
+
+
+CGUnit_C__GetPosition Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

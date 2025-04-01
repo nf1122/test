@@ -1,0 +1,58 @@
+WRobot
+
+ClickToMove..::..CGPlayer_C__ClickToMove Method 
+Call click to move (move to specific position or face target/position). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void CGPlayer_C__ClickToMove(
+	float x,
+	float y,
+	float z,
+	ulong guid,
+	int action,
+	float precision
+)Public Shared Sub CGPlayer_C__ClickToMove ( _
+	x As Single, _
+	y As Single, _
+	z As Single, _
+	guid As ULong, _
+	action As Integer, _
+	precision As Single _
+)public:
+static void CGPlayer_C__ClickToMove(
+	float^ x, 
+	float^ y, 
+	float^ z, 
+	unsigned long long^ guid, 
+	int^ action, 
+	float^ precision
+)Parameters
+x
+Type: Single
+The position x.
+y
+Type: Single
+The position y.
+z
+Type: Single
+The position z.
+guid
+Type: UInt64
+The GUID (0 if you want move to position).
+action
+Type: Int32
+The action (ClickToMoveType).
+precision
+Type: Single
+The precision (bot generally force usage of 0).
+See Also
+
+
+ClickToMove Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

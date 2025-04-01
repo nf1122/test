@@ -1,0 +1,34 @@
+WRobot
+
+Fishing..::..UseTemporaryBait Method 
+Use temporary bait. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void UseTemporaryBait(
+	string temporaryBait,
+	int durationMs
+)Public Shared Sub UseTemporaryBait ( _
+	temporaryBait As String, _
+	durationMs As Integer _
+)public:
+static void UseTemporaryBait(
+	String^ temporaryBait, 
+	int^ durationMs
+)Parameters
+temporaryBait
+Type: String
+bait1;bait2;bait3
+durationMs
+Type: Int32
+The duration in millisecond.
+See Also
+
+
+Fishing Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

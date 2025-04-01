@@ -1,0 +1,35 @@
+WRobot
+
+CustomClass..::..LoadCustomClass Method (String, Boolean)
+Load fightclass. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void LoadCustomClass(
+	string pathCc,
+	bool settingOnly
+)Public Shared Sub LoadCustomClass ( _
+	pathCc As String, _
+	settingOnly As Boolean _
+)public:
+static void LoadCustomClass(
+	String^ pathCc, 
+	bool^ settingOnly
+)Parameters
+pathCc
+Type: String
+The full path to fightclass.
+settingOnly
+Type: Boolean
+if set to true show fightclass setting only (ShowConfiguration()()()()).
+See Also
+
+
+CustomClass Class
+LoadCustomClass Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

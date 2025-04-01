@@ -1,0 +1,19 @@
+WRobot
+
+Chat..::..ClearMessages Method 
+Clear the messages. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void ClearMessages()Public Shared Sub ClearMessagespublic:
+static void ClearMessages()
+See Also
+
+
+Chat Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,36 @@
+WRobot
+
+FightClass..::..LoadFightClass Method 
+Loads the fight class. 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static FightClass LoadFightClass(
+	string value,
+	bool isPath
+)Public Shared Function LoadFightClass ( _
+	value As String, _
+	isPath As Boolean _
+) As FightClasspublic:
+static FightClass^ LoadFightClass(
+	String^ value, 
+	bool^ isPath
+)Parameters
+value
+Type: String
+The value.
+isPath
+Type: Boolean
+if set to true [is path].
+Return Value
+FightClass.
+See Also
+
+
+FightClass Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

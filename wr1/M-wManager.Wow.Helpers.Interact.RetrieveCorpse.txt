@@ -1,0 +1,19 @@
+WRobot
+
+Interact..::..RetrieveCorpse Method 
+Resurrects when the player is standing near its corpse. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void RetrieveCorpse()Public Shared Sub RetrieveCorpsepublic:
+static void RetrieveCorpse()
+See Also
+
+
+Interact Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,30 @@
+WRobot
+
+Channel..::..ReadChannel Method 
+Read specific channel. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string ReadChannel(
+	ChatTypeId chatTypeId
+)Public Function ReadChannel ( _
+	chatTypeId As ChatTypeId _
+) As Stringpublic:
+String^ ReadChannel(
+	ChatTypeId^ chatTypeId
+)Parameters
+chatTypeId
+Type: wManager.Wow.Enums..::..ChatTypeId
+The chat type id.
+Return Value
+System.String.
+See Also
+
+
+Channel Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

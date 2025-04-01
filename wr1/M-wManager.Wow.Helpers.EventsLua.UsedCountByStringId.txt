@@ -1,0 +1,30 @@
+WRobot
+
+EventsLua..::..UsedCountByStringId Method 
+Count number of time that event was called. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int UsedCountByStringId(
+	string idString
+)Public Shared Function UsedCountByStringId ( _
+	idString As String _
+) As Integerpublic:
+static int^ UsedCountByStringId(
+	String^ idString
+)Parameters
+idString
+Type: String
+The event name.
+Return Value
+System.Int32.
+See Also
+
+
+EventsLua Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

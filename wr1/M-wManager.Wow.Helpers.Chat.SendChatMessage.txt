@@ -1,0 +1,34 @@
+WRobot
+
+Chat..::..SendChatMessage Method 
+Send chat message. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void SendChatMessage(
+	string message,
+	ChatTypeId channel
+)Public Shared Sub SendChatMessage ( _
+	message As String, _
+	channel As ChatTypeId _
+)public:
+static void SendChatMessage(
+	String^ message, 
+	ChatTypeId^ channel
+)Parameters
+message
+Type: String
+The message.
+channel
+Type: wManager.Wow.Enums..::..ChatTypeId
+The channel.
+See Also
+
+
+Chat Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

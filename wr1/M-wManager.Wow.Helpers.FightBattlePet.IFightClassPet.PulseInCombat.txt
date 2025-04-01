@@ -1,0 +1,18 @@
+WRobot
+
+IFightClassPet..::..PulseInCombat Method 
+Called every 1000 ms in combat 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+void PulseInCombat()Sub PulseInCombatvoid PulseInCombat()
+See Also
+
+
+FightBattlePet..::..IFightClassPet Interface
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

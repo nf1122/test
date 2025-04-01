@@ -1,0 +1,18 @@
+WRobot
+
+Creator Constructor 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Creator()Public Sub Newpublic:
+Creator()
+See Also
+
+
+Creator Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

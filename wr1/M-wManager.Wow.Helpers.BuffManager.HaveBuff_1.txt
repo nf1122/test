@@ -1,0 +1,37 @@
+WRobot
+
+BuffManager..::..HaveBuff Method (UInt32, UInt32)
+Have the buff. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool HaveBuff(
+	uint objBase,
+	uint buffId
+)Public Shared Function HaveBuff ( _
+	objBase As UInteger, _
+	buffId As UInteger _
+) As Booleanpublic:
+static bool^ HaveBuff(
+	unsigned int^ objBase, 
+	unsigned int^ buffId
+)Parameters
+objBase
+Type: UInt32
+The wow object base address (GetBaseAddress).
+buffId
+Type: UInt32
+The spell id..
+Return Value
+true if buff found, false otherwise.
+See Also
+
+
+BuffManager Class
+HaveBuff Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

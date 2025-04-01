@@ -1,0 +1,19 @@
+WRobot
+
+CustomClass..::..ResetCustomClass Method 
+Reset the fightclass (call DisposeCustomClass()()()() and LoadCustomClass()()()()). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void ResetCustomClass()Public Shared Sub ResetCustomClasspublic:
+static void ResetCustomClass()
+See Also
+
+
+CustomClass Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

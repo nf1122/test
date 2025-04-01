@@ -1,0 +1,20 @@
+WRobot
+
+Channel..::..ReadWhisperChannel Method 
+Read the whisper channel. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string ReadWhisperChannel()Public Function ReadWhisperChannel As Stringpublic:
+String^ ReadWhisperChannel()Return Value
+System.String.
+See Also
+
+
+Channel Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

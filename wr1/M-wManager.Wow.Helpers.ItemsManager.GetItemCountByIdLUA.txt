@@ -1,0 +1,30 @@
+WRobot
+
+ItemsManager..::..GetItemCountByIdLUA Method 
+Get item count by id with lua. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int GetItemCountByIdLUA(
+	uint itemId
+)Public Shared Function GetItemCountByIdLUA ( _
+	itemId As UInteger _
+) As Integerpublic:
+static int^ GetItemCountByIdLUA(
+	unsigned int^ itemId
+)Parameters
+itemId
+Type: UInt32
+The item id.
+Return Value
+item count.
+See Also
+
+
+ItemsManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

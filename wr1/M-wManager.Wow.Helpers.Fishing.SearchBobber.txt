@@ -1,0 +1,20 @@
+WRobot
+
+Fishing..::..SearchBobber Method 
+Return a bobber WoWGameObject address. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static uint SearchBobber()Public Shared Function SearchBobber As UIntegerpublic:
+static unsigned int^ SearchBobber()Return Value
+address of WoWGameObject.
+See Also
+
+
+Fishing Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

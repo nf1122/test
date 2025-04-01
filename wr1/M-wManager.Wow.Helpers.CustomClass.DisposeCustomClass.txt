@@ -1,0 +1,19 @@
+WRobot
+
+CustomClass..::..DisposeCustomClass Method 
+Dispose the fightclass (call Dispose()()()()). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void DisposeCustomClass()Public Shared Sub DisposeCustomClasspublic:
+static void DisposeCustomClass()
+See Also
+
+
+CustomClass Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,20 @@
+WRobot
+
+Fishing..::..LureName Method 
+get first lure name 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string LureName()Public Shared Function LureName As Stringpublic:
+static String^ LureName()Return Value
+first lure name.
+See Also
+
+
+Fishing Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

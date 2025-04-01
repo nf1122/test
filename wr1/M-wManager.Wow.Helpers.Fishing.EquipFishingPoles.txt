@@ -1,0 +1,28 @@
+WRobot
+
+Fishing..::..EquipFishingPoles Method 
+Equip fishing poles. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void EquipFishingPoles(
+	string fishingPoleName
+)Public Shared Sub EquipFishingPoles ( _
+	fishingPoleName As String _
+)public:
+static void EquipFishingPoles(
+	String^ fishingPoleName
+)Parameters
+fishingPoleName
+Type: String
+Name of the fishing pole.
+See Also
+
+
+Fishing Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,18 @@
+WRobot
+
+ICustomClass..::..Dispose Method 
+Dispose (bot calls this method when he wants to dispose fightclass (generally when product is stopped or character level up)). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+void Dispose()Sub Disposevoid Dispose()
+See Also
+
+
+ICustomClass Interface
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

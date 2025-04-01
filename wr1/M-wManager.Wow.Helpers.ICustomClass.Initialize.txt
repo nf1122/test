@@ -1,0 +1,18 @@
+WRobot
+
+ICustomClass..::..Initialize Method 
+Initialize (bot creates new thread and calls this method, you need to keep this thread alive until the bot calls Dispose()()()()). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+void Initialize()Sub Initializevoid Initialize()
+See Also
+
+
+ICustomClass Interface
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

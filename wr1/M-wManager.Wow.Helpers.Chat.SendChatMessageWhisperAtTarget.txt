@@ -1,0 +1,28 @@
+WRobot
+
+Chat..::..SendChatMessageWhisperAtTarget Method 
+Send whisper message to character target. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void SendChatMessageWhisperAtTarget(
+	string message
+)Public Shared Sub SendChatMessageWhisperAtTarget ( _
+	message As String _
+)public:
+static void SendChatMessageWhisperAtTarget(
+	String^ message
+)Parameters
+message
+Type: String
+The message.
+See Also
+
+
+Chat Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,30 @@
+WRobot
+
+ItemsManager..::..GetItemCountByNameLUA Method 
+Get item count by name with lua. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int GetItemCountByNameLUA(
+	string itemName
+)Public Shared Function GetItemCountByNameLUA ( _
+	itemName As String _
+) As Integerpublic:
+static int^ GetItemCountByNameLUA(
+	String^ itemName
+)Parameters
+itemName
+Type: String
+Name of the item like is appear in game.
+Return Value
+item count.
+See Also
+
+
+ItemsManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

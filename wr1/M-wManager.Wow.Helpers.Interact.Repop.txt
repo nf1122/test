@@ -1,0 +1,19 @@
+WRobot
+
+Interact..::..Repop Method 
+Releases your ghost to the graveyard. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Repop()Public Shared Sub Repoppublic:
+static void Repop()
+See Also
+
+
+Interact Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

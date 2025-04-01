@@ -1,0 +1,36 @@
+WRobot
+
+BuffManager..::..HaveBuffLua Method 
+Check if have buff with lua. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool HaveBuffLua(
+	string nameInGame,
+	UnitIdLua unit
+)Public Shared Function HaveBuffLua ( _
+	nameInGame As String, _
+	unit As UnitIdLua _
+) As Booleanpublic:
+static bool^ HaveBuffLua(
+	String^ nameInGame, 
+	UnitIdLua^ unit
+)Parameters
+nameInGame
+Type: String
+The wow object base address (GetBaseAddress).
+unit
+Type: wManager.Wow.Helpers.FightClassCreator..::..UnitIdLua
+The unit.
+Return Value
+true if has buff, false otherwise.
+See Also
+
+
+BuffManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,20 @@
+WRobot
+
+Channel..::..ReadLastMsg Method 
+Read last message. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string ReadLastMsg()Public Shared Function ReadLastMsg As Stringpublic:
+static String^ ReadLastMsg()Return Value
+message.
+See Also
+
+
+Channel Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

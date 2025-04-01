@@ -1,0 +1,20 @@
+WRobot
+
+ClickToMove..::..GetClickToMoveTypePush Method 
+Gets the click to move push type. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static ClickToMoveType GetClickToMoveTypePush()Public Shared Function GetClickToMoveTypePush As ClickToMoveTypepublic:
+static ClickToMoveType^ GetClickToMoveTypePush()Return Value
+Enums.ClickToMoveType.
+See Also
+
+
+ClickToMove Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

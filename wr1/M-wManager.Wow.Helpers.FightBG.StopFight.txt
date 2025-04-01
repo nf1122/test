@@ -1,0 +1,19 @@
+WRobot
+
+FightBG..::..StopFight Method 
+Stops the fight. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void StopFight()Public Shared Sub StopFightpublic:
+static void StopFight()
+See Also
+
+
+FightBG Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

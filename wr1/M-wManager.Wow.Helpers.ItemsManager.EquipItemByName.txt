@@ -1,0 +1,28 @@
+WRobot
+
+ItemsManager..::..EquipItemByName Method 
+Equip item by name. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void EquipItemByName(
+	string itemName
+)Public Shared Sub EquipItemByName ( _
+	itemName As String _
+)public:
+static void EquipItemByName(
+	String^ itemName
+)Parameters
+itemName
+Type: String
+Item name like is appear in game.
+See Also
+
+
+ItemsManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

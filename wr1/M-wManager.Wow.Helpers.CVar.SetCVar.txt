@@ -1,0 +1,34 @@
+WRobot
+
+CVar..::..SetCVar Method 
+Set the CVar value. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void SetCVar(
+	string cvarName,
+	Object value
+)Public Shared Sub SetCVar ( _
+	cvarName As String, _
+	value As Object _
+)public:
+static void SetCVar(
+	String^ cvarName, 
+	Object^ value
+)Parameters
+cvarName
+Type: String
+Name of the cvar.
+value
+Type: Object
+The value.
+See Also
+
+
+CVar Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

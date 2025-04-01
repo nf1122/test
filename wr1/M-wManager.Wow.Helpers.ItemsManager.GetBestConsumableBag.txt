@@ -1,0 +1,30 @@
+WRobot
+
+ItemsManager..::..GetBestConsumableBag Method 
+Get the best consumable bag. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string GetBestConsumableBag(
+	ItemsManager..::..ConsumableType consumableType
+)Public Shared Function GetBestConsumableBag ( _
+	consumableType As ItemsManager..::..ConsumableType _
+) As Stringpublic:
+static String^ GetBestConsumableBag(
+	ItemsManager..::..ConsumableType^ consumableType
+)Parameters
+consumableType
+Type: wManager.Wow.Helpers..::..ItemsManager..::..ConsumableType
+Type of the consumable.
+Return Value
+item name.
+See Also
+
+
+ItemsManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

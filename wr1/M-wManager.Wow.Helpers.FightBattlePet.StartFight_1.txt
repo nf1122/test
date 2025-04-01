@@ -1,0 +1,29 @@
+WRobot
+
+FightBattlePet..::..StartFight Method (UInt64)
+Starts the fight. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void StartFight(
+	ulong guid
+)Public Shared Sub StartFight ( _
+	guid As ULong _
+)public:
+static void StartFight(
+	unsigned long long^ guid
+)Parameters
+guid
+Type: UInt64
+The GUID of pet to attack.
+See Also
+
+
+FightBattlePet Class
+StartFight Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

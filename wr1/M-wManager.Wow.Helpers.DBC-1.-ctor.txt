@@ -1,0 +1,28 @@
+WRobot
+
+DBC<(Of <(<'T>)>)> Constructor 
+Initializes a new instance of DBC class using specified memory address 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public DBC(
+	uint offset
+)Public Sub New ( _
+	offset As UInteger _
+)public:
+DBC(
+	unsigned int^ offset
+)Parameters
+offset
+Type: UInt32
+DBC memory address 
+See Also
+
+
+DBC<(Of <(<'T>)>)> Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,30 @@
+WRobot
+
+EventsLua..::..UsedCountByLuaEventsId Method 
+Count number of time that event was called. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int UsedCountByLuaEventsId(
+	LuaEventsId id
+)Public Shared Function UsedCountByLuaEventsId ( _
+	id As LuaEventsId _
+) As Integerpublic:
+static int^ UsedCountByLuaEventsId(
+	LuaEventsId^ id
+)Parameters
+id
+Type: wManager.Wow.Enums..::..LuaEventsId
+The event id.
+Return Value
+System.Int32.
+See Also
+
+
+EventsLua Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

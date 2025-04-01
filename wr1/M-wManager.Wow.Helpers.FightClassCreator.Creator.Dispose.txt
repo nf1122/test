@@ -1,0 +1,28 @@
+WRobot
+
+Creator..::..Dispose Method 
+Clean up any resources being used. 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+protected void Dispose(
+	bool disposing
+)Protected Sub Dispose ( _
+	disposing As Boolean _
+)protected:
+void Dispose(
+	bool^ disposing
+)Parameters
+disposing
+Type: Boolean
+true if managed resources should be disposed; otherwise, false.
+See Also
+
+
+Creator Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

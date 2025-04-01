@@ -1,0 +1,20 @@
+WRobot
+
+EquippedItems..::..GetEquippedItems Method 
+Get the equipped items. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWItem> GetEquippedItems()Public Shared Function GetEquippedItems As List(Of WoWItem)public:
+static List<WoWItem^>^ GetEquippedItems()Return Value
+List<WoWItem>.
+See Also
+
+
+EquippedItems Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

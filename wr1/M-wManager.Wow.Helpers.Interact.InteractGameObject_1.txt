@@ -1,0 +1,49 @@
+WRobot
+
+Interact..::..InteractGameObject Method (UInt32, Boolean, Boolean, Boolean)
+Interacts with WoWUnit, WoWPlayer or WoWGameObject
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool InteractGameObject(
+	uint baseAddress,
+	bool stopMove,
+	bool skipWaitTime,
+	bool dismountBeforeIneract
+)Public Shared Function InteractGameObject ( _
+	baseAddress As UInteger, _
+	stopMove As Boolean, _
+	skipWaitTime As Boolean, _
+	dismountBeforeIneract As Boolean _
+) As Booleanpublic:
+static bool^ InteractGameObject(
+	unsigned int^ baseAddress, 
+	bool^ stopMove, 
+	bool^ skipWaitTime, 
+	bool^ dismountBeforeIneract
+)Parameters
+baseAddress
+Type: UInt32
+The GetBaseAddress.
+stopMove
+Type: Boolean
+if set to true stop move.
+skipWaitTime
+Type: Boolean
+if set to true don't wait after interact (by default bot wait latency time).
+dismountBeforeIneract
+Type: Boolean
+if set to true dismount before interact.
+Return Value
+true if success, false otherwise.
+See Also
+
+
+Interact Class
+InteractGameObject Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

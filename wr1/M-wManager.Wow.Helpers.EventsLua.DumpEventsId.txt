@@ -1,0 +1,20 @@
+WRobot
+
+EventsLua..::..DumpEventsId Method 
+Dumps list (names and IDs) of game events. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string DumpEventsId()Public Shared Function DumpEventsId As Stringpublic:
+static String^ DumpEventsId()Return Value
+System.String.
+See Also
+
+
+EventsLua Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

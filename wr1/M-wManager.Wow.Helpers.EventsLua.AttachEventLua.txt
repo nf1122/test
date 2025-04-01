@@ -1,0 +1,35 @@
+WRobot
+
+EventsLua..::..AttachEventLua Method (String, MethodDelegate)
+Attach lua event (the bot automatically detaches when you stop the product). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void AttachEventLua(
+	string eventid,
+	EventsLua..::..MethodDelegate method
+)Public Shared Sub AttachEventLua ( _
+	eventid As String, _
+	method As EventsLua..::..MethodDelegate _
+)public:
+static void AttachEventLua(
+	String^ eventid, 
+	EventsLua..::..MethodDelegate^ method
+)Parameters
+eventid
+Type: String
+The event id.
+method
+Type: wManager.Wow.Helpers..::..EventsLua..::..MethodDelegate
+The method.
+See Also
+
+
+EventsLua Class
+AttachEventLua Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

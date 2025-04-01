@@ -1,0 +1,31 @@
+WRobot
+
+ItemsManager..::..GetItemSpell Method (String)
+Get the item spell. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string GetItemSpell(
+	string itemNameInGame
+)Public Shared Function GetItemSpell ( _
+	itemNameInGame As String _
+) As Stringpublic:
+static String^ GetItemSpell(
+	String^ itemNameInGame
+)Parameters
+itemNameInGame
+Type: String
+The item name in game.
+Return Value
+spell name
+See Also
+
+
+ItemsManager Class
+GetItemSpell Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

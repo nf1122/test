@@ -1,0 +1,36 @@
+WRobot
+
+Fishing..::..FindTheUltimatePoint Method 
+Find a point around the fishing hole from where we can land to fish 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Vector3 FindTheUltimatePoint(
+	Vector3 fishingHole,
+	bool canWalkOnWater
+)Public Shared Function FindTheUltimatePoint ( _
+	fishingHole As Vector3, _
+	canWalkOnWater As Boolean _
+) As Vector3public:
+static Vector3^ FindTheUltimatePoint(
+	Vector3^ fishingHole, 
+	bool^ canWalkOnWater
+)Parameters
+fishingHole
+Type: robotManager.Helpful..::..Vector3
+The fishing hole.
+canWalkOnWater
+Type: Boolean
+if set to true can walk on water.
+Return Value
+Vector3.
+See Also
+
+
+Fishing Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

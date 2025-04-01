@@ -1,0 +1,30 @@
+WRobot
+
+IsOutDoorsInjection..::..IsOutDoors Method 
+Returns whether the player's character is currently outdoors. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsOutDoors(
+	uint baseAddress
+)Public Shared Function IsOutDoors ( _
+	baseAddress As UInteger _
+) As Booleanpublic:
+static bool^ IsOutDoors(
+	unsigned int^ baseAddress
+)Parameters
+baseAddress
+Type: UInt32
+The base address.
+Return Value
+true if character is currently outdoors.; otherwise, false.
+See Also
+
+
+IsOutDoorsInjection Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

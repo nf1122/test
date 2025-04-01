@@ -1,0 +1,28 @@
+WRobot
+
+Fishing..::..UseLure Method 
+Use lure. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void UseLure(
+	string lureName
+)Public Shared Sub UseLure ( _
+	lureName As String _
+)public:
+static void UseLure(
+	String^ lureName
+)Parameters
+lureName
+Type: String
+lure1;lure2;lure3
+See Also
+
+
+Fishing Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

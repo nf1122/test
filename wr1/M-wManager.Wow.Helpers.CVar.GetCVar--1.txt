@@ -1,0 +1,34 @@
+WRobot
+
+CVar..::..GetCVar<(Of <(<'T>)>)> Method 
+Get CVar value. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static T GetCVar<T>(
+	string cvarName
+)
+Public Shared Function GetCVar(Of T) ( _
+	cvarName As String _
+) As Tpublic:
+generic<typename T>
+static T GetCVar(
+	String^ cvarName
+)Type Parameters
+T
+Parameters
+cvarName
+Type: String
+Name of the cvar.
+Return Value
+T.
+See Also
+
+
+CVar Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

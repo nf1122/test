@@ -1,0 +1,19 @@
+WRobot
+
+Message Constructor 
+Initializes a new instance of the Channel..::..Message class. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Message()Public Sub Newpublic:
+Message()
+See Also
+
+
+Channel..::..Message Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

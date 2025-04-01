@@ -1,0 +1,30 @@
+WRobot
+
+ItemsManager..::..GetBestConsumableVendor Method 
+Get the best consumable of current target vendor (need merchant window opened). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string GetBestConsumableVendor(
+	ItemsManager..::..ConsumableType consumableType
+)Public Shared Function GetBestConsumableVendor ( _
+	consumableType As ItemsManager..::..ConsumableType _
+) As Stringpublic:
+static String^ GetBestConsumableVendor(
+	ItemsManager..::..ConsumableType^ consumableType
+)Parameters
+consumableType
+Type: wManager.Wow.Helpers..::..ItemsManager..::..ConsumableType
+Type of the consumable.
+Return Value
+item name.
+See Also
+
+
+ItemsManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

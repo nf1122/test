@@ -1,0 +1,37 @@
+WRobot
+
+BuffManager..::..GetAuras Method (UInt32, List<(Of <(<'UInt32>)>)>)
+Gets the auras by spell IDs. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static IEnumerable<Aura> GetAuras(
+	uint baseAddress,
+	List<uint> buffId
+)Public Shared Function GetAuras ( _
+	baseAddress As UInteger, _
+	buffId As List(Of UInteger) _
+) As IEnumerable(Of Aura)public:
+static IEnumerable<Aura^>^ GetAuras(
+	unsigned int^ baseAddress, 
+	List<unsigned int^>^ buffId
+)Parameters
+baseAddress
+Type: UInt32
+The wow object base address (GetBaseAddress).
+buffId
+Type: List<(Of <(<'UInt32>)>)>
+The spells IDs.
+Return Value
+IEnumerable<Aura>.
+See Also
+
+
+BuffManager Class
+GetAuras Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

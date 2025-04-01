@@ -1,0 +1,19 @@
+WRobot
+
+FightClassSpellsDB Constructor 
+Initializes a new instance of the FightClassSpellsDB class. 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public FightClassSpellsDB()Public Sub Newpublic:
+FightClassSpellsDB()
+See Also
+
+
+FightClassSpellsDB Class
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

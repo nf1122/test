@@ -1,0 +1,34 @@
+WRobot
+
+CVar..::..RegisterCVar Method 
+Register CVar. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void RegisterCVar(
+	string cvarName,
+	Object value
+)Public Shared Sub RegisterCVar ( _
+	cvarName As String, _
+	value As Object _
+)public:
+static void RegisterCVar(
+	String^ cvarName, 
+	Object^ value
+)Parameters
+cvarName
+Type: String
+Name of the cvar.
+value
+Type: Object
+The value.
+See Also
+
+
+CVar Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,46 @@
+WRobot
+
+ClickOnTerrain..::..Item Method 
+Use item by ID and click on terrain. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Item(
+	uint itemId,
+	Vector3 vector3,
+	bool waitCasting,
+	bool stopMove
+)Public Shared Sub Item ( _
+	itemId As UInteger, _
+	vector3 As Vector3, _
+	waitCasting As Boolean, _
+	stopMove As Boolean _
+)public:
+static void Item(
+	unsigned int^ itemId, 
+	Vector3^ vector3, 
+	bool^ waitCasting, 
+	bool^ stopMove
+)Parameters
+itemId
+Type: UInt32
+The item id.
+vector3
+Type: robotManager.Helpful..::..Vector3
+The position where to click.
+waitCasting
+Type: Boolean
+if set to true wait casting.
+stopMove
+Type: Boolean
+if set to true stop move.
+See Also
+
+
+ClickOnTerrain Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

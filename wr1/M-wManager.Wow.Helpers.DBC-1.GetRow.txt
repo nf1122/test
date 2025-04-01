@@ -1,0 +1,30 @@
+WRobot
+
+DBC<(Of <(<'T>)>)>..::..GetRow Method 
+Returns a specific row from DBC by it's index 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public T GetRow(
+	int index
+)Public Function GetRow ( _
+	index As Integer _
+) As Tpublic:
+T GetRow(
+	int^ index
+)Parameters
+index
+Type: Int32
+Row index 
+Return Value
+A row of type T 
+See Also
+
+
+DBC<(Of <(<'T>)>)> Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

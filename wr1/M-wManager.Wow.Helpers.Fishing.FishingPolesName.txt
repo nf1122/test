@@ -1,0 +1,20 @@
+WRobot
+
+Fishing..::..FishingPolesName Method 
+Get name of first fishing pole 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string FishingPolesName()Public Shared Function FishingPolesName As Stringpublic:
+static String^ FishingPolesName()Return Value
+System.String.
+See Also
+
+
+Fishing Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

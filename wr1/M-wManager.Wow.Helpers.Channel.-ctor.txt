@@ -1,0 +1,19 @@
+WRobot
+
+Channel Constructor 
+Initializes a new instance of the Channel class. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Channel()Public Sub Newpublic:
+Channel()
+See Also
+
+
+Channel Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,30 @@
+WRobot
+
+CGUnit_C__GetFacing..::..GetFacing Method 
+Get the rotation. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static float GetFacing(
+	uint baseAddress
+)Public Shared Function GetFacing ( _
+	baseAddress As UInteger _
+) As Singlepublic:
+static float^ GetFacing(
+	unsigned int^ baseAddress
+)Parameters
+baseAddress
+Type: UInt32
+The [WoWObject.GetBaseAddress].
+Return Value
+System.Single.
+See Also
+
+
+CGUnit_C__GetFacing Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,30 @@
+WRobot
+
+GetPlayerName..::..GetName Method 
+Gets the name. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string GetName(
+	ulong guid
+)Public Shared Function GetName ( _
+	guid As ULong _
+) As Stringpublic:
+static String^ GetName(
+	unsigned long long^ guid
+)Parameters
+guid
+Type: UInt64
+The GUID.
+Return Value
+the name.
+See Also
+
+
+GetPlayerName Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,28 @@
+WRobot
+
+ClickOnTerrain..::..Pulse Method 
+Click on specified position. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Pulse(
+	Vector3 vector3
+)Public Shared Sub Pulse ( _
+	vector3 As Vector3 _
+)public:
+static void Pulse(
+	Vector3^ vector3
+)Parameters
+vector3
+Type: robotManager.Helpful..::..Vector3
+position.
+See Also
+
+
+ClickOnTerrain Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

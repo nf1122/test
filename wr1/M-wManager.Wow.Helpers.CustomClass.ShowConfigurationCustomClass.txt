@@ -1,0 +1,28 @@
+WRobot
+
+CustomClass..::..ShowConfigurationCustomClass Method 
+Show fightclass configuration (ShowConfiguration()()()()). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void ShowConfigurationCustomClass(
+	string filePath
+)Public Shared Sub ShowConfigurationCustomClass ( _
+	filePath As String _
+)public:
+static void ShowConfigurationCustomClass(
+	String^ filePath
+)Parameters
+filePath
+Type: String
+The file path.
+See Also
+
+
+CustomClass Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

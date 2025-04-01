@@ -1,0 +1,30 @@
+WRobot
+
+ItemsManager..::..GetItemCountById Method 
+Get item count by id. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int GetItemCountById(
+	uint itemId
+)Public Shared Function GetItemCountById ( _
+	itemId As UInteger _
+) As Integerpublic:
+static int^ GetItemCountById(
+	unsigned int^ itemId
+)Parameters
+itemId
+Type: UInt32
+The item id.
+Return Value
+item count.
+See Also
+
+
+ItemsManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

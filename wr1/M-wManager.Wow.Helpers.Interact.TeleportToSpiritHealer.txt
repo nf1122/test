@@ -1,0 +1,23 @@
+WRobot
+
+Interact..::..TeleportToSpiritHealer Method 
+Note: This API is now obsolete. 
+Teleports to spirit healer. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[ObsoleteAttribute]
+public static void TeleportToSpiritHealer()<ObsoleteAttribute> _
+Public Shared Sub TeleportToSpiritHealer[ObsoleteAttribute]
+public:
+static void TeleportToSpiritHealer()
+See Also
+
+
+Interact Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,20 @@
+WRobot
+
+CustomClass..::..LoadCustomClass Method 
+Load fightclass (from CustomClass). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void LoadCustomClass()Public Shared Sub LoadCustomClasspublic:
+static void LoadCustomClass()
+See Also
+
+
+CustomClass Class
+LoadCustomClass Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

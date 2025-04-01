@@ -1,0 +1,20 @@
+WRobot
+
+Channel..::..ReadGuildChannel Method 
+Read the guild channel. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string ReadGuildChannel()Public Function ReadGuildChannel As Stringpublic:
+String^ ReadGuildChannel()Return Value
+System.String.
+See Also
+
+
+Channel Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

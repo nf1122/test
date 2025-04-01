@@ -1,0 +1,30 @@
+WRobot
+
+ItemsManager..::..GetIdByName Method 
+Gets the item name by id. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static uint GetIdByName(
+	string nameItem
+)Public Shared Function GetIdByName ( _
+	nameItem As String _
+) As UIntegerpublic:
+static unsigned int^ GetIdByName(
+	String^ nameItem
+)Parameters
+nameItem
+Type: String
+The item name like is appear in game.
+Return Value
+item id.
+See Also
+
+
+ItemsManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

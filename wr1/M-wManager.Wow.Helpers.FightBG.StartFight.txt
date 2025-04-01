@@ -1,0 +1,21 @@
+WRobot
+
+FightBG..::..StartFight Method 
+Starts the fight. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static ulong StartFight()Public Shared Function StartFight As ULongpublic:
+static unsigned long long^ StartFight()Return Value
+Usually if all goes well, the method returns 0, if there is a problem it returns the GUID of the target (it is generally necessary to blacklist him in this case)
+See Also
+
+
+FightBG Class
+StartFight Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

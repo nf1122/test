@@ -1,0 +1,27 @@
+WRobot
+
+DBC<(Of <(<'T>)>)>..::..HasRow Method 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool HasRow(
+	int index
+)Public Function HasRow ( _
+	index As Integer _
+) As Booleanpublic:
+bool^ HasRow(
+	int^ index
+)Parameters
+index
+Type: Int32
+
+See Also
+
+
+DBC<(Of <(<'T>)>)> Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

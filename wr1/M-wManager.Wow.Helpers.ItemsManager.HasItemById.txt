@@ -1,0 +1,30 @@
+WRobot
+
+ItemsManager..::..HasItemById Method 
+Determines whether has item by id (use [ObjectManager], it's faster than lua). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool HasItemById(
+	uint itemId
+)Public Shared Function HasItemById ( _
+	itemId As UInteger _
+) As Booleanpublic:
+static bool^ HasItemById(
+	unsigned int^ itemId
+)Parameters
+itemId
+Type: UInt32
+The item id.
+Return Value
+true if has item; otherwise, false.
+See Also
+
+
+ItemsManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

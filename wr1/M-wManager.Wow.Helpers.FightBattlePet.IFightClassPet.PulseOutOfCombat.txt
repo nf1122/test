@@ -1,0 +1,18 @@
+WRobot
+
+IFightClassPet..::..PulseOutOfCombat Method 
+Called every 200 ms out of combat 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+void PulseOutOfCombat()Sub PulseOutOfCombatvoid PulseOutOfCombat()
+See Also
+
+
+FightBattlePet..::..IFightClassPet Interface
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

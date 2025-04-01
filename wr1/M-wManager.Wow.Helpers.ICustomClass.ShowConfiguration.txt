@@ -1,0 +1,18 @@
+WRobot
+
+ICustomClass..::..ShowConfiguration Method 
+Show the configuration (called by the bot when user want configure fightclass, this method should display a configuration window). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+void ShowConfiguration()Sub ShowConfigurationvoid ShowConfiguration()
+See Also
+
+
+ICustomClass Interface
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

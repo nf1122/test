@@ -1,0 +1,27 @@
+WRobot
+
+DBC<(Of <(<'T>)>)>..::..GetRowByIndex Method 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public T GetRowByIndex(
+	int index
+)Public Function GetRowByIndex ( _
+	index As Integer _
+) As Tpublic:
+T GetRowByIndex(
+	int^ index
+)Parameters
+index
+Type: Int32
+
+See Also
+
+
+DBC<(Of <(<'T>)>)> Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

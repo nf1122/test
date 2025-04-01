@@ -1,0 +1,30 @@
+WRobot
+
+Fishing..::..IsEquipedFishingPoles Method 
+Determines whether fishing pole is equipped 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsEquipedFishingPoles(
+	string fishingPoleName
+)Public Shared Function IsEquipedFishingPoles ( _
+	fishingPoleName As String _
+) As Booleanpublic:
+static bool^ IsEquipedFishingPoles(
+	String^ fishingPoleName
+)Parameters
+fishingPoleName
+Type: String
+Name of the fishing pole.
+Return Value
+true if fishing pole is equipped; otherwise, false.
+See Also
+
+
+Fishing Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

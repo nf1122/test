@@ -1,0 +1,19 @@
+WRobot
+
+ConfigWowForThisBot..::..ConfigWow Method 
+Config game for the bot (option like auto loot, ctm, auto cast in self, ...). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void ConfigWow()Public Shared Sub ConfigWowpublic:
+static void ConfigWow()
+See Also
+
+
+ConfigWowForThisBot Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

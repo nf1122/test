@@ -1,0 +1,20 @@
+WRobot
+
+Channel..::..ReadMsg Method 
+Read the message. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Channel..::..Message ReadMsg()Public Function ReadMsg As Channel..::..Messagepublic:
+Channel..::..Message^ ReadMsg()Return Value
+Message.
+See Also
+
+
+Channel Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

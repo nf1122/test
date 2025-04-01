@@ -1,0 +1,31 @@
+WRobot
+
+ItemsManager..::..GetNameById Method (UInt32)
+Gets the item name by id. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string GetNameById(
+	uint idItem
+)Public Shared Function GetNameById ( _
+	idItem As UInteger _
+) As Stringpublic:
+static String^ GetNameById(
+	unsigned int^ idItem
+)Parameters
+idItem
+Type: UInt32
+The item id.
+Return Value
+item name.
+See Also
+
+
+ItemsManager Class
+GetNameById Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 
