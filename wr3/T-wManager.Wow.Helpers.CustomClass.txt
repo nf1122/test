@@ -1,0 +1,186 @@
+WRobot
+
+CustomClass Class
+Class CustomClass. Also known as Fightclass or Fightclasses, this class allows you to manage it. To create fight class you can use Creator, but you can also use C#, VB.net or LuaBot. Fight classes need to implement interface ICustomClass (except for LuaBot fightclass). You can also look https://wrobot.eu/forums/topic/11122-c-fightclass-development-video-tutorial/ 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class CustomClassPublic NotInheritable Class CustomClasspublic ref class CustomClass abstract sealed
+Examples
+
+
+
+
+C#
+using System;
+   using System.Threading;
+   using System.Windows.Forms;
+   using robotManager.Helpful;
+   using robotManager.Products;
+   using wManager.Wow.Class;
+   using wManager.Wow.Enums;
+   using wManager.Wow.Helpers;
+   using wManager.Wow.ObjectManager;
+   using Timer = robotManager.Helpful.Timer;
+
+   public class Main : ICustomClass
+   {
+       public float Range { get { return 4.5f; } }
+
+       private bool _isLaunched;
+       private ulong _lastTarget;
+
+       public void Initialize() // When product started, he calls this method in new thread
+       {
+           _isLaunched = true;
+           Logging.Write("[My fightclass] Is initialized.");
+           Rotation();
+       }
+
+       public void Dispose() // Called when product stopped
+       {
+           _isLaunched = false;
+           Logging.Write("[My fightclass] Stop in progress.");
+       }
+
+       public void ShowConfiguration() // When use click on Fight class settings
+       {
+           MessageBox.Show("[My fightclass] No setting for this Fight Class.");
+       }
+
+
+       // SPELLS:
+       // Buff:
+       public Spell DeadlyPoison = new Spell("Deadly Poison");
+       public Spell Sprint = new Spell("Sprint");
+       // Pull:
+       public Spell Stealth = new Spell("Stealth");
+       // Combat:
+       public Spell Garrote = new Spell("Garrote");
+       public Spell SliceandDice = new Spell("Slice and Dice");
+       public Spell Eviscerate = new Spell("Eviscerate");
+       public Timer SliceandDiceTimer = new Timer(); // Timer
+
+       internal void Rotation()
+       {
+           Logging.Write("[My fightclass] Is started.");
+           while (_isLaunched)
+           {
+               try
+               {
+                   if (!Conditions.InGameAndConnectedAndAliveAndProductStartedNotInPause)
+                   {
+                       BuffRotation();
+
+                       if (Fight.InFight && ObjectManager.Me.Target.IsNotZero())
+                       {
+                           Pull();
+                           CombatRotation();
+                       }
+                   }
+               }
+               catch (Exception e)
+               {
+                   Logging.WriteError("[My fightclass] ERROR: " + e);
+               }
+
+               Thread.Sleep(10); // Pause 10 ms to reduce the CPU usage, you can increment sleep time.
+           }
+           Logging.Write("[My fightclass] Is now stopped.");
+       }
+
+       internal void BuffRotation()
+       {
+           if (ObjectManager.Me.IsMounted)
+               return;
+
+           // Deadly Poison:
+           if (DeadlyPoison.KnownSpell && !DeadlyPoison.HaveBuff && DeadlyPoison.IsSpellUsable && !ObjectManager.Me.GetMove)
+           {
+               DeadlyPoison.Launch();
+               return;
+           }
+           // Sprint
+           if (Sprint.KnownSpell && !ObjectManager.Me.InCombat && ObjectManager.Me.GetMove && Sprint.IsSpellUsable)
+           {
+               Sprint.Launch();
+               return;
+           }
+       }
+       internal void Pull()
+       {
+           if (ObjectManager.Me.Target == _lastTarget)
+               return;
+
+           // Stealth:
+           if (Stealth.KnownSpell && Stealth.IsSpellUsable && !Stealth.HaveBuff && ObjectManager.Target.Target != ObjectManager.Me.Guid)
+           {
+               Stealth.Launch();
+               _lastTarget = ObjectManager.Me.Target;
+           }
+       }
+
+       internal void CombatRotation()
+       {
+           // Garrote:
+           if (Garrote.IsSpellUsable && Garrote.IsDistanceGood && Garrote.KnownSpell && ObjectManager.Me.HaveBuff(115192))
+           {
+               Garrote.Launch();
+               return;
+           }
+           // Eviscerate:
+           if (Eviscerate.KnownSpell && Eviscerate.IsSpellUsable && Eviscerate.IsDistanceGood && (ObjectManager.Me.ComboPoint > 4 || (SliceandDice.HaveBuff && SliceandDiceTimer.IsReady)))
+           {
+               Eviscerate.Launch();
+               if (SliceandDice.HaveBuff)
+                   SliceandDiceTimer = new Timer(1000 * 36);
+               return;
+           }
+       }
+   }VB.NET
+Imports System.Collections.Generic
+   Imports System.Linq
+   Imports System.Threading
+   Imports robotManager.FiniteStateMachine
+   Imports robotManager.Helpful
+   Imports wManager.Wow.Class
+   Imports wManager.Wow.Helpers
+   Imports wManager.Wow.ObjectManager
+
+   Public Class Main
+       Implements ICustomClass
+
+       Public ReadOnly Property Range As Single Implements ICustomClass.Range
+           Get
+               Return 5
+           End Get
+       End Property
+
+
+       Public Sub Initialize() Implements ICustomClass.Initialize
+
+       End Sub
+
+       Public Sub Dispose() Implements ICustomClass.Dispose
+
+       End Sub
+
+       Public Sub ShowConfiguration() Implements ICustomClass.ShowConfiguration
+
+       End Sub
+   End ClassInheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..CustomClass
+
+See Also
+
+
+CustomClass Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

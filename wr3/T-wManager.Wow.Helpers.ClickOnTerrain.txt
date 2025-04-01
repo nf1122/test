@@ -1,0 +1,24 @@
+WRobot
+
+ClickOnTerrain Class
+Class ClickOnTerrain. Useful for AOE spells. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class ClickOnTerrainPublic NotInheritable Class ClickOnTerrainpublic ref class ClickOnTerrain abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..ClickOnTerrain
+
+See Also
+
+
+ClickOnTerrain Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

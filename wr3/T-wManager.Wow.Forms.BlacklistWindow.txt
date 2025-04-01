@@ -1,0 +1,24 @@
+WRobot
+
+BlacklistWindow Class
+Logique d'interaction pour BlacklistWindow.xaml 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class BlacklistWindowPublic Class BlacklistWindowpublic ref class BlacklistWindow
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Forms..::..BlacklistWindow
+
+See Also
+
+
+BlacklistWindow Members
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

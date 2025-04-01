@@ -1,0 +1,33 @@
+WRobot
+
+UserControlMiniMap Class
+MiniMap UserControl (game map, used tab "Map"). Too add landmarks look LandmarksMiniMap
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class UserControlMiniMap : UserControlPublic Class UserControlMiniMap _
+	Inherits UserControlpublic ref class UserControlMiniMap : public UserControl
+Inheritance Hierarchy
+
+
+Object
+  DispatcherObject
+    DependencyObject
+      Visual
+        UIElement
+          FrameworkElement
+            Control
+              ContentControl
+                UserControl
+                  wManager.Wow.Forms..::..UserControlMiniMap
+
+See Also
+
+
+UserControlMiniMap Members
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

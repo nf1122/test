@@ -1,0 +1,27 @@
+WRobot
+
+FightClassSpell Class
+Class FightClassSpell (used by XML fight classes and editor). 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class FightClassSpell<SerializableAttribute> _
+Public Class FightClassSpell[SerializableAttribute]
+public ref class FightClassSpell
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers.FightClassCreator..::..FightClassSpell
+
+See Also
+
+
+FightClassSpell Members
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

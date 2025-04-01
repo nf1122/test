@@ -1,0 +1,33 @@
+WRobot
+
+WoWObjectType Enumeration
+WoWObjectType 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum WoWObjectTypePublic Enumeration WoWObjectTypepublic enum class WoWObjectType
+Members
+
+
+Member nameDescription
+Object
+Item
+Container
+Unit
+Player
+GameObject
+DynamicObject
+Corpse
+AiGroup
+AreaTrigger
+None
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

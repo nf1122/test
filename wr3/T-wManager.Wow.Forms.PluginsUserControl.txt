@@ -1,0 +1,33 @@
+WRobot
+
+PluginsUserControl Class
+Plugins UserControl (used tab "Plugins") 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class PluginsUserControl : UserControlPublic Class PluginsUserControl _
+	Inherits UserControlpublic ref class PluginsUserControl : public UserControl
+Inheritance Hierarchy
+
+
+Object
+  DispatcherObject
+    DependencyObject
+      Visual
+        UIElement
+          FrameworkElement
+            Control
+              ContentControl
+                UserControl
+                  wManager.Wow.Forms..::..PluginsUserControl
+
+See Also
+
+
+PluginsUserControl Members
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

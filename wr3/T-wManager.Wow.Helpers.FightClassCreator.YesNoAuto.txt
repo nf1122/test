@@ -1,0 +1,28 @@
+WRobot
+
+YesNoAuto Enumeration
+YesNoAuto (used by XML fight classes and editor). 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public enum YesNoAuto<SerializableAttribute> _
+Public Enumeration YesNoAuto[SerializableAttribute]
+public enum class YesNoAuto
+Members
+
+
+Member nameDescription
+Yes
+No
+Auto
+
+See Also
+
+
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

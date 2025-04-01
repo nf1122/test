@@ -1,0 +1,30 @@
+WRobot
+
+FightClassConditionBuffStack Class
+Class FightClassConditionBuffStack (used by XML fight classes and editor). Implements the FightClassConditionBase
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class FightClassConditionBuffStack : FightClassConditionBase<SerializableAttribute> _
+Public Class FightClassConditionBuffStack _
+	Inherits FightClassConditionBase[SerializableAttribute]
+public ref class FightClassConditionBuffStack : public FightClassConditionBase
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers.FightClassCreator..::..FightClassConditionBase
+    wManager.Wow.Helpers.FightClassCreator..::..FightClassConditionBuffStack
+
+See Also
+
+
+FightClassConditionBuffStack Members
+wManager.Wow.Helpers.FightClassCreator Namespace
+wManager.Wow.Helpers.FightClassCreator..::..FightClassConditionBase
+Help File generated with GhostDoc
+ 

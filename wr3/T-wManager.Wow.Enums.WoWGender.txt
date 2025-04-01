@@ -1,0 +1,25 @@
+WRobot
+
+WoWGender Enumeration
+WoWGender 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum WoWGenderPublic Enumeration WoWGenderpublic enum class WoWGender
+Members
+
+
+Member nameDescription
+None
+Male
+Female
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

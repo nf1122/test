@@ -1,0 +1,26 @@
+WRobot
+
+MiniMapGenerator..::..LandmarksMiniMap Class
+Class LandmarksMiniMap (for more information look MiniMapGenerator..::..LandmarkMiniMap). Implements the ICloneable
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class LandmarksMiniMap : ICloneablePublic Class LandmarksMiniMap _
+	Implements ICloneablepublic ref class LandmarksMiniMap : ICloneable
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..MiniMapGenerator..::..LandmarksMiniMap
+
+See Also
+
+
+MiniMapGenerator..::..LandmarksMiniMap Members
+wManager.Wow.Helpers Namespace
+ICloneable
+Help File generated with GhostDoc
+ 

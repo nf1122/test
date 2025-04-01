@@ -1,0 +1,26 @@
+WRobot
+
+EventsLua..::..MethodDelegate Delegate
+Delegate MethodDelegate 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public delegate void MethodDelegate(
+	Object context
+)Public Delegate Sub MethodDelegate ( _
+	context As Object _
+)public delegate void MethodDelegate(
+	Object^ context
+)Parameters
+context
+Type: Object
+The context.
+See Also
+
+
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

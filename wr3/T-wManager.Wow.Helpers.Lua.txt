@@ -1,0 +1,24 @@
+WRobot
+
+Lua Class
+Class Lua. Used to run lua code in game and get lua variables value ( https://wow.gamepedia.com/World_of_Warcraft_API ). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class LuaPublic NotInheritable Class Luapublic ref class Lua abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..Lua
+
+See Also
+
+
+Lua Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

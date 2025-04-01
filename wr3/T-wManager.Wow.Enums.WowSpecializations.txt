@@ -1,0 +1,68 @@
+WRobot
+
+WowSpecializations Enumeration
+WowSpecializations 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum WowSpecializationsPublic Enumeration WowSpecializationspublic enum class WowSpecializations
+Members
+
+
+Member nameDescription
+None
+Warrior_Arms
+Warrior_Fury
+Warrior_Protection
+Warrior_Default
+Paladin_Holy
+Paladin_Protection
+Paladin_Restribution
+Paladin_Default
+Hunter_Beast_Mastery
+Hunter_Marksmanship
+Hunter_Survival
+Hunter_Default
+Rogue_Assassination
+Rogue_Combat
+Rogue_Subtlety
+Rogue_Default
+Priest_Discipline
+Priest_Holy
+Priest_Shadow
+Priest_Default
+DeathKnight_Blood
+DeathKnight_Frost
+DeathKnight_Unholy
+DeathKnight_Default
+Shaman_Elemental
+Shaman_Enhancement
+Shaman_Restoration
+Shaman_Default
+Mage_Arcane
+Mage_Fire
+Mage_Frost
+Mage_Default
+Warlock_Affliction
+Warlock_Demonology
+Warlock_Destruction
+Warlock_Default
+Druid_Balance
+Druid_Feral
+Druid_Guardian
+Druid_Restoration
+Druid_Default
+Monk_Brewmaster
+Monk_Mistweaver
+Monk_Windwalker
+Monk_Default
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

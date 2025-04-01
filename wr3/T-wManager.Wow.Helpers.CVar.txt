@@ -1,0 +1,24 @@
+WRobot
+
+CVar Class
+Class CVar. Wrapper for access to in game CVar https://wow.gamepedia.com/Console_variables 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class CVarPublic NotInheritable Class CVarpublic ref class CVar abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..CVar
+
+See Also
+
+
+CVar Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

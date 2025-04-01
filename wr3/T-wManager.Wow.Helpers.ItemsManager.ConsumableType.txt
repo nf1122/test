@@ -1,0 +1,24 @@
+WRobot
+
+ItemsManager..::..ConsumableType Enumeration
+ConsumableType (used by [GetBestConsumableBag(ConsumableType)]) 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum ConsumableTypePublic Enumeration ConsumableTypepublic enum class ConsumableType
+Members
+
+
+Member nameDescription
+Food
+Drink
+
+See Also
+
+
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

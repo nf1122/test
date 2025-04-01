@@ -1,0 +1,26 @@
+WRobot
+
+UserControlMiniMap..::..OnMouseClickHandler Delegate
+Delegate OnMouseClickHandler 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public delegate void OnMouseClickHandler(
+	Vector3 position
+)Public Delegate Sub OnMouseClickHandler ( _
+	position As Vector3 _
+)public delegate void OnMouseClickHandler(
+	Vector3^ position
+)Parameters
+position
+Type: robotManager.Helpful..::..Vector3
+The position.
+See Also
+
+
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

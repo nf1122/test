@@ -1,0 +1,24 @@
+WRobot
+
+LongMove Class
+Class LongMove. Useful to flying to specific destination when there are obstacles. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class LongMovePublic NotInheritable Class LongMovepublic ref class LongMove abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..LongMove
+
+See Also
+
+
+LongMove Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,24 @@
+WRobot
+
+MiniMapGenerator..::..MinimapImage Class
+Class MinimapImage. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class MinimapImagePublic Class MinimapImagepublic ref class MinimapImage
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..MiniMapGenerator..::..MinimapImage
+
+See Also
+
+
+MiniMapGenerator..::..MinimapImage Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,21 @@
+WRobot
+
+ClickOnTerrain..::..StructClickOnTerrain Structure
+Struct StructClickOnTerrain 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[StructLayoutAttribute]
+public struct StructClickOnTerrain<StructLayoutAttribute> _
+Public Structure StructClickOnTerrain[StructLayoutAttribute]
+public value class StructClickOnTerrain
+See Also
+
+
+ClickOnTerrain..::..StructClickOnTerrain Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

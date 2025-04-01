@@ -1,0 +1,30 @@
+WRobot
+
+FightClassConditionUnitNear Class
+Class FightClassConditionUnitNear (used by XML fight classes and editor). Implements the FightClassConditionBase
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class FightClassConditionUnitNear : FightClassConditionBase<SerializableAttribute> _
+Public Class FightClassConditionUnitNear _
+	Inherits FightClassConditionBase[SerializableAttribute]
+public ref class FightClassConditionUnitNear : public FightClassConditionBase
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers.FightClassCreator..::..FightClassConditionBase
+    wManager.Wow.Helpers.FightClassCreator..::..FightClassConditionUnitNear
+
+See Also
+
+
+FightClassConditionUnitNear Members
+wManager.Wow.Helpers.FightClassCreator Namespace
+wManager.Wow.Helpers.FightClassCreator..::..FightClassConditionBase
+Help File generated with GhostDoc
+ 

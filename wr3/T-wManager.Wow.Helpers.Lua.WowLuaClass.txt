@@ -1,0 +1,27 @@
+WRobot
+
+Lua..::..WowLuaClass Class
+Class WowLuaClass (for more information see Wow). Implements the DynamicObject
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class WowLuaClass : DynamicObjectPublic Class WowLuaClass _
+	Inherits DynamicObjectpublic ref class WowLuaClass : public DynamicObject
+Inheritance Hierarchy
+
+
+Object
+  DynamicObject
+    wManager.Wow.Helpers..::..Lua..::..WowLuaClass
+
+See Also
+
+
+Lua..::..WowLuaClass Members
+wManager.Wow.Helpers Namespace
+DynamicObject
+Help File generated with GhostDoc
+ 

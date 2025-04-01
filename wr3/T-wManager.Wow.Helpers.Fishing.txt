@@ -1,0 +1,24 @@
+WRobot
+
+Fishing Class
+Class Fishing. Useful method for fishing 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class FishingPublic NotInheritable Class Fishingpublic ref class Fishing abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..Fishing
+
+See Also
+
+
+Fishing Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

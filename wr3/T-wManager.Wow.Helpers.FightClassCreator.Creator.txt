@@ -1,0 +1,32 @@
+WRobot
+
+Creator Class
+Fight classes creator. Implements the Form
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class Creator : FormPublic Class Creator _
+	Inherits Formpublic ref class Creator : public Form
+Inheritance Hierarchy
+
+
+Object
+  MarshalByRefObject
+    Component
+      Control
+        ScrollableControl
+          ContainerControl
+            Form
+              wManager.Wow.Helpers.FightClassCreator..::..Creator
+
+See Also
+
+
+Creator Members
+wManager.Wow.Helpers.FightClassCreator Namespace
+Form
+Help File generated with GhostDoc
+ 

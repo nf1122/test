@@ -1,0 +1,27 @@
+WRobot
+
+AuctionHelpers..::..TimeLeft Enumeration
+Auction time left 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum TimeLeftPublic Enumeration TimeLeftpublic enum class TimeLeft
+Members
+
+
+Member nameDescription
+None
+Short
+Medium
+Long
+VeryLong
+
+See Also
+
+
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

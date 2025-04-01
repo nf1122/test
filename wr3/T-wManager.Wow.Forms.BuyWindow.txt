@@ -1,0 +1,26 @@
+WRobot
+
+BuyWindow Class
+Class BuyWindow. Window for the settings BuyList Implements the Window Implements the IComponentConnector
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class BuyWindowPublic Class BuyWindowpublic ref class BuyWindow
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Forms..::..BuyWindow
+
+See Also
+
+
+BuyWindow Members
+wManager.Wow.Forms Namespace
+Window
+IComponentConnector
+Help File generated with GhostDoc
+ 

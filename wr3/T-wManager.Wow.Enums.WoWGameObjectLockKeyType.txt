@@ -1,0 +1,26 @@
+WRobot
+
+WoWGameObjectLockKeyType Enumeration
+WoWGameObjectLockKeyType 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum WoWGameObjectLockKeyTypePublic Enumeration WoWGameObjectLockKeyTypepublic enum class WoWGameObjectLockKeyType
+Members
+
+
+Member nameDescription
+LOCK_KEY_NONE
+LOCK_KEY_ITEM
+LOCK_KEY_SKILL
+LOCK_KEY_UNKNOWN
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

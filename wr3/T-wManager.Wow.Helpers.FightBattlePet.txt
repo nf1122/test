@@ -1,0 +1,24 @@
+WRobot
+
+FightBattlePet Class
+Class FightBattlePet. Used to manage behaviour and abilities during pet battles. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class FightBattlePetPublic NotInheritable Class FightBattlePetpublic ref class FightBattlePet abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..FightBattlePet
+
+See Also
+
+
+FightBattlePet Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

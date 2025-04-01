@@ -1,0 +1,24 @@
+WRobot
+
+UserControlTabGeneralSettings Class
+UserControl GeneralSettings (used tab "General settings", main configurations, for access to the full list of options use window GeneralSettings) 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class UserControlTabGeneralSettingsPublic Class UserControlTabGeneralSettingspublic ref class UserControlTabGeneralSettings
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Forms..::..UserControlTabGeneralSettings
+
+See Also
+
+
+UserControlTabGeneralSettings Members
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

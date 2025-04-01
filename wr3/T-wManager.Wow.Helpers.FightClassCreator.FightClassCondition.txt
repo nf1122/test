@@ -1,0 +1,27 @@
+WRobot
+
+FightClassCondition Class
+Class FightClassCondition (used by XML fight classes and editor). 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class FightClassCondition<SerializableAttribute> _
+Public Class FightClassCondition[SerializableAttribute]
+public ref class FightClassCondition
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers.FightClassCreator..::..FightClassCondition
+
+See Also
+
+
+FightClassCondition Members
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

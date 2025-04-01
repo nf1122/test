@@ -1,0 +1,30 @@
+WRobot
+
+FightClassConditionItemNumber Class
+Class FightClassConditionItemNumber (used by XML fight classes and editor). Implements the FightClassConditionBase
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class FightClassConditionItemNumber : FightClassConditionBase<SerializableAttribute> _
+Public Class FightClassConditionItemNumber _
+	Inherits FightClassConditionBase[SerializableAttribute]
+public ref class FightClassConditionItemNumber : public FightClassConditionBase
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers.FightClassCreator..::..FightClassConditionBase
+    wManager.Wow.Helpers.FightClassCreator..::..FightClassConditionItemNumber
+
+See Also
+
+
+FightClassConditionItemNumber Members
+wManager.Wow.Helpers.FightClassCreator Namespace
+wManager.Wow.Helpers.FightClassCreator..::..FightClassConditionBase
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,32 @@
+WRobot
+
+EventsLuaWithArgs..::..EventsLuaWithArgsHandler Delegate
+Delegate EventsLuaWithArgsHandler 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public delegate void EventsLuaWithArgsHandler(
+	LuaEventsId id,
+	List<string> args
+)Public Delegate Sub EventsLuaWithArgsHandler ( _
+	id As LuaEventsId, _
+	args As List(Of String) _
+)public delegate void EventsLuaWithArgsHandler(
+	LuaEventsId^ id, 
+	List<String^>^ args
+)Parameters
+id
+Type: wManager.Wow.Enums..::..LuaEventsId
+The event id.
+args
+Type: List<(Of <(<'String>)>)>
+The arguments.
+See Also
+
+
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

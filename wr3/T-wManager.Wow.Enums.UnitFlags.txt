@@ -1,0 +1,59 @@
+WRobot
+
+UnitFlags Enumeration
+UnitFlags 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[FlagsAttribute]
+public enum UnitFlags<FlagsAttribute> _
+Public Enumeration UnitFlags[FlagsAttribute]
+public enum class UnitFlags
+Members
+
+
+Member nameDescription
+None
+NotSitting
+_SelectableNotAttackable_1
+Influenced
+PlayerControlled
+Totem
+Preparation
+PlusMob
+_SelectableNotAttackable_2
+NotAttackable
+_Flag_0x200
+Looting
+PetInCombat
+PvPFlagged
+Silenced
+_Flag_14_0x4000
+_Flag_15_0x8000
+_SelectableNotAttackable_3
+Pacified
+Stunned
+Combat
+CanPerformAction_Mask1
+TaxiFlight
+Disarmed
+Confused
+Fleeing
+Possessed
+NotSelectable
+Skinnable
+Mounted
+_Flag_28_0x10000000
+Dazed
+Sheathe
+_Flag_31_0x80000000
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

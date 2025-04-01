@@ -1,0 +1,35 @@
+WRobot
+
+WoWClass Enumeration
+WoWClass 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum WoWClassPublic Enumeration WoWClasspublic enum class WoWClass
+Members
+
+
+Member nameDescription
+None
+Warrior
+Paladin
+Hunter
+Rogue
+Priest
+DeathKnight
+Shaman
+Mage
+Warlock
+Monk
+Druid
+DemonHunter
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,33 @@
+WRobot
+
+FightClassConditionNumberType Enumeration
+FightClassConditionNumberType (used by XML fight classes and editor). 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public enum FightClassConditionNumberType<SerializableAttribute> _
+Public Enumeration FightClassConditionNumberType[SerializableAttribute]
+public enum class FightClassConditionNumberType
+Members
+
+
+Member nameDescription
+Equal
+Bigger
+Smaller
+NotEqual
+BiggerOrEqual
+SmallerOrEqual
+Egal
+NotEgal
+
+See Also
+
+
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

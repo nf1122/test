@@ -1,0 +1,56 @@
+WRobot
+
+UnitNPCFlags Enumeration
+UnitNPCFlags 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[FlagsAttribute]
+public enum UnitNPCFlags<FlagsAttribute> _
+Public Enumeration UnitNPCFlags[FlagsAttribute]
+public enum class UnitNPCFlags
+Members
+
+
+Member nameDescription
+Auctioneer
+Banker
+Battlemaster
+BattlePetTrainer
+CanRepair
+CanSell
+CanTrain
+DailyQuests
+Flightmaster
+ForgeMaster
+Gossip
+GuildBanker
+Innkeeper
+MailInfo
+None
+Petitioner
+Questgiver
+SellsAmmo
+SellsFood
+SellsReagents
+SPELLCLICK
+Spiritguide
+Spirithealer
+Stablemaster
+Tabarddesigner
+Transmogrifier
+BattlePet
+UNK1
+UNK2
+VENDOR_POISON
+VoidStorageBanker
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,30 @@
+WRobot
+
+FightClassConditionLua Class
+Class FightClassConditionLua (used by XML fight classes and editor). Implements the FightClassConditionBase
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class FightClassConditionLua : FightClassConditionBase<SerializableAttribute> _
+Public Class FightClassConditionLua _
+	Inherits FightClassConditionBase[SerializableAttribute]
+public ref class FightClassConditionLua : public FightClassConditionBase
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers.FightClassCreator..::..FightClassConditionBase
+    wManager.Wow.Helpers.FightClassCreator..::..FightClassConditionLua
+
+See Also
+
+
+FightClassConditionLua Members
+wManager.Wow.Helpers.FightClassCreator Namespace
+wManager.Wow.Helpers.FightClassCreator..::..FightClassConditionBase
+Help File generated with GhostDoc
+ 

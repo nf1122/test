@@ -1,0 +1,25 @@
+WRobot
+
+AuctionHelpers..::..Duration Enumeration
+Auction duration 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum DurationPublic Enumeration Durationpublic enum class Duration
+Members
+
+
+Member nameDescription
+_12H
+_24H
+_48H
+
+See Also
+
+
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

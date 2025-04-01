@@ -1,0 +1,35 @@
+WRobot
+
+ChatUserControler Class
+Class ChatUserControler. Game chat usercontrol (used in tab "Chat"). Implements the UserControl Implements the IComponentConnector
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class ChatUserControler : UserControlPublic Class ChatUserControler _
+	Inherits UserControlpublic ref class ChatUserControler : public UserControl
+Inheritance Hierarchy
+
+
+Object
+  DispatcherObject
+    DependencyObject
+      Visual
+        UIElement
+          FrameworkElement
+            Control
+              ContentControl
+                UserControl
+                  wManager.Wow.Forms..::..ChatUserControler
+
+See Also
+
+
+ChatUserControler Members
+wManager.Wow.Forms Namespace
+UserControl
+IComponentConnector
+Help File generated with GhostDoc
+ 

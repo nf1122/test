@@ -1,0 +1,30 @@
+WRobot
+
+WoWItemQuality Enumeration
+WoWItemQuality 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum WoWItemQualityPublic Enumeration WoWItemQualitypublic enum class WoWItemQuality
+Members
+
+
+Member nameDescription
+Artifact
+Common
+Epic
+Heirloom
+Legendary
+Poor
+Rare
+Uncommon
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

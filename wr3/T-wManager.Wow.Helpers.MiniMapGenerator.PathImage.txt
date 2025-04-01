@@ -1,0 +1,24 @@
+WRobot
+
+MiniMapGenerator..::..PathImage Class
+Class PathImage. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class PathImagePublic Class PathImagepublic ref class PathImage
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..MiniMapGenerator..::..PathImage
+
+See Also
+
+
+MiniMapGenerator..::..PathImage Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

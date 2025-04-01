@@ -1,0 +1,24 @@
+WRobot
+
+UserControlTabInGame Class
+UserControl that show in game infos (like player name, level, target, ...) (used tab "Info") 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class UserControlTabInGamePublic Class UserControlTabInGamepublic ref class UserControlTabInGame
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Forms..::..UserControlTabInGame
+
+See Also
+
+
+UserControlTabInGame Members
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

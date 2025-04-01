@@ -1,0 +1,26 @@
+WRobot
+
+DBC<(Of <(<'T>)>)> Class
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class DBC<T>
+Public Class DBC(Of T)generic<typename T>
+public ref class DBCType Parameters
+T
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..DBC<(Of <(<'T>)>)>
+
+See Also
+
+
+DBC<(Of <(<'T>)>)> Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,24 @@
+WRobot
+
+CGUnit_C__GetFacing Class
+Class CGUnit_C__GetFacing. used to get [WoWGameObject.Rotation]
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class CGUnit_C__GetFacingPublic NotInheritable Class CGUnit_C__GetFacingpublic ref class CGUnit_C__GetFacing abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..CGUnit_C__GetFacing
+
+See Also
+
+
+CGUnit_C__GetFacing Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,26 @@
+WRobot
+
+UserControlTabTools Class
+Class UserControlTabTools. Implements the UserControl Implements the IComponentConnector
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class UserControlTabToolsPublic Class UserControlTabToolspublic ref class UserControlTabTools
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Forms..::..UserControlTabTools
+
+See Also
+
+
+UserControlTabTools Members
+wManager.Wow.Forms Namespace
+UserControl
+IComponentConnector
+Help File generated with GhostDoc
+ 

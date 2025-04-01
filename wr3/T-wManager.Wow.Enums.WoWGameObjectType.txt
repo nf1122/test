@@ -1,0 +1,59 @@
+WRobot
+
+WoWGameObjectType Enumeration
+WoWGameObjectType 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum WoWGameObjectTypePublic Enumeration WoWGameObjectTypepublic enum class WoWGameObjectType
+Members
+
+
+Member nameDescription
+Door
+Button
+Questgiver
+Chest
+Binder
+Generic
+Trap
+SpellFocus
+Chair
+Text
+Goober
+Transport
+AreaDamage
+Camera
+MapObject
+MoTransport
+DuelArbiter
+FishingNode
+Ritual
+Mailbox
+AuctionHouse
+GuardPost
+SpellCaster
+MeetingStone
+FlagStand
+FishingHole
+FlagDrop
+MiniGame
+LotteryKiosk
+CapturePoint
+AuraGenerator
+DungeonDifficulty
+DestructiveBuilding
+GuildBank
+TrapDoor
+FlagHorde
+FlagAlliance
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

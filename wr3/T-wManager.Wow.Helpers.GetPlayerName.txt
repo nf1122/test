@@ -1,0 +1,24 @@
+WRobot
+
+GetPlayerName Class
+Class GetPlayerName. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class GetPlayerNamePublic NotInheritable Class GetPlayerNamepublic ref class GetPlayerName abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..GetPlayerName
+
+See Also
+
+
+GetPlayerName Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

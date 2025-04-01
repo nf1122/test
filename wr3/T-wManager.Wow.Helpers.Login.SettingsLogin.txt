@@ -1,0 +1,18 @@
+WRobot
+
+Login..::..SettingsLogin Structure
+Struct SettingsLogin 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public struct SettingsLoginPublic Structure SettingsLoginpublic value class SettingsLogin
+See Also
+
+
+Login..::..SettingsLogin Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

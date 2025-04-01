@@ -1,0 +1,32 @@
+WRobot
+
+FightClassSpellsDB Class
+Class FightClassSpellsDB. Implements the Form
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class FightClassSpellsDB : FormPublic Class FightClassSpellsDB _
+	Inherits Formpublic ref class FightClassSpellsDB : public Form
+Inheritance Hierarchy
+
+
+Object
+  MarshalByRefObject
+    Component
+      Control
+        ScrollableControl
+          ContainerControl
+            Form
+              wManager.Wow.Helpers.FightClassCreator..::..FightClassSpellsDB
+
+See Also
+
+
+FightClassSpellsDB Members
+wManager.Wow.Helpers.FightClassCreator Namespace
+Form
+Help File generated with GhostDoc
+ 

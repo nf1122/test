@@ -1,0 +1,27 @@
+WRobot
+
+FightClassGeneralSettings Class
+Class FightClassGeneralSettings (used by XML fight classes and editor). 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class FightClassGeneralSettings<SerializableAttribute> _
+Public Class FightClassGeneralSettings[SerializableAttribute]
+public ref class FightClassGeneralSettings
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers.FightClassCreator..::..FightClassGeneralSettings
+
+See Also
+
+
+FightClassGeneralSettings Members
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

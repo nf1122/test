@@ -1,0 +1,18 @@
+WRobot
+
+ICustomClass Interface
+Interface ICustomClass, used by fight classes: CustomClass
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public interface ICustomClassPublic Interface ICustomClasspublic interface class ICustomClass
+See Also
+
+
+ICustomClass Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

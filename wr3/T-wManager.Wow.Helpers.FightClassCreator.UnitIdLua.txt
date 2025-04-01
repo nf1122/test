@@ -1,0 +1,39 @@
+WRobot
+
+UnitIdLua Enumeration
+UnitIdLua (used by XML fight classes and editor). 
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public enum UnitIdLua<SerializableAttribute> _
+Public Enumeration UnitIdLua[SerializableAttribute]
+public enum class UnitIdLua
+Members
+
+
+Member nameDescription
+none
+target
+player
+pet
+focus
+mouseover
+party1
+party2
+party3
+party4
+partypet1
+partypet2
+partypet3
+partypet4
+
+See Also
+
+
+wManager.Wow.Helpers.FightClassCreator Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,24 @@
+WRobot
+
+Channel..::..Message Class
+Class Message. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class MessagePublic Class Messagepublic ref class Message
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..Channel..::..Message
+
+See Also
+
+
+Channel..::..Message Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

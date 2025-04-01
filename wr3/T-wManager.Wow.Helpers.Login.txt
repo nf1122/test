@@ -1,0 +1,24 @@
+WRobot
+
+Login Class
+Class Login. To login character to the game. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class LoginPublic NotInheritable Class Loginpublic ref class Login abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..Login
+
+See Also
+
+
+Login Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

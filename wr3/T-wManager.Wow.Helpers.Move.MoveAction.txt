@@ -1,0 +1,25 @@
+WRobot
+
+Move..::..MoveAction Enumeration
+Press keyboard key (DownKey and UpKey) 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum MoveActionPublic Enumeration MoveActionpublic enum class MoveAction
+Members
+
+
+Member nameDescription
+PressKeyPress keyboard key (DownKey and UpKey) 
+UpKeyUp (start) keyboard key 
+DownKeyDown (strop) keyboard key 
+
+See Also
+
+
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

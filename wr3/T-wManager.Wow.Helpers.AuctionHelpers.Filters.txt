@@ -1,0 +1,35 @@
+WRobot
+
+AuctionHelpers..::..Filters Enumeration
+Auction search item filters 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum FiltersPublic Enumeration Filterspublic enum class Filters
+Members
+
+
+Member nameDescription
+None
+Weapon
+Armor
+Container
+Consumable
+Glyph
+TradeGoods
+Recipe
+Gem
+Miscellaneous
+Quest
+BattlePets
+GameTime
+
+See Also
+
+
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,24 @@
+WRobot
+
+CGUnit_C__GetPosition Class
+Class CGUnit_C__GetPosition. Used to get [WoWUnit.get_Position] when InTransport. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class CGUnit_C__GetPositionPublic NotInheritable Class CGUnit_C__GetPositionpublic ref class CGUnit_C__GetPosition abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..CGUnit_C__GetPosition
+
+See Also
+
+
+CGUnit_C__GetPosition Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

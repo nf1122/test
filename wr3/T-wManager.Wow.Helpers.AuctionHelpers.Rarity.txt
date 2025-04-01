@@ -1,0 +1,30 @@
+WRobot
+
+AuctionHelpers..::..Rarity Enumeration
+Auction search item rarity 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum RarityPublic Enumeration Raritypublic enum class Rarity
+Members
+
+
+Member nameDescription
+All
+Poor
+Common
+Uncommon
+Rare
+Epic
+Legendary
+Artifact
+
+See Also
+
+
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

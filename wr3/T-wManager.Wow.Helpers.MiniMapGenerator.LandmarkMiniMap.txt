@@ -1,0 +1,26 @@
+WRobot
+
+MiniMapGenerator..::..LandmarkMiniMap Class
+Class LandmarkMiniMap, used to show information in UserControlMiniMap and Radar3D (you can found example here: LandmarksMiniMap). Implements the ICloneable
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class LandmarkMiniMap : ICloneablePublic Class LandmarkMiniMap _
+	Implements ICloneablepublic ref class LandmarkMiniMap : ICloneable
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..MiniMapGenerator..::..LandmarkMiniMap
+
+See Also
+
+
+MiniMapGenerator..::..LandmarkMiniMap Members
+wManager.Wow.Helpers Namespace
+ICloneable
+Help File generated with GhostDoc
+ 

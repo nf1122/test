@@ -1,0 +1,30 @@
+WRobot
+
+FightClassConditionStringBool Class
+Class FightClassConditionStringBool (used by XML fight classes and editor). Implements the FightClassConditionBase
+Namespace:  wManager.Wow.Helpers.FightClassCreator
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class FightClassConditionStringBool : FightClassConditionBase<SerializableAttribute> _
+Public Class FightClassConditionStringBool _
+	Inherits FightClassConditionBase[SerializableAttribute]
+public ref class FightClassConditionStringBool : public FightClassConditionBase
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers.FightClassCreator..::..FightClassConditionBase
+    wManager.Wow.Helpers.FightClassCreator..::..FightClassConditionStringBool
+
+See Also
+
+
+FightClassConditionStringBool Members
+wManager.Wow.Helpers.FightClassCreator Namespace
+wManager.Wow.Helpers.FightClassCreator..::..FightClassConditionBase
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,24 @@
+WRobot
+
+Chat Class
+Class Chat. Several useful methods to send and get messages in game. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class ChatPublic Class Chatpublic ref class Chat
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..Chat
+
+See Also
+
+
+Chat Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

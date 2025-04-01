@@ -1,0 +1,51 @@
+WRobot
+
+WoWRace Enumeration
+WoWRace (ChrRaces.db2) 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public enum WoWRace<SerializableAttribute> _
+Public Enumeration WoWRace[SerializableAttribute]
+public enum class WoWRace
+Members
+
+
+Member nameDescription
+None
+Human
+Orc
+Dwarf
+NightElf
+Undead
+Tauren
+Gnome
+Troll
+Goblin
+BloodElf
+Draenei
+FelOrc
+Naga
+Broken
+Skeleton
+Vrykul
+Tuskarr
+ForestTroll
+Taunka
+NorthrendSkeleton
+IceTroll
+Worgen
+Pandaren
+PandarenHorde
+PandarenAlliance
+
+See Also
+
+
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 
