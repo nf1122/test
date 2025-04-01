@@ -1,0 +1,19 @@
+WRobot
+
+QuestFollowPathClass..::..IsComplete Method 
+if you use option IsCompleteWhenAtLastPath this method return true when at last path position, else return value of super class method. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsComplete()Public Function IsComplete As Booleanpublic:
+bool^ IsComplete()
+See Also
+
+
+QuestFollowPathClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

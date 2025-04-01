@@ -1,0 +1,34 @@
+WRobot
+
+MountTask..::..MountingAquaticMount Method 
+Mounting the aquatic mount. 
+Namespace:  wManager.Wow.Bot.Tasks
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void MountingAquaticMount(
+	bool stopMove,
+	bool launchUnstuckIfFail
+)Public Shared Sub MountingAquaticMount ( _
+	stopMove As Boolean, _
+	launchUnstuckIfFail As Boolean _
+)public:
+static void MountingAquaticMount(
+	bool^ stopMove, 
+	bool^ launchUnstuckIfFail
+)Parameters
+stopMove
+Type: Boolean
+if set to true stop move to mount mount.
+launchUnstuckIfFail
+Type: Boolean
+if set to true call UnStuck()()()() if mounting fail.
+See Also
+
+
+MountTask Class
+wManager.Wow.Bot.Tasks Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,20 @@
+WRobot
+
+TaxiNode Constructor 
+Initializes a new instance of the TaxiNode class. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public TaxiNode()Public Sub Newpublic:
+TaxiNode()
+See Also
+
+
+TaxiNode Class
+TaxiNode Overload
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

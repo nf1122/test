@@ -1,0 +1,20 @@
+WRobot
+
+MountTask..::..GetMountCapacity Method 
+Get the mount capacity (depending of bot configurations and in-game status). 
+Namespace:  wManager.Wow.Bot.Tasks
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static MountTask..::..MountCapacity GetMountCapacity()Public Shared Function GetMountCapacity As MountTask..::..MountCapacitypublic:
+static MountTask..::..MountCapacity^ GetMountCapacity()Return Value
+Mount capacity.
+See Also
+
+
+MountTask Class
+wManager.Wow.Bot.Tasks Namespace
+Help File generated with GhostDoc
+ 

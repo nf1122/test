@@ -1,0 +1,19 @@
+WRobot
+
+Npc..::..ScriptCanConditionExecute Method 
+Test ScriptCanCondition returned value (return true if not script). 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool ScriptCanConditionExecute()Public Function ScriptCanConditionExecute As Booleanpublic:
+bool^ ScriptCanConditionExecute()
+See Also
+
+
+Npc Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+QuestClass..::..WhenSelectStep Method 
+Called one time when the quester product select this step (with Pulse or PulseAllInOne action). 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public virtual void WhenSelectStep()Public Overridable Sub WhenSelectSteppublic:
+virtual void WhenSelectStep()
+See Also
+
+
+QuestClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

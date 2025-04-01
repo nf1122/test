@@ -1,0 +1,41 @@
+WRobot
+
+MountTask..::..Mount Method (Boolean, Boolean, MountCapacity)
+Use mount 
+Namespace:  wManager.Wow.Bot.Tasks
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Mount(
+	bool stopMove,
+	bool launchUnstuckIfFail,
+	MountTask..::..MountCapacity mountCapacity
+)Public Shared Sub Mount ( _
+	stopMove As Boolean, _
+	launchUnstuckIfFail As Boolean, _
+	mountCapacity As MountTask..::..MountCapacity _
+)public:
+static void Mount(
+	bool^ stopMove, 
+	bool^ launchUnstuckIfFail, 
+	MountTask..::..MountCapacity^ mountCapacity
+)Parameters
+stopMove
+Type: Boolean
+if set to true stop move to mount mount.
+launchUnstuckIfFail
+Type: Boolean
+if set to true call UnStuck()()()() if mounting fail.
+mountCapacity
+Type: wManager.Wow.Bot.Tasks..::..MountTask..::..MountCapacity
+The mount capacity to mount.
+See Also
+
+
+MountTask Class
+Mount Overload
+wManager.Wow.Bot.Tasks Namespace
+Help File generated with GhostDoc
+ 

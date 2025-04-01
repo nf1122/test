@@ -1,0 +1,19 @@
+WRobot
+
+QuestClass..::..IsCompleted Method 
+Quest is completed (already turn in, or can't do (min/max level, required quest, character class)). 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public virtual bool IsCompleted()Public Overridable Function IsCompleted As Booleanpublic:
+virtual bool^ IsCompleted()
+See Also
+
+
+QuestClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

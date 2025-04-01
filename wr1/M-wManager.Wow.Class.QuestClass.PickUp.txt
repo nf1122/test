@@ -1,0 +1,19 @@
+WRobot
+
+QuestClass..::..PickUp Method 
+Go to NPC and Pick up quest. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public virtual bool PickUp()Public Overridable Function PickUp As Booleanpublic:
+virtual bool^ PickUp()
+See Also
+
+
+QuestClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

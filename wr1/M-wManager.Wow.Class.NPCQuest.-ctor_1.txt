@@ -1,0 +1,59 @@
+WRobot
+
+NPCQuest Constructor (Int32, Vector3, List<(Of <(<'Int32>)>)>, List<(Of <(<'Int32>)>)>, Boolean, String)
+Initializes a new instance of the NPCQuest class. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public NPCQuest(
+	int id,
+	Vector3 position,
+	List<int> pickUpQuests,
+	List<int> turnInQuests,
+	bool gameObject,
+	string name
+)Public Sub New ( _
+	id As Integer, _
+	position As Vector3, _
+	pickUpQuests As List(Of Integer), _
+	turnInQuests As List(Of Integer), _
+	gameObject As Boolean, _
+	name As String _
+)public:
+NPCQuest(
+	int^ id, 
+	Vector3^ position, 
+	List<int^>^ pickUpQuests, 
+	List<int^>^ turnInQuests, 
+	bool^ gameObject, 
+	String^ name
+)Parameters
+id
+Type: Int32
+The entry id.
+position
+Type: robotManager.Helpful..::..Vector3
+The position.
+pickUpQuests
+Type: List<(Of <(<'Int32>)>)>
+The pick up quests IDs.
+turnInQuests
+Type: List<(Of <(<'Int32>)>)>
+The turn in questsIDs.
+gameObject
+Type: Boolean
+if set to true game object.
+name
+Type: String
+The name.
+See Also
+
+
+NPCQuest Class
+NPCQuest Overload
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

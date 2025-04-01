@@ -1,0 +1,20 @@
+WRobot
+
+TaxiNode..::..IsRealPosition Method 
+Determines whether is valid position. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsRealPosition()Public Function IsRealPosition As Booleanpublic:
+bool^ IsRealPosition()Return Value
+true if is valid position; otherwise, false.
+See Also
+
+
+TaxiNode Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

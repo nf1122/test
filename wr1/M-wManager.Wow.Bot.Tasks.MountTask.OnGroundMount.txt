@@ -1,0 +1,20 @@
+WRobot
+
+MountTask..::..OnGroundMount Method 
+Check if on ground mount (mount selected in GroundMountName). 
+Namespace:  wManager.Wow.Bot.Tasks
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool OnGroundMount()Public Shared Function OnGroundMount As Booleanpublic:
+static bool^ OnGroundMount()Return Value
+true if on ground mount, false otherwise.
+See Also
+
+
+MountTask Class
+wManager.Wow.Bot.Tasks Namespace
+Help File generated with GhostDoc
+ 

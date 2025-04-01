@@ -1,0 +1,40 @@
+WRobot
+
+MountTask..::..DismountMount Method 
+Dismounts the mount. 
+Namespace:  wManager.Wow.Bot.Tasks
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void DismountMount(
+	bool stopMove,
+	bool stand,
+	int wait
+)Public Shared Sub DismountMount ( _
+	stopMove As Boolean, _
+	stand As Boolean, _
+	wait As Integer _
+)public:
+static void DismountMount(
+	bool^ stopMove, 
+	bool^ stand, 
+	int^ wait
+)Parameters
+stopMove
+Type: Boolean
+if set to true stop move.
+stand
+Type: Boolean
+if set to true landing (if flying).
+wait
+Type: Int32
+wait time after dismount (in milliseconds).
+See Also
+
+
+MountTask Class
+wManager.Wow.Bot.Tasks Namespace
+Help File generated with GhostDoc
+ 

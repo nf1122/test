@@ -1,0 +1,30 @@
+WRobot
+
+TaxiNode..::..IsSimilar Method 
+Determines whether the specified taxi node is similar. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsSimilar(
+	TaxiNode taxiNode
+)Public Function IsSimilar ( _
+	taxiNode As TaxiNode _
+) As Booleanpublic:
+bool^ IsSimilar(
+	TaxiNode^ taxiNode
+)Parameters
+taxiNode
+Type: wManager.Wow.Class..::..TaxiNode
+The taxi node.
+Return Value
+true if the specified taxi node is similar; otherwise, false.
+See Also
+
+
+TaxiNode Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

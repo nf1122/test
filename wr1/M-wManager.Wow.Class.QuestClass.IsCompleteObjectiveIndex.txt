@@ -1,0 +1,48 @@
+WRobot
+
+QuestClass..::..IsCompleteObjectiveIndex Method 
+Determines whether is complete objective by objective index 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsCompleteObjectiveIndex(
+	int objectiveIndex,
+	int objectiveRequiredCount,
+	bool objectiveRequiredAutoDetectCount,
+	int questId
+)Public Function IsCompleteObjectiveIndex ( _
+	objectiveIndex As Integer, _
+	objectiveRequiredCount As Integer, _
+	objectiveRequiredAutoDetectCount As Boolean, _
+	questId As Integer _
+) As Booleanpublic:
+bool^ IsCompleteObjectiveIndex(
+	int^ objectiveIndex, 
+	int^ objectiveRequiredCount, 
+	bool^ objectiveRequiredAutoDetectCount, 
+	int^ questId
+)Parameters
+objectiveIndex
+Type: Int32
+Index of the objective.
+objectiveRequiredCount
+Type: Int32
+The objective required count.
+objectiveRequiredAutoDetectCount
+Type: Boolean
+if set to true detect automatically if objective is complete.
+questId
+Type: Int32
+The quest id.
+Return Value
+true if quest objective index is complete; otherwise, false.
+See Also
+
+
+QuestClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

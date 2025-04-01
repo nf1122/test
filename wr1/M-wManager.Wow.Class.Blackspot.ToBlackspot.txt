@@ -1,0 +1,20 @@
+WRobot
+
+Blackspot..::..ToBlackspot Method 
+Converts to blackspot. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public BlackListSerializable..::..Blackspot ToBlackspot()Public Function ToBlackspot As BlackListSerializable..::..Blackspotpublic:
+BlackListSerializable..::..Blackspot^ ToBlackspot()Return Value
+BlackListSerializable.Blackspot.
+See Also
+
+
+Blackspot Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,47 @@
+WRobot
+
+TaxiNode Constructor (Int32, String, Vector3, Int32)
+Initializes a new instance of the TaxiNode class. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public TaxiNode(
+	int slotIndex,
+	string name,
+	Vector3 position,
+	int continentId
+)Public Sub New ( _
+	slotIndex As Integer, _
+	name As String, _
+	position As Vector3, _
+	continentId As Integer _
+)public:
+TaxiNode(
+	int^ slotIndex, 
+	String^ name, 
+	Vector3^ position, 
+	int^ continentId
+)Parameters
+slotIndex
+Type: Int32
+Index of the slot.
+name
+Type: String
+The name.
+position
+Type: robotManager.Helpful..::..Vector3
+The position.
+continentId
+Type: Int32
+The continent id.
+See Also
+
+
+TaxiNode Class
+TaxiNode Overload
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

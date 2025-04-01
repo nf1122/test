@@ -1,0 +1,19 @@
+WRobot
+
+QuestClass..::..Pulse Method 
+Pulse quest 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public virtual bool Pulse()Public Overridable Function Pulse As Booleanpublic:
+virtual bool^ Pulse()
+See Also
+
+
+QuestClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

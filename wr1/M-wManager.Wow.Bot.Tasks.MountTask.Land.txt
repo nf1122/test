@@ -1,0 +1,34 @@
+WRobot
+
+MountTask..::..Land Method 
+Landing (if flying) 
+Namespace:  wManager.Wow.Bot.Tasks
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Land(
+	float zMin,
+	float distGround
+)Public Shared Sub Land ( _
+	zMin As Single, _
+	distGround As Single _
+)public:
+static void Land(
+	float^ zMin, 
+	float^ distGround
+)Parameters
+zMin
+Type: Single
+Character minimum Z position (float.MinValue by default).
+distGround
+Type: Single
+Ground distance (0 to land on the ground).
+See Also
+
+
+MountTask Class
+wManager.Wow.Bot.Tasks Namespace
+Help File generated with GhostDoc
+ 

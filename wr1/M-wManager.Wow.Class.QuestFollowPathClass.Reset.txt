@@ -1,0 +1,19 @@
+WRobot
+
+QuestFollowPathClass..::..Reset Method 
+Resets this instance, useful for the option ForceToStartFirstPosition. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool Reset()Public Function Reset As Booleanpublic:
+bool^ Reset()
+See Also
+
+
+QuestFollowPathClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,59 @@
+WRobot
+
+EntryIndexQuest Constructor (Int32, Int32, Int32, Int32, Boolean, String)
+Initializes a new instance of the EntryIndexQuest class. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public EntryIndexQuest(
+	int entry,
+	int index,
+	int questId,
+	int objectiveRequiredCount,
+	bool objectiveRequiredAutoDetectCount,
+	string description
+)Public Sub New ( _
+	entry As Integer, _
+	index As Integer, _
+	questId As Integer, _
+	objectiveRequiredCount As Integer, _
+	objectiveRequiredAutoDetectCount As Boolean, _
+	description As String _
+)public:
+EntryIndexQuest(
+	int^ entry, 
+	int^ index, 
+	int^ questId, 
+	int^ objectiveRequiredCount, 
+	bool^ objectiveRequiredAutoDetectCount, 
+	String^ description
+)Parameters
+entry
+Type: Int32
+The entry id.
+index
+Type: Int32
+The objective index.
+questId
+Type: Int32
+The quest id.
+objectiveRequiredCount
+Type: Int32
+Objective required count.
+objectiveRequiredAutoDetectCount
+Type: Boolean
+if set to true automatically detect count objective.
+description
+Type: String
+The description.
+See Also
+
+
+EntryIndexQuest Class
+EntryIndexQuest Overload
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

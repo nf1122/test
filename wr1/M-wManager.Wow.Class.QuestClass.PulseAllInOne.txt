@@ -1,0 +1,19 @@
+WRobot
+
+QuestClass..::..PulseAllInOne Method 
+Pulses all in one (PickUp()()()(), Pulse()()()(), TurnIn()()()()). 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public virtual bool PulseAllInOne()Public Overridable Function PulseAllInOne As Booleanpublic:
+virtual bool^ PulseAllInOne()
+See Also
+
+
+QuestClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

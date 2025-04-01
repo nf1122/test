@@ -1,0 +1,20 @@
+WRobot
+
+Guid128 Constructor 
+Initializes a new instance of the Guid128 class. 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Guid128()Public Sub Newpublic:
+Guid128()
+See Also
+
+
+Guid128 Class
+Guid128 Overload
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

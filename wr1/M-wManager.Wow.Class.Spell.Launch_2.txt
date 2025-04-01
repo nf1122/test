@@ -1,0 +1,47 @@
+WRobot
+
+Spell..::..Launch Method (Boolean, Boolean, Boolean, Boolean)
+Cast Spell. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public void Launch(
+	bool stopMove,
+	bool waitIsCast,
+	bool ignoreIfCast,
+	bool castOnSelf
+)Public Sub Launch ( _
+	stopMove As Boolean, _
+	waitIsCast As Boolean, _
+	ignoreIfCast As Boolean, _
+	castOnSelf As Boolean _
+)public:
+void Launch(
+	bool^ stopMove, 
+	bool^ waitIsCast, 
+	bool^ ignoreIfCast, 
+	bool^ castOnSelf
+)Parameters
+stopMove
+Type: Boolean
+if set to true don't move during cast.
+waitIsCast
+Type: Boolean
+if set to true wait the cast end before exit method.
+ignoreIfCast
+Type: Boolean
+if set to true ignore if character casting before to cast this spell.
+castOnSelf
+Type: Boolean
+if set to true cast on self.
+See Also
+
+
+Spell Class
+Launch Overload
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

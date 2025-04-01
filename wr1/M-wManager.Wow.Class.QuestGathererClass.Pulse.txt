@@ -1,0 +1,19 @@
+WRobot
+
+QuestGathererClass..::..Pulse Method 
+Pulse quest 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool Pulse()Public Function Pulse As Booleanpublic:
+bool^ Pulse()
+See Also
+
+
+QuestGathererClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

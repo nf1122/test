@@ -1,0 +1,30 @@
+WRobot
+
+MountTask..::..MountExist Method 
+Mounts the exist (depending of bot configurations and in-game status). 
+Namespace:  wManager.Wow.Bot.Tasks
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool MountExist(
+	MountTask..::..MountCapacity mountCapacity
+)Public Shared Function MountExist ( _
+	mountCapacity As MountTask..::..MountCapacity _
+) As Booleanpublic:
+static bool^ MountExist(
+	MountTask..::..MountCapacity^ mountCapacity
+)Parameters
+mountCapacity
+Type: wManager.Wow.Bot.Tasks..::..MountTask..::..MountCapacity
+The mount capacity.
+Return Value
+true if exist, false otherwise.
+See Also
+
+
+MountTask Class
+wManager.Wow.Bot.Tasks Namespace
+Help File generated with GhostDoc
+ 

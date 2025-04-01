@@ -1,0 +1,19 @@
+WRobot
+
+QuestGrinderClass..::..HasQuest Method 
+Check if character have one of QuestId in his quest log, if you use option IsGrinderNotQuest this method check min/max level. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool HasQuest()Public Function HasQuest As Booleanpublic:
+bool^ HasQuest()
+See Also
+
+
+QuestGrinderClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

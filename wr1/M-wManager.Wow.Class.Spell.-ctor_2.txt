@@ -1,0 +1,29 @@
+WRobot
+
+Spell Constructor (String)
+Initializes a new instance of the Spell class. This class manage spells of your wow player. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Spell(
+	string spellNameEnglish
+)Public Sub New ( _
+	spellNameEnglish As String _
+)public:
+Spell(
+	String^ spellNameEnglish
+)Parameters
+spellNameEnglish
+Type: String
+English name of the spell.
+See Also
+
+
+Spell Class
+Spell Overload
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,53 @@
+WRobot
+
+Spell..::..Launch Method (Boolean, Boolean, Boolean, String, Boolean)
+Cast Spell. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public void Launch(
+	bool stopMove,
+	bool waitIsCast,
+	bool ignoreIfCast,
+	string luaUnitId,
+	bool castById
+)Public Sub Launch ( _
+	stopMove As Boolean, _
+	waitIsCast As Boolean, _
+	ignoreIfCast As Boolean, _
+	luaUnitId As String, _
+	castById As Boolean _
+)public:
+void Launch(
+	bool^ stopMove, 
+	bool^ waitIsCast, 
+	bool^ ignoreIfCast, 
+	String^ luaUnitId, 
+	bool^ castById
+)Parameters
+stopMove
+Type: Boolean
+if set to true don't move during cast.
+waitIsCast
+Type: Boolean
+if set to true wait the cast end before exit method.
+ignoreIfCast
+Type: Boolean
+if set to true ignore if character casting before to cast this spell.
+luaUnitId
+Type: String
+http://wow.gamepedia.com/UnitId
+castById
+Type: Boolean
+if set to true cast by spell id (no spell ingame name).
+See Also
+
+
+Spell Class
+Launch Overload
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

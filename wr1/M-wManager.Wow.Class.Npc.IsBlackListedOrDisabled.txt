@@ -1,0 +1,19 @@
+WRobot
+
+Npc..::..IsBlackListedOrDisabled Method 
+Determines whether is blacklisted or disabled. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsBlackListedOrDisabled()Public Function IsBlackListedOrDisabled As Booleanpublic:
+bool^ IsBlackListedOrDisabled()
+See Also
+
+
+Npc Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

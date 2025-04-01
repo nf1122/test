@@ -1,0 +1,18 @@
+WRobot
+
+QuestParallelQuestsClass..::..CanConditions Method 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool CanConditions()Public Function CanConditions As Booleanpublic:
+bool^ CanConditions()
+See Also
+
+
+QuestParallelQuestsClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

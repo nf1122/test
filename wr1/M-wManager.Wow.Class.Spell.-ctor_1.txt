@@ -1,0 +1,29 @@
+WRobot
+
+Spell Constructor (UInt32)
+Initializes a new instance of the Spell class. This class management an spell of your wow player. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Spell(
+	uint spellId
+)Public Sub New ( _
+	spellId As UInteger _
+)public:
+Spell(
+	unsigned int^ spellId
+)Parameters
+spellId
+Type: UInt32
+The spell ID.
+See Also
+
+
+Spell Class
+Spell Overload
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

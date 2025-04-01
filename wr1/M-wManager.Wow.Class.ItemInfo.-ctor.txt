@@ -1,0 +1,29 @@
+WRobot
+
+ItemInfo Constructor (Int32)
+Initializes a new instance of the ItemInfo class. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public ItemInfo(
+	int itemId
+)Public Sub New ( _
+	itemId As Integer _
+)public:
+ItemInfo(
+	int^ itemId
+)Parameters
+itemId
+Type: Int32
+The item id.
+See Also
+
+
+ItemInfo Class
+ItemInfo Overload
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

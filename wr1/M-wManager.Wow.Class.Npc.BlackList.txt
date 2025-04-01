@@ -1,0 +1,28 @@
+WRobot
+
+Npc..::..BlackList Method 
+Blacklist this npc temporarily. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public void BlackList(
+	int timeMs
+)Public Sub BlackList ( _
+	timeMs As Integer _
+)public:
+void BlackList(
+	int^ timeMs
+)Parameters
+timeMs
+Type: Int32
+The time in milliseconds.
+See Also
+
+
+Npc Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

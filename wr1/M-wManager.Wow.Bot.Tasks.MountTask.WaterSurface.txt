@@ -1,0 +1,19 @@
+WRobot
+
+MountTask..::..WaterSurface Method 
+Go to waters surface. 
+Namespace:  wManager.Wow.Bot.Tasks
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void WaterSurface()Public Shared Sub WaterSurfacepublic:
+static void WaterSurface()
+See Also
+
+
+MountTask Class
+wManager.Wow.Bot.Tasks Namespace
+Help File generated with GhostDoc
+ 

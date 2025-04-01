@@ -1,0 +1,20 @@
+WRobot
+
+Aura Constructor 
+Initializes a new instance of the Aura class. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Aura()Public Sub Newpublic:
+Aura()
+See Also
+
+
+Aura Class
+Aura Overload
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

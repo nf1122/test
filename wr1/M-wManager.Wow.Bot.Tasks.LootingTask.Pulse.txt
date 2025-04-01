@@ -1,0 +1,28 @@
+WRobot
+
+LootingTask..::..Pulse Method 
+Looting specified WoWUnits 
+Namespace:  wManager.Wow.Bot.Tasks
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Pulse(
+	List<WoWUnit> woWUnits
+)Public Shared Sub Pulse ( _
+	woWUnits As List(Of WoWUnit) _
+)public:
+static void Pulse(
+	List<WoWUnit^>^ woWUnits
+)Parameters
+woWUnits
+Type: List<(Of <(<'WoWUnit>)>)>
+The wo w units.
+See Also
+
+
+LootingTask Class
+wManager.Wow.Bot.Tasks Namespace
+Help File generated with GhostDoc
+ 

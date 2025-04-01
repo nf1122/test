@@ -1,0 +1,20 @@
+WRobot
+
+Digsite..::..Id Method 
+Identifiers this instance. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string Id()Public Function Id As Stringpublic:
+String^ Id()Return Value
+System.String.
+See Also
+
+
+Digsite Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

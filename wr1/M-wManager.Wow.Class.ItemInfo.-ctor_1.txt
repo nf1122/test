@@ -1,0 +1,29 @@
+WRobot
+
+ItemInfo Constructor (String)
+Initializes a new instance of the ItemInfo class. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public ItemInfo(
+	string nameItem
+)Public Sub New ( _
+	nameItem As String _
+)public:
+ItemInfo(
+	String^ nameItem
+)Parameters
+nameItem
+Type: String
+The name of item (like is appear in game).
+See Also
+
+
+ItemInfo Class
+ItemInfo Overload
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

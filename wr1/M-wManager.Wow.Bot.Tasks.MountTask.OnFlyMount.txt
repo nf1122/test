@@ -1,0 +1,20 @@
+WRobot
+
+MountTask..::..OnFlyMount Method 
+Check if on flying mount (mount selected in FlyingMountName). 
+Namespace:  wManager.Wow.Bot.Tasks
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool OnFlyMount()Public Shared Function OnFlyMount As Booleanpublic:
+static bool^ OnFlyMount()Return Value
+true if on flying mount, false otherwise.
+See Also
+
+
+MountTask Class
+wManager.Wow.Bot.Tasks Namespace
+Help File generated with GhostDoc
+ 
