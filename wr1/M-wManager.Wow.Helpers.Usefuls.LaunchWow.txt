@@ -1,0 +1,36 @@
+WRobot
+
+Usefuls..::..LaunchWow Method 
+Launch World Of Warcraft (return process id). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int LaunchWow(
+	bool deleteWow64Process,
+	bool requestIfWantLaunch
+)Public Shared Function LaunchWow ( _
+	deleteWow64Process As Boolean, _
+	requestIfWantLaunch As Boolean _
+) As Integerpublic:
+static int^ LaunchWow(
+	bool^ deleteWow64Process, 
+	bool^ requestIfWantLaunch
+)Parameters
+deleteWow64Process
+Type: Boolean
+if set to true delete wow64 process.
+requestIfWantLaunch
+Type: Boolean
+if set to true request if want launch (before to launch).
+Return Value
+System.Int32.
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,37 @@
+WRobot
+
+ObjectManager..::..GetNearestWoWPlayer Method (List<(Of <(<'WoWPlayer>)>)>, Vector3)
+Gets the nearest player. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static WoWPlayer GetNearestWoWPlayer(
+	List<WoWPlayer> listWoWPlayer,
+	Vector3 position
+)Public Shared Function GetNearestWoWPlayer ( _
+	listWoWPlayer As List(Of WoWPlayer), _
+	position As Vector3 _
+) As WoWPlayerpublic:
+static WoWPlayer^ GetNearestWoWPlayer(
+	List<WoWPlayer^>^ listWoWPlayer, 
+	Vector3^ position
+)Parameters
+listWoWPlayer
+Type: List<(Of <(<'WoWPlayer>)>)>
+The list player.
+position
+Type: robotManager.Helpful..::..Vector3
+The position.
+Return Value
+WoWPlayer.
+See Also
+
+
+ObjectManager Class
+GetNearestWoWPlayer Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

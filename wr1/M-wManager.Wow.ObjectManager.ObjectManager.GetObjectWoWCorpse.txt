@@ -1,0 +1,20 @@
+WRobot
+
+ObjectManager..::..GetObjectWoWCorpse Method 
+Gets objects corpse. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWCorpse> GetObjectWoWCorpse()Public Shared Function GetObjectWoWCorpse As List(Of WoWCorpse)public:
+static List<WoWCorpse^>^ GetObjectWoWCorpse()Return Value
+List<WoWCorpse>.
+See Also
+
+
+ObjectManager Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

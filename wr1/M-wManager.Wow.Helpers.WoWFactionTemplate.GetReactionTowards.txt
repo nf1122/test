@@ -1,0 +1,30 @@
+WRobot
+
+WoWFactionTemplate..::..GetReactionTowards Method 
+Get the reaction towards. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Reaction GetReactionTowards(
+	WoWFactionTemplate otherFaction
+)Public Function GetReactionTowards ( _
+	otherFaction As WoWFactionTemplate _
+) As Reactionpublic:
+Reaction^ GetReactionTowards(
+	WoWFactionTemplate^ otherFaction
+)Parameters
+otherFaction
+Type: wManager.Wow.Helpers..::..WoWFactionTemplate
+The other faction.
+Return Value
+Reaction.
+See Also
+
+
+WoWFactionTemplate Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,30 @@
+WRobot
+
+Usefuls..::..CopperToString Method 
+Coppers to string (result like "0 G 00 S 00 C"). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string CopperToString(
+	long copper
+)Public Shared Function CopperToString ( _
+	copper As Long _
+) As Stringpublic:
+static String^ CopperToString(
+	long long^ copper
+)Parameters
+copper
+Type: Int64
+The copper.
+Return Value
+System.String.
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,31 @@
+WRobot
+
+TraceLine..::..TraceLineGo Method (Vector3)
+Trace line from character position to destination, return true if the line hit game element. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool TraceLineGo(
+	Vector3 to
+)Public Shared Function TraceLineGo ( _
+	to As Vector3 _
+) As Booleanpublic:
+static bool^ TraceLineGo(
+	Vector3^ to
+)Parameters
+to
+Type: robotManager.Helpful..::..Vector3
+destination.
+Return Value
+true if hit, false otherwise.
+See Also
+
+
+TraceLine Class
+TraceLineGo Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,20 @@
+WRobot
+
+ObjectManager..::..GetObjectWoW Method 
+Gets all objects. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWObject> GetObjectWoW()Public Shared Function GetObjectWoW As List(Of WoWObject)public:
+static List<WoWObject^>^ GetObjectWoW()Return Value
+List<WoWObject>.
+See Also
+
+
+ObjectManager Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

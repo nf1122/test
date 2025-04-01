@@ -1,0 +1,37 @@
+WRobot
+
+UnitRelation..::..GetReaction Method (WoWObject, WoWObject)
+Get reaction. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Reaction GetReaction(
+	WoWObject localObj,
+	WoWObject mobObj
+)Public Shared Function GetReaction ( _
+	localObj As WoWObject, _
+	mobObj As WoWObject _
+) As Reactionpublic:
+static Reaction^ GetReaction(
+	WoWObject^ localObj, 
+	WoWObject^ mobObj
+)Parameters
+localObj
+Type: wManager.Wow.ObjectManager..::..WoWObject
+The local object.
+mobObj
+Type: wManager.Wow.ObjectManager..::..WoWObject
+The mob object.
+Return Value
+Reaction.
+See Also
+
+
+UnitRelation Class
+GetReaction Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

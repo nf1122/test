@@ -1,0 +1,19 @@
+WRobot
+
+TaxiList..::..Save Method 
+Saves this instance. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Save()Public Shared Sub Savepublic:
+static void Save()
+See Also
+
+
+Taxi..::..TaxiList Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

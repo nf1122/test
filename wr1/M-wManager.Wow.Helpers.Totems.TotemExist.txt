@@ -1,0 +1,30 @@
+WRobot
+
+Totems..::..TotemExist Method 
+Totem exist. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool TotemExist(
+	TotemType totemType
+)Public Shared Function TotemExist ( _
+	totemType As TotemType _
+) As Booleanpublic:
+static bool^ TotemExist(
+	TotemType^ totemType
+)Parameters
+totemType
+Type: wManager.Wow.Enums..::..TotemType
+Type of totem.
+Return Value
+true if exist, false otherwise.
+See Also
+
+
+Totems Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+Trainer..::..TrainingSpell Method 
+Training spells. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void TrainingSpell()Public Shared Sub TrainingSpellpublic:
+static void TrainingSpell()
+See Also
+
+
+Trainer Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,35 @@
+WRobot
+
+Line Constructor (Vector3, Vector3)
+Initializes a new instance of the TraceLine..::..Line class. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Line(
+	Vector3 from,
+	Vector3 to
+)Public Sub New ( _
+	from As Vector3, _
+	to As Vector3 _
+)public:
+Line(
+	Vector3^ from, 
+	Vector3^ to
+)Parameters
+from
+Type: robotManager.Helpful..::..Vector3
+From.
+to
+Type: robotManager.Helpful..::..Vector3
+To.
+See Also
+
+
+TraceLine..::..Line Class
+TraceLine..::..Line Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

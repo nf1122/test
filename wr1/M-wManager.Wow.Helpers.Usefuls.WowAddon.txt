@@ -1,0 +1,20 @@
+WRobot
+
+Usefuls..::..WowAddon Method 
+Gets Wow addons. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string[] WowAddon()Public Shared Function WowAddon As String()public:
+static array<String^>^ WowAddon()Return Value
+addons list.
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

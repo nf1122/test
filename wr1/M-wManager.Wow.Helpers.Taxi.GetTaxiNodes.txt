@@ -1,0 +1,20 @@
+WRobot
+
+Taxi..::..GetTaxiNodes Method 
+Gets taxi nodes of current taxi (need taxi frame open). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<TaxiNode> GetTaxiNodes()Public Shared Function GetTaxiNodes As List(Of TaxiNode)public:
+static List<TaxiNode^>^ GetTaxiNodes()Return Value
+nodes.
+See Also
+
+
+Taxi Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

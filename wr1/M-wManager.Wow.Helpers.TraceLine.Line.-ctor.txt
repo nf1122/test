@@ -1,0 +1,20 @@
+WRobot
+
+Line Constructor 
+Initializes a new instance of the TraceLine..::..Line class. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Line()Public Sub Newpublic:
+Line()
+See Also
+
+
+TraceLine..::..Line Class
+TraceLine..::..Line Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

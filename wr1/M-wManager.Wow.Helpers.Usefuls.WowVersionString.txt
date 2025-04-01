@@ -1,0 +1,30 @@
+WRobot
+
+Usefuls..::..WowVersionString Method 
+Gets game version (string format like "Version 3.3.5 (12340) (Release)"). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string WowVersionString(
+	Memory memory
+)Public Shared Function WowVersionString ( _
+	memory As Memory _
+) As Stringpublic:
+static String^ WowVersionString(
+	Memory^ memory
+)Parameters
+memory
+Type: Memory
+The game memory.
+Return Value
+the game version.
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

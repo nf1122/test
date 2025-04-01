@@ -1,0 +1,37 @@
+WRobot
+
+UnitCanAttack..::..CanAttack Method (UInt32, UInt32)
+Returns true if the first unit can attack the second unit, false otherwise. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool CanAttack(
+	uint baseAddressUnit1,
+	uint baseAddressUnit2
+)Public Shared Function CanAttack ( _
+	baseAddressUnit1 As UInteger, _
+	baseAddressUnit2 As UInteger _
+) As Booleanpublic:
+static bool^ CanAttack(
+	unsigned int^ baseAddressUnit1, 
+	unsigned int^ baseAddressUnit2
+)Parameters
+baseAddressUnit1
+Type: UInt32
+[WoWObject.GetBaseAddress] of first unit.
+baseAddressUnit2
+Type: UInt32
+[WoWObject.GetBaseAddress] of second unit.
+Return Value
+true if can attack; otherwise, false.
+See Also
+
+
+UnitCanAttack Class
+CanAttack Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

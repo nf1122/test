@@ -1,0 +1,20 @@
+WRobot
+
+ObjectManager..::..GetObjectWoWContainer Method 
+Gets objects container. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWContainer> GetObjectWoWContainer()Public Shared Function GetObjectWoWContainer As List(Of WoWContainer)public:
+static List<WoWContainer^>^ GetObjectWoWContainer()Return Value
+List<WoWContainer>.
+See Also
+
+
+ObjectManager Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

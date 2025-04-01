@@ -1,0 +1,20 @@
+WRobot
+
+SpellManager..::..SpellBookID Method 
+Spellbooks get spells IDs. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<uint> SpellBookID()Public Shared Function SpellBookID As List(Of UInteger)public:
+static List<unsigned int^>^ SpellBookID()Return Value
+spells IDs.
+See Also
+
+
+SpellManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

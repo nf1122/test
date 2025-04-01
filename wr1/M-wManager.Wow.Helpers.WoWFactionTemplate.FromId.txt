@@ -1,0 +1,30 @@
+WRobot
+
+WoWFactionTemplate..::..FromId Method 
+By ID. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static WoWFactionTemplate FromId(
+	uint id
+)Public Shared Function FromId ( _
+	id As UInteger _
+) As WoWFactionTemplatepublic:
+static WoWFactionTemplate^ FromId(
+	unsigned int^ id
+)Parameters
+id
+Type: UInt32
+The id.
+Return Value
+WoWFactionTemplate.
+See Also
+
+
+WoWFactionTemplate Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,30 @@
+WRobot
+
+Totems..::..TotemTimeLeft Method 
+Totems time left. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int TotemTimeLeft(
+	TotemType totemType
+)Public Shared Function TotemTimeLeft ( _
+	totemType As TotemType _
+) As Integerpublic:
+static int^ TotemTimeLeft(
+	TotemType^ totemType
+)Parameters
+totemType
+Type: wManager.Wow.Enums..::..TotemType
+Type of totem.
+Return Value
+time left in milliseconds
+See Also
+
+
+Totems Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

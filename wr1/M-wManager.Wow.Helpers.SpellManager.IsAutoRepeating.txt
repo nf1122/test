@@ -1,0 +1,30 @@
+WRobot
+
+SpellManager..::..IsAutoRepeating Method 
+Determines whether is automatic repeating. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsAutoRepeating(
+	string name
+)Public Shared Function IsAutoRepeating ( _
+	name As String _
+) As Booleanpublic:
+static bool^ IsAutoRepeating(
+	String^ name
+)Parameters
+name
+Type: String
+The name (in game).
+Return Value
+true if is automatic repeating; otherwise, false.
+See Also
+
+
+SpellManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

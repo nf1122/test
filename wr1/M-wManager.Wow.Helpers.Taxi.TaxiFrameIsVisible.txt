@@ -1,0 +1,18 @@
+WRobot
+
+Taxi..::..TaxiFrameIsVisible Method 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool TaxiFrameIsVisible()Public Shared Function TaxiFrameIsVisible As Booleanpublic:
+static bool^ TaxiFrameIsVisible()
+See Also
+
+
+Taxi Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

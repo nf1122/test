@@ -1,0 +1,19 @@
+WRobot
+
+Usefuls..::..WaitIsLooting Method 
+Wait is looting (max 2200 ms + Latency * 2). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void WaitIsLooting()Public Shared Sub WaitIsLootingpublic:
+static void WaitIsLooting()
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,31 @@
+WRobot
+
+SpellManager..::..KnowSpell Method (List<(Of <(<'UInt32>)>)>)
+Know the spell. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool KnowSpell(
+	List<uint> spellsId
+)Public Shared Function KnowSpell ( _
+	spellsId As List(Of UInteger) _
+) As Booleanpublic:
+static bool^ KnowSpell(
+	List<unsigned int^>^ spellsId
+)Parameters
+spellsId
+Type: List<(Of <(<'UInt32>)>)>
+The spell ids.
+Return Value
+true if know, false otherwise.
+See Also
+
+
+SpellManager Class
+KnowSpell Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

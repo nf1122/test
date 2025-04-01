@@ -1,0 +1,37 @@
+WRobot
+
+Taxi..::..GetNearestNode Method (Vector3, Boolean%)
+Gets the nearest node (need taxi frame open). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static TaxiNode GetNearestNode(
+	Vector3 targetPosition,
+	out bool result
+)Public Shared Function GetNearestNode ( _
+	targetPosition As Vector3, _
+	<OutAttribute> ByRef result As Boolean _
+) As TaxiNodepublic:
+static TaxiNode^ GetNearestNode(
+	Vector3^ targetPosition, 
+	[OutAttribute] bool^% result
+)Parameters
+targetPosition
+Type: robotManager.Helpful..::..Vector3
+The target position.
+result
+Type: Boolean%
+true if success.
+Return Value
+TaxiNode.
+See Also
+
+
+Taxi Class
+GetNearestNode Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

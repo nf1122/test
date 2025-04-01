@@ -1,0 +1,20 @@
+WRobot
+
+SpellManager..::..SpellBookName Method 
+Spellbooks get spells names (in english). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<string> SpellBookName()Public Shared Function SpellBookName As List(Of String)public:
+static List<String^>^ SpellBookName()Return Value
+names.
+See Also
+
+
+SpellManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

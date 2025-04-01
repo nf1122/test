@@ -1,0 +1,34 @@
+WRobot
+
+Vendor..::..BuyItem Method 
+Buy item. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void BuyItem(
+	string name,
+	int number
+)Public Shared Sub BuyItem ( _
+	name As String, _
+	number As Integer _
+)public:
+static void BuyItem(
+	String^ name, 
+	int^ number
+)Parameters
+name
+Type: String
+The name.
+number
+Type: Int32
+The number.
+See Also
+
+
+Vendor Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,30 @@
+WRobot
+
+SpellManager..::..SpellUsableLUA Method 
+Spell is usable lua. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool SpellUsableLUA(
+	string spellNameInGame
+)Public Shared Function SpellUsableLUA ( _
+	spellNameInGame As String _
+) As Booleanpublic:
+static bool^ SpellUsableLUA(
+	String^ spellNameInGame
+)Parameters
+spellNameInGame
+Type: String
+The spell name in game.
+Return Value
+true if is usable, false otherwise.
+See Also
+
+
+SpellManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

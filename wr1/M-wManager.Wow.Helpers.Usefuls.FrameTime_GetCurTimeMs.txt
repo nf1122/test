@@ -1,0 +1,20 @@
+WRobot
+
+Usefuls..::..FrameTime_GetCurTimeMs Method 
+Game time in milliseconds. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int FrameTime_GetCurTimeMs()Public Shared Function FrameTime_GetCurTimeMs As Integerpublic:
+static int^ FrameTime_GetCurTimeMs()Return Value
+System.Int32.
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,28 @@
+WRobot
+
+Tracker..::..TrackObjectFlags Method 
+Track the object flags. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void TrackObjectFlags(
+	List<string> listTrackObjectFlags
+)Public Shared Sub TrackObjectFlags ( _
+	listTrackObjectFlags As List(Of String) _
+)public:
+static void TrackObjectFlags(
+	List<String^>^ listTrackObjectFlags
+)Parameters
+listTrackObjectFlags
+Type: List<(Of <(<'String>)>)>
+The list track object flags.
+See Also
+
+
+Tracker Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

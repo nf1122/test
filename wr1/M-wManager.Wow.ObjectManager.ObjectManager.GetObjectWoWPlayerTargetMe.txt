@@ -1,0 +1,20 @@
+WRobot
+
+ObjectManager..::..GetObjectWoWPlayerTargetMe Method 
+Gets objects player that target me. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWPlayer> GetObjectWoWPlayerTargetMe()Public Shared Function GetObjectWoWPlayerTargetMe As List(Of WoWPlayer)public:
+static List<WoWPlayer^>^ GetObjectWoWPlayerTargetMe()Return Value
+List<WoWPlayer>.
+See Also
+
+
+ObjectManager Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

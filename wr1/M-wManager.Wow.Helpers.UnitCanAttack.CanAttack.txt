@@ -1,0 +1,31 @@
+WRobot
+
+UnitCanAttack..::..CanAttack Method (UInt32)
+Returns true if the character can attack the specified unit, false otherwise. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool CanAttack(
+	uint baseAddressTarget
+)Public Shared Function CanAttack ( _
+	baseAddressTarget As UInteger _
+) As Booleanpublic:
+static bool^ CanAttack(
+	unsigned int^ baseAddressTarget
+)Parameters
+baseAddressTarget
+Type: UInt32
+[WoWObject.GetBaseAddress] of specified unit.
+Return Value
+true if can attack; otherwise, false.
+See Also
+
+
+UnitCanAttack Class
+CanAttack Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

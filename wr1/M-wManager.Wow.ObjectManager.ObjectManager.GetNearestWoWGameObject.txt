@@ -1,0 +1,43 @@
+WRobot
+
+ObjectManager..::..GetNearestWoWGameObject Method (List<(Of <(<'WoWGameObject>)>)>, Vector3, Boolean)
+Gets the nearest game object. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static WoWGameObject GetNearestWoWGameObject(
+	List<WoWGameObject> listWoWGameObject,
+	Vector3 point,
+	bool ignoreBlackListed
+)Public Shared Function GetNearestWoWGameObject ( _
+	listWoWGameObject As List(Of WoWGameObject), _
+	point As Vector3, _
+	ignoreBlackListed As Boolean _
+) As WoWGameObjectpublic:
+static WoWGameObject^ GetNearestWoWGameObject(
+	List<WoWGameObject^>^ listWoWGameObject, 
+	Vector3^ point, 
+	bool^ ignoreBlackListed
+)Parameters
+listWoWGameObject
+Type: List<(Of <(<'WoWGameObject>)>)>
+The list game object.
+point
+Type: robotManager.Helpful..::..Vector3
+The point.
+ignoreBlackListed
+Type: Boolean
+if set to true ignore black listed.
+Return Value
+WoWGameObject.
+See Also
+
+
+ObjectManager Class
+GetNearestWoWGameObject Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

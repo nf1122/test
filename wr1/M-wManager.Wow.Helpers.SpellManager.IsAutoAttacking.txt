@@ -1,0 +1,20 @@
+WRobot
+
+SpellManager..::..IsAutoAttacking Method 
+Determines whether is automatic attacking. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsAutoAttacking()Public Shared Function IsAutoAttacking As Booleanpublic:
+static bool^ IsAutoAttacking()Return Value
+true if is automatic attacking; otherwise, false.
+See Also
+
+
+SpellManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

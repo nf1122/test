@@ -1,0 +1,19 @@
+WRobot
+
+Usefuls..::..WaitIsCasting Method 
+Wait the is casting (max Latency + 350 + 1000 * 60). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void WaitIsCasting()Public Shared Sub WaitIsCastingpublic:
+static void WaitIsCasting()
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

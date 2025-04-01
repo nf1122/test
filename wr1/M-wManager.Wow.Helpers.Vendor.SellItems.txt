@@ -1,0 +1,40 @@
+WRobot
+
+Vendor..::..SellItems Method 
+Sell the items. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void SellItems(
+	List<string> itemSell,
+	List<string> itemNoSell,
+	List<WoWItemQuality> itemQuality
+)Public Shared Sub SellItems ( _
+	itemSell As List(Of String), _
+	itemNoSell As List(Of String), _
+	itemQuality As List(Of WoWItemQuality) _
+)public:
+static void SellItems(
+	List<String^>^ itemSell, 
+	List<String^>^ itemNoSell, 
+	List<WoWItemQuality^>^ itemQuality
+)Parameters
+itemSell
+Type: List<(Of <(<'String>)>)>
+items to sell.
+itemNoSell
+Type: List<(Of <(<'String>)>)>
+items to not sell.
+itemQuality
+Type: List<(Of <(<'WoWItemQuality>)>)>
+qualities of items to sell.
+See Also
+
+
+Vendor Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

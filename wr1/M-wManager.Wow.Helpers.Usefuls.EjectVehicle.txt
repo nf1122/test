@@ -1,0 +1,19 @@
+WRobot
+
+Usefuls..::..EjectVehicle Method 
+Ejects from vehicle. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void EjectVehicle()Public Shared Sub EjectVehiclepublic:
+static void EjectVehicle()
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

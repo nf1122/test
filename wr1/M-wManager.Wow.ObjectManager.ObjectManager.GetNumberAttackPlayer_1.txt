@@ -1,0 +1,21 @@
+WRobot
+
+ObjectManager..::..GetNumberAttackPlayer Method 
+Gets number of units that attack local player. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int GetNumberAttackPlayer()Public Shared Function GetNumberAttackPlayer As Integerpublic:
+static int^ GetNumberAttackPlayer()Return Value
+System.Int32.
+See Also
+
+
+ObjectManager Class
+GetNumberAttackPlayer Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,37 @@
+WRobot
+
+UnitRelation..::..GetReaction Method (UInt32, UInt32)
+Get reaction. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Reaction GetReaction(
+	uint localFaction,
+	uint mobFaction
+)Public Shared Function GetReaction ( _
+	localFaction As UInteger, _
+	mobFaction As UInteger _
+) As Reactionpublic:
+static Reaction^ GetReaction(
+	unsigned int^ localFaction, 
+	unsigned int^ mobFaction
+)Parameters
+localFaction
+Type: UInt32
+The local Faction.
+mobFaction
+Type: UInt32
+The mob Faction.
+Return Value
+Reaction.
+See Also
+
+
+UnitRelation Class
+GetReaction Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

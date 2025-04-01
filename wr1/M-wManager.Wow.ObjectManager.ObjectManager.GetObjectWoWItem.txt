@@ -1,0 +1,18 @@
+WRobot
+
+ObjectManager..::..GetObjectWoWItem Method 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWItem> GetObjectWoWItem()Public Shared Function GetObjectWoWItem As List(Of WoWItem)public:
+static List<WoWItem^>^ GetObjectWoWItem()
+See Also
+
+
+ObjectManager Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

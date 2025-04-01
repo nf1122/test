@@ -1,0 +1,30 @@
+WRobot
+
+WoWLock..::..FromId Method 
+By id. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static WoWLock FromId(
+	uint id
+)Public Shared Function FromId ( _
+	id As UInteger _
+) As WoWLockpublic:
+static WoWLock^ FromId(
+	unsigned int^ id
+)Parameters
+id
+Type: UInt32
+The id.
+Return Value
+WoWLock.
+See Also
+
+
+WoWLock Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

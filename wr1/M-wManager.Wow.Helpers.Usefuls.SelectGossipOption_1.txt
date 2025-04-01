@@ -1,0 +1,29 @@
+WRobot
+
+Usefuls..::..SelectGossipOption Method (GossipOptionsType)
+Selects the gossip option. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void SelectGossipOption(
+	GossipOptionsType gossipOption
+)Public Shared Sub SelectGossipOption ( _
+	gossipOption As GossipOptionsType _
+)public:
+static void SelectGossipOption(
+	GossipOptionsType^ gossipOption
+)Parameters
+gossipOption
+Type: wManager.Wow.Enums..::..GossipOptionsType
+The gossip option type.
+See Also
+
+
+Usefuls Class
+SelectGossipOption Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

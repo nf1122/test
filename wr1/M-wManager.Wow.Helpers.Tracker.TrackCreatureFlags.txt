@@ -1,0 +1,28 @@
+WRobot
+
+Tracker..::..TrackCreatureFlags Method 
+Track the creature flags. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void TrackCreatureFlags(
+	List<string> listTrackCreatureFlags
+)Public Shared Sub TrackCreatureFlags ( _
+	listTrackCreatureFlags As List(Of String) _
+)public:
+static void TrackCreatureFlags(
+	List<String^>^ listTrackCreatureFlags
+)Parameters
+listTrackCreatureFlags
+Type: List<(Of <(<'String>)>)>
+The list track creature flags.
+See Also
+
+
+Tracker Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,31 @@
+WRobot
+
+SpellManager..::..KnowSpell Method (String)
+Know the spell. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool KnowSpell(
+	string spellNameEnglish
+)Public Shared Function KnowSpell ( _
+	spellNameEnglish As String _
+) As Booleanpublic:
+static bool^ KnowSpell(
+	String^ spellNameEnglish
+)Parameters
+spellNameEnglish
+Type: String
+The spell name english.
+Return Value
+true if know, false otherwise.
+See Also
+
+
+SpellManager Class
+KnowSpell Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

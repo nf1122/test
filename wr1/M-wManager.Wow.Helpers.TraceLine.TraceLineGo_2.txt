@@ -1,0 +1,49 @@
+WRobot
+
+TraceLine..::..TraceLineGo Method (Vector3, Vector3, CGWorldFrameHitFlags, Vector3%)
+Trace line from position to destination, return true if the line hit game element. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool TraceLineGo(
+	Vector3 from,
+	Vector3 to,
+	CGWorldFrameHitFlags hitFlags,
+	out Vector3 hitPoint
+)Public Shared Function TraceLineGo ( _
+	from As Vector3, _
+	to As Vector3, _
+	hitFlags As CGWorldFrameHitFlags, _
+	<OutAttribute> ByRef hitPoint As Vector3 _
+) As Booleanpublic:
+static bool^ TraceLineGo(
+	Vector3^ from, 
+	Vector3^ to, 
+	CGWorldFrameHitFlags^ hitFlags, 
+	[OutAttribute] Vector3^% hitPoint
+)Parameters
+from
+Type: robotManager.Helpful..::..Vector3
+From.
+to
+Type: robotManager.Helpful..::..Vector3
+To.
+hitFlags
+Type: wManager.Wow.Enums..::..CGWorldFrameHitFlags
+The hit flags.
+hitPoint
+Type: robotManager.Helpful..::..Vector3%
+The hit position.
+Return Value
+true if hit, false otherwise.
+See Also
+
+
+TraceLine Class
+TraceLineGo Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

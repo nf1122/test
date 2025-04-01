@@ -1,0 +1,20 @@
+WRobot
+
+Usefuls..::..LuaErrorsCount Method 
+Lua errors count. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int LuaErrorsCount()Public Shared Function LuaErrorsCount As Integerpublic:
+static int^ LuaErrorsCount()Return Value
+System.Int32.
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

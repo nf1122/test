@@ -1,0 +1,41 @@
+WRobot
+
+TraceLine..::..TraceLineMass Method (List<(Of <(<'Line>)>)>%, CGWorldFrameHitFlags, Nullable<(Of <(<'Boolean>)>)>)
+Mass TraceLine. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void TraceLineMass(
+	ref List<TraceLine..::..Line> toArray,
+	CGWorldFrameHitFlags cgWorldFrameHitFlags,
+	Nullable<bool> stopWhenResult
+)Public Shared Sub TraceLineMass ( _
+	ByRef toArray As List(Of TraceLine..::..Line), _
+	cgWorldFrameHitFlags As CGWorldFrameHitFlags, _
+	stopWhenResult As Nullable(Of Boolean) _
+)public:
+static void TraceLineMass(
+	List<TraceLine..::..Line^>^% toArray, 
+	CGWorldFrameHitFlags^ cgWorldFrameHitFlags, 
+	Nullable<bool^> stopWhenResult
+)Parameters
+toArray
+Type: List<(Of <(<'TraceLine..::..Line>)>)>%
+Lines.
+cgWorldFrameHitFlags
+Type: wManager.Wow.Enums..::..CGWorldFrameHitFlags
+filter flag.
+stopWhenResult
+Type: Nullable<(Of <(<'Boolean>)>)>
+if set to true stop when hit, if set to false stop when no hit, if set to null don't use this option.
+See Also
+
+
+TraceLine Class
+TraceLineMass Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,43 @@
+WRobot
+
+Taxi..::..GetNearestNode Method (List<(Of <(<'TaxiNode>)>)>, Single, Boolean%)
+Gets the nearest node. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static TaxiNode GetNearestNode(
+	List<TaxiNode> taxiNodes,
+	float maxDistanceMe,
+	out bool result
+)Public Shared Function GetNearestNode ( _
+	taxiNodes As List(Of TaxiNode), _
+	maxDistanceMe As Single, _
+	<OutAttribute> ByRef result As Boolean _
+) As TaxiNodepublic:
+static TaxiNode^ GetNearestNode(
+	List<TaxiNode^>^ taxiNodes, 
+	float^ maxDistanceMe, 
+	[OutAttribute] bool^% result
+)Parameters
+taxiNodes
+Type: List<(Of <(<'TaxiNode>)>)>
+The taxi nodes.
+maxDistanceMe
+Type: Single
+The maximum distance me.
+result
+Type: Boolean%
+true if success.
+Return Value
+TaxiNode.
+See Also
+
+
+Taxi Class
+GetNearestNode Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,20 @@
+WRobot
+
+Usefuls..::..TextBoxActivated Method 
+Textbox activated (game textbox for send chat message or use macro). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool TextBoxActivated()Public Shared Function TextBoxActivated As Booleanpublic:
+static bool^ TextBoxActivated()Return Value
+true if active, false otherwise.
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

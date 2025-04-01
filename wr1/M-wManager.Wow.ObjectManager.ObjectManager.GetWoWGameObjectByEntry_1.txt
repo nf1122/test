@@ -1,0 +1,31 @@
+WRobot
+
+ObjectManager..::..GetWoWGameObjectByEntry Method (Int32)
+Gets GameObjects by entry. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWGameObject> GetWoWGameObjectByEntry(
+	int entry
+)Public Shared Function GetWoWGameObjectByEntry ( _
+	entry As Integer _
+) As List(Of WoWGameObject)public:
+static List<WoWGameObject^>^ GetWoWGameObjectByEntry(
+	int^ entry
+)Parameters
+entry
+Type: Int32
+The entry.
+Return Value
+List<WoWGameObject>.
+See Also
+
+
+ObjectManager Class
+GetWoWGameObjectByEntry Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

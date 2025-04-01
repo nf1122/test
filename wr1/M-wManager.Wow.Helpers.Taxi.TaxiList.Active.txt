@@ -1,0 +1,28 @@
+WRobot
+
+TaxiList..::..Active Method 
+Actives the specified taxi node. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Active(
+	TaxiNode taxiNode
+)Public Shared Sub Active ( _
+	taxiNode As TaxiNode _
+)public:
+static void Active(
+	TaxiNode^ taxiNode
+)Parameters
+taxiNode
+Type: wManager.Wow.Class..::..TaxiNode
+The taxi node.
+See Also
+
+
+Taxi..::..TaxiList Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+Talent..::..DoTalents Method 
+Pulse. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void DoTalents()Public Shared Sub DoTalentspublic:
+static void DoTalents()
+See Also
+
+
+Talent Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

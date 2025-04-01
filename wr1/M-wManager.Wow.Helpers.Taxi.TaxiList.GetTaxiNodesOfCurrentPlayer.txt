@@ -1,0 +1,30 @@
+WRobot
+
+TaxiList..::..GetTaxiNodesOfCurrentPlayer Method 
+Gets the taxi nodes of current player. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<TaxiNode> GetTaxiNodesOfCurrentPlayer(
+	bool onlyActive
+)Public Shared Function GetTaxiNodesOfCurrentPlayer ( _
+	onlyActive As Boolean _
+) As List(Of TaxiNode)public:
+static List<TaxiNode^>^ GetTaxiNodesOfCurrentPlayer(
+	bool^ onlyActive
+)Parameters
+onlyActive
+Type: Boolean
+if set to true [only active].
+Return Value
+List<TaxiNode>.
+See Also
+
+
+Taxi..::..TaxiList Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

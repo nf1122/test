@@ -1,0 +1,20 @@
+WRobot
+
+SpellManager..::..MountDruidId Method 
+Druid forms IDs. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<uint> MountDruidId()Public Shared Function MountDruidId As List(Of UInteger)public:
+static List<unsigned int^>^ MountDruidId()Return Value
+forms IDs.
+See Also
+
+
+SpellManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

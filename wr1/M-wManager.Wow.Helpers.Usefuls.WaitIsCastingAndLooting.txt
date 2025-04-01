@@ -1,0 +1,19 @@
+WRobot
+
+Usefuls..::..WaitIsCastingAndLooting Method 
+Wait is casting and looting (call WaitIsCasting()()()() and WaitIsLooting()()()()). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void WaitIsCastingAndLooting()Public Shared Sub WaitIsCastingAndLootingpublic:
+static void WaitIsCastingAndLooting()
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

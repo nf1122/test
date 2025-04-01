@@ -1,0 +1,30 @@
+WRobot
+
+SpellManager..::..IsCurrentSpell Method 
+Returns whether a spell is currently is being casted by the player or is placed in the queue to be casted next. If spell is current then action bar indicates its slot with highlighted frame. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsCurrentSpell(
+	string name
+)Public Shared Function IsCurrentSpell ( _
+	name As String _
+) As Booleanpublic:
+static bool^ IsCurrentSpell(
+	String^ name
+)Parameters
+name
+Type: String
+The spell name (in english).
+Return Value
+true if IsCurrentSpell; otherwise, false.
+See Also
+
+
+SpellManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

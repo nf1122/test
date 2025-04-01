@@ -1,0 +1,29 @@
+WRobot
+
+Usefuls..::..SelectGossipOption Method (Int32)
+Selects a gossip (conversation) option. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void SelectGossipOption(
+	int gossipOption
+)Public Shared Sub SelectGossipOption ( _
+	gossipOption As Integer _
+)public:
+static void SelectGossipOption(
+	int^ gossipOption
+)Parameters
+gossipOption
+Type: Int32
+Ranging from 1
+See Also
+
+
+Usefuls Class
+SelectGossipOption Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

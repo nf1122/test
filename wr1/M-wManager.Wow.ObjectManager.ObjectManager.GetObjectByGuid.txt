@@ -1,0 +1,30 @@
+WRobot
+
+ObjectManager..::..GetObjectByGuid Method 
+Gets the object by GUID. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static WoWObject GetObjectByGuid(
+	ulong guid
+)Public Shared Function GetObjectByGuid ( _
+	guid As ULong _
+) As WoWObjectpublic:
+static WoWObject^ GetObjectByGuid(
+	unsigned long long^ guid
+)Parameters
+guid
+Type: UInt64
+The GUID.
+Return Value
+WoWObject.
+See Also
+
+
+ObjectManager Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

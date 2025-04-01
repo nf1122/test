@@ -1,0 +1,19 @@
+WRobot
+
+Usefuls..::..SimulateHardwardAction Method 
+Simulates hardware action (anti-afk). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void SimulateHardwardAction()Public Shared Sub SimulateHardwardActionpublic:
+static void SimulateHardwardAction()
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

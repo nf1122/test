@@ -1,0 +1,19 @@
+WRobot
+
+StuckResolver..::..UnStuck Method 
+UnStuck the player. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void UnStuck()Public Shared Sub UnStuckpublic:
+static void UnStuck()
+See Also
+
+
+StuckResolver Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

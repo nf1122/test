@@ -1,0 +1,35 @@
+WRobot
+
+TaxiList..::..AddOrEditForCurrentPlayer Method (TaxiNode, Boolean)
+Adds the or edit for current player. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void AddOrEditForCurrentPlayer(
+	TaxiNode taxiNode,
+	bool save
+)Public Shared Sub AddOrEditForCurrentPlayer ( _
+	taxiNode As TaxiNode, _
+	save As Boolean _
+)public:
+static void AddOrEditForCurrentPlayer(
+	TaxiNode^ taxiNode, 
+	bool^ save
+)Parameters
+taxiNode
+Type: wManager.Wow.Class..::..TaxiNode
+The taxi node.
+save
+Type: Boolean
+if set to true [save].
+See Also
+
+
+Taxi..::..TaxiList Class
+AddOrEditForCurrentPlayer Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

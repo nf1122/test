@@ -1,0 +1,30 @@
+WRobot
+
+Usefuls..::..StringToCopper Method 
+Strings to copper (value like "0 G 00 S 00 C"). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static long StringToCopper(
+	string stringMoney
+)Public Shared Function StringToCopper ( _
+	stringMoney As String _
+) As Longpublic:
+static long long^ StringToCopper(
+	String^ stringMoney
+)Parameters
+stringMoney
+Type: String
+The string money (value like "0 G 00 S 00 C").
+Return Value
+System.Int64.
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,30 @@
+WRobot
+
+SpellManager..::..SpellInfoCreateCache Method 
+get spell information and create cache. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<SpellInfo> SpellInfoCreateCache(
+	List<uint> listId
+)Public Shared Function SpellInfoCreateCache ( _
+	listId As List(Of UInteger) _
+) As List(Of SpellInfo)public:
+static List<SpellInfo^>^ SpellInfoCreateCache(
+	List<unsigned int^>^ listId
+)Parameters
+listId
+Type: List<(Of <(<'UInt32>)>)>
+The list of IDs.
+Return Value
+spells info.
+See Also
+
+
+SpellManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

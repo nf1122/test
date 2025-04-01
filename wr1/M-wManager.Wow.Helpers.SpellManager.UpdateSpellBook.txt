@@ -1,0 +1,19 @@
+WRobot
+
+SpellManager..::..UpdateSpellBook Method 
+Updates the spellbooks. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void UpdateSpellBook()Public Shared Sub UpdateSpellBookpublic:
+static void UpdateSpellBook()
+See Also
+
+
+SpellManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

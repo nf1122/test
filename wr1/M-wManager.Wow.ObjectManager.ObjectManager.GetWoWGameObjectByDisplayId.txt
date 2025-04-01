@@ -1,0 +1,37 @@
+WRobot
+
+ObjectManager..::..GetWoWGameObjectByDisplayId Method (List<(Of <(<'WoWGameObject>)>)>, List<(Of <(<'Int32>)>)>)
+Gets GameObjects by display id. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWGameObject> GetWoWGameObjectByDisplayId(
+	List<WoWGameObject> listWoWGameObject,
+	List<int> displayId
+)Public Shared Function GetWoWGameObjectByDisplayId ( _
+	listWoWGameObject As List(Of WoWGameObject), _
+	displayId As List(Of Integer) _
+) As List(Of WoWGameObject)public:
+static List<WoWGameObject^>^ GetWoWGameObjectByDisplayId(
+	List<WoWGameObject^>^ listWoWGameObject, 
+	List<int^>^ displayId
+)Parameters
+listWoWGameObject
+Type: List<(Of <(<'WoWGameObject>)>)>
+The list.
+displayId
+Type: List<(Of <(<'Int32>)>)>
+The display ids.
+Return Value
+List<WoWGameObject>.
+See Also
+
+
+ObjectManager Class
+GetWoWGameObjectByDisplayId Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

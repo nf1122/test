@@ -1,0 +1,35 @@
+WRobot
+
+TraceLine..::..TraceLineMass Method (List<(Of <(<'Line>)>)>%, CGWorldFrameHitFlags)
+Mass TraceLine. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void TraceLineMass(
+	ref List<TraceLine..::..Line> toArray,
+	CGWorldFrameHitFlags cgWorldFrameHitFlags
+)Public Shared Sub TraceLineMass ( _
+	ByRef toArray As List(Of TraceLine..::..Line), _
+	cgWorldFrameHitFlags As CGWorldFrameHitFlags _
+)public:
+static void TraceLineMass(
+	List<TraceLine..::..Line^>^% toArray, 
+	CGWorldFrameHitFlags^ cgWorldFrameHitFlags
+)Parameters
+toArray
+Type: List<(Of <(<'TraceLine..::..Line>)>)>%
+Lines.
+cgWorldFrameHitFlags
+Type: wManager.Wow.Enums..::..CGWorldFrameHitFlags
+filter flag.
+See Also
+
+
+TraceLine Class
+TraceLineMass Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

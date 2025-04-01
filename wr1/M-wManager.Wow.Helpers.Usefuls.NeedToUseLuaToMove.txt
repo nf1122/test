@@ -1,0 +1,20 @@
+WRobot
+
+Usefuls..::..NeedToUseLuaToMove Method 
+Needs to use lua to move (check if simulate keyboard update LastHardwareAction). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool NeedToUseLuaToMove()Public Shared Function NeedToUseLuaToMove As Booleanpublic:
+static bool^ NeedToUseLuaToMove()Return Value
+true if cannot use keyboard, false otherwise.
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

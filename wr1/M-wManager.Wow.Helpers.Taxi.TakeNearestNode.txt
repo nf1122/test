@@ -1,0 +1,36 @@
+WRobot
+
+Taxi..::..TakeNearestNode Method 
+Takes the nearest node (need taxi frame open). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool TakeNearestNode(
+	Vector3 targetPosition,
+	bool onlyIfCanMakePathFormTaxiToPos
+)Public Shared Function TakeNearestNode ( _
+	targetPosition As Vector3, _
+	onlyIfCanMakePathFormTaxiToPos As Boolean _
+) As Booleanpublic:
+static bool^ TakeNearestNode(
+	Vector3^ targetPosition, 
+	bool^ onlyIfCanMakePathFormTaxiToPos
+)Parameters
+targetPosition
+Type: robotManager.Helpful..::..Vector3
+The target position.
+onlyIfCanMakePathFormTaxiToPos
+Type: Boolean
+if set to true take only if can make path form destination taxi position to final destination position.
+Return Value
+true if success, false otherwise.
+See Also
+
+
+Taxi Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,20 @@
+WRobot
+
+SpellManager..::..SpellBook Method 
+Spellbooks. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<Spell> SpellBook()Public Shared Function SpellBook As List(Of Spell)public:
+static List<Spell^>^ SpellBook()Return Value
+spells of spellbooks.
+See Also
+
+
+SpellManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

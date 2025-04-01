@@ -1,0 +1,19 @@
+WRobot
+
+StuckResolver..::..UnStuckFly Method 
+UnStuck the player when flying. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void UnStuckFly()Public Shared Sub UnStuckFlypublic:
+static void UnStuckFly()
+See Also
+
+
+StuckResolver Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

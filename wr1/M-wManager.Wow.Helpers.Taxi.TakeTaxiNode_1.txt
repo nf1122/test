@@ -1,0 +1,31 @@
+WRobot
+
+Taxi..::..TakeTaxiNode Method (TaxiNode)
+Takes the taxi node (need taxi frame open). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool TakeTaxiNode(
+	TaxiNode node
+)Public Shared Function TakeTaxiNode ( _
+	node As TaxiNode _
+) As Booleanpublic:
+static bool^ TakeTaxiNode(
+	TaxiNode^ node
+)Parameters
+node
+Type: wManager.Wow.Class..::..TaxiNode
+The node.
+Return Value
+true if success, false otherwise.
+See Also
+
+
+Taxi Class
+TakeTaxiNode Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 
