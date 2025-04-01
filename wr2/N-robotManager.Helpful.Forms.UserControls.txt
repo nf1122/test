@@ -1,0 +1,11 @@
+WRobot
+
+robotManager.Helpful.Forms.UserControls Namespace
+Classes
+
+
+  ClassDescription
+ LoggingUserControl LoggingUserControl (the wpf usercontrol used tab "Log") 
+
+Help File generated with GhostDoc
+ 

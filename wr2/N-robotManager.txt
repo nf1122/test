@@ -1,0 +1,14 @@
+WRobot
+
+robotManager Namespace
+Classes
+
+
+  ClassDescription
+ LanguageExport Class LanguageExport. 
+ LanguageText Class LanguageText. 
+ robotManagerGlobalSetting Class robotManagerGlobalSetting. Few settings saved in FilePath Implements the Settings
+ Translate Class Translate. Manage program translate. XML translation files are in the folder "WRobot\Data\Lang\Translation.xml" 
+
+Help File generated with GhostDoc
+ 

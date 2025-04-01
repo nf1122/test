@@ -1,0 +1,21 @@
+WRobot
+
+Spell..::..Launch Method 
+Overload List
+
+
+  NameDescription
+ Launch()()()() Cast Spell. 
+ Launch(Boolean, Boolean, Boolean) Cast Spell. 
+ Launch(Boolean, Boolean, Boolean, Boolean) Cast Spell. 
+ Launch(Boolean, Boolean, Boolean, String) Cast Spell. 
+ Launch(Boolean, Boolean, Boolean, String, Boolean) Cast Spell. 
+
+See Also
+
+
+Spell Class 
+Spell Members 
+wManager.Wow.Class Namespace 
+Help File generated with GhostDoc
+ 

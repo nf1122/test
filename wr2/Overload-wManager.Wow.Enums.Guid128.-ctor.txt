@@ -1,0 +1,18 @@
+WRobot
+
+Guid128 Constructor 
+Overload List
+
+
+  NameDescription
+ Guid128()()()() Initializes a new instance of the Guid128 class. 
+ Guid128(Int128) Initializes a new instance of the Guid128 class. 
+
+See Also
+
+
+Guid128 Class 
+Guid128 Members 
+wManager.Wow.Enums Namespace 
+Help File generated with GhostDoc
+ 

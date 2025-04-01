@@ -1,0 +1,18 @@
+WRobot
+
+LuaBot..::..DoChunk Method 
+Overload List
+
+
+  NameDescription
+  DoChunk(String, String) Run code 
+  DoChunk(String, LuaResult%, String%, Boolean, String) Run code 
+
+See Also
+
+
+LuaBot Class 
+LuaBot Members 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

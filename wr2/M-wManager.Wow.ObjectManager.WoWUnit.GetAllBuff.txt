@@ -1,0 +1,20 @@
+WRobot
+
+WoWUnit..::..GetAllBuff Method 
+Gets all buff. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<Aura> GetAllBuff()Public Function GetAllBuff As List(Of Aura)public:
+List<Aura^>^ GetAllBuff()Return Value
+Auras.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

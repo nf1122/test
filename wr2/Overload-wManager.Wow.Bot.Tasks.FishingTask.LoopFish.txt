@@ -1,0 +1,18 @@
+WRobot
+
+FishingTask..::..LoopFish Method 
+Overload List
+
+
+  NameDescription
+  LoopFish()()()() Launch fishing. 
+  LoopFish(UInt64, Boolean, String, String, Int32, String, Int32, Int32, Int32, Int32, Boolean) Launch fishing. 
+
+See Also
+
+
+FishingTask Class 
+FishingTask Members 
+wManager.Wow.Bot.Tasks Namespace 
+Help File generated with GhostDoc
+ 

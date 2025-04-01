@@ -1,0 +1,18 @@
+WRobot
+
+Log Constructor 
+Overload List
+
+
+  NameDescription
+ Logging..::..Log()()()() Initializes a new instance of the Logging..::..Log class. 
+ Logging..::..Log(String, Logging..::..LogType, Color) Initializes a new instance of the Logging..::..Log class. 
+
+See Also
+
+
+Logging..::..Log Class 
+Logging..::..Log Members 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

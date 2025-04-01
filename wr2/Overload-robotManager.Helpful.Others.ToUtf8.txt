@@ -1,0 +1,18 @@
+WRobot
+
+Others..::..ToUtf8 Method 
+Overload List
+
+
+  NameDescription
+  ToUtf8(String) Text to UTF8. 
+  ToUtf8(array<Byte>[]()[][]) Converts to utf8. 
+
+See Also
+
+
+Others Class 
+Others Members 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

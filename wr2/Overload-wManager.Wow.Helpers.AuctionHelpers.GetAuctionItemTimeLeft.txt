@@ -1,0 +1,18 @@
+WRobot
+
+AuctionHelpers..::..GetAuctionItemTimeLeft Method 
+Overload List
+
+
+  NameDescription
+  GetAuctionItemTimeLeft(Int32) Gets the auction item time left. 
+  GetAuctionItemTimeLeft()()()() Gets the auction item time left. 
+
+See Also
+
+
+AuctionHelpers Class 
+AuctionHelpers Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

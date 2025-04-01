@@ -1,0 +1,31 @@
+WRobot
+
+WoWUnit..::..GetBuffs Method (String)
+Gets the buffs. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<Aura> GetBuffs(
+	string spellName
+)Public Function GetBuffs ( _
+	spellName As String _
+) As List(Of Aura)public:
+List<Aura^>^ GetBuffs(
+	String^ spellName
+)Parameters
+spellName
+Type: String
+Name of the spell (in english).
+Return Value
+Auras.
+See Also
+
+
+WoWUnit Class
+GetBuffs Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

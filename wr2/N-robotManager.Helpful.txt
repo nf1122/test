@@ -1,0 +1,150 @@
+WRobot
+
+robotManager.Helpful Namespace
+Classes
+
+
+  ClassDescription
+ Args Class Args. 
+ ArgsParser Class ArgsParser. To facilitate the reading and the use of command line arguments (you can can parse command-line arguments normally (program.exe -arg1) or use the environment variable ArgsEnvironmentVariables with the Json code of the Args class) 
+ BinarySerializer BinarySerializer. Save/Load binary file. 
+ CustomUrlProtocol Class CustomUrlProtocol. No longer used by the bot, more info here https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/platform-apis/aa767914(v=vs.85)?redirectedfrom=MSDN 
+ Display Some functions of the Windows API to manage windows/screen 
+ Extensions Class Extensions. Some useful class extensions. 
+ GraphicsExtensions Class GraphicsExtensions. 
+ GZip Class GZip. 
+ IniFile Create a New INI file to store or load data 
+ Keyboard Keyboard Manager 
+ KeyboardHook Registers a hot key with Windows. 
+Examples
+
+
+C#
+KeyboardHook hookKeybindingsPause = new KeyboardHook();
+hookKeybindingsPause.RegisterHotKey(ModifierKeys.Alt, Keys.X);
+hookKeybindingsPause.KeyPressed += delegate(object sender, KeyPressedEventArgs args)
+{
+     Products.InPause = !Products.InPause;
+};
+ // ....
+hookKeybindingsPause.Dispose();
+ KeyPressedEventArgs Event Args for the event that is fired after the hot key has been pressed. 
+ Logging Class Logging. Methods to help log, user interface to show log is LoggingUserControl
+ Logging..::..Log Class Log. 
+ Logging..::..LoggingChangeEventArgs Class LoggingChangeEventArgs. Implements the EventArgs
+ Logging..::..StatusChangeEventArgs Class StatusChangeEventArgs. Implements the EventArgs
+ LuaBot Class LuaBot. Methods to run lua code with access to all .net and bot API. 
+Examples
+
+
+C#
+local log = clr.robotManager.Helpful.Logging
+local wowLua = clr.wManager.Wow.Helpers.Lua.Wow
+local lua = clr.wManager.Wow.Helpers.Lua
+
+local playerName = lua.LuaDoString('return GetUnitName("player")', clr.System.String, '') -- OR wowLua.GetUnitName("player")
+local txt = 'Player name: ' .. playerName .. ' - WRobot version: ' .. clr.wManager.Information.Version
+log.Write(txt);
+clr.System.Windows.MessageBox.Show(txt)
+ Math Class Math. 
+ Mouse Class Mouse. 
+ Others Class Others. Several useful methods. 
+ RunCode Class RunCode. Run C# and VB.net code from string. 
+ ScintillaStyles Class ScintillaStyles. 
+ Settings Class Settings. Used by bot to manage settings files. 
+Examples
+
+
+C#
+using System;
+using System.IO;
+using robotManager.Helpful;
+using wManager.Wow.Helpers;
+using wManager.Wow.ObjectManager;
+
+[Serializable]
+public class TestSetting : Settings
+{
+    public static TestSetting CurrentSetting { get; set; }
+
+    private static string FilePath
+    {
+        get
+        {
+            // return path like "C:\WRobot\Settings\Test-NAME.REALMNAME.xml"
+            return AdviserFilePathAndName("Test", ObjectManager.Me.Name + "." + Usefuls.RealmName);
+        }
+    }
+
+    private TestSetting()
+    {
+        TestValue1 = true;
+        TestValue2 = "test text";
+    }
+
+    public bool Save()
+    {
+        try
+        {
+            return Save(FilePath);
+        }
+        catch (Exception e)
+        {
+            Logging.WriteError("TestSetting > Save(): " + e);
+            return false;
+        }
+    }
+
+    public static bool Load()
+    {
+        try
+        {
+            if (File.Exists(FilePath))
+            {
+                CurrentSetting = Load<TestSetting>(FilePath);
+                return true;
+            }
+            CurrentSetting = new TestSetting();
+        }
+        catch (Exception e)
+        {
+            Logging.WriteError("TestSetting > Load(): " + e);
+        }
+        return false;
+    }
+
+    public bool TestValue1 { get; set; }
+
+    public string TestValue2  { get; set; }
+}
+ Timer Class Timer. 
+ Utf8StringWriter Class Utf8StringWriter. Implements the StringWriter
+ Var Class Var. Useful to store values for the session. 
+Examples
+
+
+C#
+Var.SetVar("VariableName", "Test value");
+ // ...
+string v = Var.GetVar<string>("VariableName");
+System.Windows.Forms.MessageBox.Show(v);
+ Vector3 Vector3 class 
+ XmlSerializer XmlSerializer 
+
+Delegates
+
+
+  DelegateDescription
+ Logging..::..LoggingChangeEventHandler Delegate LoggingChangeEventHandler 
+ Logging..::..StatusChangeEventHandler Delegate StatusChangeEventHandler 
+
+Enumerations
+
+
+  EnumerationDescription
+ Logging..::..LogType LogType 
+ ModifierKeys The enumeration of possible modifiers. 
+ RunCode..::..CodeType CodeType 
+
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,18 @@
+WRobot
+
+MovementLoop Constructor 
+Overload List
+
+
+  NameDescription
+ MovementLoop(List<(Of <<'(Vector3>)>>)) Initializes a new instance of the MovementLoop class. 
+ MovementLoop()()()() Initializes a new instance of the MovementLoop class. 
+
+See Also
+
+
+MovementLoop Class 
+MovementLoop Members 
+wManager.Wow.Bot.States Namespace 
+Help File generated with GhostDoc
+ 

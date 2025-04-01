@@ -1,0 +1,18 @@
+WRobot
+
+Aura Constructor 
+Overload List
+
+
+  NameDescription
+ Aura()()()() Initializes a new instance of the Aura class. 
+ Aura(UInt32, UInt32) Initializes a new instance of the Aura class. 
+
+See Also
+
+
+Aura Class 
+Aura Members 
+wManager.Wow.Class Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,29 @@
+WRobot
+
+wManager.Wow.Forms Namespace
+Classes
+
+
+  ClassDescription
+ BlacklistWindow Logique d'interaction pour BlacklistWindow.xaml 
+ BuyWindow Class BuyWindow. Window for the settings BuyList Implements the Window Implements the IComponentConnector
+ ChatUserControler Class ChatUserControler. Game chat usercontrol (used in tab "Chat"). Implements the UserControl Implements the IComponentConnector
+ NpcDbWindow Window to edit ListNpc
+ OffMeshConnectionWindow Window to add or edit offmeshconnections 
+ PluginsUserControl Plugins UserControl (used tab "Plugins") 
+ TaxiDbWindow Window to manage Nodes
+ ToolboxWindow Window Toolbox (also named development tools) 
+ UserControlMiniMap MiniMap UserControl (game map, used tab "Map"). Too add landmarks look LandmarksMiniMap
+ UserControlTabGeneralSettings UserControl GeneralSettings (used tab "General settings", main configurations, for access to the full list of options use window GeneralSettings) 
+ UserControlTabInGame UserControl that show in game infos (like player name, level, target, ...) (used tab "Info") 
+ UserControlTabMain Main UserControl of the bot (to select product, start/stop, ..., used tab "Main") 
+ UserControlTabTools Class UserControlTabTools. Implements the UserControl Implements the IComponentConnector
+
+Delegates
+
+
+  DelegateDescription
+ UserControlMiniMap..::..OnMouseClickHandler Delegate OnMouseClickHandler 
+
+Help File generated with GhostDoc
+ 

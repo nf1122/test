@@ -1,0 +1,19 @@
+WRobot
+
+Others..::..ParseInt Method 
+Overload List
+
+
+  NameDescription
+  ParseInt(String, Int32%) String to int. 
+  ParseInt(String) String to int. 
+  ParseInt(String, Boolean%) String to int. 
+
+See Also
+
+
+Others Class 
+Others Members 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

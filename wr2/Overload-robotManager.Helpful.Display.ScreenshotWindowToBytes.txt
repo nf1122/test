@@ -1,0 +1,18 @@
+WRobot
+
+Display..::..ScreenshotWindowToBytes Method 
+Overload List
+
+
+  NameDescription
+  ScreenshotWindowToBytes(IntPtr, ImageFormat, Int32, Int32) Take a window screenshot and return file. 
+  ScreenshotWindowToBytes(IntPtr, Int32, Int32) Take a window screenshot and return .jpeg file. 
+
+See Also
+
+
+Display Class 
+Display Members 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

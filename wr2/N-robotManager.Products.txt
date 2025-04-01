@@ -1,0 +1,91 @@
+WRobot
+
+robotManager.Products Namespace
+Classes
+
+
+  ClassDescription
+ Products Class Products. 
+ Products..::..IsAliveProductChangeEventArgs Class IsAliveProductChangeEventArgs. Implements the EventArgs
+ Products..::..IsStartedChangeEventArgs Class IsStartedChangeEventArgs. Implements the EventArgs
+ Products..::..ProductNeedSettingsEventArgs Class ProductNeedSettingsEventArgs. Implements the EventArgs
+
+Interfaces
+
+
+  InterfaceDescription
+ IProduct Product interface. If you want create your own product you need to compile your code to .dll file and move dll to folder "WRobot\Products\". To be compatible you need to implement this interface on class named "Main" without namespace. 
+Examples
+
+
+C#
+using System.Threading;
+using robotManager.Helpful;
+using robotManager.Products;
+using UserControl = System.Windows.Controls.UserControl;
+
+public class Main : IProduct
+{
+    public void Initialize()
+    {
+        _isStarted = false;
+        Logging.Status = "Initialized";
+        Logging.Write("Initialized");
+    }
+
+    public void Dispose()
+    {
+        Stop();
+        Logging.Status = "Disposed";
+        Logging.Write("Disposed");
+    }
+
+    public void Start()
+    {
+         _isStarted = true;
+        Logging.Status = "Started";
+        Logging.Write("Started");
+
+        while (IsStarted)
+        {
+            if (!Products.InPause)
+            {
+                 Logging.Status = "Running";
+                Logging.Write("Running");
+                Thread.Sleep(1000);
+            }
+        }
+    }
+
+    public void Stop()
+    {
+        _isStarted = false;
+        Logging.Status = "Stopped";
+        Logging.Write("Stopped");
+    }
+
+    public UserControl Settings
+    {
+        get
+        {
+            return new UserControl();
+        }
+    }
+
+    public bool IsStarted
+    {
+        get { return _isStarted; }
+    }
+    private bool _isStarted;
+}
+
+Delegates
+
+
+  DelegateDescription
+ Products..::..IsAliveProductChangeEventHandler Delegate IsAliveProductChangeEventHandler 
+ Products..::..IsStartedChangeEventHandler Delegate IsStartedChangeEventHandler 
+ Products..::..ProductNeedSettingsEventHandler Delegate ProductNeedSettingsEventHandler 
+
+Help File generated with GhostDoc
+ 

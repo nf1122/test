@@ -1,0 +1,18 @@
+WRobot
+
+LanguageText Constructor 
+Overload List
+
+
+  NameDescription
+ LanguageText()()()() Initializes a new instance of the LanguageText class. 
+ LanguageText(String, String) Initializes a new instance of the LanguageText class. 
+
+See Also
+
+
+LanguageText Class 
+LanguageText Members 
+robotManager Namespace 
+Help File generated with GhostDoc
+ 

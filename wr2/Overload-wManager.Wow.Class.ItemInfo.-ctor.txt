@@ -1,0 +1,18 @@
+WRobot
+
+ItemInfo Constructor 
+Overload List
+
+
+  NameDescription
+ ItemInfo(Int32) Initializes a new instance of the ItemInfo class. 
+ ItemInfo(String) Initializes a new instance of the ItemInfo class. 
+
+See Also
+
+
+ItemInfo Class 
+ItemInfo Members 
+wManager.Wow.Class Namespace 
+Help File generated with GhostDoc
+ 

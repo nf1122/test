@@ -1,0 +1,18 @@
+WRobot
+
+XmlSerializer..::..Deserialize Method 
+Overload List
+
+
+  NameDescription
+  Deserialize<(Of <<'(T>)>>)(String) Deserializes the XML to Class instance. 
+  Deserialize<(Of <<'(T>)>>)(TextReader) Deserializes the specified reader. 
+
+See Also
+
+
+XmlSerializer Class 
+XmlSerializer Members 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

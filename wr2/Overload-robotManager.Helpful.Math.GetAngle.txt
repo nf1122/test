@@ -1,0 +1,18 @@
+WRobot
+
+Math..::..GetAngle Method 
+Overload List
+
+
+  NameDescription
+  GetAngle(Single, Single) Return Angle to pos x =0 z = 0. 
+  GetAngle(Vector3, Vector3) Get angle from A to B 
+
+See Also
+
+
+Math Class 
+Math Members 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

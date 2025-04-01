@@ -1,0 +1,18 @@
+WRobot
+
+Timer..::..Reset Method 
+Overload List
+
+
+  NameDescription
+ Reset()()()() Resets the stopwatch. This method should be called when you start measuring. 
+ Reset(Double) Resets the stopwatch. This method should be called when you start measuring. 
+
+See Also
+
+
+Timer Class 
+Timer Members 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,35 @@
+WRobot
+
+wManager.Wow.Helpers.FightClassCreator Namespace
+Classes
+
+
+  ClassDescription
+ Creator Fight classes creator. Implements the Form
+ FightClass Class FightClass (used by XML fight classes and editor). 
+ FightClassCondition Class FightClassCondition (used by XML fight classes and editor). 
+ FightClassConditionBase Class FightClassConditionBase (used by XML fight classes and editor). 
+ FightClassConditionBool Class FightClassConditionBool (used by XML fight classes and editor). Implements the FightClassConditionBase
+ FightClassConditionBuffStack Class FightClassConditionBuffStack (used by XML fight classes and editor). Implements the FightClassConditionBase
+ FightClassConditionItemNumber Class FightClassConditionItemNumber (used by XML fight classes and editor). Implements the FightClassConditionBase
+ FightClassConditionLua Class FightClassConditionLua (used by XML fight classes and editor). Implements the FightClassConditionBase
+ FightClassConditionNumber Class FightClassConditionNumber (used by XML fight classes and editor). Implements the FightClassConditionBase
+ FightClassConditionString Class FightClassConditionString (used by XML fight classes and editor). Implements the FightClassConditionBase
+ FightClassConditionStringArray Class FightClassConditionStringArray (used by XML fight classes and editor). Implements the FightClassConditionBase
+ FightClassConditionStringBool Class FightClassConditionStringBool (used by XML fight classes and editor). Implements the FightClassConditionBase
+ FightClassConditionUnitNear Class FightClassConditionUnitNear (used by XML fight classes and editor). Implements the FightClassConditionBase
+ FightClassGeneralSettings Class FightClassGeneralSettings (used by XML fight classes and editor). 
+ FightClassSpell Class FightClassSpell (used by XML fight classes and editor). 
+ FightClassSpellsDB Class FightClassSpellsDB. Implements the Form
+
+Enumerations
+
+
+  EnumerationDescription
+ FightClassConditionNumberType FightClassConditionNumberType (used by XML fight classes and editor). 
+ FightClassContionsType FightClassContionsType (used by XML fight classes and editor). 
+ UnitIdLua UnitIdLua (used by XML fight classes and editor). 
+ YesNoAuto YesNoAuto (used by XML fight classes and editor). 
+
+Help File generated with GhostDoc
+ 

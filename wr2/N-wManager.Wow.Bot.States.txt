@@ -1,0 +1,46 @@
+WRobot
+
+wManager.Wow.Bot.States Namespace
+Classes
+
+
+  ClassDescription
+ AntiAfk Anti-afk State. 
+ ArchaeologyStates Archaeology State (search and go to dig-sites, search the fragments). 
+ BattlegrounderCombination Battlegrounder combination State, this State is used in products usable with Battlegrounder product, put high Priority, it is usually just below Pause. 
+ BattlePetState Pet battle State, call StartFight()()()() if in pet battle. 
+ Farming Farming State, search and farm WoWGameObject. 
+ FarmingBG Class FarmingBG. Used to interact with battleground gameobjects (like door, ...). Implements the State
+ FarmingRange Class FarmingRange. LootAndHarvestRangeQuickly. Implements the Farming
+ FightHostileTarget Class FightHostileTarget. Used by product "WRotation", this state [Fight.StartFight(MemoryRobot.Int128, bool, bool, bool, bool)] with current character target. Implements the State
+ FlightMasterDiscoverState Class FlightMasterDiscoverState. Used if FlightMasterDiscoverRange enabled. Implements the State
+ FlightMasterTakeTaxiState Class FlightMasterTakeTaxiState. Use to take taxi at flightmaster if InMovement (to reach destination position of CurrentPathOrigine), behavior set with options FlightMasterTaxiUse, FlightMasterTaxiDistance, FlightMasterTaxiUseOnlyIfNear. Can be used without state with static methods NeedToRunStatic and RunStatic()()()(). Implements the State
+ Grinding Class Grinding. To kills mobs. Implements the State
+ GrindingBG Class GrindingBG. To attack opposing faction players. Implements the State
+ GrindingNearestMobs Class GrindingNearestMobs. To kills enemies mobs near. Implements the State
+ Idle Class Idle. This state is in last position (lower Priority) of Engine states. It is called only if no states are executed, it allows to lower the CPU usage (with a Sleep(System.Int32)) Implements the State
+ IsAttacked Class IsAttacked. Call [Fight.StartFight(MemoryRobot.Int128, bool, bool, bool, bool)] if player is in combat and cannot ignore that (IsAttackedAndCannotIgnore) Implements the State
+ Looting Class Looting. If lootable corpses call Pulse(List<(Of <<'(WoWUnit>)>>)). Implements the State
+ LootingRange Class LootingRange. LootAndHarvestRangeQuickly. Implements the Looting
+ MillingState Class MillingState. State of option Milling. Implements the State
+ MountingState Class MountingState. To use mount (this state is not used by the bot). Implements the State
+ MovementLoop Class MovementLoop. Manage profile path in products like Grinder or Gatherer. If bot is not InMovement or CurrentPathOrigine is different that PathLoop bot run this state. Must be one of the last states of Engine. Implements the State
+ MovementRandomInCircle Class MovementRandomInCircle. Used in Automaton product to move to random position when no task to do near. If not InMovement bot run this state. Must be one of the last states of Engine. Implements the State
+ MyMacro Class MyMacro. To run wManagerSetting..::..MyMacro Implements the State
+ NPCScanState Class NPCScanState. For options NpcScanAuctioneer, NpcScanMailboxes, NpcScanRepair, NpcScanVendor, but also for ExtractGameObjects()()()(). Implements the State
+Usually bot don't use this class as State, but call LaunchNewThread()()()() when product start and StopThread()()()() when product is stopped
+ Pause Class Pause. NeedToRun return true when InPause. All states with lower priority will not be executed while the bot is paused. Implements the State
+ ProspectingState Class ProspectingState. Prospecting Implements the State
+ Regeneration Class Regeneration. To restore health points and mana of character. Use regen options that you can found in wManagerSetting Implements the State
+ Relogger Class Relogger. reconnect the character to the game when he is disconnected. You need to use option Relogger Implements the State
+ Resurrect Class Resurrect. To revive when dead(with corpse or spirit healer, options in wManagerSetting). Implements the State
+ ResurrectBG Class ResurrectBG. To revive when dead in battleground. Implements the State
+ SmeltingState Class SmeltingState. Look Smelting Implements the State
+ SpellState Class SpellState. This class was created for FightClasses in XML (create with Creator), the bot converted XML to C# code that use this state for the spells, this class is not practical and should not be used in any other context. Implements the State
+ StopBotIf Class StopBotIf. This state manages the various security options found in wManagerSetting (teleportation, pathfinder down, blockages, whispers, players nearby, ...). Class is mainly not used as State, but product call LaunchNewThread()()()() when starting and StopThread()()()() when stopped. Implements the State
+ Talents Class Talents. If option AssignTalents is enabled use class Talent Implements the State
+ ToTown Class ToTown. To repair, sell, send mail, buy items (options can be found in wManagerSetting Implements the State
+ Trainers Class Trainers. TrainNewSkills Implements the State
+
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,20 @@
+WRobot
+
+Bag..::..PickupContainerItem Method 
+Overload List
+
+
+  NameDescription
+  PickupContainerItem(Int32) Pickups the container item. 
+  PickupContainerItem(String) Pickups the container item. 
+  PickupContainerItem(List<(Of <<'(Int32>)>>)) Pickups the container item. 
+  PickupContainerItem(Int32, Int32) Pickups the container item. 
+
+See Also
+
+
+Bag Class 
+Bag Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

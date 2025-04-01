@@ -1,0 +1,21 @@
+WRobot
+
+Vector3 Constructor 
+Overload List
+
+
+  NameDescription
+ Vector3()()()() Initializes a new instance of the Vector3 class. 
+ Vector3(Single, Single, Single, String) Initializes a new instance of the Vector3 class. 
+ Vector3(Double, Double, Double, String) Initializes a new instance of the Vector3 class. 
+ Vector3(Vector3) Initializes a new instance of the Vector3 class. 
+ Vector3(array<Single>[]()[][]) Initializes a new instance of the Vector3 class. 
+
+See Also
+
+
+Vector3 Class 
+Vector3 Members 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

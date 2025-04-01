@@ -1,0 +1,31 @@
+WRobot
+
+WoWUnit..::..BuffStack Method (String)
+Buff stack count. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int BuffStack(
+	string spellName
+)Public Function BuffStack ( _
+	spellName As String _
+) As Integerpublic:
+int^ BuffStack(
+	String^ spellName
+)Parameters
+spellName
+Type: String
+Name of the spell (in english).
+Return Value
+stack count.
+See Also
+
+
+WoWUnit Class
+BuffStack Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

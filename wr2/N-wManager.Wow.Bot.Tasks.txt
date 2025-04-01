@@ -1,0 +1,21 @@
+WRobot
+
+wManager.Wow.Bot.Tasks Namespace
+Classes
+
+
+  ClassDescription
+ FarmingTask Class FarmingTask. Harvest gamebobject. 
+ FishingTask Class FishingTask. Do fishing task 
+ GoToTask Class GoToTask. Very useful methods to go to a position (methods generate path and manage movement) and/or interact with a WoWItem or WoWGameObject (this class use PathFinder, MovementManager, Interact, ...) 
+ LootingTask Class LootingTask. Looting WowUnits 
+ MountTask Class MountTask, methods to mount/dismount. 
+
+Enumerations
+
+
+  EnumerationDescription
+ MountTask..::..MountCapacity Mount capacity 
+
+Help File generated with GhostDoc
+ 

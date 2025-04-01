@@ -1,0 +1,19 @@
+WRobot
+
+Others..::..ParseUInt Method 
+Overload List
+
+
+  NameDescription
+  ParseUInt(String, UInt32%) String to uint. 
+  ParseUInt(String) String to uint. 
+  ParseUInt(String, Boolean%) String to uint. 
+
+See Also
+
+
+Others Class 
+Others Members 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,18 @@
+WRobot
+
+BlacklistWindow Constructor 
+Overload List
+
+
+  NameDescription
+ BlacklistWindow()()()() 
+ BlacklistWindow(List<(Of <<'(BlackListSerializable..::..Blackspot>)>>), List<(Of <<'(BlackListSerializable..::..BlackNpc>)>>), List<(Of <<'(BlackListSerializable..::..BlackNpcType>)>>)) 
+
+See Also
+
+
+BlacklistWindow Class 
+BlacklistWindow Members 
+wManager.Wow.Forms Namespace 
+Help File generated with GhostDoc
+ 

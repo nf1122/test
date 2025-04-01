@@ -1,0 +1,28 @@
+WRobot
+
+WoWUnit Constructor 
+Initializes a new instance of the WoWUnit class. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public WoWUnit(
+	uint address
+)Public Sub New ( _
+	address As UInteger _
+)public:
+WoWUnit(
+	unsigned int^ address
+)Parameters
+address
+Type: UInt32
+The address.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

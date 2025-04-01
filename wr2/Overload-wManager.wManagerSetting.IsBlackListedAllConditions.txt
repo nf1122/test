@@ -1,0 +1,19 @@
+WRobot
+
+wManagerSetting..::..IsBlackListedAllConditions Method 
+Overload List
+
+
+  NameDescription
+  IsBlackListedAllConditions(WoWUnit) Determines if unit is blacklisted (position, guid or entry id). 
+  IsBlackListedAllConditions(WoWGameObject) Determines if game object is blacklisted (position, guid or entry id). 
+  IsBlackListedAllConditions(Int32, Vector3, UInt64) Determines if is blacklisted (position, guid or entry id). 
+
+See Also
+
+
+wManagerSetting Class 
+wManagerSetting Members 
+wManager Namespace 
+Help File generated with GhostDoc
+ 

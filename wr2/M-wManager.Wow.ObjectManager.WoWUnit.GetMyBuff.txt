@@ -1,0 +1,20 @@
+WRobot
+
+WoWUnit..::..GetMyBuff Method 
+Gets my buff. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public IEnumerable<Aura> GetMyBuff()Public Function GetMyBuff As IEnumerable(Of Aura)public:
+IEnumerable<Aura^>^ GetMyBuff()Return Value
+IEnumerable Auras.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+Display..::..ProtectAgainstScreenshots Method 
+Overload List
+
+
+  NameDescription
+  ProtectAgainstScreenshots(Window, Boolean) Protects the against screenshots. 
+  ProtectAgainstScreenshots(Form, Boolean) Protects the against screenshots. 
+  ProtectAgainstScreenshots(IntPtr) Protects the against screenshots. 
+
+See Also
+
+
+Display Class 
+Display Members 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

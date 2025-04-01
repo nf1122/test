@@ -1,0 +1,18 @@
+WRobot
+
+GZip..::..CompressInMemory Method 
+Overload List
+
+
+  NameDescription
+  CompressInMemory(String) Compress the specified file. 
+  CompressInMemory(array<Byte>[]()[][]) Compress the specified file. 
+
+See Also
+
+
+GZip Class 
+GZip Members 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

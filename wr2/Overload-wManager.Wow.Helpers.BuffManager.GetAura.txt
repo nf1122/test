@@ -1,0 +1,18 @@
+WRobot
+
+BuffManager..::..GetAura Method 
+Overload List
+
+
+  NameDescription
+  GetAura(UInt32, List<(Of <<'(UInt32>)>>)) Gets the aura by spell id. 
+  GetAura(UInt32, UInt32) Get the buff. 
+
+See Also
+
+
+BuffManager Class 
+BuffManager Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,18 @@
+WRobot
+
+Vector3..::..DistanceZ Method 
+Overload List
+
+
+  NameDescription
+ DistanceZ(Vector3, Vector3) Distance z. 
+ DistanceZ(Vector3) Distance z. 
+
+See Also
+
+
+Vector3 Class 
+Vector3 Members 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

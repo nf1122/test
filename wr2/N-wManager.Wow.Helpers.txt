@@ -1,0 +1,129 @@
+WRobot
+
+wManager.Wow.Helpers Namespace
+Classes
+
+
+  ClassDescription
+ Archaeology Class Archaeology. Few methods useful for archeology 
+ AuctionHelpers Class AuctionHelpers. 
+ AuctionHelpers..::..AuctionItem Class AuctionItem. 
+ Bag Class Bag. Methods useful to manage game bags. 
+ Battleground Class Battleground. Useful methods to manage battleground. 
+ BuffManager Class BuffManager. Useful to read buff/debuff list. 
+ CGUnit_C__GetFacing Class CGUnit_C__GetFacing. used to get [WoWGameObject.Rotation]
+ CGUnit_C__GetPosition Class CGUnit_C__GetPosition. Used to get [WoWUnit.get_Position] when InTransport. 
+ Channel Class Channel. 
+ Channel..::..Message Class Message. 
+ Chat Class Chat. Several useful methods to send and get messages in game. 
+ ClickOnTerrain Class ClickOnTerrain. Useful for AOE spells. 
+ ClickToMove Class ClickToMove. Used to move character in game to specific position, by default this class use game option CTM (Click to move), but in some bot version this class can move character can move with keyboard. 
+ Conditions Class Conditions. Facade for several useful conditions 
+ ConfigWowForThisBot Class ConfigWowForThisBot. Bot use these methods to change/reset game settings to works correctly with the bot. 
+ CustomClass Class CustomClass. Also known as Fightclass or Fightclasses, this class allows you to manage it. To create fight class you can use Creator, but you can also use C#, VB.net or LuaBot. Fight classes need to implement interface ICustomClass (except for LuaBot fightclass). You can also look https://wrobot.eu/forums/topic/11122-c-fightclass-development-video-tutorial/ 
+ CVar Class CVar. Wrapper for access to in game CVar https://wow.gamepedia.com/Console_variables 
+ DBC<(Of <(<'T>)>)> 
+ EquippedItems Class EquippedItems. 
+ EventsLua Class EventsLua (this class count the number of times the event was called, if you need event arguments use EventsLuaWithArgs). Facilitates access from the bot to the in game lua events https://wowwiki.fandom.com/wiki/Event_API . 
+ EventsLuaWithArgs Class EventsLuaWithArgs. (if you don't need event arguments prefer to use EventsLua). Facilitates access from the bot to the in game lua events https://wowwiki.fandom.com/wiki/Event_API . 
+ Fight Class Fight. Used to fight the WoWUnit. 
+ FightBattlePet Class FightBattlePet. Used to manage behaviour and abilities during pet battles. 
+ FightBG Class FightBG. Used to fight the WoWPlayer. 
+ Fishing Class Fishing. Useful method for fishing 
+ GetPlayerName Class GetPlayerName. 
+ Interact Class Interact. 
+ IsOutDoorsInjection Class IsOutDoorsInjection. 
+ ItemsManager Class ItemsManager. Useful method to manage items 
+ Keybindings Class Keybindings. Recommended methods if you need to interact with keyboard (for existing shortcut). 
+ Login Class Login. To login character to the game. 
+ LongMove Class LongMove. Useful to flying to specific destination when there are obstacles. 
+ Lua Class Lua. Used to run lua code in game and get lua variables value ( https://wow.gamepedia.com/World_of_Warcraft_API ). 
+ Lua..::..WowLuaClass Class WowLuaClass (for more information see Wow). Implements the DynamicObject
+ Mail Class Mail. Methods to send or read mailboxes messages. 
+ Milling Class Milling. 
+ MiniMapGenerator Class MiniMapGenerator. Used by UserControlMiniMap
+ MiniMapGenerator..::..LandmarkMiniMap Class LandmarkMiniMap, used to show information in UserControlMiniMap and Radar3D (you can found example here: LandmarksMiniMap). Implements the ICloneable
+ MiniMapGenerator..::..LandmarksMiniMap Class LandmarksMiniMap (for more information look MiniMapGenerator..::..LandmarkMiniMap). Implements the ICloneable
+ MiniMapGenerator..::..MinimapImage Class MinimapImage. 
+ MiniMapGenerator..::..PathImage Class PathImage. 
+ Move Class Move. Prefer to use this class to move the character (if you enabled option UseLuaToMove methods will use lua function instead keyboard). 
+ MovementManager Main class for handling movement with a path or a destination 
+ NpcDB Class NpcDB. Manage list of NPCs vendor, repair, trainer, ... Saved in the file "WRobot\Data\NpcDB.xml". 
+ Party Class Party. Useful methods for group of characters (party and raid) 
+ PathFinder Path Generator Class. Use this class to find path. 
+ PathFinder..::..OffMeshConnection Class OffMeshConnection. (sees PathFinder..::..OffMeshConnections and https://wrobot.eu/forums/topic/5283-offmesh-connections/ ) 
+ PathFinder..::..OffMeshConnections Class OffMeshConnections. More information here: https://wrobot.eu/forums/topic/5283-offmesh-connections/ 
+ PetBattles Class PetBattles. Useful methods to manage. 
+ PetBattles..::..ModiferEffects Class ModiferEffects. 
+ Prospecting Class Prospecting. 
+ Quest Class Quest. Useful method for game quests and Quester product. 
+ Quest..::..QuesterCurrentContext Class QuesterCurrentContext, "Quester" product use this class to store profile and profile state. 
+ Radar3D Class Radar3D. Create overlay transparent window to show bot elements in game. Used when option "Radar 3D" is enabled tab "Map". 
+ RunCodeExtension Class RunCodeExtension. Few useful methods to run script Implements the RunCode
+ RunesManager Class RunesManager. 
+ Skill Class Skill. 
+ Smelting Class Smelting. 
+ SpellListManager Class SpellListManager. (more spell methods in Spell and SpellManager) 
+ SpellManager Class SpellManager. (more spell methods in Spell and SpellListManager) 
+ StuckResolver Class StuckResolver. 
+ Talent Talents 
+ Taxi Class Taxi. 
+ Taxi..::..TaxiList Class TaxiList. To save knows taxi nodes (to file "WRobot\Settings\TaxiNodes.xml"). 
+ Totems Class Totems. 
+ TraceLine Class TraceLine (Raycast). Create an invisible line and detects if an element of the game is hit and at what position. 
+ TraceLine..::..Line Class Line. 
+ Tracker Class Tracker. 
+ Trainer Class Trainer. 
+ UnitCanAttack Class UnitCanAttack. 
+ UnitRelation Class UnitRelation. 
+ Usefuls Class Usefuls. 
+ Vendor Class Vendor. Few useful method to sell, repair and buy items 
+ WoWFactionTemplate Class WoWFactionTemplate (DB2). 
+ WoWLock Class WoWLock (DB2). 
+
+Structures
+
+
+  StructureDescription
+ ClickOnTerrain..::..StructClickOnTerrain Struct StructClickOnTerrain 
+ Login..::..SettingsLogin Struct SettingsLogin 
+ PetBattles..::..AbilityInfo Struct AbilityInfo PetBattles
+ Quest..::..PlayerQuest Struct PlayerQuest 
+ Taxi..::..TaxiNodesDB 
+ WoWFactionTemplate..::..FactionTemplateDbcRecord 
+ WoWLock..::..LockDbcRecord 
+
+Interfaces
+
+
+  InterfaceDescription
+ FightBattlePet..::..IFightClassPet Interface IFightClassPet
+ ICustomClass Interface ICustomClass, used by fight classes: CustomClass
+
+Delegates
+
+
+  DelegateDescription
+ EventsLua..::..MethodDelegate Delegate MethodDelegate 
+ EventsLuaWithArgs..::..EventsLuaStringWithArgsHandler Delegate EventsLuaStringWithArgsHandler 
+ EventsLuaWithArgs..::..EventsLuaWithArgsHandler Delegate EventsLuaWithArgsHandler 
+ Radar3D..::..OnDrawHandler Delegate OnDrawHandler 
+
+Enumerations
+
+
+  EnumerationDescription
+ AuctionHelpers..::..Duration Auction duration 
+ AuctionHelpers..::..Filters Auction search item filters 
+ AuctionHelpers..::..Rarity Auction search item rarity 
+ AuctionHelpers..::..TimeLeft Auction time left 
+ ItemsManager..::..ConsumableType ConsumableType (used by [GetBestConsumableBag(ConsumableType)]) 
+ Move..::..MoveAction Press keyboard key (DownKey and UpKey) 
+ PathFinder..::..OffMeshConnectionType OffMeshConnectionType 
+ PetBattles..::..PetFaction 
+ PetBattles..::..PetQuality PetQuality PetBattles
+ PetBattles..::..PetType PetType PetBattles
+ Quest..::..PlayerQuest..::..StateFlag StateFlag 
+
+Help File generated with GhostDoc
+ 

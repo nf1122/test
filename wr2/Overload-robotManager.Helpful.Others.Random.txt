@@ -1,0 +1,19 @@
+WRobot
+
+Others..::..Random Method 
+Overload List
+
+
+  NameDescription
+  Random(Double, Double) Random double. 
+  Random(Int32, Int32) Return Random number. 
+  Random()()()() Get Random instance. 
+
+See Also
+
+
+Others Class 
+Others Members 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

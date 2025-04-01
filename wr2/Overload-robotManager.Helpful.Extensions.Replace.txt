@@ -1,0 +1,26 @@
+WRobot
+
+Extensions..::..Replace Method 
+Overload List
+
+
+  NameDescription
+  Replace(array<Byte>[]()[][], array<Byte>[]()[][], array<Byte>[]()[][]) Replaces the specified bytes by others. 
+  Replace(array<Byte>[]()[][], UInt64, UInt64) Replaces the specified bytes by others. 
+  Replace(array<Byte>[]()[][], Int64, Int64) Replaces the specified bytes by others. 
+  Replace(array<Byte>[]()[][], Int32, Int32) Replaces the specified bytes by others. 
+  Replace(array<Byte>[]()[][], UInt32, UInt32) Replaces the specified bytes by others. 
+  Replace(array<Byte>[]()[][], Int16, Int16) Replaces the specified bytes by others. 
+  Replace(array<Byte>[]()[][], UInt16, UInt16) Replaces the specified bytes by others. 
+  Replace(array<Byte>[]()[][], Single, Single) Replaces the specified bytes by others. 
+  Replace(array<Byte>[]()[][], Double, Double) Replaces the specified bytes by others. 
+  Replace(array<Byte>[]()[][], Byte, Byte) Replaces the specified bytes by others. 
+
+See Also
+
+
+Extensions Class 
+Extensions Members 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

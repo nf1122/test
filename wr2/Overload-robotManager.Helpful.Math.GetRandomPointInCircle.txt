@@ -1,0 +1,18 @@
+WRobot
+
+Math..::..GetRandomPointInCircle Method 
+Overload List
+
+
+  NameDescription
+  GetRandomPointInCircle(Single, Single, Single) Gets the random point in circle. 
+  GetRandomPointInCircle(Vector3, Single) Gets the random point in circle. 
+
+See Also
+
+
+Math Class 
+Math Members 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

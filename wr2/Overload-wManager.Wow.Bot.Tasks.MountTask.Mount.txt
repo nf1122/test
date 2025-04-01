@@ -1,0 +1,18 @@
+WRobot
+
+MountTask..::..Mount Method 
+Overload List
+
+
+  NameDescription
+  Mount(Boolean, MountTask..::..MountCapacity) Use mount 
+  Mount(Boolean, Boolean, MountTask..::..MountCapacity) Use mount 
+
+See Also
+
+
+MountTask Class 
+MountTask Members 
+wManager.Wow.Bot.Tasks Namespace 
+Help File generated with GhostDoc
+ 

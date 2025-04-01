@@ -1,0 +1,18 @@
+WRobot
+
+Bag..::..GetContainerNumFreeSlotsByBagID Method 
+Overload List
+
+
+  NameDescription
+  GetContainerNumFreeSlotsByBagID(Int32) Get number of free slots by container id 
+  GetContainerNumFreeSlotsByBagID(Int32, BagType%) Get number of free slots and type by container id 
+
+See Also
+
+
+Bag Class 
+Bag Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

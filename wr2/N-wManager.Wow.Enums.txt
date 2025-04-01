@@ -1,0 +1,57 @@
+WRobot
+
+wManager.Wow.Enums Namespace
+Classes
+
+
+  ClassDescription
+ DefaultConstSettings Class DefaultConstSettings (pathfinder). 
+ Guid128 Class Guid128. Read info from Guid and can convert it to lua guid https://wowwiki.fandom.com/wiki/UnitId 
+
+Enumerations
+
+
+  EnumerationDescription
+ BagType BagType: https://wowwiki.fandom.com/wiki/ItemFamily 
+ BattleGroundID BattleGroundID 
+ CGWorldFrameHitFlags CGWorldFrameHitFlags, used by TraceLine
+ ChatTypeId ChatTypeId 
+ ClickToMoveType ClickToMoveType 
+ ContinentId ContinentId 
+ GameObjectFlags 
+ GossipOptionsType GossipOptionsType 
+ GuidSubType GuidSubType 
+ GuidType GuidType 
+ InventorySlot InventorySlot http://wowpedia.org/API_TYPE_InventorySlotID 
+ Keybindings Keybindings 
+ Landmarks Landmarks 
+ LuaEventsId Obsolete. 
+LuaEventsId 
+ MountFlags MountFlags 
+ NpcMarker NpcMarker 
+ PlayerFactions PlayerFactions 
+ PowerType PowerType 
+ Reaction Reaction 
+ RuneTypes 
+ SkillLine SkillLine 
+ SurveyTool SurveyTool 
+ TotemType TotemType 
+ TrackCreatureFlags TrackCreatureFlags 
+ TrackObjectFlags TrackObjectFlags 
+ UnitClassification UnitClassification 
+ UnitDynamicFlags UnitDynamicFlags 
+ UnitFlags UnitFlags 
+ UnitNPCFlags UnitNPCFlags 
+ WoWClass WoWClass 
+ WoWGameObjectLockKeyType WoWGameObjectLockKeyType 
+ WoWGameObjectLockType WoWGameObjectLockType 
+ WoWGameObjectType WoWGameObjectType 
+ WoWGender WoWGender 
+ WoWInventorySlot 
+ WoWItemQuality WoWItemQuality 
+ WoWObjectType WoWObjectType 
+ WoWRace WoWRace (ChrRaces.db2) 
+ WowSpecializations WowSpecializations 
+
+Help File generated with GhostDoc
+ 

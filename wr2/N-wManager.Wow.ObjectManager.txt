@@ -1,0 +1,27 @@
+WRobot
+
+wManager.Wow.ObjectManager Namespace
+Classes
+
+
+  ClassDescription
+ ObjectManager Class ObjectManager. Get list of in-game objects/units/players. 
+ Pulsator Class Pulsator. 
+ WowCamera Class WowCamera. 
+ WoWContainer Class WoWContainer. Implements the WoWItem
+ WoWCorpse Class WoWCorpse. Implements the WoWObject
+ WoWGameObject Class WoWGameObject. Implements the WoWObject
+ WoWItem Class WoWItem. Implements the WoWObject
+ WoWLocalPlayer Class WoWLocalPlayer. Your Character. Implements the WoWPlayer
+ WoWObject The base object class that all objects in WoW inherit. 
+ WoWPlayer Class WoWPlayer. Implements the WoWUnit
+ WoWUnit Class WoWUnit. Implements the WoWObject
+
+Structures
+
+
+  StructureDescription
+ WowCamera..::..MatrixMemoryStruct Struct MatrixMemoryStruct 
+
+Help File generated with GhostDoc
+ 

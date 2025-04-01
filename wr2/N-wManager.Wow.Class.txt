@@ -1,0 +1,58 @@
+WRobot
+
+wManager.Wow.Class Namespace
+Classes
+
+
+  ClassDescription
+ Aura Class Aura, for debuff/buff 
+ Blackspot Class Blackspot used by product quester (do not confuse with Blackspots). 
+ Buy Class Buy. BuyList (BuyWindow) and used by ToTown
+ CompanionInfo Class CompanionInfo. https://wow.gamepedia.com/API_GetCompanionInfo , used in some bot versions by GetCompanionInfo()()()()
+ DBCStruct 
+ Digsite Class Digsite. 
+ EntryIndexQuest Class EntryIndexQuest. Used by QuestGrinderGathererClass
+ ItemInfo Item Information Class, based on https://wow.gamepedia.com/API_GetItemInfo (can change in some bot versions) 
+ Npc Class Npc, used by NpcDB. 
+ NPCQuest Class NPCQuest. NPCs (or object) who give and complete quests 
+ QuestClass Class QuestClass. 
+ QuestEmptyClass Class QuestEmptyClass. This class cannot be inherited. Implements the QuestClass
+ QuestFollowNpcClass Class QuestFollowNpcClass. Override this class when you need follow Npc. Implements the QuestClass
+ QuestFollowPathClass Class QuestFollowPathClass. Override this class when you need to use a precise path or when quest objectives is to go to specific position. Implements the QuestClass
+ QuestGathererClass Class QuestGathererClass. Override this class when quest objectives is to harvest objects. Implements the QuestClass
+ QuestGrinderClass Class QuestGrinderClass. Override this class when quest objectives is to kills mobs. Implements the QuestClass
+ QuestGrinderGathererClass Class QuestGrinderGathererClass. Override this class when quest objectives is to kills mobs and harvest objects. Implements the QuestClass
+ QuestInteractWithClass Class QuestInteractWithClass. Override this class when quest objectives is to interact with WoWUnit, WoWGameObject. Implements the QuestClass
+ QuestParallelQuestsClass Class QuestParallelQuestsClass. Override this class if you want do several quest at same time. Implements the QuestClass
+ QuestsSorted Class QuestsSorted, quest profile step. 
+ QuestUseItemOnClass Class QuestUseItemOnClass. Override this class when quest objectives is to use item on WoWUnit, WoWGameObject or at specific position. Implements the QuestClass
+ QuestUseScriptOnClass Class QuestUseScriptOnClass. Override this class when quest objectives is to use the script on WoWUnit, WoWGameObject or at specific position. Implements the QuestClass
+ QuestUseSpellOnClass Class QuestUseSpellOnClass. Override this class when quest objectives is to use spell on WoWUnit, WoWGameObject or at specific position. Implements the QuestClass
+ RuneStruct Class RuneStruct. 
+ Spell Class Spell. Convenient to manage a spell easily. 
+ SpellInfo Class SpellInfo. 
+ TaxiNode Class TaxiNode. 
+
+Structures
+
+
+  StructureDescription
+ DBCStruct..::..WoWClientDB 
+
+Delegates
+
+
+  DelegateDescription
+ BooleanDelegate Delegate BooleanDelegate, used in SpellState and GoToTask
+
+Enumerations
+
+
+  EnumerationDescription
+ Npc..::..FactionType Faction type 
+ Npc..::..NpcType Npc type 
+ Npc..::..NpcVendorItemClass Npc vendor item class 
+ QuestAction Quest step action type (QuestsSorted) 
+
+Help File generated with GhostDoc
+ 

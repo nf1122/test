@@ -1,0 +1,19 @@
+WRobot
+
+Timer Constructor 
+Overload List
+
+
+  NameDescription
+ Timer()()()() Initializes a new instance of the StopWatch class. 
+ Timer(Double) Initializes a new instance of the Timer class. 
+ Timer(TimeSpan) Initializes a new instance of the Timer class. 
+
+See Also
+
+
+Timer Class 
+Timer Members 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

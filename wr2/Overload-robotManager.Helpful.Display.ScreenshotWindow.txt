@@ -1,0 +1,19 @@
+WRobot
+
+Display..::..ScreenshotWindow Method 
+Overload List
+
+
+  NameDescription
+  ScreenshotWindow(IntPtr, String, ImageFormat, Int32, Int32) Take a window screenshot and save to file. 
+  ScreenshotWindow(IntPtr, String, Int32, Int32) Take a window screenshot and save to .jpeg file. 
+  ScreenshotWindow(IntPtr, Int32, Int32) Take a window screenshot and return Image. 
+
+See Also
+
+
+Display Class 
+Display Members 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

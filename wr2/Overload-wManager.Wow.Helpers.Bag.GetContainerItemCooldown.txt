@@ -1,0 +1,20 @@
+WRobot
+
+Bag..::..GetContainerItemCooldown Method 
+Overload List
+
+
+  NameDescription
+  GetContainerItemCooldown(Int32) Gets the container item cooldown. 
+  GetContainerItemCooldown(String) Gets the container item cooldown. 
+  GetContainerItemCooldown(List<(Of <<'(Int32>)>>)) Gets the container item cooldown. 
+  GetContainerItemCooldown(Int32, Int32) Gets the container item cooldown. 
+
+See Also
+
+
+Bag Class 
+Bag Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

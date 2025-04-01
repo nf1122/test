@@ -1,0 +1,36 @@
+WRobot
+
+WoWUnit..::..IsFacing Method 
+Determines whether the specified target position is facing. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsFacing(
+	Vector3 targetPosition,
+	float arcRadians
+)Public Function IsFacing ( _
+	targetPosition As Vector3, _
+	arcRadians As Single _
+) As Booleanpublic:
+bool^ IsFacing(
+	Vector3^ targetPosition, 
+	float^ arcRadians
+)Parameters
+targetPosition
+Type: robotManager.Helpful..::..Vector3
+The target position.
+arcRadians
+Type: Single
+The arc radians.
+Return Value
+true if the specified target position is facing; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

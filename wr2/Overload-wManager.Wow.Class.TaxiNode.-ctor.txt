@@ -1,0 +1,18 @@
+WRobot
+
+TaxiNode Constructor 
+Overload List
+
+
+  NameDescription
+ TaxiNode()()()() Initializes a new instance of the TaxiNode class. 
+ TaxiNode(Int32, String, Vector3, Int32) Initializes a new instance of the TaxiNode class. 
+
+See Also
+
+
+TaxiNode Class 
+TaxiNode Members 
+wManager.Wow.Class Namespace 
+Help File generated with GhostDoc
+ 

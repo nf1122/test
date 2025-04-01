@@ -1,0 +1,18 @@
+WRobot
+
+Quester.Bot Namespace
+Classes
+
+
+  ClassDescription
+ ProfileUserSettings Class ProfileUserSettings. 
+ QuesterSetting Class QuesterSetting. Implements the Settings
+
+Interfaces
+
+
+  InterfaceDescription
+ IQuesterCondition 
+
+Help File generated with GhostDoc
+ 

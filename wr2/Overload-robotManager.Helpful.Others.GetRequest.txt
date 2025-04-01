@@ -1,0 +1,18 @@
+WRobot
+
+Others..::..GetRequest Method 
+Overload List
+
+
+  NameDescription
+  GetRequest(String, String) Return the code source of the page. Sample: GetRequest("http://www.google.com/index.php", "a=5&b=10" ) 
+  GetRequest(String, String, Boolean, Int32) Return the code source of the page. Sample: GetRequest("http://www.google.com/index.php", "a=5&b=10" ) 
+
+See Also
+
+
+Others Class 
+Others Members 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

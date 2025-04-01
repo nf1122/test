@@ -1,0 +1,18 @@
+WRobot
+
+Bag..::..GetItemContainerBagIdAndSlot Method 
+Overload List
+
+
+  NameDescription
+  GetItemContainerBagIdAndSlot(Int32) Get container bag id and bag slot id which contains the chosen item 
+  GetItemContainerBagIdAndSlot(String) Get container bag id and bag slot id which contains the chosen item 
+
+See Also
+
+
+Bag Class 
+Bag Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

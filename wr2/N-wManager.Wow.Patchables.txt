@@ -1,0 +1,18 @@
+WRobot
+
+wManager.Wow.Patchables Namespace
+Enumerations
+
+
+  EnumerationDescription
+ Descriptors..::..ContainerFields 
+ Descriptors..::..CorpseFields 
+ Descriptors..::..DynamicObjectFields 
+ Descriptors..::..GameObjectFields 
+ Descriptors..::..ItemFields 
+ Descriptors..::..ObjectFields 
+ Descriptors..::..PlayerFields 
+ Descriptors..::..UnitFields 
+
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,31 @@
+WRobot
+
+WoWUnit..::..BuffTimeLeft Method (String)
+Buff time left. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int BuffTimeLeft(
+	string spellName
+)Public Function BuffTimeLeft ( _
+	spellName As String _
+) As Integerpublic:
+int^ BuffTimeLeft(
+	String^ spellName
+)Parameters
+spellName
+Type: String
+Name of the spell (in english).
+Return Value
+time left in milliseconds.
+See Also
+
+
+WoWUnit Class
+BuffTimeLeft Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+Logging..::..Write Method 
+Overload List
+
+
+  NameDescription
+  Write(Logging..::..Log) Write the specified log. 
+  Write(String, Logging..::..LogType, Color) Write the specified text. 
+  Write(String) Write the specified text. 
+
+See Also
+
+
+Logging Class 
+Logging Members 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

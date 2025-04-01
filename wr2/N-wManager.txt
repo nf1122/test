@@ -1,0 +1,25 @@
+WRobot
+
+wManager Namespace
+Classes
+
+
+  ClassDescription
+ BlackListSerializable Class BlackListSerializable. This class is saved in an .xml file ("\ Data \ BlackList.xml"). The blacklist contained in this file is used by all characters of this bot installation. 
+ BlackListSerializable..::..BlackNpc Class BlackNpc. 
+ BlackListSerializable..::..BlackNpcType Class BlackNpcType. 
+ BlackListSerializable..::..Blackspot Class Blackspot. 
+ GeneralSettings Class GeneralSettings (UI for settings file wManagerSetting). Implements the Form
+ Information Class Information. 
+ Pulsator Class Pulsator. Use to attach game and initialize bot. 
+ Statistics Class Statistics (show tab "In Game"). 
+ wManagerGlobalSetting Class wManagerGlobalSetting. The configurations in this file are used by all the characters. XML file is in "WRobot\Settings\WRobotGlobalSetting.xml" Implements the Settings
+ wManagerSetting Class wManagerSetting. This class contains options attached to the used character. It also contains the session blacklists. 
+File is in folder "WRobot\Settings\", file name format is: Settings.AdviserFilePathAndName("General", ObjectManager.Me.Name + "." + Usefuls.RealmName) (result like "WRobot\Settings\General-PlayerName.RealmName.xml")
+Implements the Settings
+ wManagerSetting..::..IgnoredNerbyPlayerClass Class IgnoredNerbyPlayerClass ([IgnoredNerbyPlayer]). 
+ wManagerSetting..::..MyMacro Class MyMacro. Allows you to simulate the pressing of a keyboard key every X seconds according to simple conditions. This option is rarely used now it is better to use a plugin for this kind of task. Used by state MyMacro
+ wManagerSetting..::..PluginSetting Class PluginSetting. Used in wManagerSetting by the settings [PluginsSettings]. This allows the bot to remember which IPlugin are activated or not ("Plugins" tab). 
+
+Help File generated with GhostDoc
+ 

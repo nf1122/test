@@ -1,0 +1,19 @@
+WRobot
+
+Others..::..ParseFloat Method 
+Overload List
+
+
+  NameDescription
+  ParseFloat(String, Single%) String to float. 
+  ParseFloat(String) String to float. 
+  ParseFloat(String, Boolean%) String to float. 
+
+See Also
+
+
+Others Class 
+Others Members 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

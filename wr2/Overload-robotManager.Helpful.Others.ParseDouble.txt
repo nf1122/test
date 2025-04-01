@@ -1,0 +1,19 @@
+WRobot
+
+Others..::..ParseDouble Method 
+Overload List
+
+
+  NameDescription
+  ParseDouble(String, Double%) String to double. 
+  ParseDouble(String) String to double. 
+  ParseDouble(String, Boolean%) String to double. 
+
+See Also
+
+
+Others Class 
+Others Members 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

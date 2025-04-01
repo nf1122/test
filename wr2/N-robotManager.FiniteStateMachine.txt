@@ -1,0 +1,12 @@
+WRobot
+
+robotManager.FiniteStateMachine Namespace
+Classes
+
+
+  ClassDescription
+ Engine FSM Engine. The bot's behavior is mainly based on it.
+ State State used with Engine. Don't forget to configure Priority and DisplayName (must be unique name) 
+
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,30 @@
+WRobot
+
+WoWUnit..::..GetPowerByPowerType Method 
+Gets power value by power type. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint GetPowerByPowerType(
+	PowerType powerType
+)Public Function GetPowerByPowerType ( _
+	powerType As PowerType _
+) As UIntegerpublic:
+unsigned int^ GetPowerByPowerType(
+	PowerType^ powerType
+)Parameters
+powerType
+Type: wManager.Wow.Enums..::..PowerType
+Type of power.
+Return Value
+power value.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,18 @@
+WRobot
+
+EntryIndexQuest Constructor 
+Overload List
+
+
+  NameDescription
+ EntryIndexQuest()()()() Initializes a new instance of the EntryIndexQuest class. 
+ EntryIndexQuest(Int32, Int32, Int32, Int32, Boolean, String) Initializes a new instance of the EntryIndexQuest class. 
+
+See Also
+
+
+EntryIndexQuest Class 
+EntryIndexQuest Members 
+wManager.Wow.Class Namespace 
+Help File generated with GhostDoc
+ 

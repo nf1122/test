@@ -1,0 +1,18 @@
+WRobot
+
+Extensions..::..Translate Method 
+Overload List
+
+
+  NameDescription
+  Translate(ContentControl) Translates the specified ContentControl (translate with Translate). 
+  Translate(TextBlock) Translates the specified TextBlock (translate with Translate). 
+
+See Also
+
+
+Extensions Class 
+Extensions Members 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

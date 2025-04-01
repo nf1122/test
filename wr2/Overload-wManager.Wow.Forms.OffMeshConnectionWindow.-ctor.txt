@@ -1,0 +1,18 @@
+WRobot
+
+OffMeshConnectionWindow Constructor 
+Overload List
+
+
+  NameDescription
+ OffMeshConnectionWindow()()()() Initializes a new instance of the OffMeshConnectionWindow class. 
+ OffMeshConnectionWindow(List<(Of <<'(PathFinder..::..OffMeshConnection>)>>)%) Initializes a new instance of the OffMeshConnectionWindow class. 
+
+See Also
+
+
+OffMeshConnectionWindow Class 
+OffMeshConnectionWindow Members 
+wManager.Wow.Forms Namespace 
+Help File generated with GhostDoc
+ 

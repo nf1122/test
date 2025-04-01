@@ -1,0 +1,18 @@
+WRobot
+
+CustomClass..::..LoadCustomClass Method 
+Overload List
+
+
+  NameDescription
+  LoadCustomClass()()()() Load fightclass (from CustomClass). 
+  LoadCustomClass(String, Boolean) Load fightclass. 
+
+See Also
+
+
+CustomClass Class 
+CustomClass Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

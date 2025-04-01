@@ -1,0 +1,20 @@
+WRobot
+
+wManagerSetting..::..AddBlackListZone Method 
+Overload List
+
+
+  NameDescription
+  AddBlackListZone(Vector3, Single, Boolean) Add zone to blacklisted zones. 
+  AddBlackListZone(Vector3, Single, PolyArea, Boolean) Add zone to blacklisted zones. 
+  AddBlackListZone(Vector3, Single, ContinentId, PolyArea, Boolean) Add zone to blacklisted zones. 
+  AddBlackListZone(BlackListSerializable..::..Blackspot, Boolean) Add zone to blacklisted zones. 
+
+See Also
+
+
+wManagerSetting Class 
+wManagerSetting Members 
+wManager Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,18 @@
+WRobot
+
+Vector3..::..Multiply Operator 
+Overload List
+
+
+  NameDescription
+  Multiply(Vector3, Vector3) Implements the * operator. 
+  Multiply(Vector3, Single) Implements the * operator. 
+
+See Also
+
+
+Vector3 Class 
+Vector3 Members 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

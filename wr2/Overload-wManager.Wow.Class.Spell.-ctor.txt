@@ -1,0 +1,20 @@
+WRobot
+
+Spell Constructor 
+Overload List
+
+
+  NameDescription
+ Spell(Int32) Initializes a new instance of the Spell class. This class management an spell of your wow player. 
+ Spell(UInt32) Initializes a new instance of the Spell class. This class management an spell of your wow player. 
+ Spell(String) Initializes a new instance of the Spell class. This class manage spells of your wow player. 
+ Spell(String, Boolean) Initializes a new instance of the Spell class. This class manage spells of your wow player. 
+
+See Also
+
+
+Spell Class 
+Spell Members 
+wManager.Wow.Class Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,31 @@
+WRobot
+
+WoWUnit..::..GetBuff Method (String)
+Gets the buff. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Aura GetBuff(
+	string spellName
+)Public Function GetBuff ( _
+	spellName As String _
+) As Aurapublic:
+Aura^ GetBuff(
+	String^ spellName
+)Parameters
+spellName
+Type: String
+Name of the spell (in english).
+Return Value
+Aura.
+See Also
+
+
+WoWUnit Class
+GetBuff Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,41 @@
+WRobot
+
+wManager.Wow.Helpers.PathFinderClass Namespace
+Classes
+
+
+  ClassDescription
+ FindPathPacket 
+ FindPathPacket..::..Area 
+ FindPathPacket..::..OffMeshConnection 
+ FindZPositionPacket 
+ Pather Class Pather. Use the PathFinder for findpath. 
+ PatherServer Class PatherServer. Use the PathFinder for findpath. 
+ PathPacket 
+ Utility Class Utility. Useful methods for PathFinder
+ Vector3Simple 
+ ZPositionPacket 
+
+Interfaces
+
+
+  InterfaceDescription
+ PathFinderInterface Interface PathFinderInterface, you have possibility to use you own pathfinder, for that implement this interface on class named "PathFinder" without namespace and save dll to "WRobot\Bin\pathfinderoverride.dll". 
+
+Delegates
+
+
+  DelegateDescription
+ Pather..::..MeshFileAddedHandler Delegate MeshFileAddedHandler 
+ Pather..::..MeshFileRemovedHandler Delegate MeshFileRemovedHandler 
+
+Enumerations
+
+
+  EnumerationDescription
+ FindPathPacket..::..Faction 
+ FindPathPacket..::..OffMeshConnection..::..OffMeshConnectionType 
+ Packets 
+
+Help File generated with GhostDoc
+ 

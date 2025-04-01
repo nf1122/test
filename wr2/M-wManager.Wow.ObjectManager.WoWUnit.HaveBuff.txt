@@ -1,0 +1,31 @@
+WRobot
+
+WoWUnit..::..HaveBuff Method (String)
+Has the buff. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool HaveBuff(
+	string spellName
+)Public Function HaveBuff ( _
+	spellName As String _
+) As Booleanpublic:
+bool^ HaveBuff(
+	String^ spellName
+)Parameters
+spellName
+Type: String
+Name of the spell (in english).
+Return Value
+true if has, false otherwise.
+See Also
+
+
+WoWUnit Class
+HaveBuff Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+Others..::..ParseLong Method 
+Overload List
+
+
+  NameDescription
+  ParseLong(String, Int64%) String to long. 
+  ParseLong(String) String to long. 
+  ParseLong(String, Boolean%) String to long. 
+
+See Also
+
+
+Others Class 
+Others Members 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 
