@@ -1,0 +1,248 @@
+WRobot
+
+WoWUnit Members
+The WoWUnit type exposes the following members.
+Constructors
+
+
+  NameDescription
+ WoWUnit Initializes a new instance of the WoWUnit class. 
+
+Methods
+
+
+  NameDescription
+ BuffCastedBy Buff casted by. 
+ BuffCastedByAll Buff casted by all. 
+ BuffStack(List<(Of <<'(UInt32>)>>)) Buff stack count. 
+ BuffStack(UInt32) Buff stack count. 
+ BuffStack(String) Buff stack count. 
+ BuffTimeLeft(String) Buff time left. 
+ BuffTimeLeft(List<(Of <<'(UInt32>)>>)) Buff time left. 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetAllBuff Gets all buff. 
+ GetBuff(String) Gets the buff. 
+ GetBuff(List<(Of <<'(UInt32>)>>)) Gets the buff. 
+ GetBuffs(String) Gets the buffs. 
+ GetBuffs(List<(Of <<'(UInt32>)>>)) Gets the buffs. 
+ GetDescriptorAddress(Descriptors..::..UnitFields) 
+ GetDescriptorAddress(Descriptors..::..ObjectFields) Gets the descriptor address. 
+(Inherited from WoWObject.)
+ GetDescriptorAddress(UInt32) Gets the descriptor address. 
+(Inherited from WoWObject.)
+ GetDescriptorAddress(UInt32, UInt32) Gets the descriptor address. 
+(Inherited from WoWObject.)
+ GetHashCode (Inherited from Object.)
+ GetMaxPowerByPowerType Gets maximum power value by type. 
+ GetMovementFlag Gets if movement flag is present. 
+ GetMyBuff Gets my buff. 
+ GetPowerByPowerType Gets power value by power type. 
+ GetType (Inherited from Object.)
+ HaveBuff(String) Has the buff. 
+ HaveBuff(List<(Of <<'(UInt32>)>>)) Has the buff. 
+ HaveBuff(UInt32) Has the buff. 
+ IsBehind Determines whether the specified target position is behind. 
+ IsFacing Determines whether the specified target position is facing. 
+ MemberwiseClone (Inherited from Object.)
+ ToString Returns a String that represents this instance. 
+(Inherited from WoWObject.)
+
+Fields
+
+
+  NameDescription
+  MaxInteractDistance The maximum interact distance 
+  MinInteractDistance The minimum interact distance 
+
+Properties
+
+
+  NameDescription
+ AggroDistance Gets the aggro distance. 
+ Alternate Gets the alternate. 
+ AlternatePercentage Gets the alternate percentage. 
+ ArcaneCharges Gets the arcane charges. 
+ ArcaneChargesPercentage Gets the arcane charges percentage. 
+ BaseAddress (Inherited from WoWObject.)
+ BaseDescriptorAddressCACHE (Inherited from WoWObject.)
+ BurningEmbers Gets the Burning Embers. 
+ BurningEmbersPercentage Gets the Burning Embers percentage. 
+ CanInterruptCasting Gets a value indicating whether can interrupt casting. 
+ CastingSpell Gets the casting spell. 
+ CastingSpellId Gets the casting spell id. 
+ CastingTimeLeft Gets the casting time left (in milliseconds). 
+ Chi Gets the chi. 
+ ChiPercentage Gets the chi percentage. 
+ CombatReach Gets the combat reach. 
+ Confused Gets a value indicating whether is confused. 
+ CreatedBy Gets the created by. 
+ CreatedBySpell Gets spell id used to create him. 
+ CreatureTypeTarget Gets the creature type target (work only in unit is your current target). 
+ DarkForce Gets the dark force. 
+ DarkForcePercentage Gets the percentage dark force. 
+ DBCacheRow Gets the database cache row. 
+ DemonicFury Gets the Demonic Fury. 
+ DemonicFuryPercentage Gets the Demonic Fury percentage. 
+ DisplayId Gets the display id. 
+ Eclipse Gets the Eclipse. 
+ EclipsePercentage Gets the Eclipse percentage. 
+ Energy Gets the energy. 
+ EnergyPercentage Gets the energy percentage. 
+ Entry (Inherited from WoWObject.)
+ Faction Gets the faction. 
+ FactionTemplate Gets the faction template. 
+ Fleeing Gets a value indicating whether is fleeing. 
+ Focus Gets the focus. 
+ FocusPercentage Gets the focus percentage. 
+  ForceRelativePosition Gets or sets a value indicating whether force to use UseRelativePosition. 
+ GeHitBoxtDistance Gets the HitBox distance. 
+ GetBaseAddress Gets the base address. 
+(Inherited from WoWObject.)
+ GetDescriptorStartAddress Gets the descriptor start address. 
+(Inherited from WoWObject.)
+ GetDistance Gets the get distance (from local player). 
+ GetDistance2D Gets the get distance 2D (from local player). 
+ GetDistanceZ Gets the get distance Z (from local player). 
+ GetDynamicFlags Gets the unit dynamic flags. 
+ GetMove Gets a value indicating whether get move. 
+ GetUnitDynamicFlags Gets the unit dynamic flags. 
+ Guid Gets the GUID. 
+(Inherited from WoWObject.)
+ HasTarget Gets a value indicating whether has target. 
+ Health Gets the health. 
+ HealthPercent Gets the health percent. 
+ HealthRatio Gets the health ratio. 
+ HolyPower Gets the holy power. 
+ HolyPowerPercentage Gets the holy power percentage. 
+ InCombat Gets a value indicating whether in combat. 
+ InCombatFlagOnly Gets a value indicating whether in combat flag only. 
+ InCombatWithMe Gets a value indicating whether in combat with me. 
+ Influenced Gets a value indicating whether is influenced. 
+ InteractDistance Gets or sets the interact distance (you can adjust with MinInteractDistance, MaxInteractDistance and InteractDistanceByEntry, if you set value it is save to InteractDistanceByEntry). 
+  InteractDistanceByEntry Get or set interact distance by entry. 
+ InTransport Gets a value indicating whether in transport. 
+ IsAlive Gets a value indicating whether is alive. 
+ IsAttackable Gets a value indicating whether is attackable. 
+ IsAuctioneer Gets a value indicating whether is auctioneer. 
+ IsBlacklisted Gets a value indicating whether is blacklisted. 
+ IsBoss Gets a value indicating whether is boss. 
+ IsCast Gets a value indicating whether is cast. 
+ IsDead Gets a value indicating whether is dead. 
+ IsElite Gets a value indicating whether is elite. 
+ IsFlightMaster Gets a value indicating whether is flight master. 
+ IsFlying Gets a value indicating whether is flying. 
+ IsGoodInteractDistance Gets a value indicating whether is good interact distance (look InteractDistance). 
+ IsIndoors Gets a value indicating whether is indoors. 
+ IsLocalPlayer Gets a value indicating whether is local player. 
+ IsLootable Gets a value indicating whether is lootable. 
+ IsMeOrMyPetOrPartyMemberTarget Gets a value indicating whether is my target or my pet or party member target. 
+ IsMeOrMyPetTarget Gets a value indicating whether is my target or my pet target. 
+ IsMounted Gets a value indicating whether is mounted. 
+ IsMyPet Gets a value indicating whether is my pet. 
+ IsMyPetTarget Gets a value indicating whether is my pet target. 
+ IsMyTarget Gets a value indicating whether is my target. 
+ IsNpcInnkeeper Gets a value indicating whether is NPC innkeeper. 
+ IsNpcRepair Gets a value indicating whether is NPC repair. 
+ IsNpcSpiritHealer Gets a value indicating whether is NPC spirit healer. 
+ IsNpcTrainer Gets a value indicating whether is NPC trainer. 
+ IsNpcVendor Gets a value indicating whether is NPC vendor. 
+ IsNpcVendorFood Gets a value indicating whether is NPC vendor food. 
+ IsNpcWildPets Gets a value indicating whether is NPC wild pets. 
+ IsOnTaxi Gets a value indicating whether is on taxi. 
+ IsOutdoors Gets a value indicating whether is outdoors. 
+ IsPartyLeader Gets a value indicating whether is party leader. 
+ IsPartyMember Gets a value indicating whether is party member. 
+ IsPartyMemberTarget Gets a value indicating whether is party member target. 
+ IsPet Gets a value indicating whether is pet. 
+ IsStunned Gets a value indicating whether is stunned. 
+ IsSwimming Gets a value indicating whether is swimming. 
+ IsTaggedByOther Gets a value indicating Tagged By Other. 
+ IsTapDenied Gets a value indicating whether is tap denied. 
+ IsTargetingMe Gets a value indicating whether is targeting me. 
+ IsTargetingMeOrMyPet Gets a value indicating whether is targeting me or my pet. 
+ IsTargetingMeOrMyPetOrPartyMember Gets a value indicating whether is targeting me or my pet or (my) party member. 
+ IsTargetingMyPet Gets a value indicating whether is targeting my pet. 
+ IsTargetingPartyMember Gets a value indicating whether is targeting (my) party member. 
+ IsTracked Gets or sets a value indicating whether is tracked (in in-game minimap). 
+ IsValid Returns true if is valid. 
+(Inherited from WoWObject.)
+ IsWorldBoss Gets a value indicating whether is world boss. 
+ Level Gets the level. 
+ LightForce Gets the light force. 
+ LightForcePercentage Gets the percentage light force. 
+ Mana Gets the mana. 
+ ManaPercentage Gets the mana percentage. 
+ MaxAlternate Gets the maximum alternate. 
+ MaxArcaneCharges Gets the maximum arcane charges. 
+ MaxBurningEmbers Gets the max Burning Embers. 
+ MaxChi Gets the maximum chi. 
+ MaxDarkForce Gets the max dark force. 
+ MaxDemonicFury Gets the max Demonic Fury. 
+ MaxEclipse Gets the max Eclipse. 
+ MaxEnergy Gets the maximum energy. 
+ MaxFocus Gets the maximum focus. 
+ MaxHealth Gets the maximum health. 
+ MaxHolyPower Gets the maximum holy power. 
+ MaxLightForce Gets the max light force. 
+ MaxMana Gets the maximum mana. 
+ MaxRage Gets the maximum rage. 
+ MaxRunes Gets the maximum runes. 
+ MaxRunicPower Gets the maximum runic power. 
+ MaxShadowOrbs Gets the max Shadow Orbs. 
+ MaxSoulShards Gets the maximum soul shards. 
+ MountDisplayId Gets the mount display id. 
+ MyCharacterInFrontHim Gets a value indicating whether my character in front him. 
+ Name Gets the name. 
+ NotSelectable Gets a value indicating whether not selectable. 
+ NpcFlightMastrerIsDiscover FlightMastrer is discover. 
+ NpcMarker Gets the NPC marker. 
+ NpcMarkerId Gets the NPC marker id (used by NpcMarker). 
+ Pacified Gets a value indicating whether is pacified. 
+ PetNumber Gets the pet number. 
+ PetOwnerGuid Gets the pet owner GUID. 
+ Pitch Gets or sets the pitch. 
+ PlayerControlled Gets a value indicating whether player controlled. 
+ Position Gets the position. 
+ PositionRelativeWithoutType Gets position relative without type (more information about relative position here: UseRelativePosition). 
+ PositionWithoutType Gets position without type (without "Flying", ....). 
+ Possessed Gets a value indicating whether is possessed. 
+ Rage Gets the rage. 
+ RagePercentage Gets the rage percentage. 
+ Reaction Gets the reaction. 
+ Rooted Gets a value indicating whether is rooted. 
+ Rotation Gets or sets the rotation (facing). 
+ Runes Gets the runes. 
+ RunesPercentage Gets the runes percentage. 
+ RunicPower Gets the runic power. 
+ RunicPowerPercentage Gets the runic power percentage. 
+ Scale Gets the scale. 
+(Inherited from WoWObject.)
+ ShadowOrbs Gets the Shadow Orbs. 
+ ShadowOrbsPercentage Gets the Shadow Orbs percentage. 
+ Silenced Gets a value indicating whether is silenced. 
+ Skinnable Gets a value indicating whether is skinnable. 
+ SoulShards Gets the soul shards. 
+ SoulShardsPercentage Gets the soul shards percentage. 
+ SpeedMoving Gets the speed moving. 
+ Summon Gets the summon. 
+ SummonedBy Gets the summoned by GUID. 
+ TaggedByMe Gets a value indicating Tagged By Me. 
+ Target Gets or sets the target. 
+ TargetObject Gets the target object. 
+ TransportGuid Gets the transport GUID (it is WoWGameObject). 
+ Type Gets the type. 
+(Inherited from WoWObject.)
+ UnitClassification Gets the unit classification. 
+ UnitFlags Gets the unit flags. 
+ UnitNPCFlags Gets the unit NPC flags. 
+  UseRelativePosition Gets a value indicating whether use relative position (by default if you are InTransport and this return false the bot returns the Position relative to the world and not relative to transport (boat, elevator, ...), you can force to return true and use PositionRelativeWithoutType with ForceRelativePosition). 
+ WowClass Gets the wow class. 
+
+See Also
+
+
+WoWUnit Class 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+Args..::..LicenseKey Field
+Bot license key to use LicenseKey="123456789"
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public string LicenseKeyPublic LicenseKey As Stringpublic:
+String^ LicenseKey
+See Also
+
+
+Args Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+Args..::..Character Field
+Game character name Character="MyName"
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public string CharacterPublic Character As Stringpublic:
+String^ Character
+See Also
+
+
+Args Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

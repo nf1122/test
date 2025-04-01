@@ -1,0 +1,19 @@
+WRobot
+
+Args..::..MinimiseOnStart Field
+Minimize window on start -MinimiseOnStart
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool MinimiseOnStartPublic MinimiseOnStart As Booleanpublic:
+bool^ MinimiseOnStart
+See Also
+
+
+Args Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

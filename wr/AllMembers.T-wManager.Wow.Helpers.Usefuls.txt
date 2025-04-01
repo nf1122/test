@@ -1,0 +1,58 @@
+WRobot
+
+Usefuls Members
+The Usefuls type exposes the following members.
+Methods
+
+
+  NameDescription
+  CopperToString Coppers to string (result like "0 G 00 S 00 C"). 
+  EjectVehicle Ejects from vehicle. 
+  FrameTime_GetCurTimeMs Game time in milliseconds. 
+  LaunchWow Launch World Of Warcraft (return process id). 
+  LuaErrorsCount Lua errors count. 
+  NeedToUseLuaToMove Needs to use lua to move (check if simulate keyboard update LastHardwareAction). 
+  SelectGossipOption(Int32) Selects a gossip (conversation) option. 
+  SelectGossipOption(GossipOptionsType) Selects the gossip option. 
+  SimulateHardwardAction Simulates hardware action (anti-afk). 
+  StringToCopper Strings to copper (value like "0 G 00 S 00 C"). 
+  TextBoxActivated Textbox activated (game textbox for send chat message or use macro). 
+  WaitIsCasting Wait the is casting (max Latency + 350 + 1000 * 60). 
+  WaitIsCastingAndLooting Wait is casting and looting (call WaitIsCasting()()()() and WaitIsLooting()()()()). 
+  WaitIsLooting Wait is looting (max 2200 ms + Latency * 2). 
+  WowAddon Gets Wow addons. 
+  WowVersionBuild Gets game build (extract from WowVersionString(Memory), value like "12340"). 
+  WowVersionString Gets game version (string format like "Version 3.3.5 (12340) (Release)"). 
+
+Fields
+
+
+  NameDescription
+  ForceIsFlyableArea Force IsFlyableArea to return true (bot use https://wow.gamepedia.com/API_IsFlyableArea , but sometime result is incorrect) 
+
+Properties
+
+
+  NameDescription
+  AreaId Obsolete. 
+Gets the area id. 
+  ContinentId Gets the continent id. 
+  ContinentNameMpq Gets the continent name (file name). 
+  InGame Gets a value indicating whether in game (to be safe you need to check if not IsLoadingOrConnecting). 
+  IsFlyableArea Gets a value indicating whether is flyable area (you can force value with ForceIsFlyableArea). 
+  IsLoadingOrConnecting Gets a value indicating whether game is loading or connecting. 
+  LastHardwareAction Gets the last hardware action. 
+  Latency Gets the latency (between LatencyMax and LatencyMin, to get real latency use LatencyReal). 
+  LatencyReal Gets the real latency (home+world)). 
+  MapZoneName Gets the name of the map zone. 
+  RealmName Gets the name of the realm. 
+  SubMapZoneName Gets the name of the sub map zone. 
+  WowVersion Gets game build (extract from WowVersionString(Memory), value like "12340"). 
+
+See Also
+
+
+Usefuls Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

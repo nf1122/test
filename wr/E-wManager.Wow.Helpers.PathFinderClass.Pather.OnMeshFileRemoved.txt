@@ -1,0 +1,22 @@
+WRobot
+
+Pather..::..OnMeshFileRemoved Event
+Occurs when mesh file removed. 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public event Pather..::..MeshFileRemovedHandler OnMeshFileRemovedPublic Event OnMeshFileRemoved As Pather..::..MeshFileRemovedHandlerpublic:
+ event Pather..::..MeshFileRemovedHandler^ OnMeshFileRemoved {
+	void add (Pather..::..MeshFileRemovedHandler^ value);
+	void remove (Pather..::..MeshFileRemovedHandler^ value);
+}
+See Also
+
+
+Pather Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,28 @@
+WRobot
+
+PathFinderInterface Members
+The PathFinderInterface type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ FindPath Find path. 
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ GetZPosition Get position Z. 
+ InitPather Initialize the pather. 
+ MemberwiseClone (Inherited from Object.)
+ ReportArea Report the area. 
+ ResetArea Reset area to POLYAREA_GROUND()()()() by position and type. 
+ ResetAreaByType Reset area to POLYAREA_GROUND()()()() by type. 
+ ToString (Inherited from Object.)
+
+See Also
+
+
+PathFinderInterface Interface 
+wManager.Wow.Helpers.PathFinderClass Namespace 
+Help File generated with GhostDoc
+ 

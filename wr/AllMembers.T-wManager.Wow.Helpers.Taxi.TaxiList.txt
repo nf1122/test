@@ -1,0 +1,35 @@
+WRobot
+
+Taxi..::..TaxiList Members
+The Taxi..::..TaxiList type exposes the following members.
+Methods
+
+
+  NameDescription
+  Active Actives the specified taxi node. 
+  AddOrEditForCurrentPlayer(List<(Of <<'(TaxiNode>)>>), Boolean) Adds the or edit for current player. 
+  AddOrEditForCurrentPlayer(TaxiNode, Boolean) Adds the or edit for current player. 
+  Disable Disables the specified taxi node. 
+  GetTaxiNodesOfCurrentPlayer Gets the taxi nodes of current player. 
+  Load Loads this instance. 
+  Save Saves this instance. 
+
+Fields
+
+
+  NameDescription
+  Locker The locker 
+
+Properties
+
+
+  NameDescription
+  Nodes Gets or sets the nodes. 
+
+See Also
+
+
+Taxi..::..TaxiList Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

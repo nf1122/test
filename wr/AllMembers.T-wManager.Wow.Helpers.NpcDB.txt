@@ -1,0 +1,41 @@
+WRobot
+
+NpcDB Members
+The NpcDB type exposes the following members.
+Methods
+
+
+  NameDescription
+  AddNpc Add NPC to ListNpc. 
+  AddNpcRange Add several NPCs to ListNpc. 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+  GetNpcNearby(Npc..::..NpcType) Get closest NPC by type. 
+  GetNpcNearby(Npc..::..NpcType, Npc..::..NpcVendorItemClass) Get closest NPC by type. 
+  GetNpcNearby(Npc..::..NpcType, Npc..::..FactionType, ContinentId, Vector3, Boolean, Npc..::..NpcVendorItemClass) Get closest NPC by type. 
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+  NpcSimilarExist Similar NPC exist. 
+  Save Save to file. 
+ ToString (Inherited from Object.)
+
+Fields
+
+
+  NameDescription
+  AcceptOnlyProfileNpc Accept only profile NPC (similar to AcceptOnlyProfileNpc). 
+
+Properties
+
+
+  NameDescription
+  ListNpc Get or set the NPCs list (it is better to use AddNpc(Npc, Boolean, Boolean) or AddNpcRange(List<(Of <<'(Npc>)>>), Boolean, Boolean) to add NPC). 
+
+See Also
+
+
+NpcDB Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

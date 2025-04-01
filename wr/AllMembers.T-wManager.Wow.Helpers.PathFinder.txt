@@ -1,0 +1,44 @@
+WRobot
+
+PathFinder Members
+The PathFinder type exposes the following members.
+Methods
+
+
+  NameDescription
+  FindPath(Vector3) Find path. 
+  FindPath(Vector3, Boolean) Find path. 
+  FindPath(Vector3, Vector3) Find path. 
+  FindPath(Vector3, Vector3, Boolean) Find path. 
+  FindPath(Vector3, Boolean%) Find path. 
+  FindPath(Vector3, Boolean%, Boolean) Find path. 
+  FindPath(Vector3, Boolean%, Boolean, Boolean) Find path. 
+  FindPath(Vector3, Vector3, String, Boolean) Find path. 
+  FindPath(Vector3, Vector3, Boolean%, Boolean) Find path. 
+  FindPath(Vector3, Vector3, String, Boolean%, Boolean, Boolean, Boolean, Boolean) Find path. 
+  GetZPosition Get position Z. 
+  InitPather()()()() Initialize the pather (with current continent). 
+  InitPather(String) Initialize the pather. 
+  ReportArea Report the area. 
+  ReportBigDangerArea Reports the big danger area (POLYAREA_BIGDANGER()()()()). 
+  ReportDangerArea Report danger area (POLYAREA_DANGER()()()()). 
+  ReportNormalArea Report the normal area (POLYAREA_GROUND()()()()). 
+  ResetArea Reset area to POLYAREA_GROUND()()()() by position and type. 
+  ResetAreaByType Reset area to POLYAREA_GROUND()()()() by type. 
+  SmoothPath Smooth the path. 
+
+Properties
+
+
+  NameDescription
+  Pather Get the pather. 
+  UsePatherFind Enable or disable path finder. 
+  UsePathFinderServer Get a value indicating whether use path finder from server. 
+
+See Also
+
+
+PathFinder Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,31 @@
+WRobot
+
+FindZPositionPacket Members
+The FindZPositionPacket type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Fields
+
+
+  NameDescription
+ Continent 
+ Position 
+ SessionKey 
+ Strict 
+
+See Also
+
+
+FindZPositionPacket Class 
+wManager.Wow.Helpers.PathFinderClass Namespace 
+Help File generated with GhostDoc
+ 

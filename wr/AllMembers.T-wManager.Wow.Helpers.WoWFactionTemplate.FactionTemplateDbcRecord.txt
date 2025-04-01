@@ -1,0 +1,35 @@
+WRobot
+
+WoWFactionTemplate..::..FactionTemplateDbcRecord Members
+The WoWFactionTemplate..::..FactionTemplateDbcRecord type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from ValueType.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from ValueType.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from ValueType.)
+
+Fields
+
+
+  NameDescription
+ EnemyFactions 
+ FactionFlags 
+ FactionId 
+ FightSupport 
+ FriendlyFactions 
+ FriendlyMask 
+ HostileMask 
+ Id 
+
+See Also
+
+
+WoWFactionTemplate..::..FactionTemplateDbcRecord Structure 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

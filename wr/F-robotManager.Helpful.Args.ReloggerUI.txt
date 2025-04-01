@@ -1,0 +1,19 @@
+WRobot
+
+Args..::..ReloggerUI Field
+To launch relogger creator (not launch bot) -reloggerui
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool ReloggerUIPublic ReloggerUI As Booleanpublic:
+bool^ ReloggerUI
+See Also
+
+
+Args Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

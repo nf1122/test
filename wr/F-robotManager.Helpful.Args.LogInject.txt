@@ -1,0 +1,19 @@
+WRobot
+
+Args..::..LogInject Field
+Logging game injections (for debug) -LogInject
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool LogInjectPublic LogInject As Booleanpublic:
+bool^ LogInject
+See Also
+
+
+Args Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

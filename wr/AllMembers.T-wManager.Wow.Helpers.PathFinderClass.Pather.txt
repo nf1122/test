@@ -1,0 +1,60 @@
+WRobot
+
+Pather Members
+The Pather type exposes the following members.
+Constructors
+
+
+  NameDescription
+ Pather Initializes a new instance of the Pather class. 
+
+Methods
+
+
+  NameDescription
+ Dispose Disposes this instance. 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ FindPath Find path (use [PathFinder.FindPath(robotManager.Helpful.Vector3)]). 
+ FindZ Get Z position (better to use GetZPosition(Vector3, Boolean)). 
+ GetHashCode (Inherited from Object.)
+  GetLocationByTile(Single, Single, array<Single>[]()[][]%) Get location by tile. 
+  GetLocationByTile(Double, Double, array<Single>[]()[][]%) Get location by tile. 
+  GetTileByLocation(Vector3, Single%, Single%) Get tile by location. 
+  GetTileByLocation(array<Single>[]()[][], Single%, Single%) Get tile by location. 
+ GetTileName Get name of the tile. 
+ GetTilePath Get tile path. 
+ GetType (Inherited from Object.)
+ LoadAllTiles Load all continent tiles. 
+ LoadAround Load tiles around. 
+ LoadTile Load the tile. 
+ MemberwiseClone (Inherited from Object.)
+ RemoveTile unload tile. 
+ ReportArea Report area. 
+ ReportBigDangerArea Report big danger area. 
+ ReportDangerArea Reports danger area. 
+ ReportNormalArea Report normal area. 
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ Continent Get the continent. 
+  PathFinderLocker Get the path finder locker. 
+ RD Get rd instance. 
+
+Events
+
+
+  NameDescription
+ OnMeshFileAdded Occurs when mesh file added. 
+ OnMeshFileRemoved Occurs when mesh file removed. 
+
+See Also
+
+
+Pather Class 
+wManager.Wow.Helpers.PathFinderClass Namespace 
+Help File generated with GhostDoc
+ 

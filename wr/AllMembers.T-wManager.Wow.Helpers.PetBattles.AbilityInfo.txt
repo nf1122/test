@@ -1,0 +1,35 @@
+WRobot
+
+PetBattles..::..AbilityInfo Members
+The PetBattles..::..AbilityInfo type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from ValueType.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from ValueType.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from ValueType.)
+
+Fields
+
+
+  NameDescription
+ AbilityPetType The ability type 
+ Description The description 
+ Icon The icon 
+ ID The id 
+ MaxCooldown The maximum cooldown 
+ Name The name 
+ NoStrongWeakHints The no strong weak hints 
+ NumTurns The number turns 
+
+See Also
+
+
+PetBattles..::..AbilityInfo Structure 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

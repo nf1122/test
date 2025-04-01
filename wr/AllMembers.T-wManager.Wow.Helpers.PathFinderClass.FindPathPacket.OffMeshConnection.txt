@@ -1,0 +1,30 @@
+WRobot
+
+FindPathPacket..::..OffMeshConnection Members
+The FindPathPacket..::..OffMeshConnection type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Fields
+
+
+  NameDescription
+ Path 
+ TryToUseEvenIfCanFindPathSuccess 
+ Type 
+
+See Also
+
+
+FindPathPacket..::..OffMeshConnection Class 
+wManager.Wow.Helpers.PathFinderClass Namespace 
+Help File generated with GhostDoc
+ 

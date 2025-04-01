@@ -1,0 +1,17 @@
+WRobot
+
+Trainer Members
+The Trainer type exposes the following members.
+Methods
+
+
+  NameDescription
+  TrainingSpell Training spells. 
+
+See Also
+
+
+Trainer Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

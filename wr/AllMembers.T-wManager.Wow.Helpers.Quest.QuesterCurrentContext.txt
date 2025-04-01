@@ -1,0 +1,28 @@
+WRobot
+
+Quest..::..QuesterCurrentContext Members
+The Quest..::..QuesterCurrentContext type exposes the following members.
+Methods
+
+
+  NameDescription
+
+Fields
+
+
+  NameDescription
+  CodeNamespace The code namespace (Xml is converted to C# code, this c# code use this namespace). New namespace is generated when a profile is loaded. 
+  CurrentStep The current step (example usage: (Quest.QuesterCurrentContext.Profile as Quester.Profile.EasyQuestProfile).QuestsSorted[Quest.QuesterCurrentContext.CurrentStep]) 
+  NPCList The NPC list (of current profile) 
+  Profile The profile (generally it is [Quester.Profile.EasyQuestProfile]wManager.Wow.Helpers.Quest.QuesterCurrentContext.Profile as Quester.Profile.EasyQuestProfile) 
+  ProfileName The profile name (like "FileName.xml", relative to "WRobot\Profiles\Quester\") 
+  QuestsClasses The quests classes 
+  SkipPickUpQuestAfterXSecondes Seconds to wait before to skip quest if cannot pickup. 
+
+See Also
+
+
+Quest..::..QuesterCurrentContext Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

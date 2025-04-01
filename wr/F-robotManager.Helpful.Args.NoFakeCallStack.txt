@@ -1,0 +1,19 @@
+WRobot
+
+Args..::..NoFakeCallStack Field
+To don't falsify call stack (when bot call game functions) -nofakecallstack
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool NoFakeCallStackPublic NoFakeCallStack As Booleanpublic:
+bool^ NoFakeCallStack
+See Also
+
+
+Args Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

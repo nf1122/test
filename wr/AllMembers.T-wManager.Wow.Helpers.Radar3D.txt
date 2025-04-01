@@ -1,0 +1,34 @@
+WRobot
+
+Radar3D Members
+The Radar3D type exposes the following members.
+Methods
+
+
+  NameDescription
+  DrawCircle Draw circle (call this method when OnDrawEvent is called). 
+  DrawLine Draw line (call this method when OnDrawEvent is called). 
+  DrawString Draw string (call this method when OnDrawEvent is called). 
+  Pulse Active radar 3d. 
+  Stop Stop radar 3d. 
+
+Properties
+
+
+  NameDescription
+  DeviceDX Gets the directx device (if you need to draw custom objects, add them when OnDrawEvent is called). 
+  IsLaunched Gets a value indicating whether this instance is launched. 
+
+Events
+
+
+  NameDescription
+  OnDrawEvent Occurs before to draw scene (add all objects to draw when this event is called). 
+
+See Also
+
+
+Radar3D Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

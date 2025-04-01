@@ -1,0 +1,19 @@
+WRobot
+
+QuesterSetting..::..ProfileName Field
+The profile path (relative to "WRobot\Profiles\Quester\"), but it is better to use ProfileName
+Namespace:  Quester.Bot
+Assembly:  Quester (in Quester.dll)
+Syntax
+
+
+C#VBC++
+public string ProfileNamePublic ProfileName As Stringpublic:
+String^ ProfileName
+See Also
+
+
+QuesterSetting Class
+Quester.Bot Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,39 @@
+WRobot
+
+Quest Members
+The Quest type exposes the following members.
+Methods
+
+
+  NameDescription
+  AbandonLastQuest Abandon last quest. 
+  AcceptQuest Accept quest. 
+  CloseQuestWindow Close quest window. 
+  CompleteQuest Complete the quest. 
+  ConsumeQuestsCompletedRequest Update FinishedQuestSet. 
+  GetLogQuestId Get game quest log. 
+  GetLogQuestIsComplete Check if quest id is complete. 
+  GetNumGossipActiveQuests Returns the number of active quests that you should eventually turn in to this NPC. 
+  GetNumGossipAvailableQuests Returns the number of quests (that you are not already on) offered by this NPC. 
+  GetQuestCompleted(List<(Of <<'(Int32>)>>)) Check if one of the quest id is completed. 
+  GetQuestCompleted(Int32) Check if quest id is completed. 
+  HasQuest Determine whether has the specified quest id. 
+  IsObjectiveComplete Determine whether quest objective is complete. 
+  RequestQuestsCompleted Update FinishedQuestSet if not in progress. 
+  SelectGossipActiveQuest Selects an active quest from a gossip list. 
+  SelectGossipAvailableQuest Selects an available quest from a gossip list. 
+  SelectGossipOption Selects a gossip (conversation) option. 
+
+Fields
+
+
+  NameDescription
+  FinishedQuestSet List of quests id completed (better to use GetQuestCompleted(List<(Of <<'(Int32>)>>)) or GetQuestCompleted(List<(Of <<'(Int32>)>>))) 
+
+See Also
+
+
+Quest Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,28 @@
+WRobot
+
+RunCodeExtension Members
+The RunCodeExtension type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+  RunCsharpScript Run C# script. 
+  RunCsharpScriptWithCustomNamespace Run C# script with additional namespaces. 
+  RunLuaBotScript Run LuaBot script. 
+  RunScript Run script. 
+  RunVBScript Run VB.net script. 
+  RunVBScriptWithCustomNamespace Run VB.net script with additional namespaces. 
+ ToString (Inherited from Object.)
+
+See Also
+
+
+RunCodeExtension Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

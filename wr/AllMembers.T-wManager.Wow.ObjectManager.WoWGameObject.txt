@@ -1,0 +1,84 @@
+WRobot
+
+WoWGameObject Members
+The WoWGameObject type exposes the following members.
+Constructors
+
+
+  NameDescription
+ WoWGameObject Initializes a new instance of the WoWGameObject class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetDescriptorAddress(Descriptors..::..GameObjectFields) 
+ GetDescriptorAddress(Descriptors..::..ObjectFields) Gets the descriptor address. 
+(Inherited from WoWObject.)
+ GetDescriptorAddress(UInt32) Gets the descriptor address. 
+(Inherited from WoWObject.)
+ GetDescriptorAddress(UInt32, UInt32) Gets the descriptor address. 
+(Inherited from WoWObject.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ModelName Gets model file name. 
+ Rotation Gets rotation (facing) 
+ ToString Returns a String that represents this instance. 
+(Inherited from WoWObject.)
+
+Properties
+
+
+  NameDescription
+ BaseAddress (Inherited from WoWObject.)
+ BaseDescriptorAddressCACHE (Inherited from WoWObject.)
+ CanOpen Gets a value indicating whether can open. 
+ CreatedBy Gets creator GUID. 
+ Data0 Gets the data0. 
+ Data1 Gets the data1. 
+ Data8 Gets the data8. 
+ DisplayId Gets display id. 
+ Entry (Inherited from WoWObject.)
+ Flags Gets the Flags. 
+ FlagsInt Gets the Flags. 
+ GetBaseAddress Gets the base address. 
+(Inherited from WoWObject.)
+ GetDescriptorStartAddress Gets the descriptor start address. 
+(Inherited from WoWObject.)
+ GetDistance Gets the distance (from local player). 
+ GetDistance2D Gets the distance 2d (from local player). 
+ GetDistanceZ Gets the distance z (from local player). 
+ GOType Gets the type of the gameobject. 
+ Guid Gets the GUID. 
+(Inherited from WoWObject.)
+ InteractDistance Gets or sets the interact distance (memorized in InteractDistanceByEntry). 
+  InteractDistanceByEntry Gets or set the interact distance by entry. 
+ IsBlacklisted Gets a value indicating whether this object is blacklisted (IsBlackListedAllConditions(WoWUnit)). 
+ IsGoodInteractDistance Gets a value indicating whether is good interact distance. 
+ IsIndoors Gets a value indicating whether is indoors. 
+ IsMailbox Gets a value indicating whether is mailbox. 
+ IsMDXCollidable Gets a value indicating whether is MDX collidable. 
+ IsOutdoors Gets a value indicating whether is outdoors. 
+ IsValid Returns true if is valid. 
+(Inherited from WoWObject.)
+ LockEntry Gets the lock entry. 
+ Matrix Gets the matrix. 
+ Name Gets the name. 
+ ParentRotation Gets the Parent Rotation. 
+ Position Gets the position. 
+ Scale Gets the scale. 
+(Inherited from WoWObject.)
+ SkillLineRequired Gets the skill line required. 
+ Type Gets the type. 
+(Inherited from WoWObject.)
+
+See Also
+
+
+WoWGameObject Class 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

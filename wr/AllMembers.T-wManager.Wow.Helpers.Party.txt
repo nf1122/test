@@ -1,0 +1,35 @@
+WRobot
+
+Party Members
+The Party type exposes the following members.
+Methods
+
+
+  NameDescription
+  CurrentPlayerIsLeader Current player is leader. 
+  GetMember1GUID Get group member 1 GUID. 
+  GetMember2GUID Get group member 2 GUID. 
+  GetMember3GUID Get group member 3 GUID. 
+  GetMember4GUID Get group member 4 GUID. 
+  GetParty 
+  GetPartyGUID Get group GUIDs. 
+  GetPartyGUIDHomeAndInstance Gets the group GUIDs (party and raid). 
+  GetPartyHomeAndInstance Get players objects (party and raid). 
+  GetPartyLeaderGUID Get group leader GUID. 
+  GetPartyLeaderGUIDHomeAndInstance Get party leader GUID (party and raid). 
+  GetPartyNumberPlayers Get group members count. 
+  GetRaidMemberCount 
+  GetRaidMemberGUID 
+  GetRaidMembers 
+  GetRaidMembersGuid 
+  IsInGroup Determines whether character is in group (party and raid). 
+  IsInGroupHome Determines whether is in party group. 
+  IsInGroupInstance Determines whether is in raid group. 
+
+See Also
+
+
+Party Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,20 @@
+WRobot
+
+Smelting Members
+The Smelting type exposes the following members.
+Methods
+
+
+  NameDescription
+  CloseSmeltingWindow Close the smelting window. 
+  NeedRun Need the run. 
+  OpenSmeltingWindow Open the smelting window. 
+  Pulse Pulses Smelting. 
+
+See Also
+
+
+Smelting Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

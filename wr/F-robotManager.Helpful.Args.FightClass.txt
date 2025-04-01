@@ -1,0 +1,19 @@
+WRobot
+
+Args..::..FightClass Field
+Bot fightclass selected FightClass="fightclass.xml"
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public string FightClassPublic FightClass As Stringpublic:
+String^ FightClass
+See Also
+
+
+Args Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

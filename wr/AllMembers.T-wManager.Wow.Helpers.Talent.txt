@@ -1,0 +1,17 @@
+WRobot
+
+Talent Members
+The Talent type exposes the following members.
+Methods
+
+
+  NameDescription
+  DoTalents Pulse. 
+
+See Also
+
+
+Talent Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

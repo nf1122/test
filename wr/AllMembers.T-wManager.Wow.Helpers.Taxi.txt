@@ -1,0 +1,30 @@
+WRobot
+
+Taxi Members
+The Taxi type exposes the following members.
+Methods
+
+
+  NameDescription
+  GetNearestNode(Vector3, Boolean%) Gets the nearest node (need taxi frame open). 
+  GetNearestNode(Vector3, List<(Of <<'(TaxiNode>)>>), Boolean%) Gets the nearest node. 
+  GetNearestNode(List<(Of <<'(TaxiNode>)>>), Single, Boolean%) Gets the nearest node. 
+  GetTaxiNodes Gets taxi nodes of current taxi (need taxi frame open). 
+  TakeNearestNode Takes the nearest node (need taxi frame open). 
+  TakeTaxiNode(Int32, String) Takes the taxi node (need taxi frame open). 
+  TakeTaxiNode(TaxiNode) Takes the taxi node (need taxi frame open). 
+  TaxiFrameIsVisible 
+
+Fields
+
+
+  NameDescription
+  _taxiLock 
+
+See Also
+
+
+Taxi Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

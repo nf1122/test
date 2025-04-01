@@ -1,0 +1,30 @@
+WRobot
+
+PatherServer Members
+The PatherServer type exposes the following members.
+Methods
+
+
+  NameDescription
+  FindPath Find path (use [PathFinder.FindPath(robotManager.Helpful.Vector3)]). 
+  FindZ Get Z position (better to use GetZPosition(Vector3, Boolean)). 
+  GetLocationByTile(Single, Single, array<Single>[]()[][]%) Get location by tile. 
+  GetLocationByTile(Double, Double, array<Single>[]()[][]%) Get location by tile. 
+  GetTileByLocation(Vector3, Single%, Single%) Get tile by location. 
+  GetTileByLocation(array<Single>[]()[][], Single%, Single%) Get tile by location. 
+  GetTileName Get name of the tile. 
+
+Fields
+
+
+  NameDescription
+  MaxCacheSize The maximum cache size 
+  PathFinderLocker The path finder locker 
+
+See Also
+
+
+PatherServer Class 
+wManager.Wow.Helpers.PathFinderClass Namespace 
+Help File generated with GhostDoc
+ 

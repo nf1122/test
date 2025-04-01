@@ -1,0 +1,22 @@
+WRobot
+
+Products..::..OnChangedIsStarted Event
+Occurs when started state change. 
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static event Products..::..IsStartedChangeEventHandler OnChangedIsStartedPublic Shared Event OnChangedIsStarted As Products..::..IsStartedChangeEventHandlerpublic:
+static  event Products..::..IsStartedChangeEventHandler^ OnChangedIsStarted {
+	void add (Products..::..IsStartedChangeEventHandler^ value);
+	void remove (Products..::..IsStartedChangeEventHandler^ value);
+}
+See Also
+
+
+Products Class
+robotManager.Products Namespace
+Help File generated with GhostDoc
+ 

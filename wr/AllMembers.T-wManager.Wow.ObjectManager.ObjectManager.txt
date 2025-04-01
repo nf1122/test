@@ -1,0 +1,116 @@
+WRobot
+
+ObjectManager Members
+The ObjectManager type exposes the following members.
+Methods
+
+
+  NameDescription
+  GetNearestWoWGameObject(List<(Of <<'(WoWGameObject>)>>), Vector3, Boolean) Gets the nearest game object. 
+  GetNearestWoWGameObject(List<(Of <<'(WoWGameObject>)>>), Boolean, Boolean) Gets the nearest game object. 
+  GetNearestWoWPlayer(List<(Of <<'(WoWPlayer>)>>)) Gets the nearest player. 
+  GetNearestWoWPlayer(List<(Of <<'(WoWPlayer>)>>), Vector3) Gets the nearest player. 
+  GetNearestWoWUnit(List<(Of <<'(WoWUnit>)>>), Vector3, Boolean) Gets the nearest unit. 
+  GetNearestWoWUnit(List<(Of <<'(WoWUnit>)>>), Boolean) Gets the nearest unit. 
+  GetNumberAttackPlayer(List<(Of <<'(WoWUnit>)>>)) Gets number of units that attack local player. 
+  GetNumberAttackPlayer()()()() Gets number of units that attack local player. 
+  GetObjectByGuid Gets the object by GUID. 
+  GetObjectWoW Gets all objects. 
+  GetObjectWoWContainer Gets objects container. 
+  GetObjectWoWCorpse Gets objects corpse. 
+  GetObjectWoWGameObject Gets objects GameObject. 
+  GetObjectWoWItem 
+  GetObjectWoWPlayer Gets objects player. 
+  GetObjectWoWPlayerTargetMe Gets objects player that target me. 
+  GetObjectWoWUnit Gets objects unit. 
+  GetUnitAttackPlayer(List<(Of <<'(WoWUnit>)>>)) Gets the units that attack local player. 
+  GetUnitAttackPlayer()()()() Gets the units that attack local player. 
+  GetWoWGameObjectByDisplayId(List<(Of <<'(WoWGameObject>)>>), List<(Of <<'(Int32>)>>)) Gets GameObjects by display id. 
+  GetWoWGameObjectByDisplayId(Int32) GameObjects by display id. 
+  GetWoWGameObjectByDisplayId(List<(Of <<'(Int32>)>>)) GameObjects by display id. 
+  GetWoWGameObjectByEntry(List<(Of <<'(WoWGameObject>)>>), List<(Of <<'(Int32>)>>)) Gets GameObjects by entries. 
+  GetWoWGameObjectByEntry(Int32) Gets GameObjects by entry. 
+  GetWoWGameObjectByEntry(List<(Of <<'(Int32>)>>)) Gets GameObjects by entries. 
+  GetWoWGameObjectById(List<(Of <<'(WoWGameObject>)>>), List<(Of <<'(Int32>)>>)) Gets GameObjects by entries. 
+  GetWoWGameObjectById(List<(Of <<'(Int32>)>>)) Gets the GameObjects by entries. 
+  GetWoWGameObjectByName(List<(Of <<'(WoWGameObject>)>>), List<(Of <<'(String>)>>)) Gets GameObjects by names 
+  GetWoWGameObjectByName(List<(Of <<'(WoWGameObject>)>>), String) Gets GameObjects by name. 
+  GetWoWGameObjectByName(String) Gets GameObjects by name. 
+  GetWoWGameObjectByName(List<(Of <<'(String>)>>)) Gets GameObjects by names. 
+  GetWoWGameObjectByyId Gets the GameObjects by entry. 
+  GetWoWGameObjectForFarm Gets GameObjects for farm (chests). 
+  GetWoWGameObjectOfType Gets objects by type. 
+  GetWoWPlayerDead()()()() Gets players dead. 
+  GetWoWPlayerDead(List<(Of <<'(WoWPlayer>)>>)) Gets players dead. 
+  GetWoWPlayerLootable()()()() Gets players lootable. 
+  GetWoWPlayerLootable(List<(Of <<'(WoWPlayer>)>>)) Gets players lootable. 
+  GetWoWUnitAlliance(List<(Of <<'(WoWPlayer>)>>)) Gets players alliance. 
+  GetWoWUnitAlliance()()()() Gets players alliance. 
+  GetWoWUnitAllianceDead(List<(Of <<'(WoWPlayer>)>>)) Gets players alliance dead. 
+  GetWoWUnitAllianceDead()()()() Gets players alliance dead. 
+  GetWoWUnitAttackables Gets units attackables. 
+  GetWoWUnitByEntry(List<(Of <<'(WoWUnit>)>>), List<(Of <<'(Int32>)>>), Boolean) Gets units by entries. 
+  GetWoWUnitByEntry(List<(Of <<'(WoWUnit>)>>), List<(Of <<'(Int32>)>>)) Gets units by entries. 
+  GetWoWUnitByEntry(List<(Of <<'(WoWUnit>)>>), Int32) Gets units by entry. 
+  GetWoWUnitByEntry(Int32) Gets units by entry. 
+  GetWoWUnitByEntry(Int32, Boolean) Gets units by entry. 
+  GetWoWUnitByEntry(List<(Of <<'(Int32>)>>)) Gets units by entries. 
+  GetWoWUnitByFaction(List<(Of <<'(WoWUnit>)>>), List<(Of <<'(UInt32>)>>), Boolean) Gets units by faction. 
+  GetWoWUnitByFaction(List<(Of <<'(WoWUnit>)>>), UInt32) Gets units by faction. 
+  GetWoWUnitByFaction(UInt32) Gets units by faction. 
+  GetWoWUnitByFaction(List<(Of <<'(UInt32>)>>), Boolean) Gets units by faction. 
+  GetWoWUnitByName(List<(Of <<'(WoWUnit>)>>), List<(Of <<'(String>)>>)) Gets units by names. 
+  GetWoWUnitByName(List<(Of <<'(WoWUnit>)>>), String) Gets units by name. 
+  GetWoWUnitByName(String) Gets units by name. 
+  GetWoWUnitByName(List<(Of <<'(String>)>>)) Gets units by names. 
+  GetWoWUnitFlightMaster(List<(Of <<'(WoWUnit>)>>)) Gets units flight master. 
+  GetWoWUnitFlightMaster()()()() Gets units flight master. 
+  GetWoWUnitHorde(List<(Of <<'(WoWPlayer>)>>)) Gets players horde. 
+  GetWoWUnitHorde()()()() Gets players horde. 
+  GetWoWUnitHordeDead(List<(Of <<'(WoWPlayer>)>>)) Gets players horde dead. 
+  GetWoWUnitHordeDead()()()() Gets players horde dead. 
+  GetWoWUnitHostile Gets units hostile. 
+  GetWoWUnitLootable(List<(Of <<'(WoWUnit>)>>)) Gets units lootable. 
+  GetWoWUnitLootable()()()() Gets units lootable. 
+  GetWoWUnitRepair(List<(Of <<'(WoWUnit>)>>)) Gets units repair. 
+  GetWoWUnitRepair()()()() Gets units repair. 
+  GetWoWUnitSkinnable(List<(Of <<'(WoWUnit>)>>), List<(Of <<'(UInt64>)>>)) Gets units skinnable. 
+  GetWoWUnitSkinnable(List<(Of <<'(UInt64>)>>)) Gets units skinnable. 
+  GetWoWUnitSpiritHealer(List<(Of <<'(WoWUnit>)>>)) Gets units spirit healer. 
+  GetWoWUnitSpiritHealer()()()() Gets units spirit healer. 
+  GetWoWUnitTrainer(List<(Of <<'(WoWUnit>)>>)) Gets units trainer. 
+  GetWoWUnitTrainer()()()() Gets units trainer. 
+  GetWoWUnitVendor(List<(Of <<'(WoWUnit>)>>)) Gets units vendor. 
+  GetWoWUnitVendor()()()() Gets units vendor. 
+  GetWoWUnitVendorFood(List<(Of <<'(WoWUnit>)>>)) Gets units vendor food. 
+  GetWoWUnitVendorFood()()()() Gets units vendor food. 
+  GetWoWUnitWildPets(List<(Of <<'(WoWUnit>)>>)) Gets units wild pets. 
+  GetWoWUnitWildPets()()()() Gets units wild pets. 
+
+Fields
+
+
+  NameDescription
+  BlackListGetUnitAttackPlayerGuidTime Ignore units present in this list when bot check GetUnitAttackPlayer(List<(Of <<'(WoWUnit>)>>)), can be used like ObjectManager.BlackListGetUnitAttackPlayerGuidTime.Add(unit.Guid, DateTime.Now + TimeSpan.FromMinutes(10));
+  BlackListObjectManagerGuid Remove from objects list object present in this list. 
+  Locker The locker 
+
+Properties
+
+
+  NameDescription
+  CameraActive Gets camera active. 
+  Me Gets local character. 
+  ObjectDictionary Gets or sets the objects dictionary. 
+  ObjectList Gets the objects list. 
+  ObjectManagerAddress 
+  Pet Gets the pet. 
+  Target Gets the target. 
+
+See Also
+
+
+ObjectManager Class 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

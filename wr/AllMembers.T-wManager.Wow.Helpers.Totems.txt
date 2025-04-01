@@ -1,0 +1,18 @@
+WRobot
+
+Totems Members
+The Totems type exposes the following members.
+Methods
+
+
+  NameDescription
+  TotemExist Totem exist. 
+  TotemTimeLeft Totems time left. 
+
+See Also
+
+
+Totems Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

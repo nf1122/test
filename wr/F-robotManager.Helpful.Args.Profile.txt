@@ -1,0 +1,19 @@
+WRobot
+
+Args..::..Profile Field
+Product profile selected Profile="myprofile.xml"
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public string ProfilePublic Profile As Stringpublic:
+String^ Profile
+See Also
+
+
+Args Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+Vendor Members
+The Vendor type exposes the following members.
+Methods
+
+
+  NameDescription
+  BuyItem Buy item. 
+  RepairAllItems Repair all items. 
+  SellItems Sell the items. 
+
+See Also
+
+
+Vendor Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

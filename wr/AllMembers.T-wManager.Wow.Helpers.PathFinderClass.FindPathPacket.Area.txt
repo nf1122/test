@@ -1,0 +1,30 @@
+WRobot
+
+FindPathPacket..::..Area Members
+The FindPathPacket..::..Area type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Fields
+
+
+  NameDescription
+ AreaType 
+ Position 
+ Radius 
+
+See Also
+
+
+FindPathPacket..::..Area Class 
+wManager.Wow.Helpers.PathFinderClass Namespace 
+Help File generated with GhostDoc
+ 

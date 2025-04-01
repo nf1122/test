@@ -1,0 +1,19 @@
+WRobot
+
+Engine..::..LaunchedStateTypeName Field
+The launched states names list 
+Namespace:  robotManager.FiniteStateMachine
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<string> LaunchedStateTypeNamePublic Shared LaunchedStateTypeName As List(Of String)public:
+static List<String^>^ LaunchedStateTypeName
+See Also
+
+
+Engine Class
+robotManager.FiniteStateMachine Namespace
+Help File generated with GhostDoc
+ 

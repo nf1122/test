@@ -1,0 +1,22 @@
+WRobot
+
+Radar3D..::..OnDrawEvent Event
+Occurs before to draw scene (add all objects to draw when this event is called). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static event Radar3D..::..OnDrawHandler OnDrawEventPublic Shared Event OnDrawEvent As Radar3D..::..OnDrawHandlerpublic:
+static  event Radar3D..::..OnDrawHandler^ OnDrawEvent {
+	void add (Radar3D..::..OnDrawHandler^ value);
+	void remove (Radar3D..::..OnDrawHandler^ value);
+}
+See Also
+
+
+Radar3D Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

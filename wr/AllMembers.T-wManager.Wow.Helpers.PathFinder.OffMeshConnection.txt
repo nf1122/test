@@ -1,0 +1,41 @@
+WRobot
+
+PathFinder..::..OffMeshConnection Members
+The PathFinder..::..OffMeshConnection type exposes the following members.
+Constructors
+
+
+  NameDescription
+ PathFinder..::..OffMeshConnection()()()() Initializes a new instance of the PathFinder..::..OffMeshConnection class. 
+ PathFinder..::..OffMeshConnection(List<(Of <<'(Vector3>)>>), Int32) Initialize a new instance of the PathFinder..::..OffMeshConnection class. 
+ PathFinder..::..OffMeshConnection(List<(Of <<'(Vector3>)>>), Int32, PathFinder..::..OffMeshConnectionType, Boolean) Initialize a new instance of the PathFinder..::..OffMeshConnection class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ IsSame Determines whether the specified o is same. 
+ MemberwiseClone (Inherited from Object.)
+ ToString Returns a String that represents this instance. 
+
+Properties
+
+
+  NameDescription
+ ContinentId Get or set the continent id (-1 to use on all continents). 
+ Name Get or set the name (description). 
+ Path Get or set the path. 
+ TryToUseEvenIfCanFindPathSuccess If true try to use even if can find path success (and use this if path distance is smaller with), use this option if you know what you are doing. 
+ Type Get or set the type. 
+
+See Also
+
+
+PathFinder..::..OffMeshConnection Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

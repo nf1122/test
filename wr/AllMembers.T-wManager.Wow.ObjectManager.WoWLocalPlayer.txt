@@ -1,0 +1,497 @@
+WRobot
+
+WoWLocalPlayer Members
+The WoWLocalPlayer type exposes the following members.
+Constructors
+
+
+  NameDescription
+ WoWLocalPlayer Initializes a new instance of the WoWLocalPlayer class. 
+
+Methods
+
+
+  NameDescription
+ BuffCastedBy Buff casted by. 
+(Inherited from WoWUnit.)
+ BuffCastedByAll Buff casted by all. 
+(Inherited from WoWUnit.)
+ BuffStack(List<(Of <<'(UInt32>)>>)) Buff stack count. 
+(Inherited from WoWUnit.)
+ BuffStack(UInt32) Buff stack count. 
+(Inherited from WoWUnit.)
+ BuffStack(String) Buff stack count. 
+(Inherited from WoWUnit.)
+ BuffTimeLeft(String) Buff time left. 
+(Inherited from WoWUnit.)
+ BuffTimeLeft(List<(Of <<'(UInt32>)>>)) Buff time left. 
+(Inherited from WoWUnit.)
+ CooldownEnabled(UInt32) Cooldown enabled. 
+ CooldownEnabled(String, Boolean) Cooldown enabled. 
+ CooldownTimeLeft(UInt32) Cooldown time left. 
+ CooldownTimeLeft(String, Boolean) Cooldown time left. 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetAllBuff Gets all buff. 
+(Inherited from WoWUnit.)
+ GetBuff(String) Gets the buff. 
+(Inherited from WoWUnit.)
+ GetBuff(List<(Of <<'(UInt32>)>>)) Gets the buff. 
+(Inherited from WoWUnit.)
+ GetBuffs(String) Gets the buffs. 
+(Inherited from WoWUnit.)
+ GetBuffs(List<(Of <<'(UInt32>)>>)) Gets the buffs. 
+(Inherited from WoWUnit.)
+ GetCorpseRecoveryDelay Gets the corpse recovery delay. 
+ GetDescriptorAddress(Descriptors..::..PlayerFields) (Inherited from WoWPlayer.)
+ GetDescriptorAddress(Descriptors..::..UnitFields) (Inherited from WoWUnit.)
+ GetDescriptorAddress(Descriptors..::..ObjectFields) Gets the descriptor address. 
+(Inherited from WoWObject.)
+ GetDescriptorAddress(UInt32) Gets the descriptor address. 
+(Inherited from WoWObject.)
+ GetDescriptorAddress(UInt32, UInt32) Gets the descriptor address. 
+(Inherited from WoWObject.)
+ GetEquipedItemBySlot Gets the equipped item by slot. 
+(Inherited from WoWPlayer.)
+ GetHashCode (Inherited from Object.)
+ GetMaxPowerByPowerType Gets maximum power value by type. 
+(Inherited from WoWUnit.)
+ GetMovementFlag Gets if movement flag is present. 
+(Inherited from WoWUnit.)
+ GetMyBuff Gets my buff. 
+(Inherited from WoWUnit.)
+ GetPowerByPowerType Gets power value by power type. 
+(Inherited from WoWUnit.)
+ GetRunes()()()() Gets the runes. 
+ GetRunes(RuneTypes) Gets the runes by type. 
+ GetRunesReady(RuneTypes) Gets the runes readies by type. 
+ GetRunesReady()()()() Gets the runes readies. 
+ GetType (Inherited from Object.)
+ HaveBuff(String) Has the buff. 
+(Inherited from WoWUnit.)
+ HaveBuff(List<(Of <<'(UInt32>)>>)) Has the buff. 
+(Inherited from WoWUnit.)
+ HaveBuff(UInt32) Has the buff. 
+(Inherited from WoWUnit.)
+ IsAchievementCompleted Determines whether achievement is completed. 
+ IsBehind Determines whether the specified target position is behind. 
+(Inherited from WoWUnit.)
+ IsFacing Determines whether the specified target position is facing. 
+(Inherited from WoWUnit.)
+ IsLooting Determines whether is looting. 
+ MemberwiseClone (Inherited from Object.)
+ MoneyStringFormat()()()() GetMoneyCopper to string format (CopperToString(Int64)) 
+ MoneyStringFormat(Int64) Money to string format (CopperToString(Int64)). 
+ RuneIsReady Rune slot is ready. 
+ RunesReadyCount()()()() Runes readies count. 
+ RunesReadyCount(RuneTypes) Runes ready count. 
+ ToString Returns a String that represents this instance. 
+(Inherited from WoWObject.)
+ TotemExist Totem exist. 
+ TotemTimeLeft Totem time left. 
+
+Fields
+
+
+  NameDescription
+ ForceIsCast Force IsCast
+
+Properties
+
+
+  NameDescription
+ AggroDistance Gets the aggro distance. 
+(Inherited from WoWUnit.)
+ Alternate Gets the alternate. 
+(Inherited from WoWUnit.)
+ AlternatePercentage Gets the alternate percentage. 
+(Inherited from WoWUnit.)
+ ArcaneCharges Gets the arcane charges. 
+(Inherited from WoWUnit.)
+ ArcaneChargesPercentage Gets the arcane charges percentage. 
+(Inherited from WoWUnit.)
+ BarTwo Gets the bar two value. 
+(Inherited from WoWPlayer.)
+ BarTwoMax Gets the bar two max value. 
+(Inherited from WoWPlayer.)
+ BarTwoPercentage Gets the bar two percentage. 
+(Inherited from WoWPlayer.)
+ BaseAddress (Inherited from WoWObject.)
+ BaseDescriptorAddressCACHE (Inherited from WoWObject.)
+ BreathActive Gets a value indicating whether breath active. 
+ BreathTimerLeft Gets the breath timer left. 
+ BurningEmbers Gets the Burning Embers. 
+(Inherited from WoWUnit.)
+ BurningEmbersPercentage Gets the Burning Embers percentage. 
+(Inherited from WoWUnit.)
+ CanInterruptCasting Gets a value indicating whether can interrupt casting. 
+(Inherited from WoWUnit.)
+ CanMove Gets a value indicating whether can move (!IsCast && !Influenced && !IsStunned && !IsOnTaxi). 
+ CastingSpell Gets the casting spell. 
+(Inherited from WoWUnit.)
+ CastingSpellId Gets the casting spell id. 
+(Inherited from WoWUnit.)
+ CastingTimeLeft Gets the casting time left (in milliseconds). 
+(Inherited from WoWUnit.)
+ Chi Gets the chi. 
+(Inherited from WoWUnit.)
+ ChiPercentage Gets the chi percentage. 
+(Inherited from WoWUnit.)
+ CombatReach Gets the combat reach. 
+(Inherited from WoWUnit.)
+ ComboPoint Gets the combo point. 
+(Inherited from WoWPlayer.)
+ Confused Gets a value indicating whether is confused. 
+(Inherited from WoWUnit.)
+ CreatedBy Gets the created by. 
+(Inherited from WoWUnit.)
+ CreatedBySpell Gets spell id used to create him. 
+(Inherited from WoWUnit.)
+ CreatureTypeTarget Gets the creature type target (work only in unit is your current target). 
+(Inherited from WoWUnit.)
+ DarkForce Gets the dark force. 
+(Inherited from WoWUnit.)
+ DarkForcePercentage Gets the percentage dark force. 
+(Inherited from WoWUnit.)
+ DBCacheRow Gets the database cache row. 
+(Inherited from WoWUnit.)
+ DemonicFury Gets the Demonic Fury. 
+(Inherited from WoWUnit.)
+ DemonicFuryPercentage Gets the Demonic Fury percentage. 
+(Inherited from WoWUnit.)
+ DisplayId Gets the display id. 
+(Inherited from WoWUnit.)
+ Eclipse (Inherited from WoWPlayer.)
+ EclipsePercentage (Inherited from WoWPlayer.)
+ Energy Gets the energy. 
+(Inherited from WoWUnit.)
+ EnergyPercentage Gets the energy percentage. 
+(Inherited from WoWUnit.)
+ Entry (Inherited from WoWObject.)
+ Experience Gets experience. 
+ ExperienceMax Gets experience maximum. 
+ Faction Gets the faction. 
+(Inherited from WoWUnit.)
+ FactionTemplate Gets the faction template. 
+(Inherited from WoWUnit.)
+ FatigueActive Gets a value indicating whether fatigue active. 
+ FatigueTimerLeft Gets the fatigue timer left. 
+ Fleeing Gets a value indicating whether is fleeing. 
+(Inherited from WoWUnit.)
+ Focus Gets the focus. 
+(Inherited from WoWUnit.)
+ FocusGuid Gets or sets the focus GUID. 
+ FocusObj Gets the focus object. 
+ FocusPercentage Gets the focus percentage. 
+(Inherited from WoWUnit.)
+ GeHitBoxtDistance Gets the HitBox distance. 
+(Inherited from WoWUnit.)
+ Gender Gets the gender. 
+ GetBaseAddress Gets the base address. 
+(Inherited from WoWObject.)
+ GetDescriptorStartAddress Gets the descriptor start address. 
+(Inherited from WoWObject.)
+ GetDistance Gets the get distance (from local player). 
+(Inherited from WoWUnit.)
+ GetDistance2D Gets the get distance 2D (from local player). 
+(Inherited from WoWUnit.)
+ GetDistanceZ Gets the get distance Z (from local player). 
+(Inherited from WoWUnit.)
+ GetDurabilityPercent Gets the durability percent. 
+ GetDynamicFlags Gets the unit dynamic flags. 
+(Inherited from WoWUnit.)
+ GetEquipedItem Gets the get equipped items. 
+(Inherited from WoWPlayer.)
+ GetHonorPoint Gets the honor point. 
+ GetLowerItemDurabilityPercent Gets the lower item durability percent. 
+ GetMoneyCopper Gets the money copper. 
+ GetMove Gets a value indicating whether get move. 
+(Inherited from WoWUnit.)
+ GetUnitDynamicFlags Gets the unit dynamic flags. 
+(Inherited from WoWUnit.)
+ GetWeaponDurabilityPercent Gets the weapon durability percent. 
+ GlobalCooldownEnabled Gets a value indicating whether global cooldown enabled. 
+ GlobalCooldownTimeLeft Gets the global cooldown time left. 
+ Guid Gets the GUID. 
+(Inherited from WoWObject.)
+ HasFocus Gets a value indicating whether has focus. 
+ HasMouseOver Gets a value indicating whether has mouse over. 
+ HasNewMail Gets a value indicating whether has new mail. 
+ HasTarget Gets a value indicating whether has target. 
+(Inherited from WoWUnit.)
+ Health Gets the health. 
+(Inherited from WoWUnit.)
+ HealthPercent Gets the health percent. 
+(Inherited from WoWUnit.)
+ HealthRatio Gets the health ratio. 
+(Inherited from WoWUnit.)
+ HolyPower Gets the holy power. 
+(Inherited from WoWUnit.)
+ HolyPowerPercentage Gets the holy power percentage. 
+(Inherited from WoWUnit.)
+ InCombat Gets a value indicating whether in combat (relating to bot configurations/blacklist, to check if the game determined you are in combat use InCombatFlagOnly). 
+ InCombatFlagOnly Gets a value indicating whether in combat flag only. 
+(Inherited from WoWUnit.)
+ InCombatWithMe Gets a value indicating whether in combat with me. 
+(Inherited from WoWUnit.)
+ Influenced Gets a value indicating whether is influenced. 
+(Inherited from WoWUnit.)
+ InteractDistance Gets or sets the interact distance (you can adjust with MinInteractDistance, MaxInteractDistance and InteractDistanceByEntry, if you set value it is save to InteractDistanceByEntry). 
+(Inherited from WoWUnit.)
+ InTransport Gets a value indicating whether in transport. 
+(Inherited from WoWUnit.)
+ InvSlots 
+ IsAlive Gets a value indicating whether is alive. 
+(Inherited from WoWUnit.)
+ IsAlliance Gets a value indicating whether is in alliance. 
+(Inherited from WoWPlayer.)
+ IsAttackable Gets a value indicating whether is attackable. 
+(Inherited from WoWUnit.)
+ IsAuctioneer Gets a value indicating whether is auctioneer. 
+(Inherited from WoWUnit.)
+ IsBlacklisted Gets a value indicating whether is blacklisted. 
+(Inherited from WoWUnit.)
+ IsBoss Gets a value indicating whether is boss. 
+(Inherited from WoWUnit.)
+ IsCast Gets a value indicating whether is cast (can be force with ForceIsCast). 
+ IsDead Gets a value indicating whether is dead (call IsDeadMe). 
+ IsDeadMe Gets a value indicating whether is dead. 
+ IsElite Gets a value indicating whether is elite. 
+(Inherited from WoWUnit.)
+ IsFlightMaster Gets a value indicating whether is flight master. 
+(Inherited from WoWUnit.)
+ IsFlying Gets a value indicating whether is flying. 
+(Inherited from WoWUnit.)
+ IsGoodInteractDistance Gets a value indicating whether is good interact distance (look InteractDistance). 
+(Inherited from WoWUnit.)
+ IsHorde Gets a value indicating whether is in horde. 
+(Inherited from WoWPlayer.)
+ IsIndoors Gets a value indicating whether is indoors. 
+(Inherited from WoWUnit.)
+ IsInGroup Gets a value indicating whether is in group. 
+ IsInParty Gets a value indicating whethe is in party. 
+ IsInPetBattle Gets a value indicating whether in pet battle. 
+ IsLocalPlayer Gets a value indicating whether is local player. 
+(Inherited from WoWUnit.)
+ IsLootable Gets a value indicating whether is lootable. 
+(Inherited from WoWUnit.)
+ IsMeOrMyPetOrPartyMemberTarget Gets a value indicating whether is my target or my pet or party member target. 
+(Inherited from WoWUnit.)
+ IsMeOrMyPetTarget Gets a value indicating whether is my target or my pet target. 
+(Inherited from WoWUnit.)
+ IsMounted Gets a value indicating whether is mounted. 
+ IsMyPet Gets a value indicating whether is my pet. 
+(Inherited from WoWUnit.)
+ IsMyPetTarget Gets a value indicating whether is my pet target. 
+(Inherited from WoWUnit.)
+ IsMyTarget Gets a value indicating whether is my target. 
+(Inherited from WoWUnit.)
+ IsNeutral Gets a value indicating whether is neutral (no horde or alliance faction). 
+(Inherited from WoWPlayer.)
+ IsNpcInnkeeper Gets a value indicating whether is NPC innkeeper. 
+(Inherited from WoWUnit.)
+ IsNpcRepair Gets a value indicating whether is NPC repair. 
+(Inherited from WoWUnit.)
+ IsNpcSpiritHealer Gets a value indicating whether is NPC spirit healer. 
+(Inherited from WoWUnit.)
+ IsNpcTrainer Gets a value indicating whether is NPC trainer. 
+(Inherited from WoWUnit.)
+ IsNpcVendor Gets a value indicating whether is NPC vendor. 
+(Inherited from WoWUnit.)
+ IsNpcVendorFood Gets a value indicating whether is NPC vendor food. 
+(Inherited from WoWUnit.)
+ IsNpcWildPets Gets a value indicating whether is NPC wild pets. 
+(Inherited from WoWUnit.)
+ IsOnTaxi Gets a value indicating whether is on taxi. 
+(Inherited from WoWUnit.)
+ IsOutdoors Gets a value indicating whether is outdoors. 
+(Inherited from WoWUnit.)
+ IsPartyLeader Gets a value indicating whether is party leader. 
+(Inherited from WoWUnit.)
+ IsPartyMember Gets a value indicating whether is party member. 
+ IsPartyMemberTarget Gets a value indicating whether is party member target. 
+(Inherited from WoWUnit.)
+ IsPet Gets a value indicating whether is pet. 
+(Inherited from WoWUnit.)
+ IsStunned Gets a value indicating whether is stunned. 
+(Inherited from WoWUnit.)
+ IsSwimming Gets a value indicating whether is swimming. 
+(Inherited from WoWUnit.)
+ IsTaggedByOther Gets a value indicating Tagged By Other. 
+(Inherited from WoWUnit.)
+ IsTapDenied Gets a value indicating whether is tap denied. 
+(Inherited from WoWUnit.)
+ IsTargetingMe Gets a value indicating whether is targeting me. 
+(Inherited from WoWUnit.)
+ IsTargetingMeOrMyPet Gets a value indicating whether is targeting me or my pet. 
+(Inherited from WoWUnit.)
+ IsTargetingMeOrMyPetOrPartyMember Gets a value indicating whether is targeting me or my pet or (my) party member. 
+(Inherited from WoWUnit.)
+ IsTargetingMyPet Gets a value indicating whether is targeting my pet. 
+(Inherited from WoWUnit.)
+ IsTargetingPartyMember Gets a value indicating whether is targeting (my) party member. 
+(Inherited from WoWUnit.)
+ IsTracked Gets or sets a value indicating whether is tracked (in in-game minimap). 
+(Inherited from WoWUnit.)
+ IsValid Returns true if is valid. 
+(Inherited from WoWObject.)
+ IsWorldBoss Gets a value indicating whether is world boss. 
+(Inherited from WoWUnit.)
+ Level Gets the level. 
+(Inherited from WoWUnit.)
+ LevelDecimal Gets level decimal (Level + Experience / ExperienceMax). 
+ LightForce Gets the light force. 
+(Inherited from WoWUnit.)
+ LightForcePercentage Gets the percentage light force. 
+(Inherited from WoWUnit.)
+ Mana Gets the mana. 
+(Inherited from WoWUnit.)
+ ManaPercentage Gets the mana percentage. 
+(Inherited from WoWUnit.)
+ MapPositionLua Gets the map position lua (X = MapPositionLua[0], Y = MapPositionLua[1]). 
+ MaxAlternate Gets the maximum alternate. 
+(Inherited from WoWUnit.)
+ MaxArcaneCharges Gets the maximum arcane charges. 
+(Inherited from WoWUnit.)
+ MaxBurningEmbers Gets the max Burning Embers. 
+(Inherited from WoWUnit.)
+ MaxChi Gets the maximum chi. 
+(Inherited from WoWUnit.)
+ MaxDarkForce Gets the max dark force. 
+(Inherited from WoWUnit.)
+ MaxDemonicFury Gets the max Demonic Fury. 
+(Inherited from WoWUnit.)
+ MaxEclipse (Inherited from WoWPlayer.)
+ MaxEnergy Gets the maximum energy. 
+(Inherited from WoWUnit.)
+ MaxFocus Gets the maximum focus. 
+(Inherited from WoWUnit.)
+ MaxHealth Gets the maximum health. 
+(Inherited from WoWUnit.)
+ MaxHolyPower Gets the maximum holy power. 
+(Inherited from WoWUnit.)
+ MaxLightForce Gets the max light force. 
+(Inherited from WoWUnit.)
+ MaxMana Gets the maximum mana. 
+(Inherited from WoWUnit.)
+ MaxRage Gets the maximum rage. 
+(Inherited from WoWUnit.)
+ MaxRunes Gets the maximum runes. 
+(Inherited from WoWUnit.)
+ MaxRunicPower Gets the maximum runic power. 
+(Inherited from WoWUnit.)
+ MaxShadowOrbs Gets the max Shadow Orbs. 
+(Inherited from WoWUnit.)
+ MaxSoulShards Gets the maximum soul shards. 
+(Inherited from WoWUnit.)
+ MeCreatureTrack Gets or sets creatures to track. 
+ MeObjectTrack Gets or sets objects to track. 
+ MinEclipse (Inherited from WoWPlayer.)
+ MountDisplayId Gets the mount display id. 
+(Inherited from WoWUnit.)
+ MouseOverGuid Gets or sets the mouse over GUID. 
+ MouseOverObj Gets the mouse over object. 
+ MyCharacterInFrontHim Gets a value indicating whether my character in front him. 
+(Inherited from WoWUnit.)
+ Name Gets the name. 
+ NotSelectable Gets a value indicating whether not selectable. 
+(Inherited from WoWUnit.)
+ NpcFlightMastrerIsDiscover FlightMastrer is discover. 
+(Inherited from WoWUnit.)
+ NpcMarker Gets the NPC marker. 
+(Inherited from WoWUnit.)
+ NpcMarkerId Gets the NPC marker id (used by NpcMarker). 
+(Inherited from WoWUnit.)
+ Pacified Gets a value indicating whether is pacified. 
+(Inherited from WoWUnit.)
+ PetNumber Gets the pet number. 
+(Inherited from WoWUnit.)
+ PetOwnerGuid Gets the pet owner GUID. 
+(Inherited from WoWUnit.)
+ Pitch Gets or sets the pitch. 
+(Inherited from WoWUnit.)
+ PlayerControlled Gets a value indicating whether player controlled. 
+(Inherited from WoWUnit.)
+ PlayerFaction Gets the player faction (value like "Alliance", "Horde", "Neutral"). 
+(Inherited from WoWPlayer.)
+ PlayerRace Gets the player race. 
+(Inherited from WoWPlayer.)
+ PlayerRaceString Gets the player race string. 
+(Inherited from WoWPlayer.)
+ PlayerUsingVehicle Gets a value indicating whether player using vehicle. 
+ Position Gets the position. 
+(Inherited from WoWUnit.)
+ PositionCorpse Gets corpse position. 
+ PositionRelativeWithoutType Gets position relative without type (more information about relative position here: UseRelativePosition). 
+(Inherited from WoWUnit.)
+ PositionWithoutType Gets position without type (without "Flying", ....). 
+(Inherited from WoWUnit.)
+ Possessed Gets a value indicating whether is possessed. 
+(Inherited from WoWUnit.)
+ PowerType The unit's power type. 
+(Inherited from WoWPlayer.)
+ Rage Gets the rage. 
+(Inherited from WoWUnit.)
+ RagePercentage Gets the rage percentage. 
+(Inherited from WoWUnit.)
+ Reaction Gets the reaction. 
+(Inherited from WoWUnit.)
+ Rooted Gets a value indicating whether is rooted. 
+(Inherited from WoWUnit.)
+ Rotation Gets or sets the rotation (facing). 
+(Inherited from WoWUnit.)
+ Runes Gets the runes. 
+ RunesPercentage Gets the runes percentage. 
+(Inherited from WoWUnit.)
+ RunicPower Gets the runic power. 
+(Inherited from WoWUnit.)
+ RunicPowerPercentage Gets the runic power percentage. 
+(Inherited from WoWUnit.)
+ Scale Gets the scale. 
+(Inherited from WoWObject.)
+ ShadowOrbs Gets the Shadow Orbs. 
+(Inherited from WoWUnit.)
+ ShadowOrbsPercentage Gets the Shadow Orbs percentage. 
+(Inherited from WoWUnit.)
+ Silenced Gets a value indicating whether is silenced. 
+(Inherited from WoWUnit.)
+ Skinnable Gets a value indicating whether is skinnable. 
+(Inherited from WoWUnit.)
+ SoulShards Gets the soul shards. 
+(Inherited from WoWUnit.)
+ SoulShardsPercentage Gets the soul shards percentage. 
+(Inherited from WoWUnit.)
+ SpeedMoving Gets the speed moving. 
+(Inherited from WoWUnit.)
+ Summon Gets the summon. 
+(Inherited from WoWUnit.)
+ SummonedBy Gets the summoned by GUID. 
+(Inherited from WoWUnit.)
+ TaggedByMe Gets a value indicating Tagged By Me. 
+(Inherited from WoWUnit.)
+ Target Gets or sets the target. 
+(Inherited from WoWUnit.)
+ TargetObject Gets the target object. 
+(Inherited from WoWUnit.)
+ TransportGuid Gets the transport GUID (it is WoWGameObject). 
+(Inherited from WoWUnit.)
+ Type Gets the type. 
+(Inherited from WoWObject.)
+ UnitClassification Gets the unit classification. 
+(Inherited from WoWUnit.)
+ UnitFlags Gets the unit flags. 
+(Inherited from WoWUnit.)
+ UnitNPCFlags Gets the unit NPC flags. 
+(Inherited from WoWUnit.)
+ WowClass Gets the wow class. 
+(Inherited from WoWUnit.)
+ WowRace Gets the wow race. 
+(Inherited from WoWPlayer.)
+
+See Also
+
+
+WoWLocalPlayer Class 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,22 @@
+WRobot
+
+UserControlMiniMap..::..OnMouseClickEvent Event
+Occurs when [on mouse click event]. 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static event UserControlMiniMap..::..OnMouseClickHandler OnMouseClickEventPublic Shared Event OnMouseClickEvent As UserControlMiniMap..::..OnMouseClickHandlerpublic:
+static  event UserControlMiniMap..::..OnMouseClickHandler^ OnMouseClickEvent {
+	void add (UserControlMiniMap..::..OnMouseClickHandler^ value);
+	void remove (UserControlMiniMap..::..OnMouseClickHandler^ value);
+}
+See Also
+
+
+UserControlMiniMap Class
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

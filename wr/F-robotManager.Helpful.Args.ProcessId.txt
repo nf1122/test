@@ -1,0 +1,19 @@
+WRobot
+
+Args..::..ProcessId Field
+Game process id ProcessId=1234
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public int ProcessIdPublic ProcessId As Integerpublic:
+int^ ProcessId
+See Also
+
+
+Args Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

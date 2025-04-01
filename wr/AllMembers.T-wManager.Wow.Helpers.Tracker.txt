@@ -1,0 +1,24 @@
+WRobot
+
+Tracker Members
+The Tracker type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+  TrackCreatureFlags Track the creature flags. 
+  TrackObjectFlags Track the object flags. 
+
+See Also
+
+
+Tracker Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

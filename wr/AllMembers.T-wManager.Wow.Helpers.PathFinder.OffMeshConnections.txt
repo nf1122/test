@@ -1,0 +1,28 @@
+WRobot
+
+PathFinder..::..OffMeshConnections Members
+The PathFinder..::..OffMeshConnections type exposes the following members.
+Methods
+
+
+  NameDescription
+  Add Add specified offmeshconnection to MeshConnection. 
+  AddRange Add several offmeshconnections to MeshConnection. 
+  GetOffMeshConnectionForCurrentContinent Get offmeshconnections for current continent (from MeshConnection and OffMeshConnectionsDefault). 
+  Load Load MeshConnection from FileName. 
+  Save Save MeshConnection to FileName. 
+
+Properties
+
+
+  NameDescription
+  FileName Get the name file (where MeshConnection is saved, by default "WRobot\Data\OffMeshConnections.xml"). 
+  MeshConnection Get or set offmeshconnections (to use use Add(PathFinder..::..OffMeshConnection, Boolean) or AddRange(List<(Of <<'(PathFinder..::..OffMeshConnection>)>>), Boolean)). 
+
+See Also
+
+
+PathFinder..::..OffMeshConnections Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

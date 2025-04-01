@@ -1,0 +1,19 @@
+WRobot
+
+QuesterSetting..::..SkipPickUpQuestAfterXSecondes Field
+Skip 'PickUp' quest after (sec), but it is better to use SkipPickUpQuestAfterXSecondes
+Namespace:  Quester.Bot
+Assembly:  Quester (in Quester.dll)
+Syntax
+
+
+C#VBC++
+public long SkipPickUpQuestAfterXSecondesPublic SkipPickUpQuestAfterXSecondes As Longpublic:
+long long^ SkipPickUpQuestAfterXSecondes
+See Also
+
+
+QuesterSetting Class
+Quester.Bot Namespace
+Help File generated with GhostDoc
+ 

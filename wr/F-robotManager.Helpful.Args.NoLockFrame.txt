@@ -1,0 +1,19 @@
+WRobot
+
+Args..::..NoLockFrame Field
+To don't lock game frame (lose reactivity) -nolockframe
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool NoLockFramePublic NoLockFrame As Booleanpublic:
+bool^ NoLockFrame
+See Also
+
+
+Args Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

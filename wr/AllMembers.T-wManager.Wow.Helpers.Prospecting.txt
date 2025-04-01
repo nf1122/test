@@ -1,0 +1,18 @@
+WRobot
+
+Prospecting Members
+The Prospecting type exposes the following members.
+Methods
+
+
+  NameDescription
+  NeedRun Needs the run. 
+  Pulse Prospecting specified items. 
+
+See Also
+
+
+Prospecting Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

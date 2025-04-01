@@ -1,0 +1,22 @@
+WRobot
+
+Logging..::..OnChangedStatus Event
+Occurs when [on changed status]. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static event Logging..::..StatusChangeEventHandler OnChangedStatusPublic Shared Event OnChangedStatus As Logging..::..StatusChangeEventHandlerpublic:
+static  event Logging..::..StatusChangeEventHandler^ OnChangedStatus {
+	void add (Logging..::..StatusChangeEventHandler^ value);
+	void remove (Logging..::..StatusChangeEventHandler^ value);
+}
+See Also
+
+
+Logging Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

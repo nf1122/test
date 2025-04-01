@@ -1,0 +1,19 @@
+WRobot
+
+Args..::..NoDx Field
+To don't use directx hook (if enabled by default in your version) -nodx
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool NoDxPublic NoDx As Booleanpublic:
+bool^ NoDx
+See Also
+
+
+Args Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

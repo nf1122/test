@@ -1,0 +1,19 @@
+WRobot
+
+QuesterSetting..::..SaveModifiedGeneralSettings Field
+Save general settings modified by the profiles 
+Namespace:  Quester.Bot
+Assembly:  Quester (in Quester.dll)
+Syntax
+
+
+C#VBC++
+public bool SaveModifiedGeneralSettingsPublic SaveModifiedGeneralSettings As Booleanpublic:
+bool^ SaveModifiedGeneralSettings
+See Also
+
+
+QuesterSetting Class
+Quester.Bot Namespace
+Help File generated with GhostDoc
+ 

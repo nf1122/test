@@ -1,0 +1,22 @@
+WRobot
+
+Products..::..OnChangedIsAliveProduct Event
+Occurs when [on changed is alive product]. 
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static event Products..::..IsAliveProductChangeEventHandler OnChangedIsAliveProductPublic Shared Event OnChangedIsAliveProduct As Products..::..IsAliveProductChangeEventHandlerpublic:
+static  event Products..::..IsAliveProductChangeEventHandler^ OnChangedIsAliveProduct {
+	void add (Products..::..IsAliveProductChangeEventHandler^ value);
+	void remove (Products..::..IsAliveProductChangeEventHandler^ value);
+}
+See Also
+
+
+Products Class
+robotManager.Products Namespace
+Help File generated with GhostDoc
+ 

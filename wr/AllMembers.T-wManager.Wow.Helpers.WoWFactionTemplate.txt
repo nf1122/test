@@ -1,0 +1,31 @@
+WRobot
+
+WoWFactionTemplate Members
+The WoWFactionTemplate type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+  FromId By ID. 
+ GetHashCode (Inherited from Object.)
+ GetReactionTowards Get the reaction towards. 
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ Id Get the id. 
+ Record Get record. 
+
+See Also
+
+
+WoWFactionTemplate Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

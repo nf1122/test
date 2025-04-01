@@ -1,0 +1,19 @@
+WRobot
+
+QuesterSetting..::..BlackListWhereIAmDead Field
+BlackList zone where I died 
+Namespace:  Quester.Bot
+Assembly:  Quester (in Quester.dll)
+Syntax
+
+
+C#VBC++
+public bool BlackListWhereIAmDeadPublic BlackListWhereIAmDead As Booleanpublic:
+bool^ BlackListWhereIAmDead
+See Also
+
+
+QuesterSetting Class
+Quester.Bot Namespace
+Help File generated with GhostDoc
+ 

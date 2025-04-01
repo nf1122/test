@@ -1,0 +1,25 @@
+WRobot
+
+UnitCanAttack Members
+The UnitCanAttack type exposes the following members.
+Methods
+
+
+  NameDescription
+  CanAttack(UInt32) Returns true if the character can attack the specified unit, false otherwise. 
+  CanAttack(UInt32, UInt32) Returns true if the first unit can attack the second unit, false otherwise. 
+  CanAttackMe Returns true if the specified unit can attack the character, false otherwise. 
+
+Fields
+
+
+  NameDescription
+  CanAttackCacheTimeMs cache time (in milliseconds) 
+
+See Also
+
+
+UnitCanAttack Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

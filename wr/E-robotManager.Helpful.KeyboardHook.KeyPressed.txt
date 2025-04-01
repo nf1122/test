@@ -1,0 +1,22 @@
+WRobot
+
+KeyboardHook..::..KeyPressed Event
+A hot key has been pressed. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public event EventHandler<KeyPressedEventArgs> KeyPressedPublic Event KeyPressed As EventHandler(Of KeyPressedEventArgs)public:
+ event EventHandler<KeyPressedEventArgs^>^ KeyPressed {
+	void add (EventHandler<KeyPressedEventArgs^>^ value);
+	void remove (EventHandler<KeyPressedEventArgs^>^ value);
+}
+See Also
+
+
+KeyboardHook Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

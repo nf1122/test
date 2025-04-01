@@ -1,0 +1,38 @@
+WRobot
+
+TraceLine..::..Line Members
+The TraceLine..::..Line type exposes the following members.
+Constructors
+
+
+  NameDescription
+ TraceLine..::..Line()()()() Initializes a new instance of the TraceLine..::..Line class. 
+ TraceLine..::..Line(Vector3, Vector3) Initializes a new instance of the TraceLine..::..Line class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Fields
+
+
+  NameDescription
+ From From 
+ HitPoint The hit point 
+ Result The result 
+ To To 
+
+See Also
+
+
+TraceLine..::..Line Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

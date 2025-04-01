@@ -1,0 +1,19 @@
+WRobot
+
+Args..::..BattleNet Field
+Game account mail (or name) BattleNet="my@mail.com"
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public string BattleNetPublic BattleNet As Stringpublic:
+String^ BattleNet
+See Also
+
+
+Args Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

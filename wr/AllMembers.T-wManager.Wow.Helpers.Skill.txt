@@ -1,0 +1,19 @@
+WRobot
+
+Skill Members
+The Skill type exposes the following members.
+Methods
+
+
+  NameDescription
+  GetMaxValue Get the maximum value. 
+  GetValue Get the value. 
+  Has Has skill. 
+
+See Also
+
+
+Skill Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

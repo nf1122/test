@@ -1,0 +1,31 @@
+WRobot
+
+Quest..::..PlayerQuest Members
+The Quest..::..PlayerQuest type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from ValueType.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from ValueType.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from ValueType.)
+
+Fields
+
+
+  NameDescription
+ ID The quest id 
+ ObjectiveRequiredCounts The status of the objectives 
+ State The quest state (unreliable) 
+ Time The time 
+
+See Also
+
+
+Quest..::..PlayerQuest Structure 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,22 @@
+WRobot
+
+EventsLuaWithArgs..::..OnEventsLuaStringWithArgs Event
+Occurs when new events lua. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static event EventsLuaWithArgs..::..EventsLuaStringWithArgsHandler OnEventsLuaStringWithArgsPublic Shared Event OnEventsLuaStringWithArgs As EventsLuaWithArgs..::..EventsLuaStringWithArgsHandlerpublic:
+static  event EventsLuaWithArgs..::..EventsLuaStringWithArgsHandler^ OnEventsLuaStringWithArgs {
+	void add (EventsLuaWithArgs..::..EventsLuaStringWithArgsHandler^ value);
+	void remove (EventsLuaWithArgs..::..EventsLuaStringWithArgsHandler^ value);
+}
+See Also
+
+
+EventsLuaWithArgs Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

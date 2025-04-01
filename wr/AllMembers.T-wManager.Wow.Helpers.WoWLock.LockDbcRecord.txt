@@ -1,0 +1,32 @@
+WRobot
+
+WoWLock..::..LockDbcRecord Members
+The WoWLock..::..LockDbcRecord type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from ValueType.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from ValueType.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from ValueType.)
+
+Fields
+
+
+  NameDescription
+ Action 
+ Id 
+ KeyType 
+ LockType 
+ Skill 
+
+See Also
+
+
+WoWLock..::..LockDbcRecord Structure 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

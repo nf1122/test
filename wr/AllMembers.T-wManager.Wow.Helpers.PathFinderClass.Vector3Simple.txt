@@ -1,0 +1,36 @@
+WRobot
+
+Vector3Simple Members
+The Vector3Simple type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+  FromListVector3 
+  FromVector3 
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ IsValid 
+ MemberwiseClone (Inherited from Object.)
+  ToListVector3 
+ ToString 
+ ToVector3 
+
+Fields
+
+
+  NameDescription
+ Action 
+ X 
+ Y 
+ Z 
+
+See Also
+
+
+Vector3Simple Class 
+wManager.Wow.Helpers.PathFinderClass Namespace 
+Help File generated with GhostDoc
+ 

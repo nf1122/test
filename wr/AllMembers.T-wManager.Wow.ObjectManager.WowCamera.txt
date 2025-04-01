@@ -1,0 +1,45 @@
+WRobot
+
+WowCamera Members
+The WowCamera type exposes the following members.
+Constructors
+
+
+  NameDescription
+ WowCamera Initializes a new instance of the WowCamera class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+ ViewMatrix Views the matrix. 
+
+Fields
+
+
+  NameDescription
+ CameraBaseAddress The camera base address 
+
+Properties
+
+
+  NameDescription
+ CameraMatrix Gets the camera matrix. 
+ Forward Gets the forward. 
+ Fov Gets the fov. 
+ Position Gets the position. 
+ ProjectionMatrix Gets the projection matrix. 
+
+See Also
+
+
+WowCamera Class 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

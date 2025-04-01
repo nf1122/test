@@ -1,0 +1,19 @@
+WRobot
+
+Args..::..BPHOOK Field
+To use BP hook (if not enabled by default in your version) -bphook
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool BPHOOKPublic BPHOOK As Booleanpublic:
+bool^ BPHOOK
+See Also
+
+
+Args Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+Args..::..LockFrame Field
+To lock game frame (better responsiveness, but this option is activated by default) -lockframe
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool LockFramePublic LockFrame As Booleanpublic:
+bool^ LockFrame
+See Also
+
+
+Args Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

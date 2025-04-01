@@ -1,0 +1,30 @@
+WRobot
+
+PetBattles..::..ModiferEffects Members
+The PetBattles..::..ModiferEffects type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Fields
+
+
+  NameDescription
+ Strong The strong 
+ Type The type 
+ Weak The weak 
+
+See Also
+
+
+PetBattles..::..ModiferEffects Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

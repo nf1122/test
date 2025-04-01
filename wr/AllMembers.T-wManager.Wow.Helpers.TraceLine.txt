@@ -1,0 +1,21 @@
+WRobot
+
+TraceLine Members
+The TraceLine type exposes the following members.
+Methods
+
+
+  NameDescription
+  TraceLineGo(Vector3) Trace line from character position to destination, return true if the line hit game element. 
+  TraceLineGo(Vector3, Vector3, CGWorldFrameHitFlags) Trace line from position to destination, return true if the line hit game element. 
+  TraceLineGo(Vector3, Vector3, CGWorldFrameHitFlags, Vector3%) Trace line from position to destination, return true if the line hit game element. 
+  TraceLineMass(List<(Of <<'(TraceLine..::..Line>)>>)%, CGWorldFrameHitFlags) Mass TraceLine. 
+  TraceLineMass(List<(Of <<'(TraceLine..::..Line>)>>)%, CGWorldFrameHitFlags, Nullable<(Of <<'(Boolean>)>>)) Mass TraceLine. 
+
+See Also
+
+
+TraceLine Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

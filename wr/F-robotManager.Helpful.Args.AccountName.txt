@@ -1,0 +1,19 @@
+WRobot
+
+Args..::..AccountName Field
+Game account name AccountName="WoW1"
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public string AccountNamePublic AccountName As Stringpublic:
+String^ AccountName
+See Also
+
+
+Args Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

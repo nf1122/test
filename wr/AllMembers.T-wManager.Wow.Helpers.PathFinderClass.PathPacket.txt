@@ -1,0 +1,31 @@
+WRobot
+
+PathPacket Members
+The PathPacket type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Fields
+
+
+  NameDescription
+ Logs 
+ Path 
+ ResultPartial 
+ ResultSuccess 
+
+See Also
+
+
+PathPacket Class 
+wManager.Wow.Helpers.PathFinderClass Namespace 
+Help File generated with GhostDoc
+ 

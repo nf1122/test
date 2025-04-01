@@ -1,0 +1,25 @@
+WRobot
+
+StuckResolver Members
+The StuckResolver type exposes the following members.
+Methods
+
+
+  NameDescription
+  UnStuck UnStuck the player. 
+  UnStuckFly UnStuck the player when flying. 
+
+Fields
+
+
+  NameDescription
+  IsUnStuck Unstuck in progress 
+  StuckCount Get number of stuck 
+
+See Also
+
+
+StuckResolver Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

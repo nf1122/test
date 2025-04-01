@@ -1,0 +1,43 @@
+WRobot
+
+Utility Members
+The Utility type exposes the following members.
+Methods
+
+
+  NameDescription
+  GetPostion2DOfLineByDistance Get position 2d of line by distance. 
+  ToFloatArray Convert vector3 to float array. 
+  ToRecast(array<Single>[]()[][]) Converts to recast position (from wow). 
+  ToRecast(Vector3) Converts to recast position (from wow). 
+  ToWoW(array<Single>[]()[][]) Converts to wow position (from recast). 
+  ToWoW(Vector3) Converts to wow position (from recast). 
+  ToWowListVector3 Convert from recast to wow list vector3. 
+
+Fields
+
+
+  NameDescription
+  MaxDistance2DUseRoadWater The maximum distance 2d to use road and water when find path (used server side, RatioIncludeDistance2DFromCenter) 
+  MaxPos The maximum position (of game continent) 
+  MaxSessionPerBotSession The maximum pathfinder server sessions per bot session 
+  MinPos The minimum position (of game continent) 
+  OffMeshConnectionsSearchDistance The offmeshconnections search distance when find path (used server side, RatioIncludeDistance2DFromCenter) 
+  Origin The origin (game continent) 
+  RatioIncludeDistance2DFromCenter The distance ratio from center of areas and offmeshconnections to include (start.DistanceTo2D(end) * RatioIncludeDistance2DFromCenter;). 
+  StopSearchToResolveAfterMs Stop search after milliseconds 
+
+Properties
+
+
+  NameDescription
+  RDSettings generate the rd settings. 
+  TileSize Get the size of tile. 
+
+See Also
+
+
+Utility Class 
+wManager.Wow.Helpers.PathFinderClass Namespace 
+Help File generated with GhostDoc
+ 

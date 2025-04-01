@@ -1,0 +1,59 @@
+WRobot
+
+MovementManager Members
+The MovementManager type exposes the following members.
+Methods
+
+
+  NameDescription
+  AngleToFacing Angle to facing position B. 
+  AvoidWallRay Try to avoid the wall and small obstacles TraceLine (you need to enabled option AvoidWallWithRays). 
+  Face(WoWUnit) Face the Unit. 
+  Face(WoWPlayer) Face the specified Player. 
+  Face(WoWGameObject) Face the specified GameObject. 
+  Face(Vector3) Faces the specified position. 
+  Go Follow path. 
+  GoLoop Follow path in loop. 
+  GoUnderWater Go under water (used by sample when character is dead if corpse is under water). 
+  IsBehind Determine whether the specified position is behind specified target position and rotation. 
+  IsFacing Determine whether the specified position and rotation is facing specified position. 
+  LaunchThreadMovementManager Launch the movement manager thread (if not launched). 
+  MoveTo(Vector3) Move to position. 
+  MoveTo(Single, Single, Single) Move to Position. 
+  MoveTo(WoWUnit) Moves to unit. 
+  MoveTo(WoWGameObject) Moves to game object. 
+  StopMove Stop Go(List<(Of <<'(Vector3>)>>), Boolean), GoLoop(List<(Of <<'(Vector3>)>>), Boolean, Int32) and MoveTo(Vector3) if required. 
+  StopMoveNewThread Call StopMove()()()() in new thread. 
+  StopMoveOnly Stop Go(List<(Of <<'(Vector3>)>>), Boolean) and GoLoop(List<(Of <<'(Vector3>)>>), Boolean, Int32) (don't stop MoveTo(Vector3)). 
+  StopMoveTo()()()() Stop MoveTo(Vector3). 
+  StopMoveTo(Boolean, Int32) Stop MoveTo(Vector3). 
+  StopMoveToNewThread Call StopMoveTo()()()() in new thread 
+
+Fields
+
+
+  NameDescription
+  StopMoveOnContinentChange Stop move when continent change 
+
+Properties
+
+
+  NameDescription
+  CurrentMoveTo Get the current move to position. 
+  CurrentPath Get the current path (can be modified by MovementManager when character are stuck, unmodified path is CurrentPathOrigine). 
+  CurrentPathOrigine Get the unmodified current path (because CurrentPath can be modified). 
+  InMovement Return true if the player is currently in move (Go(List<(Of <<'(Vector3>)>>), Boolean) or GoLoop(List<(Of <<'(Vector3>)>>), Boolean, Int32)). 
+  InMovementLoop Return true if the player is currently in move (GoLoop(List<(Of <<'(Vector3>)>>), Boolean, Int32)). 
+  InMovementNoLoop Return true if the player is currently in move (Go(List<(Of <<'(Vector3>)>>), Boolean)). 
+  InMoveTo Get if character use MoveTo(Vector3). 
+  IsUnStuck Return true if unstuck is in progress 
+  PointId Get or set the current path index (position in CurrentPath). 
+  StuckCount Get number of stuck 
+
+See Also
+
+
+MovementManager Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

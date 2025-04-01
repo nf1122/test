@@ -1,0 +1,55 @@
+WRobot
+
+WoWObject Members
+The WoWObject type exposes the following members.
+Constructors
+
+
+  NameDescription
+ WoWObject Initializes a new instance of the WoWObject class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetDescriptorAddress(Descriptors..::..ObjectFields) Gets the descriptor address. 
+ GetDescriptorAddress(UInt32) Gets the descriptor address. 
+ GetDescriptorAddress(UInt32, UInt32) Gets the descriptor address. 
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString Returns a String that represents this instance. 
+
+Operators
+
+
+  NameDescription
+  False Implements the false operator. 
+  True Implements the true operator. 
+
+Properties
+
+
+  NameDescription
+ BaseAddress 
+ BaseDescriptorAddressCACHE 
+ Entry 
+ GetBaseAddress Gets the base address. 
+ GetDescriptorStartAddress Gets the descriptor start address. 
+ GetDistance Gets the distance (from local character). 
+ Guid Gets the GUID. 
+ IsValid Returns true if is valid. 
+ Name Gets the name. 
+ Position Gets the position. 
+ Scale Gets the scale. 
+ Type Gets the type. 
+
+See Also
+
+
+WoWObject Class 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

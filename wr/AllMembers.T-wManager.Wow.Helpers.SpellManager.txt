@@ -1,0 +1,61 @@
+WRobot
+
+SpellManager Members
+The SpellManager type exposes the following members.
+Methods
+
+
+  NameDescription
+  CastSpellByIDAndPosition Cast spell by ID and position. 
+  CastSpellByIdLUA(UInt32) Cast spell by ID with lua. 
+  CastSpellByIdLUA(UInt32, String) Casts spell by ID with lua. 
+  CastSpellByNameLUA 
+  CastSpellByNameOn Cast spell by name (in game) on. 
+  CastSpellByNameOnSelfLUA Cast spell by name (in game) on self with lua. 
+ Equals(System.Object) (Inherited from Object.)
+  ExistMount(String) Mount exist. 
+  ExistMount(UInt32) Mount exist. 
+  ExistSpellBook Exist in spell book. 
+ Finalize (Inherited from Object.)
+  GetAquaticMountName Get of aquatic mounts. 
+  GetCompanionInfo Gets companions information. 
+  GetFlyMountName Get of flying mounts. 
+  GetGroudMountForLevel1Name Get of ground mounts for level 1. 
+  GetGroudMountName Get of ground mounts. 
+ GetHashCode (Inherited from Object.)
+  GetSpellCooldownTimeLeft(UInt32) Get the spell cooldown time left. 
+  GetSpellCooldownTimeLeft(String) Get the spell cooldown time left by spell name (in game) or spell ID. 
+  GetSpellCooldownTimeLeftBySpellName Get the spell cooldown time left by spell name (in english). 
+  GetSpellInfo Gets spell information. 
+ GetType (Inherited from Object.)
+  GlobalCooldownTimeLeft Global cooldown time left. 
+  HaveBuffLua Have the buff with lua. 
+  IsAutoAttacking Determines whether is automatic attacking. 
+  IsAutoRepeating Determines whether is automatic repeating. 
+  IsCurrentSpell Returns whether a spell is currently is being casted by the player or is placed in the queue to be casted next. If spell is current then action bar indicates its slot with highlighted frame. 
+  KnowSpell(List<(Of <<'(UInt32>)>>)) Know the spell. 
+  KnowSpell(UInt32) Know the spell. 
+  KnowSpell(String) Know the spell. 
+ MemberwiseClone (Inherited from Object.)
+  MountDruidId Druid forms IDs. 
+  SpellBook Spellbooks. 
+  SpellBookID Spellbooks get spells IDs. 
+  SpellBookName Spellbooks get spells names (in english). 
+  SpellInfoCreateCache get spell information and create cache. 
+  SpellUsableLUA Spell is usable lua. 
+ ToString (Inherited from Object.)
+  UpdateSpellBook Updates the spellbooks. 
+
+Fields
+
+
+  NameDescription
+  MountsId List of mount spell id 
+
+See Also
+
+
+SpellManager Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

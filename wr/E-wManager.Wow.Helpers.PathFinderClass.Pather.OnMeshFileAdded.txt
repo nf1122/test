@@ -1,0 +1,22 @@
+WRobot
+
+Pather..::..OnMeshFileAdded Event
+Occurs when mesh file added. 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public event Pather..::..MeshFileAddedHandler OnMeshFileAddedPublic Event OnMeshFileAdded As Pather..::..MeshFileAddedHandlerpublic:
+ event Pather..::..MeshFileAddedHandler^ OnMeshFileAdded {
+	void add (Pather..::..MeshFileAddedHandler^ value);
+	void remove (Pather..::..MeshFileAddedHandler^ value);
+}
+See Also
+
+
+Pather Class
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

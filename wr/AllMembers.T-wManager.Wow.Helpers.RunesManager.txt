@@ -1,0 +1,21 @@
+WRobot
+
+RunesManager Members
+The RunesManager type exposes the following members.
+Methods
+
+
+  NameDescription
+  GetRune Get rune. 
+  GetRunes()()()() Get runes. 
+  GetRunes(RuneTypes) 
+  GetRunesReady()()()() Get runes ready. 
+  GetRunesReady(RuneTypes) 
+
+See Also
+
+
+RunesManager Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

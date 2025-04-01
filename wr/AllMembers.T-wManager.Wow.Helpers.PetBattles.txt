@@ -1,0 +1,75 @@
+WRobot
+
+PetBattles Members
+The PetBattles type exposes the following members.
+Methods
+
+
+  NameDescription
+  ActionSelected Actions the selected. 
+  AllPetDead All pet are dead. 
+  AutoOrderPetInJournalByLevel Order pets in journal by level. 
+  ChangePet Changes the active pet out for a different pet in a pet battle. 
+  ChangeToBestPet Changes to best pet. 
+  GetAbilityInfo Gets the ability information. 
+  GetAbilityState Gets the state of the ability. 
+  GetActivePet Gets the active pet. 
+  GetBestAbility Gets the best ability (against the current target). 
+  GetBestPet Gets the best pet (against current target). 
+  GetBreedQuality Gets the breed quality. 
+  GetHealth Gets the health. 
+  GetLevel Gets the level. 
+  GetMaxHealth Gets the maximum health. 
+  GetName Gets the name. 
+  GetNumberUsableAbility Gets the number of usable abilities. 
+  GetPetGuid Gets the pet GUID. 
+  GetPetSpeciesID Returns the species ID of a specific pet in the pet battle. 
+  GetPetType Gets the type of the pet. 
+  GetPower Gets the power. 
+  GetSpeed Gets the speed. 
+  HasPetTeam Determines whether has pet team. 
+  IsDeadPet Determines whether pet is dead. 
+  IsTrapAvailable Determines whether is trap available. 
+  IsWaitingOnOpponent Determines whether is waiting on opponent. 
+  NumberPetAlive Number of pet alive. 
+  PetJournalGetExistPetActiveId Pet journal get exist pet active IDs. 
+  PetJournalGetHealth Pet journal get health. 
+  PetJournalGetLevel Pet journal get level. 
+  PetJournalGetMaxHealth Pet journal get maximum health. 
+  PetJournalHavePet Pet journal have pet. 
+  PetJournalPetLoadOutGuid Pet journal get actives pets GUIDs. 
+  PetJournalSetPetLoadOutInfo Pet journal, places the specified pet into a battle pet slot.. 
+  PvpQueueAndAccept PVPs queue and accept. 
+  ReviveBattlePets Revives the battle pets. 
+  SkipTurn Skips the turn. 
+  UseAbility Uses the ability. 
+  UseBestAbility Uses the best ability. 
+  UseTrap Uses the trap. 
+
+Fields
+
+
+  NameDescription
+  AbilityModifer The ability modifer 
+  MAX_ACTIVE_PETS The maximum active pets 
+  NUM_BATTLE_PET_ABILITIES The number battle pet abilities 
+  NUM_BATTLE_PETS_IN_BATTLE The number battle pets in battle 
+  ReviveOne The revive one 
+  TypeEffects The type effects 
+
+Properties
+
+
+  NameDescription
+  CanBattlePet Gets a value indicating whether can battle pet. 
+  ConditionResurrectBattlePets Gets a value indicating whether [condition resurrect battle pets]. 
+  IsInBattle Gets a value indicating whether is in battle. 
+  ReviveBattlePetsIsUsable Gets a value indicating whether revive battle pets is usable. 
+
+See Also
+
+
+PetBattles Class 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

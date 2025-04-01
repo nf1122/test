@@ -1,0 +1,22 @@
+WRobot
+
+Products..::..OnProductNeedSettings Event
+Occurs when [on product need settings]. 
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static event Products..::..ProductNeedSettingsEventHandler OnProductNeedSettingsPublic Shared Event OnProductNeedSettings As Products..::..ProductNeedSettingsEventHandlerpublic:
+static  event Products..::..ProductNeedSettingsEventHandler^ OnProductNeedSettings {
+	void add (Products..::..ProductNeedSettingsEventHandler^ value);
+	void remove (Products..::..ProductNeedSettingsEventHandler^ value);
+}
+See Also
+
+
+Products Class
+robotManager.Products Namespace
+Help File generated with GhostDoc
+ 

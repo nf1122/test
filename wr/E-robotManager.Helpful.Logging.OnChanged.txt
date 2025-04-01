@@ -1,0 +1,22 @@
+WRobot
+
+Logging..::..OnChanged Event
+Occurs when [on changed]. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static event Logging..::..LoggingChangeEventHandler OnChangedPublic Shared Event OnChanged As Logging..::..LoggingChangeEventHandlerpublic:
+static  event Logging..::..LoggingChangeEventHandler^ OnChanged {
+	void add (Logging..::..LoggingChangeEventHandler^ value);
+	void remove (Logging..::..LoggingChangeEventHandler^ value);
+}
+See Also
+
+
+Logging Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,36 @@
+WRobot
+
+WowCamera..::..MatrixMemoryStruct Members
+The WowCamera..::..MatrixMemoryStruct type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from ValueType.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from ValueType.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from ValueType.)
+
+Fields
+
+
+  NameDescription
+ M11 The M11 
+ M12 The M12 
+ M13 The M13 
+ M21 The M21 
+ M22 The M22 
+ M23 The M23 
+ M31 The M31 
+ M32 The M32 
+ M33 The M33 
+
+See Also
+
+
+WowCamera..::..MatrixMemoryStruct Structure 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,62 @@
+WRobot
+
+WoWCorpse Members
+The WoWCorpse type exposes the following members.
+Constructors
+
+
+  NameDescription
+ WoWCorpse Initializes a new instance of the WoWCorpse class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetDescriptorAddress(Descriptors..::..CorpseFields) 
+ GetDescriptorAddress(Descriptors..::..ObjectFields) Gets the descriptor address. 
+(Inherited from WoWObject.)
+ GetDescriptorAddress(UInt32) Gets the descriptor address. 
+(Inherited from WoWObject.)
+ GetDescriptorAddress(UInt32, UInt32) Gets the descriptor address. 
+(Inherited from WoWObject.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString Returns a String that represents this instance. 
+(Inherited from WoWObject.)
+
+Properties
+
+
+  NameDescription
+ BaseAddress (Inherited from WoWObject.)
+ BaseDescriptorAddressCACHE (Inherited from WoWObject.)
+ Entry (Inherited from WoWObject.)
+ GetBaseAddress Gets the base address. 
+(Inherited from WoWObject.)
+ GetDescriptorStartAddress Gets the descriptor start address. 
+(Inherited from WoWObject.)
+ GetDistance Gets the distance (from local character). 
+(Inherited from WoWObject.)
+ Guid Gets the GUID. 
+(Inherited from WoWObject.)
+ IsValid Returns true if is valid. 
+(Inherited from WoWObject.)
+ Name Gets the name. 
+(Inherited from WoWObject.)
+ Position Gets the position. 
+(Inherited from WoWObject.)
+ Scale Gets the scale. 
+(Inherited from WoWObject.)
+ Type Gets the type. 
+(Inherited from WoWObject.)
+
+See Also
+
+
+WoWCorpse Class 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 
