@@ -1,0 +1,29 @@
+WRobot
+
+ItemsManager..::..UseItem Method (String)
+Use the item. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void UseItem(
+	string itemName
+)Public Shared Sub UseItem ( _
+	itemName As String _
+)public:
+static void UseItem(
+	String^ itemName
+)Parameters
+itemName
+Type: String
+The item name like is appear in game.
+See Also
+
+
+ItemsManager Class
+UseItem Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

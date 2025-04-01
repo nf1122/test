@@ -1,0 +1,34 @@
+WRobot
+
+Move..::..TurnRight Method 
+Turn right. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void TurnRight(
+	Move..::..MoveAction action,
+	int timeMs
+)Public Shared Sub TurnRight ( _
+	action As Move..::..MoveAction, _
+	timeMs As Integer _
+)public:
+static void TurnRight(
+	Move..::..MoveAction^ action, 
+	int^ timeMs
+)Parameters
+action
+Type: wManager.Wow.Helpers..::..Move..::..MoveAction
+The action.
+timeMs
+Type: Int32
+The time in milliseconds (if you use action PressKey).
+See Also
+
+
+Move Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

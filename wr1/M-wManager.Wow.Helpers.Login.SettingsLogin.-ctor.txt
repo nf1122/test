@@ -1,0 +1,52 @@
+WRobot
+
+SettingsLogin Constructor 
+Initializes a new instance of the Login..::..SettingsLogin struct. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public SettingsLogin(
+	string realm,
+	string login,
+	string character,
+	string password,
+	string bNetName
+)Public Sub New ( _
+	realm As String, _
+	login As String, _
+	character As String, _
+	password As String, _
+	bNetName As String _
+)public:
+SettingsLogin(
+	String^ realm, 
+	String^ login, 
+	String^ character, 
+	String^ password, 
+	String^ bNetName
+)Parameters
+realm
+Type: String
+Game realmlist name Realm="ServerName".
+login
+Type: String
+Game account mail (or name) Login="my@mail.com".
+character
+Type: String
+Game character name Character="MyName".
+password
+Type: String
+Game account password Password="*****".
+bNetName
+Type: String
+Game account name BNetName="WoW1".
+See Also
+
+
+Login..::..SettingsLogin Structure
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

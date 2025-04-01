@@ -1,0 +1,35 @@
+WRobot
+
+Lua..::..LuaDoString Method (List<(Of <(<'String>)>)>, Boolean)
+Execute lua code. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void LuaDoString(
+	List<string> command,
+	bool notInGameMode
+)Public Shared Sub LuaDoString ( _
+	command As List(Of String), _
+	notInGameMode As Boolean _
+)public:
+static void LuaDoString(
+	List<String^>^ command, 
+	bool^ notInGameMode
+)Parameters
+command
+Type: List<(Of <(<'String>)>)>
+The lua code.
+notInGameMode
+Type: Boolean
+if set to true code can be run even if no in game.
+See Also
+
+
+Lua Class
+LuaDoString Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

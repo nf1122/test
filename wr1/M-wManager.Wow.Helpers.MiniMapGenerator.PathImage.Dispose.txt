@@ -1,0 +1,19 @@
+WRobot
+
+PathImage..::..Dispose Method 
+Disposes this instance. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public void Dispose()Public Sub Disposepublic:
+void Dispose()
+See Also
+
+
+MiniMapGenerator..::..PathImage Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

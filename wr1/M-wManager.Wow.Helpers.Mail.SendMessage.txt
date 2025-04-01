@@ -1,0 +1,64 @@
+WRobot
+
+Mail..::..SendMessage Method 
+Send message with items. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void SendMessage(
+	string target,
+	string titleMsg,
+	string txtMsg,
+	List<string> itemSend,
+	List<string> itemNoSend,
+	List<WoWItemQuality> itemQuality,
+	out bool needRunAgain
+)Public Shared Sub SendMessage ( _
+	target As String, _
+	titleMsg As String, _
+	txtMsg As String, _
+	itemSend As List(Of String), _
+	itemNoSend As List(Of String), _
+	itemQuality As List(Of WoWItemQuality), _
+	<OutAttribute> ByRef needRunAgain As Boolean _
+)public:
+static void SendMessage(
+	String^ target, 
+	String^ titleMsg, 
+	String^ txtMsg, 
+	List<String^>^ itemSend, 
+	List<String^>^ itemNoSend, 
+	List<WoWItemQuality^>^ itemQuality, 
+	[OutAttribute] bool^% needRunAgain
+)Parameters
+target
+Type: String
+intended recipient of the mail.
+titleMsg
+Type: String
+subject of the mail.
+txtMsg
+Type: String
+body of the mail (can be empty).
+itemSend
+Type: List<(Of <(<'String>)>)>
+List of items names to send.
+itemNoSend
+Type: List<(Of <(<'String>)>)>
+List of items names to not send.
+itemQuality
+Type: List<(Of <(<'WoWItemQuality>)>)>
+List of item qualities to send.
+needRunAgain
+Type: Boolean%
+if set to true items in the bag can still be sent.
+See Also
+
+
+Mail Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,36 @@
+WRobot
+
+WowLuaClass..::..TrySetMember Method 
+Tries the set member. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool TrySetMember(
+	SetMemberBinder binder,
+	Object value
+)Public Function TrySetMember ( _
+	binder As SetMemberBinder, _
+	value As Object _
+) As Booleanpublic:
+bool^ TrySetMember(
+	SetMemberBinder^ binder, 
+	Object^ value
+)Parameters
+binder
+Type: SetMemberBinder
+The binder.
+value
+Type: Object
+The value.
+Return Value
+true if success, false otherwise.
+See Also
+
+
+Lua..::..WowLuaClass Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

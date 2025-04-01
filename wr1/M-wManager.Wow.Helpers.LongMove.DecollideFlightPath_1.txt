@@ -1,0 +1,49 @@
+WRobot
+
+LongMove..::..DecollideFlightPath Method (Vector3, Single, Single, Single)
+Decollides the flight path (with TraceLine). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Vector3 DecollideFlightPath(
+	Vector3 destination,
+	float targetHeight,
+	float minGroundDistance,
+	float maxGroundDistance
+)Public Shared Function DecollideFlightPath ( _
+	destination As Vector3, _
+	targetHeight As Single, _
+	minGroundDistance As Single, _
+	maxGroundDistance As Single _
+) As Vector3public:
+static Vector3^ DecollideFlightPath(
+	Vector3^ destination, 
+	float^ targetHeight, 
+	float^ minGroundDistance, 
+	float^ maxGroundDistance
+)Parameters
+destination
+Type: robotManager.Helpful..::..Vector3
+The destination.
+targetHeight
+Type: Single
+Height of the target.
+minGroundDistance
+Type: Single
+The minimum ground distance.
+maxGroundDistance
+Type: Single
+The maximum ground distance.
+Return Value
+suggested position.
+See Also
+
+
+LongMove Class
+DecollideFlightPath Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

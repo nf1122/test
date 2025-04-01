@@ -1,0 +1,48 @@
+WRobot
+
+MovementManager..::..IsBehind Method 
+Determine whether the specified position is behind specified target position and rotation. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsBehind(
+	Vector3 me,
+	Vector3 target,
+	float targetFacingRadians,
+	float arcRadians
+)Public Shared Function IsBehind ( _
+	me As Vector3, _
+	target As Vector3, _
+	targetFacingRadians As Single, _
+	arcRadians As Single _
+) As Booleanpublic:
+static bool^ IsBehind(
+	Vector3^ me, 
+	Vector3^ target, 
+	float^ targetFacingRadians, 
+	float^ arcRadians
+)Parameters
+me
+Type: robotManager.Helpful..::..Vector3
+Me position.
+target
+Type: robotManager.Helpful..::..Vector3
+The target position.
+targetFacingRadians
+Type: Single
+The target facing radians.
+arcRadians
+Type: Single
+The arc radians.
+Return Value
+true if the specified me is behind target; otherwise, false.
+See Also
+
+
+MovementManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

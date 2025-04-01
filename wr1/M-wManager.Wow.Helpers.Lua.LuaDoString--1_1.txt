@@ -1,0 +1,43 @@
+WRobot
+
+Lua..::..LuaDoString<(Of <(<'T>)>)> Method (List<(Of <(<'String>)>)>, String)
+Execute lua code and get result (you can found example in [LuaDoString{T}(string,string)]). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static T LuaDoString<T>(
+	List<string> command,
+	string returnVariableName
+)
+Public Shared Function LuaDoString(Of T) ( _
+	command As List(Of String), _
+	returnVariableName As String _
+) As Tpublic:
+generic<typename T>
+static T LuaDoString(
+	List<String^>^ command, 
+	String^ returnVariableName
+)Type Parameters
+T
+Parameters
+command
+Type: List<(Of <(<'String>)>)>
+The lua code.
+returnVariableName
+Type: String
+Name of variable where is save the result (if empty, return result).
+Return Value
+result
+Return Value
+T.
+See Also
+
+
+Lua Class
+LuaDoString Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

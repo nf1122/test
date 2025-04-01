@@ -1,0 +1,19 @@
+WRobot
+
+MovementManager..::..StopMove Method 
+Stop Go(List<(Of <<'(Vector3>)>>), Boolean), GoLoop(List<(Of <<'(Vector3>)>>), Boolean, Int32) and MoveTo(Vector3) if required. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void StopMove()Public Shared Sub StopMovepublic:
+static void StopMove()
+See Also
+
+
+MovementManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

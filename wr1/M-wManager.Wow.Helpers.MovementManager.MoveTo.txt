@@ -1,0 +1,29 @@
+WRobot
+
+MovementManager..::..MoveTo Method (Vector3)
+Move to position. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void MoveTo(
+	Vector3 point
+)Public Shared Sub MoveTo ( _
+	point As Vector3 _
+)public:
+static void MoveTo(
+	Vector3^ point
+)Parameters
+point
+Type: robotManager.Helpful..::..Vector3
+The position.
+See Also
+
+
+MovementManager Class
+MoveTo Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

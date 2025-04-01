@@ -1,0 +1,28 @@
+WRobot
+
+Lua..::..RunMacroText Method 
+Run lua macro (with https://wowwiki.fandom.com/wiki/API_RunMacroText). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void RunMacroText(
+	string macro
+)Public Shared Sub RunMacroText ( _
+	macro As String _
+)public:
+static void RunMacroText(
+	String^ macro
+)Parameters
+macro
+Type: String
+Lua macro code (code like "/run print('Hello')").
+See Also
+
+
+Lua Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

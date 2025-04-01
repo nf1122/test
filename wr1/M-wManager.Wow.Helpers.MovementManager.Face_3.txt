@@ -1,0 +1,29 @@
+WRobot
+
+MovementManager..::..Face Method (Vector3)
+Faces the specified position. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Face(
+	Vector3 position
+)Public Shared Sub Face ( _
+	position As Vector3 _
+)public:
+static void Face(
+	Vector3^ position
+)Parameters
+position
+Type: robotManager.Helpful..::..Vector3
+The position.
+See Also
+
+
+MovementManager Class
+Face Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

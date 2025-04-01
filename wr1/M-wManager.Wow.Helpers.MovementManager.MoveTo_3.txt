@@ -1,0 +1,29 @@
+WRobot
+
+MovementManager..::..MoveTo Method (WoWGameObject)
+Moves to game object. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void MoveTo(
+	WoWGameObject obj
+)Public Shared Sub MoveTo ( _
+	obj As WoWGameObject _
+)public:
+static void MoveTo(
+	WoWGameObject^ obj
+)Parameters
+obj
+Type: wManager.Wow.ObjectManager..::..WoWGameObject
+The GameObject.
+See Also
+
+
+MovementManager Class
+MoveTo Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

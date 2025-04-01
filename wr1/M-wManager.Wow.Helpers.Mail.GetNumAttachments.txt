@@ -1,0 +1,20 @@
+WRobot
+
+Mail..::..GetNumAttachments Method 
+Get the number of items attachments (on current mail). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int GetNumAttachments()Public Shared Function GetNumAttachments As Integerpublic:
+static int^ GetNumAttachments()Return Value
+number of items attachments.
+See Also
+
+
+Mail Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

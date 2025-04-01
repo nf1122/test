@@ -1,0 +1,41 @@
+WRobot
+
+LongMove..::..LongMoveGo Method (Vector3, Double, Double)
+Pulse Long move (flying to specific destination when there are obstacles). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void LongMoveGo(
+	Vector3 position,
+	double maxTimeMs,
+	double precision2D
+)Public Shared Sub LongMoveGo ( _
+	position As Vector3, _
+	maxTimeMs As Double, _
+	precision2D As Double _
+)public:
+static void LongMoveGo(
+	Vector3^ position, 
+	double^ maxTimeMs, 
+	double^ precision2D
+)Parameters
+position
+Type: robotManager.Helpful..::..Vector3
+The destination.
+maxTimeMs
+Type: Double
+The maximum time in milliseconds.
+precision2D
+Type: Double
+The precision 2d.
+See Also
+
+
+LongMove Class
+LongMoveGo Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

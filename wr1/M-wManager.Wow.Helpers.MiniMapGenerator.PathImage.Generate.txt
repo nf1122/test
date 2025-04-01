@@ -1,0 +1,34 @@
+WRobot
+
+PathImage..::..Generate Method 
+Generates the specified screen w. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public void Generate(
+	double screenW,
+	double screenH
+)Public Sub Generate ( _
+	screenW As Double, _
+	screenH As Double _
+)public:
+void Generate(
+	double^ screenW, 
+	double^ screenH
+)Parameters
+screenW
+Type: Double
+The screen w.
+screenH
+Type: Double
+The screen h.
+See Also
+
+
+MiniMapGenerator..::..PathImage Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

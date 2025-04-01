@@ -1,0 +1,28 @@
+WRobot
+
+Mail..::..OpenAllAttachments Method 
+Open all attachments (of all mailbox messages, you need to open mailbox before). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void OpenAllAttachments(
+	int maxTimeMs
+)Public Shared Sub OpenAllAttachments ( _
+	maxTimeMs As Integer _
+)public:
+static void OpenAllAttachments(
+	int^ maxTimeMs
+)Parameters
+maxTimeMs
+Type: Int32
+The maximum time in milliseconds.
+See Also
+
+
+Mail Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

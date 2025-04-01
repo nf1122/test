@@ -1,0 +1,61 @@
+WRobot
+
+NpcDB..::..GetNpcNearby Method (NpcType, FactionType, ContinentId, Vector3, Boolean, NpcVendorItemClass)
+Get closest NPC by type. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Npc GetNpcNearby(
+	Npc..::..NpcType type,
+	Npc..::..FactionType faction,
+	ContinentId continentId,
+	Vector3 currentPosition,
+	bool forceFlying,
+	Npc..::..NpcVendorItemClass npcVendorItemClass
+)Public Shared Function GetNpcNearby ( _
+	type As Npc..::..NpcType, _
+	faction As Npc..::..FactionType, _
+	continentId As ContinentId, _
+	currentPosition As Vector3, _
+	forceFlying As Boolean, _
+	npcVendorItemClass As Npc..::..NpcVendorItemClass _
+) As Npcpublic:
+static Npc^ GetNpcNearby(
+	Npc..::..NpcType^ type, 
+	Npc..::..FactionType^ faction, 
+	ContinentId^ continentId, 
+	Vector3^ currentPosition, 
+	bool^ forceFlying, 
+	Npc..::..NpcVendorItemClass^ npcVendorItemClass
+)Parameters
+type
+Type: wManager.Wow.Class..::..Npc..::..NpcType
+The type.
+faction
+Type: wManager.Wow.Class..::..Npc..::..FactionType
+The faction.
+continentId
+Type: wManager.Wow.Enums..::..ContinentId
+The continent id.
+currentPosition
+Type: robotManager.Helpful..::..Vector3
+The current position.
+forceFlying
+Type: Boolean
+if set to true select only NPCs with CanFlyTo enabled.
+npcVendorItemClass
+Type: wManager.Wow.Class..::..Npc..::..NpcVendorItemClass
+The NPC vendor item class.
+Return Value
+Npc.
+See Also
+
+
+NpcDB Class
+GetNpcNearby Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

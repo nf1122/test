@@ -1,0 +1,42 @@
+WRobot
+
+WowLuaClass..::..TryInvokeMember Method 
+Tries the invoke member. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool TryInvokeMember(
+	InvokeMemberBinder binder,
+	Object[] args,
+	out Object result
+)Public Function TryInvokeMember ( _
+	binder As InvokeMemberBinder, _
+	args As Object(), _
+	<OutAttribute> ByRef result As Object _
+) As Booleanpublic:
+bool^ TryInvokeMember(
+	InvokeMemberBinder^ binder, 
+	array<Object^>^ args, 
+	[OutAttribute] Object^% result
+)Parameters
+binder
+Type: InvokeMemberBinder
+The binder.
+args
+Type: array<Object>[]()[][]
+The arguments.
+result
+Type: Object%
+The result.
+Return Value
+true if success, false otherwise.
+See Also
+
+
+Lua..::..WowLuaClass Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

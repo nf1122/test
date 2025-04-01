@@ -1,0 +1,40 @@
+WRobot
+
+MovementManager..::..AvoidWallRay Method 
+Try to avoid the wall and small obstacles TraceLine (you need to enabled option AvoidWallWithRays). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void AvoidWallRay(
+	Vector3 dest,
+	bool force,
+	bool jumpOnly
+)Public Shared Sub AvoidWallRay ( _
+	dest As Vector3, _
+	force As Boolean, _
+	jumpOnly As Boolean _
+)public:
+static void AvoidWallRay(
+	Vector3^ dest, 
+	bool^ force, 
+	bool^ jumpOnly
+)Parameters
+dest
+Type: robotManager.Helpful..::..Vector3
+The destination position.
+force
+Type: Boolean
+if set to true force test (ignore timer).
+jumpOnly
+Type: Boolean
+if set to true jump only if obstacle detected (by default bot can also strafe left/right).
+See Also
+
+
+MovementManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,40 @@
+WRobot
+
+NpcDB..::..AddNpc Method 
+Add NPC to ListNpc. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void AddNpc(
+	Npc npc,
+	bool save,
+	bool currentProfileNpc
+)Public Shared Sub AddNpc ( _
+	npc As Npc, _
+	save As Boolean, _
+	currentProfileNpc As Boolean _
+)public:
+static void AddNpc(
+	Npc^ npc, 
+	bool^ save, 
+	bool^ currentProfileNpc
+)Parameters
+npc
+Type: wManager.Wow.Class..::..Npc
+The NPC to.
+save
+Type: Boolean
+if set to true save to npcdb file for future bot usage.
+currentProfileNpc
+Type: Boolean
+if set to true it is profile NPC (used by option AcceptOnlyProfileNpc).
+See Also
+
+
+NpcDB Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

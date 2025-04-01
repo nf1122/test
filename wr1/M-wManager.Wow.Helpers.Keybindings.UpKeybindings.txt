@@ -1,0 +1,28 @@
+WRobot
+
+Keybindings..::..UpKeybindings Method 
+Up keyboard key by keybindings. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void UpKeybindings(
+	Keybindings action
+)Public Shared Sub UpKeybindings ( _
+	action As Keybindings _
+)public:
+static void UpKeybindings(
+	Keybindings^ action
+)Parameters
+action
+Type: wManager.Wow.Enums..::..Keybindings
+The action.
+See Also
+
+
+Keybindings Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

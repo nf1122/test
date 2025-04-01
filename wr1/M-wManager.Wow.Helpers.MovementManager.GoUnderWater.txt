@@ -1,0 +1,19 @@
+WRobot
+
+MovementManager..::..GoUnderWater Method 
+Go under water (used by sample when character is dead if corpse is under water). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void GoUnderWater()Public Shared Sub GoUnderWaterpublic:
+static void GoUnderWater()
+See Also
+
+
+MovementManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

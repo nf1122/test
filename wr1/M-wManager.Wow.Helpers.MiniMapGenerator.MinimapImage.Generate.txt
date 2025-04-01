@@ -1,0 +1,19 @@
+WRobot
+
+MinimapImage..::..Generate Method 
+Generates this instance. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public void Generate()Public Sub Generatepublic:
+void Generate()
+See Also
+
+
+MiniMapGenerator..::..MinimapImage Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

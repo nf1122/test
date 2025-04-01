@@ -1,0 +1,36 @@
+WRobot
+
+WowLuaClass..::..TryGetMember Method 
+Tries the get member. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool TryGetMember(
+	GetMemberBinder binder,
+	out Object result
+)Public Function TryGetMember ( _
+	binder As GetMemberBinder, _
+	<OutAttribute> ByRef result As Object _
+) As Booleanpublic:
+bool^ TryGetMember(
+	GetMemberBinder^ binder, 
+	[OutAttribute] Object^% result
+)Parameters
+binder
+Type: GetMemberBinder
+The binder.
+result
+Type: Object%
+The result.
+Return Value
+true if success, false otherwise.
+See Also
+
+
+Lua..::..WowLuaClass Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

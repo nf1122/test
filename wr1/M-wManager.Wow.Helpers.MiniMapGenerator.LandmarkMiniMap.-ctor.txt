@@ -1,0 +1,70 @@
+WRobot
+
+LandmarkMiniMap Constructor 
+Initializes a new instance of the MiniMapGenerator..::..LandmarkMiniMap class. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public LandmarkMiniMap(
+	Vector3 position,
+	string id,
+	Color color,
+	float size,
+	string connectWithId,
+	bool filled,
+	float opacity,
+	bool autoResizeIn3DRadar
+)Public Sub New ( _
+	position As Vector3, _
+	id As String, _
+	color As Color, _
+	size As Single, _
+	connectWithId As String, _
+	filled As Boolean, _
+	opacity As Single, _
+	autoResizeIn3DRadar As Boolean _
+)public:
+LandmarkMiniMap(
+	Vector3^ position, 
+	String^ id, 
+	Color^ color, 
+	float^ size, 
+	String^ connectWithId, 
+	bool^ filled, 
+	float^ opacity, 
+	bool^ autoResizeIn3DRadar
+)Parameters
+position
+Type: robotManager.Helpful..::..Vector3
+The position.
+id
+Type: String
+The ID (you can use same name several time).
+color
+Type: Color
+The color.
+size
+Type: Single
+The size.
+connectWithId
+Type: String
+Connect with Id (can be same name).
+filled
+Type: Boolean
+if set to true [filled].
+opacity
+Type: Single
+The opacity.
+autoResizeIn3DRadar
+Type: Boolean
+if set to true automatic resize in 3D radar.
+See Also
+
+
+MiniMapGenerator..::..LandmarkMiniMap Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

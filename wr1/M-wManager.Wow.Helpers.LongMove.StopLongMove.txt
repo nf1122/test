@@ -1,0 +1,19 @@
+WRobot
+
+LongMove..::..StopLongMove Method 
+Stop long move. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void StopLongMove()Public Shared Sub StopLongMovepublic:
+static void StopLongMove()
+See Also
+
+
+LongMove Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

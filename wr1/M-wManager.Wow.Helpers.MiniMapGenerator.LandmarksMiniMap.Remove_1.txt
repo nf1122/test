@@ -1,0 +1,29 @@
+WRobot
+
+LandmarksMiniMap..::..Remove Method (List<(Of <(<'String>)>)>)
+Removes specified Id. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public void Remove(
+	List<string> ids
+)Public Sub Remove ( _
+	ids As List(Of String) _
+)public:
+void Remove(
+	List<String^>^ ids
+)Parameters
+ids
+Type: List<(Of <(<'String>)>)>
+The ids.
+See Also
+
+
+MiniMapGenerator..::..LandmarksMiniMap Class
+Remove Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

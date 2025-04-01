@@ -1,0 +1,64 @@
+WRobot
+
+MinimapImage Constructor 
+Initializes a new instance of the MiniMapGenerator..::..MinimapImage class. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public MinimapImage(
+	string world,
+	int width,
+	int height,
+	int startX,
+	int endX,
+	int startY,
+	int endY
+)Public Sub New ( _
+	world As String, _
+	width As Integer, _
+	height As Integer, _
+	startX As Integer, _
+	endX As Integer, _
+	startY As Integer, _
+	endY As Integer _
+)public:
+MinimapImage(
+	String^ world, 
+	int^ width, 
+	int^ height, 
+	int^ startX, 
+	int^ endX, 
+	int^ startY, 
+	int^ endY
+)Parameters
+world
+Type: String
+The world.
+width
+Type: Int32
+The width.
+height
+Type: Int32
+The height.
+startX
+Type: Int32
+The start x.
+endX
+Type: Int32
+The end x.
+startY
+Type: Int32
+The start y.
+endY
+Type: Int32
+The end y.
+See Also
+
+
+MiniMapGenerator..::..MinimapImage Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

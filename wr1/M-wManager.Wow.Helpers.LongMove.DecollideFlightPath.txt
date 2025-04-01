@@ -1,0 +1,61 @@
+WRobot
+
+LongMove..::..DecollideFlightPath Method (Single, Single, Single, Single, Single, Single)
+Decollide the flight path (with TraceLine). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Vector3 DecollideFlightPath(
+	float x,
+	float y,
+	float z,
+	float targetHeight,
+	float minGroundDistance,
+	float maxGroundDistance
+)Public Shared Function DecollideFlightPath ( _
+	x As Single, _
+	y As Single, _
+	z As Single, _
+	targetHeight As Single, _
+	minGroundDistance As Single, _
+	maxGroundDistance As Single _
+) As Vector3public:
+static Vector3^ DecollideFlightPath(
+	float^ x, 
+	float^ y, 
+	float^ z, 
+	float^ targetHeight, 
+	float^ minGroundDistance, 
+	float^ maxGroundDistance
+)Parameters
+x
+Type: Single
+The x.
+y
+Type: Single
+The y.
+z
+Type: Single
+The z.
+targetHeight
+Type: Single
+Height of the target.
+minGroundDistance
+Type: Single
+The minimum ground distance.
+maxGroundDistance
+Type: Single
+The maximum ground distance.
+Return Value
+suggested position.
+See Also
+
+
+LongMove Class
+DecollideFlightPath Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

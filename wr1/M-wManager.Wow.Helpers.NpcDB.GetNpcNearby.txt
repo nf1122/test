@@ -1,0 +1,31 @@
+WRobot
+
+NpcDB..::..GetNpcNearby Method (NpcType)
+Get closest NPC by type. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Npc GetNpcNearby(
+	Npc..::..NpcType type
+)Public Shared Function GetNpcNearby ( _
+	type As Npc..::..NpcType _
+) As Npcpublic:
+static Npc^ GetNpcNearby(
+	Npc..::..NpcType^ type
+)Parameters
+type
+Type: wManager.Wow.Class..::..Npc..::..NpcType
+The Npc type.
+Return Value
+Npc.
+See Also
+
+
+NpcDB Class
+GetNpcNearby Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

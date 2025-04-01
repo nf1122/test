@@ -1,0 +1,37 @@
+WRobot
+
+Lua..::..LuaDoString Method (array<String>[]()[][], String)
+Execute lua code and get result. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string LuaDoString(
+	string[] command,
+	string returnVariableName
+)Public Shared Function LuaDoString ( _
+	command As String(), _
+	returnVariableName As String _
+) As Stringpublic:
+static String^ LuaDoString(
+	array<String^>^ command, 
+	String^ returnVariableName
+)Parameters
+command
+Type: array<String>[]()[][]
+The lua code.
+returnVariableName
+Type: String
+Name of variable where is save the result.
+Return Value
+result
+See Also
+
+
+Lua Class
+LuaDoString Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

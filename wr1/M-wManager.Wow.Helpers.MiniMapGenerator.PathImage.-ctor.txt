@@ -1,0 +1,46 @@
+WRobot
+
+PathImage Constructor 
+Initializes a new instance of the MiniMapGenerator..::..PathImage class. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public PathImage(
+	string world,
+	Vector3 center,
+	MiniMapGenerator..::..LandmarksMiniMap landmarks,
+	float zoom
+)Public Sub New ( _
+	world As String, _
+	center As Vector3, _
+	landmarks As MiniMapGenerator..::..LandmarksMiniMap, _
+	zoom As Single _
+)public:
+PathImage(
+	String^ world, 
+	Vector3^ center, 
+	MiniMapGenerator..::..LandmarksMiniMap^ landmarks, 
+	float^ zoom
+)Parameters
+world
+Type: String
+The world.
+center
+Type: robotManager.Helpful..::..Vector3
+The center.
+landmarks
+Type: wManager.Wow.Helpers..::..MiniMapGenerator..::..LandmarksMiniMap
+The landmarks.
+zoom
+Type: Single
+The zoom.
+See Also
+
+
+MiniMapGenerator..::..PathImage Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

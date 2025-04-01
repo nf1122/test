@@ -1,0 +1,20 @@
+WRobot
+
+LandmarksMiniMap..::..Clone Method 
+Creates a new object that is a copy of the current instance. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Object Clone()Public Function Clone As Objectpublic:
+Object^ Clone()Return Value
+A new object that is a copy of this instance.
+See Also
+
+
+MiniMapGenerator..::..LandmarksMiniMap Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,36 @@
+WRobot
+
+ItemsManager..::..IsEquippableItem Method 
+Determines whether is equippable item. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsEquippableItem(
+	int itemId,
+	bool ignoreCache
+)Public Shared Function IsEquippableItem ( _
+	itemId As Integer, _
+	ignoreCache As Boolean _
+) As Booleanpublic:
+static bool^ IsEquippableItem(
+	int^ itemId, 
+	bool^ ignoreCache
+)Parameters
+itemId
+Type: Int32
+The item id.
+ignoreCache
+Type: Boolean
+if set to true ignore cache.
+Return Value
+true if is equippable item; otherwise, false.
+See Also
+
+
+ItemsManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

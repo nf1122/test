@@ -1,0 +1,28 @@
+WRobot
+
+Lua..::..RunMacroTextHW Method 
+Create lua macro in game and run it (by pressing a keyboard key). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void RunMacroTextHW(
+	string macroRequiredHardware
+)Public Shared Sub RunMacroTextHW ( _
+	macroRequiredHardware As String _
+)public:
+static void RunMacroTextHW(
+	String^ macroRequiredHardware
+)Parameters
+macroRequiredHardware
+Type: String
+Lua macro code (code like "/run print('Hello')").
+See Also
+
+
+Lua Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

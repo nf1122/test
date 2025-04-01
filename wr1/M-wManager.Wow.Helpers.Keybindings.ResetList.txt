@@ -1,0 +1,19 @@
+WRobot
+
+Keybindings..::..ResetList Method 
+Reset cache list. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void ResetList()Public Shared Sub ResetListpublic:
+static void ResetList()
+See Also
+
+
+Keybindings Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

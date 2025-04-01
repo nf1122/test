@@ -1,0 +1,29 @@
+WRobot
+
+LongMove..::..LongMoveGo Method (Vector3)
+Pulse Long move (flying to specific destination when there are obstacles). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void LongMoveGo(
+	Vector3 vector3
+)Public Shared Sub LongMoveGo ( _
+	vector3 As Vector3 _
+)public:
+static void LongMoveGo(
+	Vector3^ vector3
+)Parameters
+vector3
+Type: robotManager.Helpful..::..Vector3
+The destination.
+See Also
+
+
+LongMove Class
+LongMoveGo Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,34 @@
+WRobot
+
+Keybindings..::..PressKeybindings Method 
+Press keyboard key by keybindings (call DownKeybindings(Keybindings) and UpKeybindings(Keybindings)). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void PressKeybindings(
+	Keybindings action,
+	int timeMs
+)Public Shared Sub PressKeybindings ( _
+	action As Keybindings, _
+	timeMs As Integer _
+)public:
+static void PressKeybindings(
+	Keybindings^ action, 
+	int^ timeMs
+)Parameters
+action
+Type: wManager.Wow.Enums..::..Keybindings
+The action.
+timeMs
+Type: Int32
+The time millisecond.
+See Also
+
+
+Keybindings Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

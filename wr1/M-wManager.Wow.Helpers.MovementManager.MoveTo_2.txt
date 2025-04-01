@@ -1,0 +1,29 @@
+WRobot
+
+MovementManager..::..MoveTo Method (WoWUnit)
+Moves to unit. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void MoveTo(
+	WoWUnit obj
+)Public Shared Sub MoveTo ( _
+	obj As WoWUnit _
+)public:
+static void MoveTo(
+	WoWUnit^ obj
+)Parameters
+obj
+Type: wManager.Wow.ObjectManager..::..WoWUnit
+The Unit.
+See Also
+
+
+MovementManager Class
+MoveTo Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

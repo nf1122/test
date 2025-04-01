@@ -1,0 +1,28 @@
+WRobot
+
+LongMove..::..LongMoveByNewThread Method 
+Pulse Long move in new thread (flying to specific destination when there are obstacles). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void LongMoveByNewThread(
+	Vector3 vector3
+)Public Shared Sub LongMoveByNewThread ( _
+	vector3 As Vector3 _
+)public:
+static void LongMoveByNewThread(
+	Vector3^ vector3
+)Parameters
+vector3
+Type: robotManager.Helpful..::..Vector3
+destination.
+See Also
+
+
+LongMove Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

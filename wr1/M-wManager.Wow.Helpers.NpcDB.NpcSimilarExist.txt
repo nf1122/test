@@ -1,0 +1,48 @@
+WRobot
+
+NpcDB..::..NpcSimilarExist Method 
+Similar NPC exist. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool NpcSimilarExist(
+	ContinentId continentId,
+	int entryId,
+	Vector3 position,
+	Npc..::..FactionType faction
+)Public Shared Function NpcSimilarExist ( _
+	continentId As ContinentId, _
+	entryId As Integer, _
+	position As Vector3, _
+	faction As Npc..::..FactionType _
+) As Booleanpublic:
+static bool^ NpcSimilarExist(
+	ContinentId^ continentId, 
+	int^ entryId, 
+	Vector3^ position, 
+	Npc..::..FactionType^ faction
+)Parameters
+continentId
+Type: wManager.Wow.Enums..::..ContinentId
+The continent id.
+entryId
+Type: Int32
+The npc entry id.
+position
+Type: robotManager.Helpful..::..Vector3
+The position.
+faction
+Type: wManager.Wow.Class..::..Npc..::..FactionType
+The faction.
+Return Value
+true if already exist in DB, false otherwise.
+See Also
+
+
+NpcDB Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

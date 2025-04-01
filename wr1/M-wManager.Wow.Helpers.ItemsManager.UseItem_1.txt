@@ -1,0 +1,29 @@
+WRobot
+
+ItemsManager..::..UseItem Method (UInt32)
+Use the item. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void UseItem(
+	uint itemId
+)Public Shared Sub UseItem ( _
+	itemId As UInteger _
+)public:
+static void UseItem(
+	unsigned int^ itemId
+)Parameters
+itemId
+Type: UInt32
+The item id.
+See Also
+
+
+ItemsManager Class
+UseItem Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

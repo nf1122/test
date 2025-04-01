@@ -1,0 +1,20 @@
+WRobot
+
+Keybindings..::..GetAFreeKey Method 
+Get a free key (not associated to a shortcut). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string GetAFreeKey()Public Shared Function GetAFreeKey As Stringpublic:
+static String^ GetAFreeKey()Return Value
+the key.
+See Also
+
+
+Keybindings Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

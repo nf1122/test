@@ -1,0 +1,36 @@
+WRobot
+
+MovementManager..::..AngleToFacing Method 
+Angle to facing position B. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static float AngleToFacing(
+	Vector3 vector3A,
+	Vector3 vector3B
+)Public Shared Function AngleToFacing ( _
+	vector3A As Vector3, _
+	vector3B As Vector3 _
+) As Singlepublic:
+static float^ AngleToFacing(
+	Vector3^ vector3A, 
+	Vector3^ vector3B
+)Parameters
+vector3A
+Type: robotManager.Helpful..::..Vector3
+The position A.
+vector3B
+Type: robotManager.Helpful..::..Vector3
+The position B.
+Return Value
+System.Single.
+See Also
+
+
+MovementManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

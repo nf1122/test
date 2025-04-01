@@ -1,0 +1,35 @@
+WRobot
+
+ItemsManager..::..UseItem Method (UInt32, Vector3)
+Use the item and mouse click at position. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void UseItem(
+	uint itemId,
+	Vector3 vector3
+)Public Shared Sub UseItem ( _
+	itemId As UInteger, _
+	vector3 As Vector3 _
+)public:
+static void UseItem(
+	unsigned int^ itemId, 
+	Vector3^ vector3
+)Parameters
+itemId
+Type: UInt32
+The item id.
+vector3
+Type: robotManager.Helpful..::..Vector3
+The position where to click.
+See Also
+
+
+ItemsManager Class
+UseItem Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

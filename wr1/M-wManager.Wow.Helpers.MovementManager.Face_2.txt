@@ -1,0 +1,29 @@
+WRobot
+
+MovementManager..::..Face Method (WoWGameObject)
+Face the specified GameObject. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Face(
+	WoWGameObject obj
+)Public Shared Sub Face ( _
+	obj As WoWGameObject _
+)public:
+static void Face(
+	WoWGameObject^ obj
+)Parameters
+obj
+Type: wManager.Wow.ObjectManager..::..WoWGameObject
+The GameObject.
+See Also
+
+
+MovementManager Class
+Face Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

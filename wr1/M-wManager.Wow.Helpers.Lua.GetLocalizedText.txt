@@ -1,0 +1,36 @@
+WRobot
+
+Lua..::..GetLocalizedText Method 
+Get value of specified lua variable 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string GetLocalizedText(
+	string commandline,
+	bool deletedVariable
+)Public Shared Function GetLocalizedText ( _
+	commandline As String, _
+	deletedVariable As Boolean _
+) As Stringpublic:
+static String^ GetLocalizedText(
+	String^ commandline, 
+	bool^ deletedVariable
+)Parameters
+commandline
+Type: String
+The variable name.
+deletedVariable
+Type: Boolean
+if set to true empty variable value after reading the value.
+Return Value
+variable value.
+See Also
+
+
+Lua Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

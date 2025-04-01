@@ -1,0 +1,60 @@
+WRobot
+
+Lua..::..LuaDoString<(Of <(<'T>)>)> Method (String, String)
+Execute lua code and get result.
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static T LuaDoString<T>(
+	string command,
+	string returnVariableName
+)
+Public Shared Function LuaDoString(Of T) ( _
+	command As String, _
+	returnVariableName As String _
+) As Tpublic:
+generic<typename T>
+static T LuaDoString(
+	String^ command, 
+	String^ returnVariableName
+)Type Parameters
+T
+Parameters
+command
+Type: String
+The lua code.
+returnVariableName
+Type: String
+Name of variable where is save the result (if empty, return result).
+Return Value
+result
+Examples
+
+
+
+
+C#
+// Example get level:
+   int level1 = Lua.LuaDoString<int>("return UnitLevel('player')");
+   // or
+   int level2 = Lua.LuaDoString<int>("resultLevel = UnitLevel('player')", "resultLevel");
+
+   // Example return list:
+   List<int> array1 = Lua.LuaDoString<List<int>>(@"
+   local r = {}
+   table.insert(r, 1);
+   table.insert(r, 2);
+   table.insert(r, 3);
+   return unpack(r);");
+   // or
+   List<string> array2 = Lua.LuaDoString<List<string>>(@"return 'A' .. '#LUASEPARATOR#' .. 'B' .. '#LUASEPARATOR#' .. 'C' .. '#LUASEPARATOR#'".Replace("#LUASEPARATOR#", Lua.ListSeparator));See Also
+
+
+Lua Class
+LuaDoString Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

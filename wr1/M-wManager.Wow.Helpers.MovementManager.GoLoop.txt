@@ -1,0 +1,40 @@
+WRobot
+
+MovementManager..::..GoLoop Method 
+Follow path in loop. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void GoLoop(
+	List<Vector3> points,
+	bool unused,
+	int forceStartPointId
+)Public Shared Sub GoLoop ( _
+	points As List(Of Vector3), _
+	unused As Boolean, _
+	forceStartPointId As Integer _
+)public:
+static void GoLoop(
+	List<Vector3^>^ points, 
+	bool^ unused, 
+	int^ forceStartPointId
+)Parameters
+points
+Type: List<(Of <(<'Vector3>)>)>
+The points.
+unused
+Type: Boolean
+if set to true [unused].
+forceStartPointId
+Type: Int32
+The force start point identifier.
+See Also
+
+
+MovementManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

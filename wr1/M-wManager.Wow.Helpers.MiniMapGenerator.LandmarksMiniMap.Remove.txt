@@ -1,0 +1,29 @@
+WRobot
+
+LandmarksMiniMap..::..Remove Method (String)
+Removes the specified Id. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public void Remove(
+	string id
+)Public Sub Remove ( _
+	id As String _
+)public:
+void Remove(
+	String^ id
+)Parameters
+id
+Type: String
+The ID.
+See Also
+
+
+MiniMapGenerator..::..LandmarksMiniMap Class
+Remove Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

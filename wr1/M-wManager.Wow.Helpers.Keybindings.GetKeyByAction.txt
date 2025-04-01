@@ -1,0 +1,36 @@
+WRobot
+
+Keybindings..::..GetKeyByAction Method 
+Get the key by action. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string GetKeyByAction(
+	Keybindings action,
+	bool autoAssignKeyIfNull
+)Public Shared Function GetKeyByAction ( _
+	action As Keybindings, _
+	autoAssignKeyIfNull As Boolean _
+) As Stringpublic:
+static String^ GetKeyByAction(
+	Keybindings^ action, 
+	bool^ autoAssignKeyIfNull
+)Parameters
+action
+Type: wManager.Wow.Enums..::..Keybindings
+The action.
+autoAssignKeyIfNull
+Type: Boolean
+if set to true automatic assign key if not assigned.
+Return Value
+the key.
+See Also
+
+
+Keybindings Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

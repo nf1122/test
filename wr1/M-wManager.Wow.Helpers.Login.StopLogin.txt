@@ -1,0 +1,19 @@
+WRobot
+
+Login..::..StopLogin Method 
+Stop login. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void StopLogin()Public Shared Sub StopLoginpublic:
+static void StopLogin()
+See Also
+
+
+Login Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

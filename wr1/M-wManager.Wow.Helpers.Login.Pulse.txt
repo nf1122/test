@@ -1,0 +1,28 @@
+WRobot
+
+Login..::..Pulse Method 
+Start login. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool Pulse(
+	Login..::..SettingsLogin settings
+)Public Shared Function Pulse ( _
+	settings As Login..::..SettingsLogin _
+) As Booleanpublic:
+static bool^ Pulse(
+	Login..::..SettingsLogin^ settings
+)Parameters
+settings
+Type: wManager.Wow.Helpers..::..Login..::..SettingsLogin
+The login settings.
+See Also
+
+
+Login Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

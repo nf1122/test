@@ -1,0 +1,28 @@
+WRobot
+
+Keybindings..::..PressSlotKey Method 
+Press Slot key (game action by). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void PressSlotKey(
+	int key
+)Public Shared Sub PressSlotKey ( _
+	key As Integer _
+)public:
+static void PressSlotKey(
+	int^ key
+)Parameters
+key
+Type: Int32
+The key.
+See Also
+
+
+Keybindings Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

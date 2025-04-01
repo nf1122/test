@@ -1,0 +1,29 @@
+WRobot
+
+LandmarksMiniMap..::..Add Method (LandmarkMiniMap)
+Adds the specified landmark. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public void Add(
+	MiniMapGenerator..::..LandmarkMiniMap landmark
+)Public Sub Add ( _
+	landmark As MiniMapGenerator..::..LandmarkMiniMap _
+)public:
+void Add(
+	MiniMapGenerator..::..LandmarkMiniMap^ landmark
+)Parameters
+landmark
+Type: wManager.Wow.Helpers..::..MiniMapGenerator..::..LandmarkMiniMap
+The landmark.
+See Also
+
+
+MiniMapGenerator..::..LandmarksMiniMap Class
+Add Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

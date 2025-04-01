@@ -1,0 +1,30 @@
+WRobot
+
+Milling..::..NeedRun Method 
+Needs the run. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool NeedRun(
+	List<string> items
+)Public Shared Function NeedRun ( _
+	items As List(Of String) _
+) As Booleanpublic:
+static bool^ NeedRun(
+	List<String^>^ items
+)Parameters
+items
+Type: List<(Of <(<'String>)>)>
+The items.
+Return Value
+true if need to run, false otherwise.
+See Also
+
+
+Milling Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

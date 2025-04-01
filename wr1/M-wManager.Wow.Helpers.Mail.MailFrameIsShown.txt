@@ -1,0 +1,20 @@
+WRobot
+
+Mail..::..MailFrameIsShown Method 
+Mail frame is shown. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool MailFrameIsShown()Public Shared Function MailFrameIsShown As Booleanpublic:
+static bool^ MailFrameIsShown()Return Value
+true if XXXX, false otherwise.
+See Also
+
+
+Mail Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,43 @@
+WRobot
+
+Lua..::..LuaDoString Method (String, Type, String)
+Execute lua code and get result (you can found example in [LuaDoString{T}(string,string)]). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Object LuaDoString(
+	string command,
+	Type returnType,
+	string returnVariableName
+)Public Shared Function LuaDoString ( _
+	command As String, _
+	returnType As Type, _
+	returnVariableName As String _
+) As Objectpublic:
+static Object^ LuaDoString(
+	String^ command, 
+	Type^ returnType, 
+	String^ returnVariableName
+)Parameters
+command
+Type: String
+The lua code.
+returnType
+Type: Type
+Type of the return.
+returnVariableName
+Type: String
+Name of variable where is save the result (if empty, return result).
+Return Value
+result
+See Also
+
+
+Lua Class
+LuaDoString Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

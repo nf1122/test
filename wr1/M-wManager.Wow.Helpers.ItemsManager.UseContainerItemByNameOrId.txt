@@ -1,0 +1,28 @@
+WRobot
+
+ItemsManager..::..UseContainerItemByNameOrId Method 
+Use the container item by name like is appear in game or by item id. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void UseContainerItemByNameOrId(
+	string itemNameOrId
+)Public Shared Sub UseContainerItemByNameOrId ( _
+	itemNameOrId As String _
+)public:
+static void UseContainerItemByNameOrId(
+	String^ itemNameOrId
+)Parameters
+itemNameOrId
+Type: String
+The item name like is appear in game or item id.
+See Also
+
+
+ItemsManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

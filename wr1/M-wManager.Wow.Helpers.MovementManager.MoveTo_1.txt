@@ -1,0 +1,41 @@
+WRobot
+
+MovementManager..::..MoveTo Method (Single, Single, Single)
+Move to Position. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void MoveTo(
+	float x,
+	float y,
+	float z
+)Public Shared Sub MoveTo ( _
+	x As Single, _
+	y As Single, _
+	z As Single _
+)public:
+static void MoveTo(
+	float^ x, 
+	float^ y, 
+	float^ z
+)Parameters
+x
+Type: Single
+X.
+y
+Type: Single
+Y.
+z
+Type: Single
+Z.
+See Also
+
+
+MovementManager Class
+MoveTo Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

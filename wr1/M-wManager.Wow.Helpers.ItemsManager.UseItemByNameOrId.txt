@@ -1,0 +1,28 @@
+WRobot
+
+ItemsManager..::..UseItemByNameOrId Method 
+Use the item by name or id. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void UseItemByNameOrId(
+	string itemNameOrId
+)Public Shared Sub UseItemByNameOrId ( _
+	itemNameOrId As String _
+)public:
+static void UseItemByNameOrId(
+	String^ itemNameOrId
+)Parameters
+itemNameOrId
+Type: String
+The item name like is appear in game or item id.
+See Also
+
+
+ItemsManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

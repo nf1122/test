@@ -1,0 +1,28 @@
+WRobot
+
+Milling..::..Pulse Method 
+Pulses the specified items. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Pulse(
+	List<string> items
+)Public Shared Sub Pulse ( _
+	items As List(Of String) _
+)public:
+static void Pulse(
+	List<String^>^ items
+)Parameters
+items
+Type: List<(Of <(<'String>)>)>
+The items.
+See Also
+
+
+Milling Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,35 @@
+WRobot
+
+MovementManager..::..StopMoveTo Method (Boolean, Int32)
+Stop MoveTo(Vector3). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void StopMoveTo(
+	bool upKey,
+	int nextMoveToWaitTime
+)Public Shared Sub StopMoveTo ( _
+	upKey As Boolean, _
+	nextMoveToWaitTime As Integer _
+)public:
+static void StopMoveTo(
+	bool^ upKey, 
+	int^ nextMoveToWaitTime
+)Parameters
+upKey
+Type: Boolean
+if set to true up keyboard keys used to move.
+nextMoveToWaitTime
+Type: Int32
+Disable MoveTo(Vector3) during X milliseconds.
+See Also
+
+
+MovementManager Class
+StopMoveTo Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+MovementManager..::..StopMoveNewThread Method 
+Call StopMove()()()() in new thread. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void StopMoveNewThread()Public Shared Sub StopMoveNewThreadpublic:
+static void StopMoveNewThread()
+See Also
+
+
+MovementManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

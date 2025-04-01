@@ -1,0 +1,34 @@
+WRobot
+
+MovementManager..::..Go Method 
+Follow path. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Go(
+	List<Vector3> points,
+	bool unused
+)Public Shared Sub Go ( _
+	points As List(Of Vector3), _
+	unused As Boolean _
+)public:
+static void Go(
+	List<Vector3^>^ points, 
+	bool^ unused
+)Parameters
+points
+Type: List<(Of <(<'Vector3>)>)>
+The _points.
+unused
+Type: Boolean
+unused (avoid to break support).
+See Also
+
+
+MovementManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 
