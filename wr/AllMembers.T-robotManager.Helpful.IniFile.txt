@@ -1,0 +1,30 @@
+WRobot
+
+IniFile Members
+The IniFile type exposes the following members.
+Constructors
+
+
+  NameDescription
+ IniFile INIFile Constructor. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ IniReadValue Read Data Value From the Ini File 
+ IniWriteValue Write Data to the INI File 
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+See Also
+
+
+IniFile Class 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

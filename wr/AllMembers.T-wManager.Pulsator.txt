@@ -1,0 +1,32 @@
+WRobot
+
+Pulsator Members
+The Pulsator type exposes the following members.
+Methods
+
+
+  NameDescription
+  Dispose Detach Wow process 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+  Pulse Attach to game process 
+  Reset Dispose and Pulse again. 
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+  IsActive Get a value indicating Wow process is active, attached and hooked 
+  K 
+
+See Also
+
+
+Pulsator Class 
+wManager Namespace 
+Help File generated with GhostDoc
+ 

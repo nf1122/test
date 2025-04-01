@@ -1,0 +1,57 @@
+WRobot
+
+Farming Members
+The Farming type exposes the following members.
+Methods
+
+
+  NameDescription
+ Compare Compares two objects and returns a value indicating whether one is less than, equal to, or greater than the other. 
+(Inherited from State.)
+ CompareTo Compares the current instance with another object of the same type and returns an integer that indicates whether the current instance precedes, follows, or occurs in the same position in the sort order as the other object. 
+(Inherited from State.)
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+  PlayerNearest Cancel farm if another player is within HarvestAvoidPlayersRadius yards (need also option IgnoreIfInBlackListZone to be called by Farming). 
+ Run Runs this instance. 
+ ToString (Inherited from Object.)
+
+Fields
+
+
+  NameDescription
+ AutoMountIfSuccess Put "true" to mount after all farm. 
+ ByGatherEntryOnly Put "true" to harvests only objects of the lists GatherEntry and GatherNames (ignore herbs, mines, ...). 
+ ForceSkipInOutDoors Put "true" to force to activate option SkipInOutDoors. 
+ GatherEntry List of Entry to harvest. 
+ GatherNames List of Name to harvest (like is appear in game). 
+ IgnoreBlackListed Put "true" to skip blacklisted nodes. 
+ IgnoreIfInBlackListZone Put "true" to skip nodes in zone blacklisted (HarvestAvoidPlayersRadius). 
+ IgnoreIfPlayerNear Put "true" to skip node if any player near. 
+ InRangeOnly Loot only in range (if don't need to move) LootAndHarvestRangeQuickly. 
+ RandomizeNodePositionFly Fly only, randomize landing position, use small distance, no more than 2.5, this option can add bugs or fails some farming 
+
+Properties
+
+
+  NameDescription
+ BeforeStates Launch these states before Run()()()() this state (NeedToRun must be true), empty if not used. 
+(Inherited from State.)
+ DisplayName Gets the display name. 
+ NeedToRun Indicate if Engine need to call method Run()()()(). 
+ NextStates Launch these states after Run()()()() this state, empty if not used. 
+(Inherited from State.)
+ NodeTarget Gets target node. 
+ Priority Gets the priority (determine the order of execution by Engine). 
+(Inherited from State.)
+
+See Also
+
+
+Farming Class 
+wManager.Wow.Bot.States Namespace 
+Help File generated with GhostDoc
+ 

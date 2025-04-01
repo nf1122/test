@@ -1,0 +1,46 @@
+WRobot
+
+Engine Members
+The Engine type exposes the following members.
+Constructors
+
+
+  NameDescription
+ Engine Initializes a new instance of the Engine class. 
+
+Methods
+
+
+  NameDescription
+ AddState Add state. 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ Pulse Pulses states list one time 
+ RemoveStateByName Remove state by name. 
+ StartEngine Starts the engine Pulse()()()() states list in loop in new thread. 
+ StopEngine Stops the engine (and abort thread). 
+ ToString (Inherited from Object.)
+
+Fields
+
+
+  NameDescription
+  LaunchedStateTypeName The launched states names list 
+
+Properties
+
+
+  NameDescription
+ Running Gets a value indicating whether this Engine is running. 
+ States Gets the states list (to add state it is better to use AddState(State)). 
+
+See Also
+
+
+Engine Class 
+robotManager.FiniteStateMachine Namespace 
+Help File generated with GhostDoc
+ 

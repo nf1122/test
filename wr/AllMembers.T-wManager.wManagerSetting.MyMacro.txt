@@ -1,0 +1,36 @@
+WRobot
+
+wManagerSetting..::..MyMacro Members
+The wManagerSetting..::..MyMacro type exposes the following members.
+Methods
+
+
+  NameDescription
+ Conditions Return true if all conditions is ok (time since last Use()()()(), mount, ...) 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+ Use Press key (and stopmove if option enabled), this reset timer (call this method when Conditions is true). 
+
+Properties
+
+
+  NameDescription
+ Actif Indicates whether or not this macro is used 
+ Key Key to press (like "k" to press keyboard key K) 
+ LaunchIfNoCast Press key only if character not casting spell. 
+ LaunchIfNoInCombat Press key only if character is not in combat. 
+ LaunchIfNoInMount Press key only if character not in mount. 
+ StopMoveWhenLaunch Stop move for press key. 
+ Time Press the key every X seconds. 
+
+See Also
+
+
+wManagerSetting..::..MyMacro Class 
+wManager Namespace 
+Help File generated with GhostDoc
+ 

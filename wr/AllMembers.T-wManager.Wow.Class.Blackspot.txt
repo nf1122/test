@@ -1,0 +1,41 @@
+WRobot
+
+Blackspot Members
+The Blackspot type exposes the following members.
+Constructors
+
+
+  NameDescription
+ Blackspot Initializes a new instance of the Blackspot class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToBlackspot Converts to blackspot. 
+ ToString Returns a String that represents this instance. 
+
+Properties
+
+
+  NameDescription
+ Comment Gets or sets comment. 
+ Continent Gets or sets the continent id. 
+ Radius The height. 
+ TypeArea Gets or sets the type area (used by PathFinder). 
+ X Gets or sets the x. 
+ Y Gets or sets the y. 
+ Z Gets or sets the z. 
+
+See Also
+
+
+Blackspot Class 
+wManager.Wow.Class Namespace 
+Help File generated with GhostDoc
+ 

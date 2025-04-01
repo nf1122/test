@@ -1,0 +1,68 @@
+WRobot
+
+wManagerGlobalSetting Members
+The wManagerGlobalSetting type exposes the following members.
+Methods
+
+
+  NameDescription
+ ConfigWinForm (Inherited from Settings.)
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+  Load Loads instance from FilePath. 
+ MemberwiseClone (Inherited from Object.)
+ Save()()()() Saves instance to FilePath.. 
+ Save(String) Save to xml file 
+(Inherited from Settings.)
+ ToForm Converts to form. 
+(Inherited from Settings.)
+ ToString (Inherited from Object.)
+ ToStringFormat Converts to stringformat. 
+(Inherited from Settings.)
+
+Fields
+
+
+  NameDescription
+ BlacklistShow Show blacklists (in map 2D and 3D tab "Map") 
+ ByName Show NPC/object by name (in map 2D and 3D tab "Map") 
+ CloseGameIfAdminRights Close the game if it has Administrator rights (Windows) 
+ CloseIfCannotLoginWowMinutes Close bot if cannot login ingame after X minutes (this option is only used if you are using the relloger application) 
+ DriveLetter Security option used in few bot versions to create fake drive that link to WRobotFileName folder. 
+ FullWowPath The path to Wow 
+ HideLuaError Hide in-game lua error 
+ LowFps Low FPS (in map 2D and 3D tab "Map") 
+ LowQuality Low quality (in map 2D and 3D tab "Map") 
+ MaxFPS Most versions require a minimum of FPS in-game to work properly. This option increase the "Maximum FPS" option in game if it is lower than the value of this option (https://wowwiki.fandom.com/wiki/CVar_maxFPS and https://wowwiki.fandom.com/wiki/CVar_maxFPSBk) 
+ MaxLuaMemoryUsage The maximum amount of memory in use by Lua (in kilobytes). If the value is greater than this option the bot uses the lua reload function. 
+ MeShow Show my character (in map 2D and 3D tab "Map") 
+ NpcShow Show NPCs (in map 2D and 3D tab "Map") 
+ ObjectsShow Show objects (in map 2D and 3D tab "Map") 
+ PathShow Show path (in map 2D and 3D tab "Map") 
+ PlayersShow Show other players (in map 2D and 3D tab "Map") 
+ Remote Activate remote option (to access to the bot from the website) (option found tab "Main") 
+ TargetShow Show target (in map 2D and 3D tab "Map") 
+ TopMost Bot window away in top most (option found tab "Tools") 
+ ToTrayBar Minimize to tray bar (option found tab "Tools") 
+ UseShortcuts Use shortcuts, activate shortcuts to start/stop/pause bot (you need to restart bot to activate/disable this feature) (option found tab "Tools") 
+ WaitTimeToRelogSeconds Time to wait (second) before reconnecting after disconnection. 
+ WindowName Bot window name (empty to use default window name) (option found tab "Tools") 
+ WRobotFileName Security option used in few bot versions to assign name of generated executable bot launcher. The name is automatically generated but can be changed. 
+ WRobotTmpFolderName Security option used in few bot versions to assign folder where to save WRobotFileName. The name is automatically generated but can be changed. 
+
+Properties
+
+
+  NameDescription
+  CurrentSetting Gets or sets the current global setting. 
+  FilePath Gets the file path. 
+
+See Also
+
+
+wManagerGlobalSetting Class 
+wManager Namespace 
+Help File generated with GhostDoc
+ 

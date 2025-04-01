@@ -1,0 +1,45 @@
+WRobot
+
+Extensions Members
+The Extensions type exposes the following members.
+Methods
+
+
+  NameDescription
+  GetMainThread Gets the main thread of external process. 
+  IsNotZero Determines if the value is not zero. 
+  IsScrolledToEnd Determines whether wpf TextBoxBase is scrolled to bottom. 
+  IsScrolledToTop Determines whether is scrolled to top. 
+  IsZero Determines if the value is zero. 
+  Replace(array<Byte>[]()[][], array<Byte>[]()[][], array<Byte>[]()[][]) Replaces the specified bytes by others. 
+  Replace(array<Byte>[]()[][], UInt64, UInt64) Replaces the specified bytes by others. 
+  Replace(array<Byte>[]()[][], Int64, Int64) Replaces the specified bytes by others. 
+  Replace(array<Byte>[]()[][], Int32, Int32) Replaces the specified bytes by others. 
+  Replace(array<Byte>[]()[][], UInt32, UInt32) Replaces the specified bytes by others. 
+  Replace(array<Byte>[]()[][], Int16, Int16) Replaces the specified bytes by others. 
+  Replace(array<Byte>[]()[][], UInt16, UInt16) Replaces the specified bytes by others. 
+  Replace(array<Byte>[]()[][], Single, Single) Replaces the specified bytes by others. 
+  Replace(array<Byte>[]()[][], Double, Double) Replaces the specified bytes by others. 
+  Replace(array<Byte>[]()[][], Byte, Byte) Replaces the specified bytes by others. 
+  ResumeAllThreads Resumes all threads of external process. 
+  ResumeThread Resumes a thread. 
+  Serialize<(Of <<'(T>)>>) Serializes the specified class (to Xml). 
+  Shuffle(String) Shuffles the specified string. 
+  Shuffle<(Of <<'(T>)>>)(IList<(Of <<'(T>)>>)) Shuffles the specified list. 
+  SuspendAllThreads Suspends all threads of external process. 
+  SuspendMainThread Suspends the main thread of external process. 
+  SuspendThread Suspends the thread. 
+  TerminateAllThreads Terminates all threads of external process. 
+  ToReadableAgeString Converts to readable age (in years) string. 
+  ToReadableString Converts to readable string result like "1 day, 10 hours, 30 minutes, 42 seconds". 
+  ToStringArray Converts to string array (by line). 
+  Translate(ContentControl) Translates the specified ContentControl (translate with Translate). 
+  Translate(TextBlock) Translates the specified TextBlock (translate with Translate). 
+
+See Also
+
+
+Extensions Class 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

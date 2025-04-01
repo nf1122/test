@@ -1,0 +1,18 @@
+WRobot
+
+BinarySerializer Members
+The BinarySerializer type exposes the following members.
+Methods
+
+
+  NameDescription
+  Deserialize<(Of <<'(T>)>>) Deserializes the Binary to Class. 
+  Serialize Serializes the specified Class to binary file. 
+
+See Also
+
+
+BinarySerializer Class 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

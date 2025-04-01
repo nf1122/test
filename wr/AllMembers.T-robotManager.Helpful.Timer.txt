@@ -1,0 +1,43 @@
+WRobot
+
+Timer Members
+The Timer type exposes the following members.
+Constructors
+
+
+  NameDescription
+ Timer()()()() Initializes a new instance of the StopWatch class. 
+ Timer(Double) Initializes a new instance of the Timer class. 
+ Timer(TimeSpan) Initializes a new instance of the Timer class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ ForceReady Forces the ready. 
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ Peek Returns the time that has passed since the Reset() method was called. 
+ Reset()()()() Resets the stopwatch. This method should be called when you start measuring. 
+ Reset(Double) Resets the stopwatch. This method should be called when you start measuring. 
+ TimeLeft Returns timer left. 
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ CountDowntime Holds the value of the Frequency property. 
+ IsReady Returns true if the timer is ready 
+ StartTime Gets or sets the start time. 
+
+See Also
+
+
+Timer Class 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

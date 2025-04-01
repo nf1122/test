@@ -1,0 +1,99 @@
+WRobot
+
+Others Members
+The Others type exposes the following members.
+Methods
+
+
+  NameDescription
+  __ROL1__ ROL1 
+  __ROL2__ ROL2 
+  __ROL4__ ROL4 
+  __ROL8__ _ROL8 
+  __ROR1__ ROR1 
+  __ROR2__ ROR2 
+  __ROR4__ ROR4 
+  __ROR8__ ROR8 
+  ArrayToTextByLine Strings array to string (separate by new line). 
+  CallBack Call Action every X milliseconds X times. 
+  CallBackAfter Call Action after X milliseconds. 
+  CallBackEvery Call Action every X milliseconds. 
+  CreateShortcut Create Windows shortcut 
+  DelFileNameIllegalChar Delete file name illegal character. 
+  DelSpecialChar Delete the specials characters. 
+  DialogBoxOpenFile "Open File" dialog box and return selected file path. 
+  DialogBoxOpenFileMultiselect "Open File" (multi files mode) dialog box and return selected files paths. 
+  DialogBoxSaveFile "Save File" dialog box and return selected file path. 
+  DoEvents Application.DoEvents (refresh UI, works with wpf et winform). 
+  DownloadFile Download file from http address, return true if success. 
+  EncrypterMD5 Return MD5. 
+  EncryptStringToString Return a decrypted text. 
+  ExistFile Return true if File exist. 
+  GetFileMd5CheckSum Return the MD5 checksum of the file. 
+  GetFilesDirectory Return a list of the file. 
+  GetFilesDirectoryAndSubDirectory Return a list of the file on folder and subfolders. 
+  GetFileSize Return file size, return -1 if error. 
+  GetFileSizeHttp Get file size from http address, return -1 if error. 
+  GetRandomString Get random string. 
+  GetRandomStringReadable Get random string readable. 
+  GetRequest(String, String) Return the code source of the page. Sample: GetRequest("http://www.google.com/index.php", "a=5&b=10" ) 
+  GetRequest(String, String, Boolean, Int32) Return the code source of the page. Sample: GetRequest("http://www.google.com/index.php", "a=5&b=10" ) 
+  GetReqWithAuthHeader Request with authentication header. 
+  GetStackTrace Get call stack trace. 
+  GetVisualCpp2010 Gets if visual C++2010 is installed. 
+  HardDriveID HardDrive ID. 
+  IsUserAdministrator Determines whether is administrator Windows user. 
+  OpenWebBrowserOrApplication Open WebBrowser or Windows explorer 
+  ParseDouble(String, Double%) String to double. 
+  ParseDouble(String) String to double. 
+  ParseDouble(String, Boolean%) String to double. 
+  ParseFloat(String, Single%) String to float. 
+  ParseFloat(String) String to float. 
+  ParseFloat(String, Boolean%) String to float. 
+  ParseInt(String, Int32%) String to int. 
+  ParseInt(String) String to int. 
+  ParseInt(String, Boolean%) String to int. 
+  ParseLong(String, Int64%) String to long. 
+  ParseLong(String) String to long. 
+  ParseLong(String, Boolean%) String to long. 
+  ParseUInt(String, UInt32%) String to uint. 
+  ParseUInt(String) String to uint. 
+  ParseUInt(String, Boolean%) String to uint. 
+  PathCombine Combines an array of strings into a path (file path). 
+  PostRequest Post request. 
+  Random(Double, Double) Random double. 
+  Random(Int32, Int32) Return Random number. 
+  Random()()()() Get Random instance. 
+  ReadFile Read file content to string. 
+  ReadFileAllLines Read file and return array by line. 
+  RemoveFile Remove file. 
+  ReplaceUpperCharBySpaceChar Replace upper char by space. 
+  SecToHour int Seconds to string HH:MM:SS. 
+  ShutDownPc ShutDown the Computer. 
+  StringArrayToListInt Strings array to int arrays. 
+  StringBetween Find strings between two string delimiters 
+  StringToEncryptString Return a encrypted text. 
+  StringToListInt Strings to list int. 
+  TextToArrayByLine String to strings array by line. 
+  ToUtf8(String) Text to UTF8. 
+  ToUtf8(array<Byte>[]()[][]) Converts to utf8. 
+  Wait Wait. 
+  WriteFile Write string file. 
+
+Properties
+
+
+  NameDescription
+  GetCurrentDirectory Get current directory (like "C:\program\WRobot"). 
+  GetTempFolder Get temporary directory path. 
+  Times Gets the number of milliseconds elapsed since the system started. 
+  TimesSec Gets the number of seconds elapsed since the system started. 
+  WindowsVersion Get Windows version. 
+
+See Also
+
+
+Others Class 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

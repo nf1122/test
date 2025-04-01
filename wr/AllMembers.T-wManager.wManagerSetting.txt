@@ -1,0 +1,261 @@
+WRobot
+
+wManagerSetting Members
+The wManagerSetting type exposes the following members.
+Methods
+
+
+  NameDescription
+  AddBlackList Adds GUID to blacklist 
+  AddBlackListNpcEntry Add to entry id blacklist. 
+  AddBlackListZone(Vector3, Single, Boolean) Add zone to blacklisted zones. 
+  AddBlackListZone(Vector3, Single, PolyArea, Boolean) Add zone to blacklisted zones. 
+  AddBlackListZone(Vector3, Single, ContinentId, PolyArea, Boolean) Add zone to blacklisted zones. 
+  AddBlackListZone(BlackListSerializable..::..Blackspot, Boolean) Add zone to blacklisted zones. 
+  AddBlackListZoneRectangle Add zone to rectangle blacklisted zones. 
+  AddRangeBlackListZone Add range zones to blacklist . 
+  AddToBlacklistCurrentProductSession Adds blacklist of current product (blacklist added with param isSessionBlacklist = true) to blacklist, this is called by AddBlackListToWRobotSession()()()()) 
+  ClearBlacklist Clear all blacklists (zone, guid, entry). 
+  ClearBlacklistOfCurrentProductSession Clear blacklists of current product (blacklist added with param isSessionBlacklist = true, generally it is the blacklist contained in the profile, it is added to blacklist with method AddToBlacklistCurrentProductSession()()()()) This method is called when product start. 
+ ConfigWinForm (Inherited from Settings.)
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+  GetListGuidBlackListed Gets list of GUID blacklisted. 
+  GetListZoneBlackListed Get list of blacklisted zones. 
+  GetListZoneBlackListedRectangle Get list of blacklisted rectangle zones. 
+ GetType (Inherited from Object.)
+  IsBlackListed Determines GUID is blacklisted 
+  IsBlackListedAllConditions(WoWUnit) Determines if unit is blacklisted (position, guid or entry id). 
+  IsBlackListedAllConditions(WoWGameObject) Determines if game object is blacklisted (position, guid or entry id). 
+  IsBlackListedAllConditions(Int32, Vector3, UInt64) Determines if is blacklisted (position, guid or entry id). 
+  IsBlackListedNpcEntry Determines if entry id blacklisted. 
+  IsBlackListedZone Determine if position is blacklisted. 
+  Load Loads the specified load blacklist. 
+  MaxUnitNearest(WoWUnit, Int32) Check if there are more than MaxUnitsNearMobs hostiles units near (in aggro distance) the unit. 
+  MaxUnitNearest(WoWGameObject, Int32) Check if there are more than MaxUnitsNearObjects hostiles units near (in aggro distance) the gameobject. 
+  MaxUnitNearest(Vector3, Int32, Int32%, UInt64, Single, Single) Check if there are more than maxUnitsNear hostiles "units" near (in aggro distance) of the "position".
+ MemberwiseClone (Inherited from Object.)
+  RemoveBlackList Removes GUID from blacklist. 
+ Save()()()() Saves this instance. 
+ Save(Boolean, Boolean) Saves the specified write in log. 
+ Save(String) Save to xml file 
+(Inherited from Settings.)
+ ToForm Converts to form. 
+(Inherited from Settings.)
+ ToString (Inherited from Object.)
+ ToStringFormat Converts to string (dump settings). 
+  UnitAggroRange Get hostiles units who have in their aggro distance of the "position". 
+
+Fields
+
+
+  NameDescription
+ AcceptOnlyProfileNpc Accept only NPC (vendor, repair, ...) of the product profile (don't use NPC already in NpcDB, when you start product he adds NPCs to the NpcDB with CurrentProfileNpc at true, when you use AcceptOnlyProfileNpc option bot search only NPC with Npc.CurrentProfileNpc = true). 
+ BlacklistGameObjectDefaultTimeMs GameObject blacklist default time (in millisecond) (herbs, mines, chest, ...) 
+ BlacklistTaxiDefaultTimeMs Taxi blacklist default time (in millisecond) 
+ BlacklistUnitDefaultTimeMs Unit blacklist default time (in millisecond) (mobs, npc) 
+ CustomClass FightClass selected, file name like "MyFightclass.xml" (fightclasses are in folder "WRobot\FightClass\") 
+ DetectEvadingMob Detect evading mob and leave combat 
+ DismountLandGroundDistance Dismount flying mount ground distance (when Land(Single, Single) 0 to dismount when hit the ground) 
+ DismountWhenStuck Dismount when character seems stuck 
+ DrinkMaxPercent Stop character regen if more than X % of mana. 
+ EquipAvailableBagIfFreeContainerSlot Equip available bag if free container slot 
+ EventsLuaWithArgsWaitTime Refresh time of EventsLuaWithArgs (read new in game events) (in milliseconds) 
+ FightInteractTargetMinDistance Interact with target during fight if distance is lower than X even if not line of sight 
+ FoodMaxPercent Stop character regen if more than X % of health. 
+ ForceAutoLoot Force auto loot 
+ HearthstoneAfterXBlockagesLatest10Minutes Use hearthstone after x blockages latest 10 minutes (0 to disable, see also HearthstoneNameOrIdAfterXBlockagesLatest10Minutes) 
+ HearthstoneNameOrIdAfterXBlockagesLatest10Minutes Hearthstone item name or id (used with HearthstoneAfterXBlockagesLatest10Minutes) 
+ IgnoreFightWhenInMove Ignore fight when traveling 
+ IgnoreFightWithPlayer Ignore combat with other players 
+ IgnoreServerRoadsWater If you don't want use roads and water of the PathFinder server (the bot take the shortest paths instead of the roads) 
+ KeyBindingMacro Key used to run macro when you call RunMacroTextHW(String)
+ KeyboardToTurn Use keyboard to turn (instead of direct rotation) 
+ LastProductSelected The last product used (used at startup to select last product) 
+ LootAndHarvestRangeQuickly The loot and harvest quickly if in interact range (FarmingRange and LootingRange) 
+ LootInCombat Loot in combat 
+ MaxCheckIfGoodMouseShortcutsWhenInteract Some GM change your mouse buttons shortcut (to no longer be able to interact with unit/object), try to detect that (0 to disable this option) 
+ MaxTryPerNode Number maximum of try per node (farming) 
+ MaxUnitsNearMobs The maximum units near mobs MaxUnitNearest(WoWUnit, Int32)
+ MaxUnitsNearObjects The maximum units near objects MaxUnitNearest(WoWUnit, Int32)
+ MaxZDistanceAttack Maximum z distance to start attack 
+ MaxZDistanceFarm Maximum z distance to go farming node 
+ MaxZDistanceIsAttacked Maximum z distance to defend oneself when mobs attack character 
+ MyMacro1 My macro 1 
+ MyMacro2 My macro 2 
+ MyMacro3 My macro 3 
+ MyMacro4 My macro 4 
+ NewUserSettings This value is true only if settings was created with new instance (false if was loaded from xml file) (assigned in Load(Boolean)). 
+ NpcScanAuctioneer Automatically add nearest Npc auctioneer to NpcDB. 
+ NpcScanMailboxes Automatically add nearest Mailbox to NpcDB. 
+ NpcScanRepair Automatically add nearest Npc repair to NpcDB. 
+ NpcScanVendor Automatically add nearest Npc vendor to NpcDB. 
+ OffMeshConnectionsSearchDistance The off mesh connections search distance 
+ PathFinderFromServer Use PathFinder server (else use local pathfinder but it is no longer available on recent versions of the bot) 
+ PathFinderRequestLog Request pathfinder server log 
+ PathFinderRequestTimeoutMs Pathfinder server request timeout (in milliseconds) 
+ PathFinderServerSeemDownPauseBotTimeSec How many time pause bot (in seconds) when pathfinder server seems down 
+ PluginsSettings Plugins list (when user removes a plugin from the folder ("WRobot/Plugins/") it remains in this list, but only plugins present in the folder are displayed tab "Plugins") 
+ RandomJumping Jump randomly during travel. 
+ ReadObjectManagerFTS Number of ObjectManager refreshes per second (a high value is better, but also uses a lot more CPU) 
+ RecordChatInLog Write Wow chat messages in log file. 
+ RetrieveCorpseMaxDistance Max distance of the character corpse to retrieve corpse 
+ SaveWindowPosition Save bot window position 
+ SearchRadiusMobs Mobs search distance (mainly grinding). 
+ SearchRadiusObjects GameObject search distance (mainly farming). 
+ SizeHeight Last bot window height 
+ SizeWidth Last bot window width. 
+ SkipInOutDoors Skip node inside if character is outside, and skip node outside if character is inside. 
+ SkipNodesInWater Skip nodes in water 
+ SkipRegenIfFlaggedInCombat Skip regen if flagged in combat 
+ SmoothPath Smoothing paths generated by PathFinder (makes movement a little more human, in very rare cases can add blockages). 
+ SmoothPathDistance Smoothing paths distance (1.0 by default, option for SmoothPathDistance). 
+ TryToAvoidEnemyGroupsRatio Try to avoid group of mobs (Ratio), 0 to disable, recommended value is ~1.2 (Bot will add up all the level of the mobs and divide it by the level of your character, if the result gives a ratio higher than the given hi will try to avoid zone) 
+ TryToUseBestBagFoodDrink Try to use best food and drink available in the bag. 
+ UseCTM To use CTM (click to move in game option) 
+ UseSpiritHealerAfterXDeathsLatest10Minutes The use spirit healer after x deaths latest10 minutes 
+ WaitWhenBuffWaitingToResurrect Wait when character has buff "Waiting to Resurrect" 
+ WindowPosX Last bot window position x (need option SaveWindowPosition) 
+ WindowPosY Last bot window position y (need option SaveWindowPosition) 
+
+Properties
+
+
+  NameDescription
+ AccountEmail Account email (or account name on old Wow version) (you need to activate Relogger). 
+ AccountPassword Account password (you need to activate Relogger). 
+ AddToNpcDb Add NPCs of used profiles to your NpcDB. 
+ AquaticMountName Gets or sets the name of the aquatic mount (like it appears in game). 
+ AssignTalents Assign Talents (no used in all WRobot version, used in Talents) 
+ AttackBeforeBeingAttacked Attack before being attacked (Start the fight when the character is close to the mob's aggro zone. It allows to be more reactive, but this option is not always reliable (it depends on the server and the version of the game)). 
+ AttackElite Can start fight with elite mobs (in any case the bot will attack if it is attacked). 
+ AvoidBlacklistedZonesPathFinder Avoid blacklisted zones with the paths generated by the PathFinder. 
+ AvoidWallWithRays Try to avoid wall and small obstacle not in pathfinder with rays (TraceLine). 
+ BlackListHarvest List of gameobjects entry id to not harvest. 
+ BlackListHarvestByName List of gameobjects name to not harvest. 
+ BlackListIfNotCompletePath Blacklist mobs, NPCs, nodes... if cannot found complete path (if PathFinder return partial or no success result) 
+ BlackListTrainingDummy Blacklist training dummy. 
+ BlackListZoneWhereDead Automatically blacklist the zone where the character is dead (with 30 y radius), some products like grinder, quester and automaton override this value with their values. 
+ BNetName Account name (you need to activate Relogger). 
+ BuyList List of items to buy. 
+ CalcuCombatRange Calculate interact/combat distance by target size (CombatReach, on some servers this option is bugged). 
+ CanAttackUnitsAlreadyInFight Gets or sets a value indicating whether this instance can attack units already in combat. 
+ CloseAfterXBlockagesActive Close after CloseAfterXBlockagesLatest10Minutes blockages latest 10 minutes. 
+ CloseAfterXBlockagesLatest10Minutes Close game after x blockages latest 10 minutes (you need to use option CloseAfterXBlockagesActive). 
+ CloseAfterXDeathsActive Close after CloseAfterXDeathsLatest10Minutes deaths latest 10 minutes. 
+ CloseAfterXDeathsLatest10Minutes Close after x deaths latest 10 minutes (you need to use option CloseAfterXDeathsActive). 
+ CloseAfterXLevel Close the game after increasing your level by X levels. 
+ CloseAfterXMin Close game after x minutes (you need to activate CloseAfterXMinActive). 
+ CloseAfterXMinActive Close bot after CloseAfterXMin minutes. 
+ CloseIfFullBag Close game when bag is full. 
+ CloseIfPlayerTeleported Close game if character seems to have been teleported (GM can use this method, but there may be false detection, by example when character continent change, when using the hearthstone, ...). 
+ CloseIfReached4000HonorPoints Close game if you have more than 4000 honor points 
+ CloseIfWhisperBiggerOrEgalAt Close the game If you have received more or egal at X whispers 
+  CurrentSetting Gets or sets the current character setting. 
+ DetectNodesStuck Detect nodes stuck (test if can landing) 
+ DisableNearPlayerToTown Don't pause bot is player nerby when character go to town (option for SecurityPauseBotIfNerbyPlayer) 
+ DoNotMailList List of items names to not send by mail (this option override item quality filter options, you need to activate option UseMail). 
+ DoNotSellList List of items names to not sell (this option override item quality filter options, you need to activate option Selling). 
+ DontStartFighting Gets or sets a value indicating to don't start fight (defend oneself only). 
+ DrinkAmount Number of DrinkName item to buy (0 to don't buy food, you need to have food vendor in your profile of NpcDB) 
+ DrinkIsSpell DrinkName is spell name (not item) 
+ DrinkName Gets or sets the name of the drink (like it appears in game). 
+ DrinkPercent Start character regen if less than X % of mana. 
+ FlightMasterDiscoverRange Flightmasters discover range (0 to don't discover unknown flightmasters (with green exclamation)). 
+ FlightMasterTaxiDistance Flightmaster search distance (to take only is nearby taxi use FlightMasterTaxiUseOnlyIfNear, you need to use option FlightMasterTaxiUse). 
+ FlightMasterTaxiUse Take taxi (from FlightMaster) if can. 
+ FlightMasterTaxiUseOnlyIfNear Take taxi only if flightmaster is nearby (else the bot searchs by distance with FlightMasterTaxiDistance, you need to use option FlightMasterTaxiUse). 
+ FlyAboveGroundHeight When the bot uses the flying mount on a normal (ground) path how high to fly? 
+ FlyingMountName Gets or sets the name of the flying mount (like it appears in game). 
+ FoodAmount Number of FoodName item to buy (0 to don't buy food, you need to have food vendor in your profile of NpcDB) 
+ FoodIsSpell FoodName is spell name (not item) 
+ FoodName Gets or sets the name of the food (like it appears in game). 
+ FoodPercent Start character regen if less than X % of health. 
+ ForceMailList List of items names to send by mail (this option override item quality filter options, you need to activate option UseMail). 
+ ForceSellList List of items names to sell (this option override item quality filter options, you need to activate option Selling). 
+ GoToTownHerbBags Go to town when herb bags are fulls. 
+ GoToTownMiningBags Go to town when mining bags are fulls. 
+ GroundMountName The name of the ground mount (like it appears in game). 
+ HarvestAvoidPlayersRadius Cancel farm if another player is within X yards (0 to don't avoid players). 
+ HarvestDuringLongMove Harvest (farming) during long move. 
+ HarvestHerbs Harvest herbs. 
+ HarvestMinerals Harvest minerals. 
+ HarvestTimber Harvest timber. 
+ HelpingGroupMembers Helping party members (if one of the members is attacked you will help him) (the bot will consider that your character is attacked if a member of your group is attacked). 
+ IgnoreCombatWithPet Ignore combat with pet. 
+ IgnoredNerbyPlayer List if accepted players when you activate option SecurityPauseBotIfNerbyPlayer
+ IgnoreFightDuringFarmIfDruidForm Ignore fight during farm when in druid form (bot skip node if he is attacked and don't harvest the gameboject). 
+ IgnoreFightGoundMount Ignore fight when in mount 
+ LatencyMax Use this value if real latency is bigger than this value (look also LatencyMin, bot use latency time to wait after action (https://wow.gamepedia.com/API_GetNetStats realLatency = latencyHome + latencyWorld), but sometime result is bad). 
+ LatencyMin Use this value if real latency is smaller than this value (look also LatencyMax, bot use latency time to wait after action (https://wow.gamepedia.com/API_GetNetStats realLatency = latencyHome + latencyWorld), but sometime result is bad). 
+ ListHarvest List of gameobjects entry id to harvest. 
+ ListHarvestByName List of gameobjects name to harvest. 
+ LootChests Loot chests 
+ LootMobs Loot mobs corpses (Looting and LootingRange) 
+ MailBlue Send blue items (you need to activate option UseMail). 
+ MailGray Send gray items (you need to activate option UseMail). 
+ MailGreen Send green items (you need to activate option UseMail). 
+ MailPurple Send purple items (you need to activate option UseMail). 
+ MailRecipient Mail recipient name (you need to activate option UseMail). 
+ MailSubject Mail subject (you need to activate option UseMail). 
+ MailWhite Send white items (you need to activate option UseMail). 
+ MaxUnitsNear Obsolete. 
+Obsolete, use MaxUnitsNearMobs and MaxUnitsNearObjects
+ Milling Milling (MillingState, don't forget to complete MillingList). 
+ MillingInTown Milling when go to town. 
+ MillingList Milling items list (like the name appears in game, you need to enable Milling). 
+ MillingTime Milling every X minutes (you need to enable Milling). 
+ MinFreeBagSlotsToGoToTown Minimum free bag slots to go to town. 
+ MountDistance Required minimum path distance to use mount (if it is path loop, bot use mount without distance check) 
+ NpcMailboxSearchRadius NPC (Npc vendor, repair, ...) and Mailbox search radius 
+ PathFinderPostionOffset Pathfinder is too precise, sometimes you have to be exactly at position A to be able to reach position B without any obstacle. The problem is that the bot cannot go exactly to position A (CTM not always precise and this cause sudden movement because it stops move when it gets to the position). This option allows you to shift away the position of the position A (1.0 by default) which allows the bot to go to point B when distance to position A is PathFinderPostionOffset (the character is actually at the original position of point A). 
+ Prospecting Prospecting, you need to complete ProspectingList and ProspectingTime or ProspectingInTown. 
+ ProspectingInTown Prospecting when go to town (you need to enable Prospecting). 
+ ProspectingList Prospecting items list (like the name appears in game, you need to enable Prospecting). 
+ ProspectingTime Prospecting every X minutes (you need to enable Prospecting). 
+ Relogger Relogge player when disconnected (you need to complete AccountEmail, AccountPassword, BNetName) 
+ Repair Repair when go to town. 
+ RestingMana Regen character mana 
+ SearchRadius Obsolete. 
+Obsolete, use SearchRadiusMobs and SearchRadiusObjects
+ SecurityPauseBotIfNerbyPlayer Pause Bot if nearby other player (combined with options SecurityPauseBotIfNerbyPlayerRadius, SecurityPauseBotIfNerbyPlayerTime, IgnoredNerbyPlayer, DisableNearPlayerToTown). 
+ SecurityPauseBotIfNerbyPlayerRadius Nearby player search radius (option for SecurityPauseBotIfNerbyPlayer) 
+ SecurityPauseBotIfNerbyPlayerTime Nearby player since X seconds before to pause bot (option for SecurityPauseBotIfNerbyPlayer) 
+ SecurityRecordWhisperInLogFile Obsolete. 
+Obsolete, RecordChatInLog
+ SecurityShutdownComputer After to close the game, shutdown computer. 
+ SecuritySongIfNewWhisper Play song if new whisper (if you want use custom song, you can put song file at "WRobot\Data\newWhisper.wav"). 
+ SellBlue Sell all blue items (you need to activate option Selling). 
+ SellGray Sell all gray items (you need to activate option Selling). 
+ SellGreen Sell all green items (you need to activate option Selling). 
+ Selling Sell the bag items when go to town (look options SellGray, SellWhite, SellGreen, SellBlue, SellPurple, DoNotSellList, ForceSellList). 
+ SellPurple Sell all purple items (you need to activate option Selling). 
+ SellWhite Sell all white items (you need to activate option Selling). 
+ SkinMobs Skin mobs killed by character (enable SkinNinja to skin all corpse available). 
+ SkinNinja Skin all corpse available (you need to active option SkinMobs). 
+ Smelting Smelting (SmeltingState, you need to add in NpcDB fake NPC type NpcType.Smelting nearest smelting zone). 
+ SpellRotationSpeed Try improve spells rotation speed, don't wait that cast finished before to cast new spell (we lose reliability) 
+ ToTownTimer Force to go to town every X minutes (you need to activate ToTownTimerActivated) 
+ ToTownTimerActivated Activate go to town every ToTownTimer minutes 
+ TrainNewSkills Train New Skills (used in Trainers) 
+ UnlockMaxFps Most versions of bot works better with high FPS in-game (but this use more CPU and RAM. This option unlock the "Maximum FPS" option in game (https://wowwiki.fandom.com/wiki/CVar_maxFPS and https://wowwiki.fandom.com/wiki/CVar_maxFPSBk) 
+ UseFlyingMount Use flying mount (need FlyingMountName) 
+ UseGroundMount Gets or sets a value indicating whether [use ground mount]. 
+ UseLuaToMove Use lua api to move (otherwise the bot simulate keyboard keys). 
+ UseMail Send items by email when the bot goes to town (look options MailRecipient, MailSubject, UseMollE, MailGray, MailWhite, MailGreen, MailBlue, MailPurple, DoNotMailList, ForceMailList). 
+ UseMammoth Use "Traveler's Tundra Mammoth" to repair and sell instead of go to town 
+ UseMollE Use MOLL-E item instead of to go to Mailbox (you need to activate option UseMail). 
+ UseMount Use ground mount (need GroundMountName) 
+ UsePathsFinder Use PathFinder (if this option is disabled it goes from position A to position B without avoiding obstacles). 
+ UseSpiritHealer Use spirit healer to revive 
+ WaitResurrectionSickness Wait when character has debuff "Resurrection Sickness" (after resurrect at the "Spirit Healer") 
+ WallDistancePathFinder Wall distance of generated path by PathFinder (sometime this option can return a funny path). 
+
+See Also
+
+
+wManagerSetting Class 
+wManager Namespace 
+Help File generated with GhostDoc
+ 

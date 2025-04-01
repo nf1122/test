@@ -1,0 +1,36 @@
+WRobot
+
+KeyboardHook Members
+The KeyboardHook type exposes the following members.
+Constructors
+
+
+  NameDescription
+ KeyboardHook Initializes a new instance of the KeyboardHook class. 
+
+Methods
+
+
+  NameDescription
+ Dispose Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ RegisterHotKey(ModifierKeys, Keys) Registers a hot key in the system. 
+ ToString (Inherited from Object.)
+
+Events
+
+
+  NameDescription
+ KeyPressed A hot key has been pressed. 
+
+See Also
+
+
+KeyboardHook Class 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

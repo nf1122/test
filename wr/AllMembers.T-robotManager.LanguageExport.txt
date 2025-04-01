@@ -1,0 +1,29 @@
+WRobot
+
+LanguageExport Members
+The LanguageExport type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+ TryGetValue Tries the get value. 
+
+Fields
+
+
+  NameDescription
+ LanguageTexts The language texts 
+
+See Also
+
+
+LanguageExport Class 
+robotManager Namespace 
+Help File generated with GhostDoc
+ 

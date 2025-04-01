@@ -1,0 +1,25 @@
+WRobot
+
+IPlugin Members
+The IPlugin type exposes the following members.
+Methods
+
+
+  NameDescription
+ Dispose WRobot call this method when user stop an product (bot). 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ Initialize WRobot call this method when user start an product (bot) (method is called on new thread, you need to make loop to keep your plugin alive). 
+ MemberwiseClone (Inherited from Object.)
+ Settings WRobot call this method when user click on plugin settings button. 
+ ToString (Inherited from Object.)
+
+See Also
+
+
+IPlugin Interface 
+wManager.Plugin Namespace 
+Help File generated with GhostDoc
+ 

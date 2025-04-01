@@ -1,0 +1,19 @@
+WRobot
+
+ScintillaStyles Members
+The ScintillaStyles type exposes the following members.
+Methods
+
+
+  NameDescription
+  CSharp C# style 
+  Lua Lua style 
+  XML XML style. 
+
+See Also
+
+
+ScintillaStyles Class 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,35 @@
+WRobot
+
+BlackListSerializable..::..BlackNpcType Members
+The BlackListSerializable..::..BlackNpcType type exposes the following members.
+Constructors
+
+
+  NameDescription
+ BlackListSerializable..::..BlackNpcType Initializes a new instance of the BlackListSerializable..::..BlackNpcType class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString Returns a String that represents this instance. 
+
+Properties
+
+
+  NameDescription
+ EntryId Gets or sets the entry id (Entry). 
+ NameNpc Gets or sets unit name or description. 
+
+See Also
+
+
+BlackListSerializable..::..BlackNpcType Class 
+wManager Namespace 
+Help File generated with GhostDoc
+ 

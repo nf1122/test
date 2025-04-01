@@ -1,0 +1,36 @@
+WRobot
+
+LanguageText Members
+The LanguageText type exposes the following members.
+Constructors
+
+
+  NameDescription
+ LanguageText()()()() Initializes a new instance of the LanguageText class. 
+ LanguageText(String, String) Initializes a new instance of the LanguageText class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ Original Gets or sets the original. 
+ Translation Gets or sets the translation. 
+
+See Also
+
+
+LanguageText Class 
+robotManager Namespace 
+Help File generated with GhostDoc
+ 

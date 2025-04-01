@@ -1,0 +1,32 @@
+WRobot
+
+Display Members
+The Display type exposes the following members.
+Methods
+
+
+  NameDescription
+  GetWindowHeight Gets the height window. 
+  GetWindowPosX Gets window pos X. 
+  GetWindowPosY Gets window pos Y. 
+  GetWindowWidth Gets the width of the window. 
+  ProtectAgainstScreenshots(Window, Boolean) Protects the against screenshots. 
+  ProtectAgainstScreenshots(Form, Boolean) Protects the against screenshots. 
+  ProtectAgainstScreenshots(IntPtr) Protects the against screenshots. 
+  ScreenshotWindow(IntPtr, String, ImageFormat, Int32, Int32) Take a window screenshot and save to file. 
+  ScreenshotWindow(IntPtr, String, Int32, Int32) Take a window screenshot and save to .jpeg file. 
+  ScreenshotWindow(IntPtr, Int32, Int32) Take a window screenshot and return Image. 
+  ScreenshotWindowToBytes(IntPtr, ImageFormat, Int32, Int32) Take a window screenshot and return file. 
+  ScreenshotWindowToBytes(IntPtr, Int32, Int32) Take a window screenshot and return .jpeg file. 
+  SetWindowPositionSize Move and resize Windows. 
+  ShowWindow Show window (used when minimized to restore it). 
+  WindowInTaskBarre Window is in taskbar (minimized). 
+  WndProc 
+
+See Also
+
+
+Display Class 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

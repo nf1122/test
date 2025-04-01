@@ -1,0 +1,30 @@
+WRobot
+
+MountTask Members
+The MountTask type exposes the following members.
+Methods
+
+
+  NameDescription
+  DismountMount Dismounts the mount. 
+  GetMountCapacity Get the mount capacity (depending of bot configurations and in-game status). 
+  Land Landing (if flying) 
+  Mount(Boolean, MountTask..::..MountCapacity) Use mount 
+  Mount(Boolean, Boolean, MountTask..::..MountCapacity) Use mount 
+  MountExist Mounts the exist (depending of bot configurations and in-game status). 
+  MountingAquaticMount Mounting the aquatic mount. 
+  MountingFlyingMount Mounting the flying mount. 
+  MountingGroundMount Mounting the ground mount. 
+  OnAquaticMount Check if on aquatic mount (mount selected in AquaticMountName). 
+  OnFlyMount Check if on flying mount (mount selected in FlyingMountName). 
+  OnGroundMount Check if on ground mount (mount selected in GroundMountName). 
+  Takeof Take off ground (jump, stop when character is flying or after 700 ms) 
+  WaterSurface Go to waters surface. 
+
+See Also
+
+
+MountTask Class 
+wManager.Wow.Bot.Tasks Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,31 @@
+WRobot
+
+LuaBot Members
+The LuaBot type exposes the following members.
+Methods
+
+
+  NameDescription
+  DoChunk(String, String) Run code 
+  DoChunk(String, LuaResult%, String%, Boolean, String) Run code 
+
+Fields
+
+
+  NameDescription
+  Environment Lua environment instance 
+  Lua Lua instance 
+
+Properties
+
+
+  NameDescription
+  EnvironmentDynamic Gets the Environment dynamic. 
+
+See Also
+
+
+LuaBot Class 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

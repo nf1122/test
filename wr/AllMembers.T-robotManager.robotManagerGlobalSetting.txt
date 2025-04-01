@@ -1,0 +1,55 @@
+WRobot
+
+robotManagerGlobalSetting Members
+The robotManagerGlobalSetting type exposes the following members.
+Methods
+
+
+  NameDescription
+ ConfigWinForm (Inherited from Settings.)
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+  Load Load settings from FilePath. 
+ MemberwiseClone (Inherited from Object.)
+ Save()()()() Save settings to FilePath. 
+ Save(String) Save to xml file 
+(Inherited from Settings.)
+ ToForm Converts to form. 
+(Inherited from Settings.)
+ ToString (Inherited from Object.)
+ ToStringFormat Converts to stringformat. 
+(Inherited from Settings.)
+
+Fields
+
+
+  NameDescription
+ ArgsEnvironmentVariables The arguments environment variables ArgsParser
+ CanProtectAgainstScreenshots Protect against screenshots 
+ debugCb Show debug log 
+ ErrorCb Show error log 
+ fightCb Show fight log 
+ ForceStaticEncryptKey 0 to don't use, but if you use same bot settings files on several Windows installations/computers you can use static key to encrypt passwords (use by StringToEncryptString(String)EncryptStringToString(String)) 
+ HowLongDaysKeepLogFiles How many days keep log files (in folder "Logs", after files are removed) 
+ InstallDateTime creation date 
+ navigatorCb Show navigator log 
+ normalCb Show normal log 
+ SendErrorCb Send error log 
+ ShowMs Log show milliseconds 
+
+Properties
+
+
+  NameDescription
+  CurrentSetting Get or set the current setting. 
+  FilePath Get the file path (WRobot\Settings\RobotManagerGlobalSetting.xml). 
+
+See Also
+
+
+robotManagerGlobalSetting Class 
+robotManager Namespace 
+Help File generated with GhostDoc
+ 

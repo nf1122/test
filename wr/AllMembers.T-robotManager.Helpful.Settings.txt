@@ -1,0 +1,28 @@
+WRobot
+
+Settings Members
+The Settings type exposes the following members.
+Methods
+
+
+  NameDescription
+  AdviserFilePathAndName return path like "C:\WRobot\Settings\productName-ID.xml" 
+ ConfigWinForm 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+  Load<(Of <<'(T>)>>) Load from XML file 
+ MemberwiseClone (Inherited from Object.)
+ Save Save to xml file 
+ ToForm Converts to form. 
+ ToString (Inherited from Object.)
+ ToStringFormat Converts to stringformat. 
+
+See Also
+
+
+Settings Class 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

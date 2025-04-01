@@ -1,0 +1,47 @@
+WRobot
+
+Products Members
+The Products type exposes the following members.
+Methods
+
+
+  NameDescription
+  DisposeProduct Dispose loaded product. 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+  LoadProducts Load and initialise product. 
+  LoadProductsWithoutInit Load product without initialize. 
+ MemberwiseClone (Inherited from Object.)
+  ProductNeedSettings Show product settings tab. 
+  ProductRestart Restart product (don't call it from product thread to avoid problem). 
+  ProductStart Start product. 
+  ProductStop Stop product. 
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+  InPause Get or set a value indicating whether product is in pause. 
+  IsAliveProduct Gets a value indicating whether product instance is alive product. 
+  IsStarted Get a value indicating whether product instance is started. 
+  ProductName Get the name of the product. 
+  ProductSettings Get product settings. 
+
+Events
+
+
+  NameDescription
+  OnChangedIsAliveProduct Occurs when [on changed is alive product]. 
+  OnChangedIsStarted Occurs when started state change. 
+  OnProductNeedSettings Occurs when [on product need settings]. 
+
+See Also
+
+
+Products Class 
+robotManager.Products Namespace 
+Help File generated with GhostDoc
+ 

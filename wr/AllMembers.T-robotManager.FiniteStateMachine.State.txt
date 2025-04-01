@@ -1,0 +1,35 @@
+WRobot
+
+State Members
+The State type exposes the following members.
+Methods
+
+
+  NameDescription
+ Compare Compares two objects and returns a value indicating whether one is less than, equal to, or greater than the other. 
+ CompareTo Compares the current instance with another object of the same type and returns an integer that indicates whether the current instance precedes, follows, or occurs in the same position in the sort order as the other object. 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ Run Runs state. 
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ BeforeStates Launch these states before Run()()()() this state (NeedToRun must be true), empty if not used. 
+ DisplayName Gets the display name (must be unique name). 
+ NeedToRun Indicate if Engine need to call method Run()()()(). 
+ NextStates Launch these states after Run()()()() this state, empty if not used. 
+ Priority Gets the priority (determine the order of execution by Engine). 
+
+See Also
+
+
+State Class 
+robotManager.FiniteStateMachine Namespace 
+Help File generated with GhostDoc
+ 

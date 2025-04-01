@@ -1,0 +1,54 @@
+WRobot
+
+Logging Members
+The Logging type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+  NameCurrentLogFile Name of current log file. 
+  NewFile Create new file. 
+  ReadLast Read the last log by type. 
+  ReadLastString Read the last log string by type. 
+  ReadList()()()() Read all logs list. 
+  ReadList(Logging..::..LogType) Read all logs list by type. 
+  ReadListString Read the logs list string by type. 
+  Stop Stop logging (close file stream). 
+ ToString (Inherited from Object.)
+  Write(Logging..::..Log) Write the specified log. 
+  Write(String, Logging..::..LogType, Color) Write the specified text. 
+  Write(String) Write the specified text. 
+  WriteDebug Write debug log. 
+  WriteDebugDev Write the debug dev log. 
+  WriteError Write error log. 
+  WriteFight Write fight log. 
+  WriteFileOnly Write file only log (no show in LoggingUserControl). 
+  WriteNavigator Write navigator log. 
+
+Properties
+
+
+  NameDescription
+  CountNumberInQueue Get logs count in queue. 
+  List Get logs list. 
+  Status Get or set the status. 
+
+Events
+
+
+  NameDescription
+  OnChanged Occurs when [on changed]. 
+  OnChangedStatus Occurs when [on changed status]. 
+
+See Also
+
+
+Logging Class 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

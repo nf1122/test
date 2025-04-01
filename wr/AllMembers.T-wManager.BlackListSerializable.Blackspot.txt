@@ -1,0 +1,41 @@
+WRobot
+
+BlackListSerializable..::..Blackspot Members
+The BlackListSerializable..::..Blackspot type exposes the following members.
+Constructors
+
+
+  NameDescription
+ BlackListSerializable..::..Blackspot Initializes a new instance of the BlackListSerializable..::..Blackspot class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetPosition Gets the position. 
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString Returns a String that represents this instance. 
+
+Properties
+
+
+  NameDescription
+ Comment Gets or sets comment. 
+ Continent Gets or sets the continent id. 
+ Radius The height. 
+ TypeArea Gets or sets the type area (used by PathFinder). 
+ X Gets or sets the x position. 
+ Y Gets or sets the y position. 
+ Z Gets or sets the z position. 
+
+See Also
+
+
+BlackListSerializable..::..Blackspot Class 
+wManager Namespace 
+Help File generated with GhostDoc
+ 

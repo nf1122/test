@@ -1,0 +1,18 @@
+WRobot
+
+GraphicsExtensions Members
+The GraphicsExtensions type exposes the following members.
+Methods
+
+
+  NameDescription
+  ToHighQuality Converts to highquality. 
+  ToLowQuality Converts to lowquality. 
+
+See Also
+
+
+GraphicsExtensions Class 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,28 @@
+WRobot
+
+Logging..::..StatusChangeEventArgs Members
+The Logging..::..StatusChangeEventArgs type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ Status Gets or sets the status. 
+
+See Also
+
+
+Logging..::..StatusChangeEventArgs Class 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

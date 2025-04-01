@@ -1,0 +1,29 @@
+WRobot
+
+Keyboard Members
+The Keyboard type exposes the following members.
+Methods
+
+
+  NameDescription
+  DownKey(IntPtr, Keys) Down a Keyboard Key. 
+  DownKey(IntPtr, String) Down a Keyboard Key. 
+  PressKey(IntPtr, Keys) Press a Keyboard Key. 
+  PressKey(IntPtr, String) Press a Keyboard Key. 
+  SendText Sends the text to specified window. 
+  UpKey(IntPtr, Keys) Up a Keyboard Key. 
+  UpKey(IntPtr, String) Up a Keyboard Key. 
+
+Fields
+
+
+  NameDescription
+  ErrorSendKeyCount The error send key count 
+
+See Also
+
+
+Keyboard Class 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

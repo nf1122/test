@@ -1,0 +1,35 @@
+WRobot
+
+Math Members
+The Math type exposes the following members.
+Methods
+
+
+  NameDescription
+  Clamp Returns value clamped to the inclusive range of min and max. 
+  DegreeToRadian Degree to radian 
+  DistanceListVectors3 Total distance of path 
+  GetAngle(Single, Single) Return Angle to pos x =0 z = 0. 
+  GetAngle(Vector3, Vector3) Get angle from A to B 
+  GetPosition2DOfAngleAndDistance Get the position 2D by angle and distance. 
+  GetPosition2DOfAngleAndPitchAndDistance Get the position 3D by angle, pitch and distance. 
+  GetPostion2DOfLineByDistance Get position 2D on the line (a-b) by distance 
+  GetPostion3DOfLineByDistance Get position 3D on the line (a-b) by distance 
+  GetPostionOffsetBy3DDistance Get position 3D on the line (a-b) by distance 
+  GetRadian Get radian rotation from A to B. 
+  GetRadianDiff Get radian rotation difference. 
+  GetRandomPointInCircle(Single, Single, Single) Gets the random point in circle. 
+  GetRandomPointInCircle(Vector3, Single) Gets the random point in circle. 
+  NearestVector3OfListVectors3 Find the nearest position in the list of positions (return a id). 
+  NormalizeRadian Normalizes the radian. 
+  RadianToDegree Radian to degree 
+  SameListVectors3 Is same list of position?. 
+  TargetFacingToRadian Facing position B from A radian. 
+
+See Also
+
+
+Math Class 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

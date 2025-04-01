@@ -1,0 +1,56 @@
+WRobot
+
+NPCScanState Members
+The NPCScanState type exposes the following members.
+Constructors
+
+
+  NameDescription
+ NPCScanState Initializes a new instance of the NPCScanState class. 
+
+Methods
+
+
+  NameDescription
+ Compare Compares two objects and returns a value indicating whether one is less than, equal to, or greater than the other. 
+(Inherited from State.)
+ CompareTo Compares the current instance with another object of the same type and returns an integer that indicates whether the current instance precedes, follows, or occurs in the same position in the sort order as the other object. 
+(Inherited from State.)
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+  LaunchNewThread Launches the new thread. 
+ MemberwiseClone (Inherited from Object.)
+ Run Runs this instance. 
+  StopThread Stops the thread. 
+  ThreadIsLaunched Threads the is launched. 
+ ToString (Inherited from Object.)
+
+Fields
+
+
+  NameDescription
+  Locker The thread locker 
+
+Properties
+
+
+  NameDescription
+ BeforeStates Launch these states before Run()()()() this state (NeedToRun must be true), empty if not used. 
+(Inherited from State.)
+ DisplayName Gets the display name. 
+  ExtractGameObjects Share collidable GameObjects information (position, 3D model, name) with bot server (this help to create better meshes for PathFinder), this option can be enabled at start by bot server. 
+ NeedToRun Indicate if Engine need to call method Run()()()(). 
+ NextStates Launch these states after Run()()()() this state, empty if not used. 
+(Inherited from State.)
+ Priority Gets the priority (determine the order of execution by Engine). 
+(Inherited from State.)
+
+See Also
+
+
+NPCScanState Class 
+wManager.Wow.Bot.States Namespace 
+Help File generated with GhostDoc
+ 

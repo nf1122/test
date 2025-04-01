@@ -1,0 +1,28 @@
+WRobot
+
+Mouse Members
+The Mouse type exposes the following members.
+Methods
+
+
+  NameDescription
+  ClickLeft Click Left. 
+  ClickRight Click Right. 
+  ClickRoller Click Roller. 
+  CurseurPosition Position Curseur. 
+  CurseurWindowPercentagePosition Position Curseur in window. 
+  CurseurWindowPosition Position Curseur in window. 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+See Also
+
+
+Mouse Class 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

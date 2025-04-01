@@ -1,0 +1,24 @@
+WRobot
+
+IQuesterCondition Members
+The IQuesterCondition type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ Pulse 
+ Pulse2 
+ ToString (Inherited from Object.)
+
+See Also
+
+
+IQuesterCondition Interface 
+Quester.Bot Namespace 
+Help File generated with GhostDoc
+ 

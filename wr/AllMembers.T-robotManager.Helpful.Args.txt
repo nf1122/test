@@ -1,0 +1,57 @@
+WRobot
+
+Args Members
+The Args type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Fields
+
+
+  NameDescription
+ AccountName Game account name AccountName="WoW1"
+ AdditionalArgs The additional arguments 
+ AutoAttachAndLog Automatically attach game process and connect to the bot server -AutoAttachAndLog
+ BattleNet Game account mail (or name) BattleNet="my@mail.com"
+ BPHOOK To use BP hook (if not enabled by default in your version) -bphook
+ Character Game character name Character="MyName"
+ Dx To use directx hook (if not enabled by default in your version) -dx
+ FightClass Bot fightclass selected FightClass="fightclass.xml"
+ FightClassUI To launch Fightclass creator (not launch bot) -fightclassui
+ LicenseKey Bot license key to use LicenseKey="123456789"
+ LockFrame To lock game frame (better responsiveness, but this option is activated by default) -lockframe
+ LogInject Logging game injections (for debug) -LogInject
+ MinimiseOnStart Minimize window on start -MinimiseOnStart
+ NoDx To don't use directx hook (if enabled by default in your version) -nodx
+ NoFakeCallStack To don't falsify call stack (when bot call game functions) -nofakecallstack
+ NoLockFrame To don't lock game frame (lose reactivity) -nolockframe
+ Password Game account password Password="*****"
+ ProcessId Game process id ProcessId=1234
+ Product Bot product selected Product="Grinder"
+ Profile Product profile selected Profile="myprofile.xml"
+ ReloggerUI To launch relogger creator (not launch bot) -reloggerui
+ Server Game realmlist name Server="ServerName"
+ WaitTimeToRelog The wait time (in seconds) to relog character after a disconnection WaitTimeToRelog=15
+
+Properties
+
+
+  NameDescription
+ AutoStart Gets a value indicating if automatically attach game, connect to the bot server and start bot product. 
+ LogInWow Gets a value indicating if automatically login in game. 
+
+See Also
+
+
+Args Class 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

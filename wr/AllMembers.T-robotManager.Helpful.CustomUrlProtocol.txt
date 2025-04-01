@@ -1,0 +1,24 @@
+WRobot
+
+CustomUrlProtocol Members
+The CustomUrlProtocol type exposes the following members.
+Methods
+
+
+  NameDescription
+  CheckForProtocolMessage Checks for protocol message. 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+  RegisterUrlProtocol Registers the URL protocol. 
+ ToString (Inherited from Object.)
+
+See Also
+
+
+CustomUrlProtocol Class 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

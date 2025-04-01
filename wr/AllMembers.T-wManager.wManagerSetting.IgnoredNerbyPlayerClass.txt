@@ -1,0 +1,34 @@
+WRobot
+
+wManagerSetting..::..IgnoredNerbyPlayerClass Members
+The wManagerSetting..::..IgnoredNerbyPlayerClass type exposes the following members.
+Constructors
+
+
+  NameDescription
+ wManagerSetting..::..IgnoredNerbyPlayerClass Initializes a new instance of the wManagerSetting..::..IgnoredNerbyPlayerClass class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ ListPlayer List of players names allowed to be nearby the character. 
+
+See Also
+
+
+wManagerSetting..::..IgnoredNerbyPlayerClass Class 
+wManager Namespace 
+Help File generated with GhostDoc
+ 

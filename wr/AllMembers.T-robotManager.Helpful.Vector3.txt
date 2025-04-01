@@ -1,0 +1,83 @@
+WRobot
+
+Vector3 Members
+The Vector3 type exposes the following members.
+Constructors
+
+
+  NameDescription
+ Vector3()()()() Initializes a new instance of the Vector3 class. 
+ Vector3(Single, Single, Single, String) Initializes a new instance of the Vector3 class. 
+ Vector3(Double, Double, Double, String) Initializes a new instance of the Vector3 class. 
+ Vector3(Vector3) Initializes a new instance of the Vector3 class. 
+ Vector3(array<Single>[]()[][]) Initializes a new instance of the Vector3 class. 
+
+Methods
+
+
+  NameDescription
+  Distance Distance between. 
+  Distance2D Distance 2D. 
+  DistanceListVectors3 Distance total of vectors3 list. 
+ DistanceTo Distance to. 
+ DistanceTo2D Distance 2D to. 
+ DistanceZ(Vector3, Vector3) Distance z. 
+ DistanceZ(Vector3) Distance z. 
+  Dot Dots the specified v1. 
+ Equals Determines whether the specified Object is equal to. 
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetSchema Gets the schema. 
+ GetType (Inherited from Object.)
+ InFrontOf In front of. 
+ IsFlying Determines if is flying type. 
+ IsGround Determines whether is ground (default) type. 
+ IsSwimming Determines whether is swimming type. 
+ Magnitude Magnitude. 
+ MagnitudeSqr Magnitude the SQR. 
+ MemberwiseClone (Inherited from Object.)
+ ReadXml Read XML. 
+ SetFlying Set to flying type. 
+ SetGround Set to ground (default) type. 
+ SetSwimming Set to swimming type. 
+ Size Sizes. 
+ Size2D Size2D. 
+ ToSlimDxVector3 Converts to slimdxvector3. 
+ ToString Returns a String that represents. 
+ ToStringInvariantCulture Converts to stringinvariantculture. 
+ ToStringNewVector Converts to stringnewvector. 
+ ToStringXml Converts to stringxml. 
+ WriteXml Write XML. 
+
+Operators
+
+
+  NameDescription
+  Addition Implements the + operator. 
+  Division(Vector3, Vector3) Implements the / operator. 
+  Division(Vector3, Single) Implements the / operator. 
+  Equality Implements the == operator. 
+  Inequality Implements the != operator. 
+  Multiply(Vector3, Vector3) Implements the * operator. 
+  Multiply(Vector3, Single) Implements the * operator. 
+  Subtraction Implements the - operator. 
+
+Properties
+
+
+  NameDescription
+ Action Action. 
+  Empty Get empty vector3. 
+ Type Vector3 Type. 
+ X Gets or sets the X Position. 
+ Y Gets or sets the Y Position. 
+ Z Gets or sets the Z Position. 
+  Zero Get vector3 position zero. 
+
+See Also
+
+
+Vector3 Class 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

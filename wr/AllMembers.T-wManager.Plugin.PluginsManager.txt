@@ -1,0 +1,25 @@
+WRobot
+
+PluginsManager Members
+The PluginsManager type exposes the following members.
+Methods
+
+
+  NameDescription
+  DisposeAllPlugins Dispose all plugins. 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+  LoadAllPlugins Load all plugins (plugins activated by user in wManagerSetting). 
+ MemberwiseClone (Inherited from Object.)
+  SettingsPlugin Settings the plugin by file name. 
+ ToString (Inherited from Object.)
+
+See Also
+
+
+PluginsManager Class 
+wManager.Plugin Namespace 
+Help File generated with GhostDoc
+ 

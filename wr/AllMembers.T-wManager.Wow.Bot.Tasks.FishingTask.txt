@@ -1,0 +1,31 @@
+WRobot
+
+FishingTask Members
+The FishingTask type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+  LoopFish()()()() Launch fishing. 
+  LoopFish(UInt64, Boolean, String, String, Int32, String, Int32, Int32, Int32, Int32, Boolean) Launch fishing. 
+ MemberwiseClone (Inherited from Object.)
+  StopLoopFish Stop fishing. 
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+  IsLaunched Is fishing. 
+
+See Also
+
+
+FishingTask Class 
+wManager.Wow.Bot.Tasks Namespace 
+Help File generated with GhostDoc
+ 

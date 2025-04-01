@@ -1,0 +1,38 @@
+WRobot
+
+Logging..::..Log Members
+The Logging..::..Log type exposes the following members.
+Constructors
+
+
+  NameDescription
+ Logging..::..Log()()()() Initializes a new instance of the Logging..::..Log class. 
+ Logging..::..Log(String, Logging..::..LogType, Color) Initializes a new instance of the Logging..::..Log class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString Returns a String that represents this instance. 
+
+Properties
+
+
+  NameDescription
+ Color Gets or sets the color. 
+ DateTime Gets or sets the date time. 
+ LogType Gets or sets the type of the log. 
+ Text Gets or sets the text. 
+
+See Also
+
+
+Logging..::..Log Class 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

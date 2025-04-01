@@ -1,0 +1,40 @@
+WRobot
+
+BlackListSerializable Members
+The BlackListSerializable type exposes the following members.
+Methods
+
+
+  NameDescription
+  AddBlackListToWRobotSession Add blacklists of this instance to bot session (in wManagerSetting). This method clear session blacklists before to add blacklists of this instance(he calls InitPather()()()() and ClearBlacklist()()()(). It is called when the bot starts, when continent change or when there edit blacklists. 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+  Load Load instance from xml FilePath. 
+ MemberwiseClone (Inherited from Object.)
+  Save Save instance to xml FilePath. 
+ ToString (Inherited from Object.)
+
+Fields
+
+
+  NameDescription
+ BlackGuids The GUID blacklist, OLD prefer BlackNpcs
+ BlackNpcs NPCs GUID blacklist 
+ BlackNpcTypes NPCs entry id blacklist 
+ Blackspots The blackspots 
+
+Properties
+
+
+  NameDescription
+  FilePath Gets full xml file path. 
+
+See Also
+
+
+BlackListSerializable Class 
+wManager Namespace 
+Help File generated with GhostDoc
+ 

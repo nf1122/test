@@ -1,0 +1,47 @@
+WRobot
+
+QuesterSetting Members
+The QuesterSetting type exposes the following members.
+Methods
+
+
+  NameDescription
+ ConfigWinForm (Inherited from Settings.)
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+  Load Load settings 
+ MemberwiseClone (Inherited from Object.)
+ Save()()()() Save settings 
+ Save(String) Save to xml file 
+(Inherited from Settings.)
+ ToForm Converts to form. 
+(Inherited from Settings.)
+ ToString (Inherited from Object.)
+ ToStringFormat Converts to stringformat. 
+(Inherited from Settings.)
+
+Fields
+
+
+  NameDescription
+ BlackListWhereIAmDead BlackList zone where I died 
+ ProfileName The profile path (relative to "WRobot\Profiles\Quester\"), but it is better to use ProfileName
+ ProfilesUserSettings Profiles settings (enable/disable quests/steps) 
+ SaveModifiedGeneralSettings Save general settings modified by the profiles 
+ SkipPickUpQuestAfterXSecondes Skip 'PickUp' quest after (sec), but it is better to use SkipPickUpQuestAfterXSecondes
+
+Properties
+
+
+  NameDescription
+  CurrentSetting Gets or sets the current setting. 
+
+See Also
+
+
+QuesterSetting Class 
+Quester.Bot Namespace 
+Help File generated with GhostDoc
+ 

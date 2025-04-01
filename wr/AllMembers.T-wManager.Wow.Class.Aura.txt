@@ -1,0 +1,48 @@
+WRobot
+
+Aura Members
+The Aura type exposes the following members.
+Constructors
+
+
+  NameDescription
+ Aura()()()() Initializes a new instance of the Aura class. 
+ Aura(UInt32, UInt32) Initializes a new instance of the Aura class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ IsValid Returns true if is valid. 
+ MemberwiseClone (Inherited from Object.)
+ ToString Returns a String that represents this instance. 
+
+Fields
+
+
+  NameDescription
+ _timeEnd The end time 
+
+Properties
+
+
+  NameDescription
+ GetSpell Gets the spell. 
+ Owner Gets the owner. 
+ SpellId Gets the spell id. 
+ Stack Gets the stack. 
+ TimeEnd Gets the end time. 
+ TimeLeft Gets the time left in milliseconds. 
+ TimeLeftSeconde Gets the time left in seconds. 
+
+See Also
+
+
+Aura Class 
+wManager.Wow.Class Namespace 
+Help File generated with GhostDoc
+ 

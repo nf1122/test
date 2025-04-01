@@ -1,0 +1,17 @@
+WRobot
+
+FarmingTask Members
+The FarmingTask type exposes the following members.
+Methods
+
+
+  NameDescription
+  Pulse Pulses the specified node. 
+
+See Also
+
+
+FarmingTask Class 
+wManager.Wow.Bot.Tasks Namespace 
+Help File generated with GhostDoc
+ 

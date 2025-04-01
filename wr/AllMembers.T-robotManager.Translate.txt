@@ -1,0 +1,20 @@
+WRobot
+
+Translate Members
+The Translate type exposes the following members.
+Methods
+
+
+  NameDescription
+  Add Add the specified id. 
+  Get Get the specified translated text by id. 
+  Load Load the specified translation file name (relative to folder "WRobot\Data\Lang\", use file name like "Translation.xml"). 
+  Reset Reset default translation. 
+
+See Also
+
+
+Translate Class 
+robotManager Namespace 
+Help File generated with GhostDoc
+ 

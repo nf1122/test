@@ -1,0 +1,22 @@
+WRobot
+
+GoToTask Members
+The GoToTask type exposes the following members.
+Methods
+
+
+  NameDescription
+  ToPosition Go to position. 
+  ToPositionAndIntecractWith(Npc, Boolean, BooleanDelegate, Boolean) Go to position and interact with npc (closest to the position, if success the method will select good gossip option depending of Type, for example if it is a repair the bot will choose the gossip option vendor). 
+  ToPositionAndIntecractWith(WoWUnit, Int32, Boolean, BooleanDelegate, Boolean) Go to position and interact with npc (closest to the position). 
+  ToPositionAndIntecractWith(WoWGameObject, Int32, Boolean, BooleanDelegate) Go to position and interact with object (closest to the position). 
+  ToPositionAndIntecractWithGameObject Go to position and interact with object (closest to the position). 
+  ToPositionAndIntecractWithNpc Go to position and interact with npc (closest to the position). 
+
+See Also
+
+
+GoToTask Class 
+wManager.Wow.Bot.Tasks Namespace 
+Help File generated with GhostDoc
+ 

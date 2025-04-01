@@ -1,0 +1,37 @@
+WRobot
+
+RunCode Members
+The RunCode type exposes the following members.
+Methods
+
+
+  NameDescription
+  Compile Compile the specified code type. 
+  CompileAndCreateInstance Compile and create instance. 
+  CompileAndInvokeStaticMethod Compiles the and invoke static method. 
+  CompileFile Compile the file. 
+  CreateInstance Create instance from CompilerResults. 
+ Equals(System.Object) (Inherited from Object.)
+  ErrorsToString Errors or CompilerResults to string. 
+ Finalize (Inherited from Object.)
+  GenerateExe Generate executable from code. 
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+  HasErrors Determines whether the specified compiler results has errors. 
+  InvokeStaticMethod Invoke static method from CompilerResults.. 
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Fields
+
+
+  NameDescription
+  CompiledCache Compiled cache 
+
+See Also
+
+
+RunCode Class 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

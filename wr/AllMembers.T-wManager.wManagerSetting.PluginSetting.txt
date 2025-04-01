@@ -1,0 +1,29 @@
+WRobot
+
+wManagerSetting..::..PluginSetting Members
+The wManagerSetting..::..PluginSetting type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString Returns a String that represents this instance. 
+
+Properties
+
+
+  NameDescription
+ Actif Plugin is enabled or not (if true, will be loaded when product start) 
+ FileName File name like "My plugin.cs" (plugins are in folder "WRobot\Plugins\") 
+
+See Also
+
+
+wManagerSetting..::..PluginSetting Class 
+wManager Namespace 
+Help File generated with GhostDoc
+ 

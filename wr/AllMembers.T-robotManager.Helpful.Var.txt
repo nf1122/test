@@ -1,0 +1,26 @@
+WRobot
+
+Var Members
+The Var type exposes the following members.
+Methods
+
+
+  NameDescription
+  Exist Exist variable name. 
+  GetVar<(Of <<'(T>)>>) Get variable value. 
+  IsType Determine whether the specified variable name is specified type. 
+  SetVar Set variable value. 
+
+Fields
+
+
+  NameDescription
+  VarDictionary The storage dictionary, should not be used directly. 
+
+See Also
+
+
+Var Class 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,40 @@
+WRobot
+
+Statistics Members
+The Statistics type exposes the following members.
+Methods
+
+
+  NameDescription
+  DeathsByHr Death by hour. 
+  ExperienceByHr Experiences by hour. 
+  FarmsByHr Farms by hour. 
+  Honor Honor. 
+  HonorByHr Honor by hour. 
+  KillsByHr Kills by hour. 
+  LootsByHr Loots by hour. 
+  Money Money since last Reset()()()(). 
+  MoneyByHr Money by hour. 
+  NextLevelMin Time remaining before next level (in minute). 
+  NextLevelSec Time remaining before next level (in second). 
+  Reset Resets all statistics. 
+  RunningTimeInSec Running time in second. 
+  StucksByHr Stucks by hour. 
+
+Properties
+
+
+  NameDescription
+  Deaths Deaths count since Reset()()()(). 
+  Farms Farms count since Reset()()()(). 
+  Kills Kills count since Reset()()()(). 
+  Loots Loots count since Reset()()()(). 
+  Stucks Stucks count since Reset()()()(). 
+
+See Also
+
+
+Statistics Class 
+wManager Namespace 
+Help File generated with GhostDoc
+ 

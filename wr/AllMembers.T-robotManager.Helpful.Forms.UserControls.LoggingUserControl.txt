@@ -1,0 +1,39 @@
+WRobot
+
+LoggingUserControl Members
+The LoggingUserControl type exposes the following members.
+Constructors
+
+
+  NameDescription
+ LoggingUserControl Initializes a new instance of the LoggingUserControl class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ IsBlackStyle Determines whether is dark WPF style. 
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Fields
+
+
+  NameDescription
+  AddedLogsByFrame Maximum number of logs to add by frame 
+  CanSendLog Can send errors log (this option is no longer used) 
+  MaxLogsInTextbox The maximum logs count in textbox 
+  SendLogIgnoredLogs List of errors log to don't send to server (CanSendLog). 
+  SendLogProductName CanSendLog selected product name info 
+
+See Also
+
+
+LoggingUserControl Class 
+robotManager.Helpful.Forms.UserControls Namespace 
+Help File generated with GhostDoc
+ 

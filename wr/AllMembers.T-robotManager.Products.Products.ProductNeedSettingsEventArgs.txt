@@ -1,0 +1,28 @@
+WRobot
+
+Products..::..ProductNeedSettingsEventArgs Members
+The Products..::..ProductNeedSettingsEventArgs type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ NeedSettings Gets or sets a value indicating whether [need settings]. 
+
+See Also
+
+
+Products..::..ProductNeedSettingsEventArgs Class 
+robotManager.Products Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,27 @@
+WRobot
+
+Information Members
+The Information type exposes the following members.
+Methods
+
+
+  NameDescription
+  LaunchBot Launch the bot. 
+
+Properties
+
+
+  NameDescription
+  BotName 
+  ForWow Gets for wow version (like "3.3.5"). 
+  ForWowBuild Gets Wow build (like 12340). 
+  Version Gets the bot version number (like "2.7.0). 
+  WRobotVersion Get bot version name (like "wrobotvanilla" or "wrobotwotlk"). 
+
+See Also
+
+
+Information Class 
+wManager Namespace 
+Help File generated with GhostDoc
+ 

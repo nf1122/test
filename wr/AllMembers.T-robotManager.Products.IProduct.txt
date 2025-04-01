@@ -1,0 +1,33 @@
+WRobot
+
+IProduct Members
+The IProduct type exposes the following members.
+Methods
+
+
+  NameDescription
+ Dispose Dispose Product 
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ Initialize Initialize Product. 
+ MemberwiseClone (Inherited from Object.)
+ Start Start Product. 
+ Stop Stop Product. 
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ IsStarted Get product running status. 
+ Settings Settings Product WPF usercontrol. 
+
+See Also
+
+
+IProduct Interface 
+robotManager.Products Namespace 
+Help File generated with GhostDoc
+ 

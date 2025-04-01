@@ -1,0 +1,25 @@
+WRobot
+
+ArgsParser Members
+The ArgsParser type exposes the following members.
+Methods
+
+
+  NameDescription
+  ExistArg Check if argument is present. 
+  GetArgValue Gets the argument value. 
+
+Fields
+
+
+  NameDescription
+  Args The arguments (initialized at startup, GetCommandLineArgs used). 
+  GetArgs Get arguments parsed (initialized at startup). 
+
+See Also
+
+
+ArgsParser Class 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 

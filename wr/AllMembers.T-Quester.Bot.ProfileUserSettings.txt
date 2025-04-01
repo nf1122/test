@@ -1,0 +1,35 @@
+WRobot
+
+ProfileUserSettings Members
+The ProfileUserSettings type exposes the following members.
+Constructors
+
+
+  NameDescription
+ ProfileUserSettings Initializes a new instance of the ProfileUserSettings class. 
+
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ ProfilePath Gets or sets the profile path (relative to "WRobot\Profiles\Quester\"). 
+ SkipSteps Gets or sets the skipped steps index. 
+
+See Also
+
+
+ProfileUserSettings Class 
+Quester.Bot Namespace 
+Help File generated with GhostDoc
+ 

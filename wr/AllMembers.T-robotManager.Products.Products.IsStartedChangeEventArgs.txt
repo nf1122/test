@@ -1,0 +1,28 @@
+WRobot
+
+Products..::..IsStartedChangeEventArgs Members
+The Products..::..IsStartedChangeEventArgs type exposes the following members.
+Methods
+
+
+  NameDescription
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ GetHashCode (Inherited from Object.)
+ GetType (Inherited from Object.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from Object.)
+
+Properties
+
+
+  NameDescription
+ IsStarted Gets or sets a value indicating whether product instance is started. 
+
+See Also
+
+
+Products..::..IsStartedChangeEventArgs Class 
+robotManager.Products Namespace 
+Help File generated with GhostDoc
+ 

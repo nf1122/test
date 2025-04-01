@@ -1,0 +1,17 @@
+WRobot
+
+LootingTask Members
+The LootingTask type exposes the following members.
+Methods
+
+
+  NameDescription
+  Pulse Looting specified WoWUnits 
+
+See Also
+
+
+LootingTask Class 
+wManager.Wow.Bot.Tasks Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,74 @@
+WRobot
+
+Utf8StringWriter Members
+The Utf8StringWriter type exposes the following members.
+Methods
+
+
+  NameDescription
+ Close (Inherited from StringWriter.)
+ CreateObjRef(System.Type) (Inherited from MarshalByRefObject.)
+ Dispose(System.Boolean) (Inherited from StringWriter.)
+ Dispose (Inherited from TextWriter.)
+ Equals(System.Object) (Inherited from Object.)
+ Finalize (Inherited from Object.)
+ Flush (Inherited from TextWriter.)
+ GetHashCode (Inherited from Object.)
+ GetLifetimeService (Inherited from MarshalByRefObject.)
+ GetStringBuilder (Inherited from StringWriter.)
+ GetType (Inherited from Object.)
+ InitializeLifetimeService (Inherited from MarshalByRefObject.)
+ MemberwiseClone(System.Boolean) (Inherited from MarshalByRefObject.)
+ MemberwiseClone (Inherited from Object.)
+ ToString (Inherited from StringWriter.)
+ Write(System.Char) (Inherited from StringWriter.)
+ Write(System.Char[],System.Int32,System.Int32) (Inherited from StringWriter.)
+ Write(System.String) (Inherited from StringWriter.)
+ Write(System.Char[]) (Inherited from TextWriter.)
+ Write(System.Boolean) (Inherited from TextWriter.)
+ Write(System.Int32) (Inherited from TextWriter.)
+ Write(System.UInt32) (Inherited from TextWriter.)
+ Write(System.Int64) (Inherited from TextWriter.)
+ Write(System.UInt64) (Inherited from TextWriter.)
+ Write(System.Single) (Inherited from TextWriter.)
+ Write(System.Double) (Inherited from TextWriter.)
+ Write(System.Decimal) (Inherited from TextWriter.)
+ Write(System.Object) (Inherited from TextWriter.)
+ Write(System.String,System.Object) (Inherited from TextWriter.)
+ Write(System.String,System.Object,System.Object) (Inherited from TextWriter.)
+ Write(System.String,System.Object,System.Object,System.Object) (Inherited from TextWriter.)
+ Write(System.String,System.Object[]) (Inherited from TextWriter.)
+ WriteLine (Inherited from TextWriter.)
+ WriteLine(System.Char) (Inherited from TextWriter.)
+ WriteLine(System.Char[]) (Inherited from TextWriter.)
+ WriteLine(System.Char[],System.Int32,System.Int32) (Inherited from TextWriter.)
+ WriteLine(System.Boolean) (Inherited from TextWriter.)
+ WriteLine(System.Int32) (Inherited from TextWriter.)
+ WriteLine(System.UInt32) (Inherited from TextWriter.)
+ WriteLine(System.Int64) (Inherited from TextWriter.)
+ WriteLine(System.UInt64) (Inherited from TextWriter.)
+ WriteLine(System.Single) (Inherited from TextWriter.)
+ WriteLine(System.Double) (Inherited from TextWriter.)
+ WriteLine(System.Decimal) (Inherited from TextWriter.)
+ WriteLine(System.String) (Inherited from TextWriter.)
+ WriteLine(System.Object) (Inherited from TextWriter.)
+ WriteLine(System.String,System.Object) (Inherited from TextWriter.)
+ WriteLine(System.String,System.Object,System.Object) (Inherited from TextWriter.)
+ WriteLine(System.String,System.Object,System.Object,System.Object) (Inherited from TextWriter.)
+ WriteLine(System.String,System.Object[]) (Inherited from TextWriter.)
+
+Properties
+
+
+  NameDescription
+ Encoding Gets the encoding. 
+ FormatProvider (Inherited from TextWriter.)
+ NewLine (Inherited from TextWriter.)
+
+See Also
+
+
+Utf8StringWriter Class 
+robotManager.Helpful Namespace 
+Help File generated with GhostDoc
+ 
