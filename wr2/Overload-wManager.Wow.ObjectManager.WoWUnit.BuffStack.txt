@@ -1,0 +1,19 @@
+WRobot
+
+WoWUnit..::..BuffStack Method 
+Overload List
+
+
+  NameDescription
+ BuffStack(List<(Of <<'(UInt32>)>>)) Buff stack count. 
+ BuffStack(UInt32) Buff stack count. 
+ BuffStack(String) Buff stack count. 
+
+See Also
+
+
+WoWUnit Class 
+WoWUnit Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,25 @@
+WRobot
+
+Engine..::..Running Property 
+Gets a value indicating whether this Engine is running. 
+Namespace:  robotManager.FiniteStateMachine
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool Running { get; set; }Public Property Running As Boolean
+	Get
+	Setpublic:
+property bool^ Running {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if running; otherwise, false .
+See Also
+
+
+Engine Class
+robotManager.FiniteStateMachine Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,23 @@
+WRobot
+
+Logging..::..CountNumberInQueue Property 
+Get logs count in queue. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static int CountNumberInQueue { get; }Public Shared ReadOnly Property CountNumberInQueue As Integer
+	Getpublic:
+static property int^ CountNumberInQueue {
+	int^ get ();
+}Field Value
+The count number in queue.
+See Also
+
+
+Logging Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

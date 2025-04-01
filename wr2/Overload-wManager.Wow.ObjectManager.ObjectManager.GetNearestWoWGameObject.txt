@@ -1,0 +1,18 @@
+WRobot
+
+ObjectManager..::..GetNearestWoWGameObject Method 
+Overload List
+
+
+  NameDescription
+  GetNearestWoWGameObject(List<(Of <<'(WoWGameObject>)>>), Vector3, Boolean) Gets the nearest game object. 
+  GetNearestWoWGameObject(List<(Of <<'(WoWGameObject>)>>), Boolean, Boolean) Gets the nearest game object. 
+
+See Also
+
+
+ObjectManager Class 
+ObjectManager Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

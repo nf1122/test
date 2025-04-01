@@ -1,0 +1,18 @@
+WRobot
+
+MovementManager..::..StopMoveTo Method 
+Overload List
+
+
+  NameDescription
+  StopMoveTo()()()() Stop MoveTo(Vector3). 
+  StopMoveTo(Boolean, Int32) Stop MoveTo(Vector3). 
+
+See Also
+
+
+MovementManager Class 
+MovementManager Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,25 @@
+WRobot
+
+ProfileUserSettings..::..SkipSteps Property 
+Gets or sets the skipped steps index. 
+Namespace:  Quester.Bot
+Assembly:  Quester (in Quester.dll)
+Syntax
+
+
+C#VBC++
+public List<int> SkipSteps { get; set; }Public Property SkipSteps As List(Of Integer)
+	Get
+	Setpublic:
+property List<int^>^ SkipSteps {
+	List<int^>^ get ();
+	void set (List<int^>^ value);
+}Field Value
+The skip steps.
+See Also
+
+
+ProfileUserSettings Class
+Quester.Bot Namespace
+Help File generated with GhostDoc
+ 

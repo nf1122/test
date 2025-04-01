@@ -1,0 +1,19 @@
+WRobot
+
+Taxi..::..GetNearestNode Method 
+Overload List
+
+
+  NameDescription
+  GetNearestNode(Vector3, Boolean%) Gets the nearest node (need taxi frame open). 
+  GetNearestNode(Vector3, List<(Of <<'(TaxiNode>)>>), Boolean%) Gets the nearest node. 
+  GetNearestNode(List<(Of <<'(TaxiNode>)>>), Single, Boolean%) Gets the nearest node. 
+
+See Also
+
+
+Taxi Class 
+Taxi Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

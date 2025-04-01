@@ -1,0 +1,18 @@
+WRobot
+
+ObjectManager..::..GetWoWUnitWildPets Method 
+Overload List
+
+
+  NameDescription
+  GetWoWUnitWildPets(List<(Of <<'(WoWUnit>)>>)) Gets units wild pets. 
+  GetWoWUnitWildPets()()()() Gets units wild pets. 
+
+See Also
+
+
+ObjectManager Class 
+ObjectManager Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

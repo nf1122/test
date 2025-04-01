@@ -1,0 +1,18 @@
+WRobot
+
+ObjectManager..::..GetWoWUnitSkinnable Method 
+Overload List
+
+
+  NameDescription
+  GetWoWUnitSkinnable(List<(Of <<'(WoWUnit>)>>), List<(Of <<'(UInt64>)>>)) Gets units skinnable. 
+  GetWoWUnitSkinnable(List<(Of <<'(UInt64>)>>)) Gets units skinnable. 
+
+See Also
+
+
+ObjectManager Class 
+ObjectManager Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

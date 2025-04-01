@@ -1,0 +1,20 @@
+WRobot
+
+MovementManager..::..Face Method 
+Overload List
+
+
+  NameDescription
+  Face(WoWUnit) Face the Unit. 
+  Face(WoWPlayer) Face the specified Player. 
+  Face(WoWGameObject) Face the specified GameObject. 
+  Face(Vector3) Faces the specified position. 
+
+See Also
+
+
+MovementManager Class 
+MovementManager Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

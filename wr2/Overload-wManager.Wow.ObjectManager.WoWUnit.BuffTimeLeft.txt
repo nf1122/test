@@ -1,0 +1,18 @@
+WRobot
+
+WoWUnit..::..BuffTimeLeft Method 
+Overload List
+
+
+  NameDescription
+ BuffTimeLeft(String) Buff time left. 
+ BuffTimeLeft(List<(Of <<'(UInt32>)>>)) Buff time left. 
+
+See Also
+
+
+WoWUnit Class 
+WoWUnit Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

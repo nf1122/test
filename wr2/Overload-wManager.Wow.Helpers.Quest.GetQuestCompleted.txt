@@ -1,0 +1,18 @@
+WRobot
+
+Quest..::..GetQuestCompleted Method 
+Overload List
+
+
+  NameDescription
+  GetQuestCompleted(List<(Of <<'(Int32>)>>)) Check if one of the quest id is completed. 
+  GetQuestCompleted(Int32) Check if quest id is completed. 
+
+See Also
+
+
+Quest Class 
+Quest Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

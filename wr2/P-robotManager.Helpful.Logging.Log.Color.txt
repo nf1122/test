@@ -1,0 +1,25 @@
+WRobot
+
+Log..::..Color Property 
+Gets or sets the color. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public Color Color { get; set; }Public Property Color As Color
+	Get
+	Setpublic:
+property Color^ Color {
+	Color^ get ();
+	void set (Color^ value);
+}Field Value
+The color.
+See Also
+
+
+Logging..::..Log Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

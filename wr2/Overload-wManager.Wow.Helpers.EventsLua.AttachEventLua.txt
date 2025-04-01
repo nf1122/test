@@ -1,0 +1,18 @@
+WRobot
+
+EventsLua..::..AttachEventLua Method 
+Overload List
+
+
+  NameDescription
+  AttachEventLua(String, EventsLua..::..MethodDelegate) Attach lua event (the bot automatically detaches when you stop the product). 
+  AttachEventLua(LuaEventsId, EventsLua..::..MethodDelegate) Attach lua event (the bot automatically detaches when you stop the product). 
+
+See Also
+
+
+EventsLua Class 
+EventsLua Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

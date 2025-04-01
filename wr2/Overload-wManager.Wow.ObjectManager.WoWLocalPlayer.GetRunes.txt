@@ -1,0 +1,18 @@
+WRobot
+
+WoWLocalPlayer..::..GetRunes Method 
+Overload List
+
+
+  NameDescription
+ GetRunes()()()() Gets the runes. 
+ GetRunes(RuneTypes) Gets the runes by type. 
+
+See Also
+
+
+WoWLocalPlayer Class 
+WoWLocalPlayer Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

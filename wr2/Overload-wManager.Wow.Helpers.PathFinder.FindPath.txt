@@ -1,0 +1,26 @@
+WRobot
+
+PathFinder..::..FindPath Method 
+Overload List
+
+
+  NameDescription
+  FindPath(Vector3) Find path. 
+  FindPath(Vector3, Boolean) Find path. 
+  FindPath(Vector3, Vector3) Find path. 
+  FindPath(Vector3, Vector3, Boolean) Find path. 
+  FindPath(Vector3, Boolean%) Find path. 
+  FindPath(Vector3, Boolean%, Boolean) Find path. 
+  FindPath(Vector3, Boolean%, Boolean, Boolean) Find path. 
+  FindPath(Vector3, Vector3, String, Boolean) Find path. 
+  FindPath(Vector3, Vector3, Boolean%, Boolean) Find path. 
+  FindPath(Vector3, Vector3, String, Boolean%, Boolean, Boolean, Boolean, Boolean) Find path. 
+
+See Also
+
+
+PathFinder Class 
+PathFinder Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

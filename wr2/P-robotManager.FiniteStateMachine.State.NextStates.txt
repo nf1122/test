@@ -1,0 +1,23 @@
+WRobot
+
+State..::..NextStates Property 
+Launch these states after Run()()()() this state, empty if not used. 
+Namespace:  robotManager.FiniteStateMachine
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public virtual List<State> NextStates { get; }Public Overridable ReadOnly Property NextStates As List(Of State)
+	Getpublic:
+virtual property List<State^>^ NextStates {
+	List<State^>^ get ();
+}Field Value
+The next states.
+See Also
+
+
+State Class
+robotManager.FiniteStateMachine Namespace
+Help File generated with GhostDoc
+ 

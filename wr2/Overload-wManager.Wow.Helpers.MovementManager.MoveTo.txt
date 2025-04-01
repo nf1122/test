@@ -1,0 +1,20 @@
+WRobot
+
+MovementManager..::..MoveTo Method 
+Overload List
+
+
+  NameDescription
+  MoveTo(Vector3) Move to position. 
+  MoveTo(Single, Single, Single) Move to Position. 
+  MoveTo(WoWUnit) Moves to unit. 
+  MoveTo(WoWGameObject) Moves to game object. 
+
+See Also
+
+
+MovementManager Class 
+MovementManager Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

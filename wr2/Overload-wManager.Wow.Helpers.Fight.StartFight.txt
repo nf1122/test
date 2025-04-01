@@ -1,0 +1,18 @@
+WRobot
+
+Fight..::..StartFight Method 
+Overload List
+
+
+  NameDescription
+  StartFight(Boolean, Boolean, Boolean, Boolean) Starts the fight. 
+  StartFight(UInt64, Boolean, Boolean, Boolean, Boolean) Starts the fight. 
+
+See Also
+
+
+Fight Class 
+Fight Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+WoWObject..::..GetDescriptorAddress Method 
+Overload List
+
+
+  NameDescription
+ GetDescriptorAddress(Descriptors..::..ObjectFields) Gets the descriptor address. 
+ GetDescriptorAddress(UInt32) Gets the descriptor address. 
+ GetDescriptorAddress(UInt32, UInt32) Gets the descriptor address. 
+
+See Also
+
+
+WoWObject Class 
+WoWObject Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,20 @@
+WRobot
+
+ObjectManager..::..GetWoWUnitByName Method 
+Overload List
+
+
+  NameDescription
+  GetWoWUnitByName(List<(Of <<'(WoWUnit>)>>), List<(Of <<'(String>)>>)) Gets units by names. 
+  GetWoWUnitByName(List<(Of <<'(WoWUnit>)>>), String) Gets units by name. 
+  GetWoWUnitByName(String) Gets units by name. 
+  GetWoWUnitByName(List<(Of <<'(String>)>>)) Gets units by names. 
+
+See Also
+
+
+ObjectManager Class 
+ObjectManager Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

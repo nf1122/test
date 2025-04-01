@@ -1,0 +1,25 @@
+WRobot
+
+State..::..DisplayName Property 
+Gets the display name (must be unique name). 
+Namespace:  robotManager.FiniteStateMachine
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public virtual string DisplayName { get; set; }Public Overridable Property DisplayName As String
+	Get
+	Setpublic:
+virtual property String^ DisplayName {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The display name.
+See Also
+
+
+State Class
+robotManager.FiniteStateMachine Namespace
+Help File generated with GhostDoc
+ 

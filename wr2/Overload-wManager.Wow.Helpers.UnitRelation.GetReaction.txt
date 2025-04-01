@@ -1,0 +1,19 @@
+WRobot
+
+UnitRelation..::..GetReaction Method 
+Overload List
+
+
+  NameDescription
+  GetReaction(UInt32) Get reaction. 
+  GetReaction(UInt32, UInt32) Get reaction. 
+  GetReaction(WoWObject, WoWObject) Get reaction. 
+
+See Also
+
+
+UnitRelation Class 
+UnitRelation Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

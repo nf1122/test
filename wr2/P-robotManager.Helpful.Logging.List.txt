@@ -1,0 +1,23 @@
+WRobot
+
+Logging..::..List Property 
+Get logs list. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<Logging..::..Log> List { get; }Public Shared ReadOnly Property List As List(Of Logging..::..Log)
+	Getpublic:
+static property List<Logging..::..Log^>^ List {
+	List<Logging..::..Log^>^ get ();
+}Field Value
+The list.
+See Also
+
+
+Logging Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

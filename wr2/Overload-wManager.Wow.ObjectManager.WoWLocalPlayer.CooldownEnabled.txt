@@ -1,0 +1,18 @@
+WRobot
+
+WoWLocalPlayer..::..CooldownEnabled Method 
+Overload List
+
+
+  NameDescription
+ CooldownEnabled(UInt32) Cooldown enabled. 
+ CooldownEnabled(String, Boolean) Cooldown enabled. 
+
+See Also
+
+
+WoWLocalPlayer Class 
+WoWLocalPlayer Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

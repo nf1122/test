@@ -1,0 +1,23 @@
+WRobot
+
+State..::..NeedToRun Property 
+Indicate if Engine need to call method Run()()()(). 
+Namespace:  robotManager.FiniteStateMachine
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool NeedToRun { get; }Public ReadOnly Property NeedToRun As Boolean
+	Getpublic:
+property bool^ NeedToRun {
+	bool^ get ();
+}Field Value
+true if need to run; otherwise, false .
+See Also
+
+
+State Class
+robotManager.FiniteStateMachine Namespace
+Help File generated with GhostDoc
+ 

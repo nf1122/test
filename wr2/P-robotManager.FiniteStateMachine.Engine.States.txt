@@ -1,0 +1,25 @@
+WRobot
+
+Engine..::..States Property 
+Gets the states list (to add state it is better to use AddState(State)). 
+Namespace:  robotManager.FiniteStateMachine
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public List<State> States { get; set; }Public Property States As List(Of State)
+	Get
+	Setpublic:
+property List<State^>^ States {
+	List<State^>^ get ();
+	void set (List<State^>^ value);
+}Field Value
+The states.
+See Also
+
+
+Engine Class
+robotManager.FiniteStateMachine Namespace
+Help File generated with GhostDoc
+ 

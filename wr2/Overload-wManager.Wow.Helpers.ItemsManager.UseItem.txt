@@ -1,0 +1,19 @@
+WRobot
+
+ItemsManager..::..UseItem Method 
+Overload List
+
+
+  NameDescription
+  UseItem(String) Use the item. 
+  UseItem(UInt32) Use the item. 
+  UseItem(UInt32, Vector3) Use the item and mouse click at position. 
+
+See Also
+
+
+ItemsManager Class 
+ItemsManager Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

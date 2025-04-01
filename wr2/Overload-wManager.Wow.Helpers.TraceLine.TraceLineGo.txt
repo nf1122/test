@@ -1,0 +1,19 @@
+WRobot
+
+TraceLine..::..TraceLineGo Method 
+Overload List
+
+
+  NameDescription
+  TraceLineGo(Vector3) Trace line from character position to destination, return true if the line hit game element. 
+  TraceLineGo(Vector3, Vector3, CGWorldFrameHitFlags) Trace line from position to destination, return true if the line hit game element. 
+  TraceLineGo(Vector3, Vector3, CGWorldFrameHitFlags, Vector3%) Trace line from position to destination, return true if the line hit game element. 
+
+See Also
+
+
+TraceLine Class 
+TraceLine Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

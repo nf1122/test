@@ -1,0 +1,19 @@
+WRobot
+
+WoWUnit..::..HaveBuff Method 
+Overload List
+
+
+  NameDescription
+ HaveBuff(String) Has the buff. 
+ HaveBuff(List<(Of <<'(UInt32>)>>)) Has the buff. 
+ HaveBuff(UInt32) Has the buff. 
+
+See Also
+
+
+WoWUnit Class 
+WoWUnit Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

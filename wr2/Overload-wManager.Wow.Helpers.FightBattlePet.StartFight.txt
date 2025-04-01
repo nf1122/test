@@ -1,0 +1,18 @@
+WRobot
+
+FightBattlePet..::..StartFight Method 
+Overload List
+
+
+  NameDescription
+  StartFight()()()() Starts the fight. 
+  StartFight(UInt64) Starts the fight. 
+
+See Also
+
+
+FightBattlePet Class 
+FightBattlePet Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

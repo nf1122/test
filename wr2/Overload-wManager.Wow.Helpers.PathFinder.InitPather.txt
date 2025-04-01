@@ -1,0 +1,18 @@
+WRobot
+
+PathFinder..::..InitPather Method 
+Overload List
+
+
+  NameDescription
+  InitPather()()()() Initialize the pather (with current continent). 
+  InitPather(String) Initialize the pather. 
+
+See Also
+
+
+PathFinder Class 
+PathFinder Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

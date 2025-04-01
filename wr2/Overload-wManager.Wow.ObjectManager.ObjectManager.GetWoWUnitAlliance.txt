@@ -1,0 +1,18 @@
+WRobot
+
+ObjectManager..::..GetWoWUnitAlliance Method 
+Overload List
+
+
+  NameDescription
+  GetWoWUnitAlliance(List<(Of <<'(WoWPlayer>)>>)) Gets players alliance. 
+  GetWoWUnitAlliance()()()() Gets players alliance. 
+
+See Also
+
+
+ObjectManager Class 
+ObjectManager Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

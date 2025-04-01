@@ -1,0 +1,18 @@
+WRobot
+
+ObjectManager..::..GetWoWUnitHorde Method 
+Overload List
+
+
+  NameDescription
+  GetWoWUnitHorde(List<(Of <<'(WoWPlayer>)>>)) Gets players horde. 
+  GetWoWUnitHorde()()()() Gets players horde. 
+
+See Also
+
+
+ObjectManager Class 
+ObjectManager Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

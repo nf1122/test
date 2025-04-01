@@ -1,0 +1,18 @@
+WRobot
+
+ObjectManager..::..GetNearestWoWUnit Method 
+Overload List
+
+
+  NameDescription
+  GetNearestWoWUnit(List<(Of <<'(WoWUnit>)>>), Vector3, Boolean) Gets the nearest unit. 
+  GetNearestWoWUnit(List<(Of <<'(WoWUnit>)>>), Boolean) Gets the nearest unit. 
+
+See Also
+
+
+ObjectManager Class 
+ObjectManager Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

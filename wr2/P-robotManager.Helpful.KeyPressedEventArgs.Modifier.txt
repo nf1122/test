@@ -1,0 +1,23 @@
+WRobot
+
+KeyPressedEventArgs..::..Modifier Property 
+Gets the modifier. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public ModifierKeys Modifier { get; }Public ReadOnly Property Modifier As ModifierKeys
+	Getpublic:
+property ModifierKeys^ Modifier {
+	ModifierKeys^ get ();
+}Field Value
+The modifier.
+See Also
+
+
+KeyPressedEventArgs Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

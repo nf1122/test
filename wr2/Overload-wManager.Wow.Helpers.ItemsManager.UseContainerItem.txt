@@ -1,0 +1,18 @@
+WRobot
+
+ItemsManager..::..UseContainerItem Method 
+Overload List
+
+
+  NameDescription
+  UseContainerItem(String) Use container item by name. 
+  UseContainerItem(UInt32) Use the container item by id. 
+
+See Also
+
+
+ItemsManager Class 
+ItemsManager Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

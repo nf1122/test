@@ -1,0 +1,19 @@
+WRobot
+
+NpcDB..::..GetNpcNearby Method 
+Overload List
+
+
+  NameDescription
+  GetNpcNearby(Npc..::..NpcType) Get closest NPC by type. 
+  GetNpcNearby(Npc..::..NpcType, Npc..::..NpcVendorItemClass) Get closest NPC by type. 
+  GetNpcNearby(Npc..::..NpcType, Npc..::..FactionType, ContinentId, Vector3, Boolean, Npc..::..NpcVendorItemClass) Get closest NPC by type. 
+
+See Also
+
+
+NpcDB Class 
+NpcDB Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

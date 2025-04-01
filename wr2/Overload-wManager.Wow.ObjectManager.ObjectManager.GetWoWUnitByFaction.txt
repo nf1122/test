@@ -1,0 +1,20 @@
+WRobot
+
+ObjectManager..::..GetWoWUnitByFaction Method 
+Overload List
+
+
+  NameDescription
+  GetWoWUnitByFaction(List<(Of <<'(WoWUnit>)>>), List<(Of <<'(UInt32>)>>), Boolean) Gets units by faction. 
+  GetWoWUnitByFaction(List<(Of <<'(WoWUnit>)>>), UInt32) Gets units by faction. 
+  GetWoWUnitByFaction(UInt32) Gets units by faction. 
+  GetWoWUnitByFaction(List<(Of <<'(UInt32>)>>), Boolean) Gets units by faction. 
+
+See Also
+
+
+ObjectManager Class 
+ObjectManager Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,18 @@
+WRobot
+
+ObjectManager..::..GetNearestWoWPlayer Method 
+Overload List
+
+
+  NameDescription
+  GetNearestWoWPlayer(List<(Of <<'(WoWPlayer>)>>)) Gets the nearest player. 
+  GetNearestWoWPlayer(List<(Of <<'(WoWPlayer>)>>), Vector3) Gets the nearest player. 
+
+See Also
+
+
+ObjectManager Class 
+ObjectManager Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

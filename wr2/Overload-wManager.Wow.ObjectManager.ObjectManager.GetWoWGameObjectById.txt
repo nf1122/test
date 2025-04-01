@@ -1,0 +1,18 @@
+WRobot
+
+ObjectManager..::..GetWoWGameObjectById Method 
+Overload List
+
+
+  NameDescription
+  GetWoWGameObjectById(List<(Of <<'(WoWGameObject>)>>), List<(Of <<'(Int32>)>>)) Gets GameObjects by entries. 
+  GetWoWGameObjectById(List<(Of <<'(Int32>)>>)) Gets the GameObjects by entries. 
+
+See Also
+
+
+ObjectManager Class 
+ObjectManager Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,18 @@
+WRobot
+
+WoWUnit..::..GetBuff Method 
+Overload List
+
+
+  NameDescription
+ GetBuff(String) Gets the buff. 
+ GetBuff(List<(Of <<'(UInt32>)>>)) Gets the buff. 
+
+See Also
+
+
+WoWUnit Class 
+WoWUnit Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

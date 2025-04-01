@@ -1,0 +1,20 @@
+WRobot
+
+ObjectManager..::..GetWoWGameObjectByName Method 
+Overload List
+
+
+  NameDescription
+  GetWoWGameObjectByName(List<(Of <<'(WoWGameObject>)>>), List<(Of <<'(String>)>>)) Gets GameObjects by names 
+  GetWoWGameObjectByName(List<(Of <<'(WoWGameObject>)>>), String) Gets GameObjects by name. 
+  GetWoWGameObjectByName(String) Gets GameObjects by name. 
+  GetWoWGameObjectByName(List<(Of <<'(String>)>>)) Gets GameObjects by names. 
+
+See Also
+
+
+ObjectManager Class 
+ObjectManager Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

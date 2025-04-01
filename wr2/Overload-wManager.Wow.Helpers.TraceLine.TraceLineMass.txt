@@ -1,0 +1,18 @@
+WRobot
+
+TraceLine..::..TraceLineMass Method 
+Overload List
+
+
+  NameDescription
+  TraceLineMass(List<(Of <<'(TraceLine..::..Line>)>>)%, CGWorldFrameHitFlags) Mass TraceLine. 
+  TraceLineMass(List<(Of <<'(TraceLine..::..Line>)>>)%, CGWorldFrameHitFlags, Nullable<(Of <<'(Boolean>)>>)) Mass TraceLine. 
+
+See Also
+
+
+TraceLine Class 
+TraceLine Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

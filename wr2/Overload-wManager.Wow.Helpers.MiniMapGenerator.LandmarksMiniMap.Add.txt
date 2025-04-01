@@ -1,0 +1,19 @@
+WRobot
+
+LandmarksMiniMap..::..Add Method 
+Overload List
+
+
+  NameDescription
+ Add(MiniMapGenerator..::..LandmarkMiniMap) Adds the specified landmark. 
+ Add(List<(Of <<'(MiniMapGenerator..::..LandmarkMiniMap>)>>)) Adds the specified landmarks. 
+ Add(Vector3, String, Color, Single, String, Boolean, Single, Boolean) Adds the specified position. 
+
+See Also
+
+
+MiniMapGenerator..::..LandmarksMiniMap Class 
+MiniMapGenerator..::..LandmarksMiniMap Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

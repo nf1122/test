@@ -1,0 +1,18 @@
+WRobot
+
+ItemsManager..::..GetItemSpell Method 
+Overload List
+
+
+  NameDescription
+  GetItemSpell(UInt32) Get the item spell. 
+  GetItemSpell(String) Get the item spell. 
+
+See Also
+
+
+ItemsManager Class 
+ItemsManager Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

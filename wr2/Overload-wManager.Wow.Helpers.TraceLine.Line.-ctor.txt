@@ -1,0 +1,18 @@
+WRobot
+
+Line Constructor 
+Overload List
+
+
+  NameDescription
+ TraceLine..::..Line()()()() Initializes a new instance of the TraceLine..::..Line class. 
+ TraceLine..::..Line(Vector3, Vector3) Initializes a new instance of the TraceLine..::..Line class. 
+
+See Also
+
+
+TraceLine..::..Line Class 
+TraceLine..::..Line Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

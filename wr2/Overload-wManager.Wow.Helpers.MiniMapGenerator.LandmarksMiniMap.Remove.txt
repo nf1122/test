@@ -1,0 +1,18 @@
+WRobot
+
+LandmarksMiniMap..::..Remove Method 
+Overload List
+
+
+  NameDescription
+ Remove(String) Removes the specified Id. 
+ Remove(List<(Of <<'(String>)>>)) Removes specified Id. 
+
+See Also
+
+
+MiniMapGenerator..::..LandmarksMiniMap Class 
+MiniMapGenerator..::..LandmarksMiniMap Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

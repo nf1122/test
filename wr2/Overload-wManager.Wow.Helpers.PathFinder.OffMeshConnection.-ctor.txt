@@ -1,0 +1,19 @@
+WRobot
+
+OffMeshConnection Constructor 
+Overload List
+
+
+  NameDescription
+ PathFinder..::..OffMeshConnection()()()() Initializes a new instance of the PathFinder..::..OffMeshConnection class. 
+ PathFinder..::..OffMeshConnection(List<(Of <<'(Vector3>)>>), Int32) Initialize a new instance of the PathFinder..::..OffMeshConnection class. 
+ PathFinder..::..OffMeshConnection(List<(Of <<'(Vector3>)>>), Int32, PathFinder..::..OffMeshConnectionType, Boolean) Initialize a new instance of the PathFinder..::..OffMeshConnection class. 
+
+See Also
+
+
+PathFinder..::..OffMeshConnection Class 
+PathFinder..::..OffMeshConnection Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

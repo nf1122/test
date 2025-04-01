@@ -1,0 +1,22 @@
+WRobot
+
+Args..::..LogInWow Property 
+Gets a value indicating if automatically login in game. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool LogInWow { get; }Public ReadOnly Property LogInWow As Boolean
+	Getpublic:
+property bool^ LogInWow {
+	bool^ get ();
+}
+See Also
+
+
+Args Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

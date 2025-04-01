@@ -1,0 +1,18 @@
+WRobot
+
+SpellManager..::..ExistMount Method 
+Overload List
+
+
+  NameDescription
+  ExistMount(String) Mount exist. 
+  ExistMount(UInt32) Mount exist. 
+
+See Also
+
+
+SpellManager Class 
+SpellManager Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

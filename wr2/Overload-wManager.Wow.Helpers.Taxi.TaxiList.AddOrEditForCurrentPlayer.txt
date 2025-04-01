@@ -1,0 +1,18 @@
+WRobot
+
+TaxiList..::..AddOrEditForCurrentPlayer Method 
+Overload List
+
+
+  NameDescription
+  AddOrEditForCurrentPlayer(List<(Of <<'(TaxiNode>)>>), Boolean) Adds the or edit for current player. 
+  AddOrEditForCurrentPlayer(TaxiNode, Boolean) Adds the or edit for current player. 
+
+See Also
+
+
+Taxi..::..TaxiList Class 
+Taxi..::..TaxiList Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

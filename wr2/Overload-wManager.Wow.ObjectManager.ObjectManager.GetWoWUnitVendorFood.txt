@@ -1,0 +1,18 @@
+WRobot
+
+ObjectManager..::..GetWoWUnitVendorFood Method 
+Overload List
+
+
+  NameDescription
+  GetWoWUnitVendorFood(List<(Of <<'(WoWUnit>)>>)) Gets units vendor food. 
+  GetWoWUnitVendorFood()()()() Gets units vendor food. 
+
+See Also
+
+
+ObjectManager Class 
+ObjectManager Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,22 @@
+WRobot
+
+Args..::..AutoStart Property 
+Gets a value indicating if automatically attach game, connect to the bot server and start bot product. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool AutoStart { get; }Public ReadOnly Property AutoStart As Boolean
+	Getpublic:
+property bool^ AutoStart {
+	bool^ get ();
+}
+See Also
+
+
+Args Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

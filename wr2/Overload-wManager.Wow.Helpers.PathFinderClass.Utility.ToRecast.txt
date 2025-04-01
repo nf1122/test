@@ -1,0 +1,18 @@
+WRobot
+
+Utility..::..ToRecast Method 
+Overload List
+
+
+  NameDescription
+  ToRecast(array<Single>[]()[][]) Converts to recast position (from wow). 
+  ToRecast(Vector3) Converts to recast position (from wow). 
+
+See Also
+
+
+Utility Class 
+Utility Members 
+wManager.Wow.Helpers.PathFinderClass Namespace 
+Help File generated with GhostDoc
+ 

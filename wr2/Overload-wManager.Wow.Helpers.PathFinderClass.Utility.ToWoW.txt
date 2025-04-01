@@ -1,0 +1,18 @@
+WRobot
+
+Utility..::..ToWoW Method 
+Overload List
+
+
+  NameDescription
+  ToWoW(array<Single>[]()[][]) Converts to wow position (from recast). 
+  ToWoW(Vector3) Converts to wow position (from recast). 
+
+See Also
+
+
+Utility Class 
+Utility Members 
+wManager.Wow.Helpers.PathFinderClass Namespace 
+Help File generated with GhostDoc
+ 

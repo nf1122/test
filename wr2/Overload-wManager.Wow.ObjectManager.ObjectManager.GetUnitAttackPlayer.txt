@@ -1,0 +1,18 @@
+WRobot
+
+ObjectManager..::..GetUnitAttackPlayer Method 
+Overload List
+
+
+  NameDescription
+  GetUnitAttackPlayer(List<(Of <<'(WoWUnit>)>>)) Gets the units that attack local player. 
+  GetUnitAttackPlayer()()()() Gets the units that attack local player. 
+
+See Also
+
+
+ObjectManager Class 
+ObjectManager Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,25 @@
+WRobot
+
+Log..::..DateTime Property 
+Gets or sets the date time. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public DateTime DateTime { get; set; }Public Property DateTime As DateTime
+	Get
+	Setpublic:
+property DateTime^ DateTime {
+	DateTime^ get ();
+	void set (DateTime^ value);
+}Field Value
+The date time.
+See Also
+
+
+Logging..::..Log Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

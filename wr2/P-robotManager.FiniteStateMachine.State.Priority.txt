@@ -1,0 +1,25 @@
+WRobot
+
+State..::..Priority Property 
+Gets the priority (determine the order of execution by Engine). 
+Namespace:  robotManager.FiniteStateMachine
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public virtual int Priority { get; set; }Public Overridable Property Priority As Integer
+	Get
+	Setpublic:
+virtual property int^ Priority {
+	int^ get ();
+	void set (int^ value);
+}Field Value
+The priority.
+See Also
+
+
+State Class
+robotManager.FiniteStateMachine Namespace
+Help File generated with GhostDoc
+ 

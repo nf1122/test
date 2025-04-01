@@ -1,0 +1,18 @@
+WRobot
+
+ObjectManager..::..GetWoWPlayerLootable Method 
+Overload List
+
+
+  NameDescription
+  GetWoWPlayerLootable()()()() Gets players lootable. 
+  GetWoWPlayerLootable(List<(Of <<'(WoWPlayer>)>>)) Gets players lootable. 
+
+See Also
+
+
+ObjectManager Class 
+ObjectManager Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

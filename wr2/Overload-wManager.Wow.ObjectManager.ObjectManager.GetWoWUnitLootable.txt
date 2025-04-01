@@ -1,0 +1,18 @@
+WRobot
+
+ObjectManager..::..GetWoWUnitLootable Method 
+Overload List
+
+
+  NameDescription
+  GetWoWUnitLootable(List<(Of <<'(WoWUnit>)>>)) Gets units lootable. 
+  GetWoWUnitLootable()()()() Gets units lootable. 
+
+See Also
+
+
+ObjectManager Class 
+ObjectManager Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

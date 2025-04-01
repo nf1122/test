@@ -1,0 +1,18 @@
+WRobot
+
+WoWLocalPlayer..::..CooldownTimeLeft Method 
+Overload List
+
+
+  NameDescription
+ CooldownTimeLeft(UInt32) Cooldown time left. 
+ CooldownTimeLeft(String, Boolean) Cooldown time left. 
+
+See Also
+
+
+WoWLocalPlayer Class 
+WoWLocalPlayer Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

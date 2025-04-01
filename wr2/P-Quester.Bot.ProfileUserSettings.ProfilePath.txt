@@ -1,0 +1,25 @@
+WRobot
+
+ProfileUserSettings..::..ProfilePath Property 
+Gets or sets the profile path (relative to "WRobot\Profiles\Quester\"). 
+Namespace:  Quester.Bot
+Assembly:  Quester (in Quester.dll)
+Syntax
+
+
+C#VBC++
+public string ProfilePath { get; set; }Public Property ProfilePath As String
+	Get
+	Setpublic:
+property String^ ProfilePath {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The profile path.
+See Also
+
+
+ProfileUserSettings Class
+Quester.Bot Namespace
+Help File generated with GhostDoc
+ 

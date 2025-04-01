@@ -1,0 +1,25 @@
+WRobot
+
+QuesterSetting..::..CurrentSetting Property 
+Gets or sets the current setting. 
+Namespace:  Quester.Bot
+Assembly:  Quester (in Quester.dll)
+Syntax
+
+
+C#VBC++
+public static QuesterSetting CurrentSetting { get; set; }Public Shared Property CurrentSetting As QuesterSetting
+	Get
+	Setpublic:
+static property QuesterSetting^ CurrentSetting {
+	QuesterSetting^ get ();
+	void set (QuesterSetting^ value);
+}Field Value
+The current setting.
+See Also
+
+
+QuesterSetting Class
+Quester.Bot Namespace
+Help File generated with GhostDoc
+ 

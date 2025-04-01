@@ -1,0 +1,18 @@
+WRobot
+
+ObjectManager..::..GetWoWUnitSpiritHealer Method 
+Overload List
+
+
+  NameDescription
+  GetWoWUnitSpiritHealer(List<(Of <<'(WoWUnit>)>>)) Gets units spirit healer. 
+  GetWoWUnitSpiritHealer()()()() Gets units spirit healer. 
+
+See Also
+
+
+ObjectManager Class 
+ObjectManager Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,18 @@
+WRobot
+
+RunesManager..::..GetRunesReady Method 
+Overload List
+
+
+  NameDescription
+  GetRunesReady()()()() Get runes ready. 
+  GetRunesReady(RuneTypes) 
+
+See Also
+
+
+RunesManager Class 
+RunesManager Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

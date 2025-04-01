@@ -1,0 +1,19 @@
+WRobot
+
+SpellManager..::..KnowSpell Method 
+Overload List
+
+
+  NameDescription
+  KnowSpell(List<(Of <<'(UInt32>)>>)) Know the spell. 
+  KnowSpell(UInt32) Know the spell. 
+  KnowSpell(String) Know the spell. 
+
+See Also
+
+
+SpellManager Class 
+SpellManager Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

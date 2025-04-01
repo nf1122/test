@@ -1,0 +1,18 @@
+WRobot
+
+Taxi..::..TakeTaxiNode Method 
+Overload List
+
+
+  NameDescription
+  TakeTaxiNode(Int32, String) Takes the taxi node (need taxi frame open). 
+  TakeTaxiNode(TaxiNode) Takes the taxi node (need taxi frame open). 
+
+See Also
+
+
+Taxi Class 
+Taxi Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

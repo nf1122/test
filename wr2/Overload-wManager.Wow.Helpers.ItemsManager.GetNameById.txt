@@ -1,0 +1,18 @@
+WRobot
+
+ItemsManager..::..GetNameById Method 
+Overload List
+
+
+  NameDescription
+  GetNameById(Int32) Get the item name by id. 
+  GetNameById(UInt32) Gets the item name by id. 
+
+See Also
+
+
+ItemsManager Class 
+ItemsManager Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

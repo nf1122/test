@@ -1,0 +1,18 @@
+WRobot
+
+PatherServer..::..GetTileByLocation Method 
+Overload List
+
+
+  NameDescription
+  GetTileByLocation(Vector3, Single%, Single%) Get tile by location. 
+  GetTileByLocation(array<Single>[]()[][], Single%, Single%) Get tile by location. 
+
+See Also
+
+
+PatherServer Class 
+PatherServer Members 
+wManager.Wow.Helpers.PathFinderClass Namespace 
+Help File generated with GhostDoc
+ 

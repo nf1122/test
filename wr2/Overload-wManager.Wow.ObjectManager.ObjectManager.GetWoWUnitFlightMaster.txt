@@ -1,0 +1,18 @@
+WRobot
+
+ObjectManager..::..GetWoWUnitFlightMaster Method 
+Overload List
+
+
+  NameDescription
+  GetWoWUnitFlightMaster(List<(Of <<'(WoWUnit>)>>)) Gets units flight master. 
+  GetWoWUnitFlightMaster()()()() Gets units flight master. 
+
+See Also
+
+
+ObjectManager Class 
+ObjectManager Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

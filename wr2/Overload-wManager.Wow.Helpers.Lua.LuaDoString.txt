@@ -1,0 +1,26 @@
+WRobot
+
+Lua..::..LuaDoString Method 
+Overload List
+
+
+  NameDescription
+  LuaDoString(array<String>[]()[][], String) Execute lua code and get result. 
+  LuaDoString(List<(Of <<'(String>)>>), String) Execute lua code and get result. 
+  LuaDoString<(Of <<'(T>)>>)(array<String>[]()[][], String) Execute lua code and get result (you can found example in [LuaDoString{T}(string,string)]). 
+  LuaDoString<(Of <<'(T>)>>)(List<(Of <<'(String>)>>), String) Execute lua code and get result (you can found example in [LuaDoString{T}(string,string)]). 
+  LuaDoString<(Of <<'(T>)>>)(String, String) Execute lua code and get result.
+  LuaDoString(String, Type, String) Execute lua code and get result (you can found example in [LuaDoString{T}(string,string)]). 
+  LuaDoString(String, String) Execute lua code and get result (you can found example in [LuaDoString{T}(string,string)]). 
+  LuaDoString(List<(Of <<'(String>)>>), Boolean) Execute lua code. 
+  LuaDoString(String, Boolean) Execute lua code. 
+  LuaDoString(String, Boolean, Boolean) Execute lua code. 
+
+See Also
+
+
+Lua Class 
+Lua Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

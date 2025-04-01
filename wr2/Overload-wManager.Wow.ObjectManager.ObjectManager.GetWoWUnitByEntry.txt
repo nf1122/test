@@ -1,0 +1,22 @@
+WRobot
+
+ObjectManager..::..GetWoWUnitByEntry Method 
+Overload List
+
+
+  NameDescription
+  GetWoWUnitByEntry(List<(Of <<'(WoWUnit>)>>), List<(Of <<'(Int32>)>>), Boolean) Gets units by entries. 
+  GetWoWUnitByEntry(List<(Of <<'(WoWUnit>)>>), List<(Of <<'(Int32>)>>)) Gets units by entries. 
+  GetWoWUnitByEntry(List<(Of <<'(WoWUnit>)>>), Int32) Gets units by entry. 
+  GetWoWUnitByEntry(Int32) Gets units by entry. 
+  GetWoWUnitByEntry(Int32, Boolean) Gets units by entry. 
+  GetWoWUnitByEntry(List<(Of <<'(Int32>)>>)) Gets units by entries. 
+
+See Also
+
+
+ObjectManager Class 
+ObjectManager Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

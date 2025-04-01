@@ -1,0 +1,19 @@
+WRobot
+
+ObjectManager..::..GetWoWGameObjectByDisplayId Method 
+Overload List
+
+
+  NameDescription
+  GetWoWGameObjectByDisplayId(List<(Of <<'(WoWGameObject>)>>), List<(Of <<'(Int32>)>>)) Gets GameObjects by display id. 
+  GetWoWGameObjectByDisplayId(Int32) GameObjects by display id. 
+  GetWoWGameObjectByDisplayId(List<(Of <<'(Int32>)>>)) GameObjects by display id. 
+
+See Also
+
+
+ObjectManager Class 
+ObjectManager Members 
+wManager.Wow.ObjectManager Namespace 
+Help File generated with GhostDoc
+ 

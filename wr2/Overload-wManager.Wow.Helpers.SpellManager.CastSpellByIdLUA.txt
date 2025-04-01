@@ -1,0 +1,18 @@
+WRobot
+
+SpellManager..::..CastSpellByIdLUA Method 
+Overload List
+
+
+  NameDescription
+  CastSpellByIdLUA(UInt32) Cast spell by ID with lua. 
+  CastSpellByIdLUA(UInt32, String) Casts spell by ID with lua. 
+
+See Also
+
+
+SpellManager Class 
+SpellManager Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 

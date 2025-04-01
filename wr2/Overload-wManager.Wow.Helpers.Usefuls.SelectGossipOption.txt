@@ -1,0 +1,18 @@
+WRobot
+
+Usefuls..::..SelectGossipOption Method 
+Overload List
+
+
+  NameDescription
+  SelectGossipOption(Int32) Selects a gossip (conversation) option. 
+  SelectGossipOption(GossipOptionsType) Selects the gossip option. 
+
+See Also
+
+
+Usefuls Class 
+Usefuls Members 
+wManager.Wow.Helpers Namespace 
+Help File generated with GhostDoc
+ 
