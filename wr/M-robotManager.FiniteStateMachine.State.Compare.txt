@@ -1,0 +1,36 @@
+WRobot
+
+State..::..Compare Method 
+Compares two objects and returns a value indicating whether one is less than, equal to, or greater than the other. 
+Namespace:  robotManager.FiniteStateMachine
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public int Compare(
+	State x,
+	State y
+)Public Function Compare ( _
+	x As State, _
+	y As State _
+) As Integerpublic:
+int^ Compare(
+	State^ x, 
+	State^ y
+)Parameters
+x
+Type: robotManager.FiniteStateMachine..::..State
+The first object to compare.
+y
+Type: robotManager.FiniteStateMachine..::..State
+The second object to compare.
+Return Value
+A signed integer that indicates the relative values of x and y, as shown in the following table.Value Meaning Less than zerox is less than y.Zerox equals y.Greater than zerox is greater than y.
+See Also
+
+
+State Class
+robotManager.FiniteStateMachine Namespace
+Help File generated with GhostDoc
+ 

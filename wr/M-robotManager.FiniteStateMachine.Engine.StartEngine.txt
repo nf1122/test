@@ -1,0 +1,40 @@
+WRobot
+
+Engine..::..StartEngine Method 
+Starts the engine Pulse()()()() states list in loop in new thread. 
+Namespace:  robotManager.FiniteStateMachine
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public void StartEngine(
+	int framesPerSecond,
+	string threadName,
+	bool ignoreIfAlreadyLaunched
+)Public Sub StartEngine ( _
+	framesPerSecond As Integer, _
+	threadName As String, _
+	ignoreIfAlreadyLaunched As Boolean _
+)public:
+void StartEngine(
+	int^ framesPerSecond, 
+	String^ threadName, 
+	bool^ ignoreIfAlreadyLaunched
+)Parameters
+framesPerSecond
+Type: Int32
+The frames per second.
+threadName
+Type: String
+Name of thread
+ignoreIfAlreadyLaunched
+Type: Boolean
+Ignore if already launched on other Engine
+See Also
+
+
+Engine Class
+robotManager.FiniteStateMachine Namespace
+Help File generated with GhostDoc
+ 

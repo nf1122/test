@@ -1,0 +1,49 @@
+WRobot
+
+Display..::..ScreenshotWindowToBytes Method (IntPtr, ImageFormat, Int32, Int32)
+Take a window screenshot and return file. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static byte[] ScreenshotWindowToBytes(
+	IntPtr mainWindowHandle,
+	ImageFormat format,
+	int maxHeight,
+	int maxWidth
+)Public Shared Function ScreenshotWindowToBytes ( _
+	mainWindowHandle As IntPtr, _
+	format As ImageFormat, _
+	maxHeight As Integer, _
+	maxWidth As Integer _
+) As Byte()public:
+static array<unsigned char^>^ ScreenshotWindowToBytes(
+	IntPtr^ mainWindowHandle, 
+	ImageFormat^ format, 
+	int^ maxHeight, 
+	int^ maxWidth
+)Parameters
+mainWindowHandle
+Type: IntPtr
+The main window handle.
+format
+Type: ImageFormat
+The format.
+maxHeight
+Type: Int32
+The maximum height.
+maxWidth
+Type: Int32
+The maximum width.
+Return Value
+System.Byte[].
+See Also
+
+
+Display Class
+ScreenshotWindowToBytes Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

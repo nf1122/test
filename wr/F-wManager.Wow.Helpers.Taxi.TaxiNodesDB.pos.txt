@@ -1,0 +1,21 @@
+WRobot
+
+TaxiNodesDB..::..pos Field
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[MarshalAsAttribute]
+public float[] pos<MarshalAsAttribute> _
+Public pos As Single()[MarshalAsAttribute]
+public:
+array<float^>^ pos
+See Also
+
+
+Taxi..::..TaxiNodesDB Structure
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

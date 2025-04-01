@@ -1,0 +1,19 @@
+WRobot
+
+State..::..Run Method 
+Runs state. 
+Namespace:  robotManager.FiniteStateMachine
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public void Run()Public Sub Runpublic:
+void Run()
+See Also
+
+
+State Class
+robotManager.FiniteStateMachine Namespace
+Help File generated with GhostDoc
+ 

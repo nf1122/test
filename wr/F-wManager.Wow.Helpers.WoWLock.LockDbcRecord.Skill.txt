@@ -1,0 +1,21 @@
+WRobot
+
+LockDbcRecord..::..Skill Field
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[MarshalAsAttribute]
+public uint[] Skill<MarshalAsAttribute> _
+Public Skill As UInteger()[MarshalAsAttribute]
+public:
+array<unsigned int^>^ Skill
+See Also
+
+
+WoWLock..::..LockDbcRecord Structure
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

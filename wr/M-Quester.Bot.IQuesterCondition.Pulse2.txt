@@ -1,0 +1,17 @@
+WRobot
+
+IQuesterCondition..::..Pulse2 Method 
+Namespace:  Quester.Bot
+Assembly:  Quester (in Quester.dll)
+Syntax
+
+
+C#VBC++
+void Pulse2()Sub Pulse2void Pulse2()
+See Also
+
+
+IQuesterCondition Interface
+Quester.Bot Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+Line..::..Result Field
+The result 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool ResultPublic Result As Booleanpublic:
+bool^ Result
+See Also
+
+
+TraceLine..::..Line Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

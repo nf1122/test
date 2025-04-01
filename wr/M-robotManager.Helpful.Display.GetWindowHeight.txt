@@ -1,0 +1,32 @@
+WRobot
+
+Display..::..GetWindowHeight Method 
+Gets the height window. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static int GetWindowHeight(
+	IntPtr mainWindowHandle
+)Public Shared Function GetWindowHeight ( _
+	mainWindowHandle As IntPtr _
+) As Integerpublic:
+static int^ GetWindowHeight(
+	IntPtr^ mainWindowHandle
+)Parameters
+mainWindowHandle
+Type: IntPtr
+The main window handle.
+Field Value
+The height of the window. 
+Return Value
+System.Int32.
+See Also
+
+
+Display Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

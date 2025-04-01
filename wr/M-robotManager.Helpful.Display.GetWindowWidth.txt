@@ -1,0 +1,32 @@
+WRobot
+
+Display..::..GetWindowWidth Method 
+Gets the width of the window. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static int GetWindowWidth(
+	IntPtr mainWindowHandle
+)Public Shared Function GetWindowWidth ( _
+	mainWindowHandle As IntPtr _
+) As Integerpublic:
+static int^ GetWindowWidth(
+	IntPtr^ mainWindowHandle
+)Parameters
+mainWindowHandle
+Type: IntPtr
+The main window handle.
+Field Value
+The width of the window. 
+Return Value
+System.Int32.
+See Also
+
+
+Display Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

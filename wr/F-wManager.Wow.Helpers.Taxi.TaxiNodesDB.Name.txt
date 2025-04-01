@@ -1,0 +1,21 @@
+WRobot
+
+TaxiNodesDB..::..Name Field
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[MarshalAsAttribute]
+public string Name<MarshalAsAttribute> _
+Public Name As String[MarshalAsAttribute]
+public:
+String^ Name
+See Also
+
+
+Taxi..::..TaxiNodesDB Structure
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

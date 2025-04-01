@@ -1,0 +1,19 @@
+WRobot
+
+QuesterCurrentContext..::..CodeNamespace Field
+The code namespace (Xml is converted to C# code, this c# code use this namespace). New namespace is generated when a profile is loaded. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string CodeNamespacePublic Shared CodeNamespace As Stringpublic:
+static String^ CodeNamespace
+See Also
+
+
+Quest..::..QuesterCurrentContext Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

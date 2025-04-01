@@ -1,0 +1,19 @@
+WRobot
+
+PetBattles..::..ReviveOne Field
+The revive one 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ReviveOnePublic Shared ReviveOne As Booleanpublic:
+static bool^ ReviveOne
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

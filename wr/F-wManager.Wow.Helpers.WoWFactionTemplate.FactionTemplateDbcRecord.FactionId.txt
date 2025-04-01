@@ -1,0 +1,18 @@
+WRobot
+
+FactionTemplateDbcRecord..::..FactionId Field
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint FactionIdPublic FactionId As UIntegerpublic:
+unsigned int^ FactionId
+See Also
+
+
+WoWFactionTemplate..::..FactionTemplateDbcRecord Structure
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

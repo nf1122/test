@@ -1,0 +1,18 @@
+WRobot
+
+TaxiNodesDB..::..ContinentID Field
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint ContinentIDPublic ContinentID As UIntegerpublic:
+unsigned int^ ContinentID
+See Also
+
+
+Taxi..::..TaxiNodesDB Structure
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

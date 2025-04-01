@@ -1,0 +1,19 @@
+WRobot
+
+PlayerQuest..::..Time Field
+The time 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int TimePublic Time As Integerpublic:
+int^ Time
+See Also
+
+
+Quest..::..PlayerQuest Structure
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

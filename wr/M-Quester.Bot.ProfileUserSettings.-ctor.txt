@@ -1,0 +1,19 @@
+WRobot
+
+ProfileUserSettings Constructor 
+Initializes a new instance of the ProfileUserSettings class. 
+Namespace:  Quester.Bot
+Assembly:  Quester (in Quester.dll)
+Syntax
+
+
+C#VBC++
+public ProfileUserSettings()Public Sub Newpublic:
+ProfileUserSettings()
+See Also
+
+
+ProfileUserSettings Class
+Quester.Bot Namespace
+Help File generated with GhostDoc
+ 

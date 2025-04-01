@@ -1,0 +1,19 @@
+WRobot
+
+ModiferEffects..::..Weak Field
+The weak 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public PetBattles..::..PetType WeakPublic Weak As PetBattles..::..PetTypepublic:
+PetBattles..::..PetType^ Weak
+See Also
+
+
+PetBattles..::..ModiferEffects Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

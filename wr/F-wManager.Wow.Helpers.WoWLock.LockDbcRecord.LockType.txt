@@ -1,0 +1,21 @@
+WRobot
+
+LockDbcRecord..::..LockType Field
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[MarshalAsAttribute]
+public uint[] LockType<MarshalAsAttribute> _
+Public LockType As UInteger()[MarshalAsAttribute]
+public:
+array<unsigned int^>^ LockType
+See Also
+
+
+WoWLock..::..LockDbcRecord Structure
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+PlayerQuest..::..State Field
+The quest state (unreliable) 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Quest..::..PlayerQuest..::..StateFlag StatePublic State As Quest..::..PlayerQuest..::..StateFlagpublic:
+Quest..::..PlayerQuest..::..StateFlag^ State
+See Also
+
+
+Quest..::..PlayerQuest Structure
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

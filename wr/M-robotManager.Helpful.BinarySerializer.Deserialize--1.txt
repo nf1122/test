@@ -1,0 +1,34 @@
+WRobot
+
+BinarySerializer..::..Deserialize<(Of <(<'T>)>)> Method 
+Deserializes the Binary to Class. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static T Deserialize<T>(
+	string path
+)
+Public Shared Function Deserialize(Of T) ( _
+	path As String _
+) As Tpublic:
+generic<typename T>
+static T Deserialize(
+	String^ path
+)Type Parameters
+T
+Parameters
+path
+Type: String
+The path.
+Return Value
+T.
+See Also
+
+
+BinarySerializer Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

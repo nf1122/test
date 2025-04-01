@@ -1,0 +1,19 @@
+WRobot
+
+WoWUnit..::..MaxInteractDistance Field
+The maximum interact distance 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static float MaxInteractDistancePublic Shared MaxInteractDistance As Singlepublic:
+static float^ MaxInteractDistance
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

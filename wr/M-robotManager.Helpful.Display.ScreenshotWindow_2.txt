@@ -1,0 +1,43 @@
+WRobot
+
+Display..::..ScreenshotWindow Method (IntPtr, Int32, Int32)
+Take a window screenshot and return Image. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static Image ScreenshotWindow(
+	IntPtr mainWindowHandle,
+	int maxHeight,
+	int maxWidth
+)Public Shared Function ScreenshotWindow ( _
+	mainWindowHandle As IntPtr, _
+	maxHeight As Integer, _
+	maxWidth As Integer _
+) As Imagepublic:
+static Image^ ScreenshotWindow(
+	IntPtr^ mainWindowHandle, 
+	int^ maxHeight, 
+	int^ maxWidth
+)Parameters
+mainWindowHandle
+Type: IntPtr
+The main window handle.
+maxHeight
+Type: Int32
+The maximum height.
+maxWidth
+Type: Int32
+The maximum width.
+Return Value
+Image.
+See Also
+
+
+Display Class
+ScreenshotWindow Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

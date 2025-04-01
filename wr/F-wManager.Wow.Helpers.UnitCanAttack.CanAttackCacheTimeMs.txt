@@ -1,0 +1,19 @@
+WRobot
+
+UnitCanAttack..::..CanAttackCacheTimeMs Field
+cache time (in milliseconds) 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int CanAttackCacheTimeMsPublic Shared CanAttackCacheTimeMs As Integerpublic:
+static int^ CanAttackCacheTimeMs
+See Also
+
+
+UnitCanAttack Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,18 @@
+WRobot
+
+Taxi..::.._taxiLock Field
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Object _taxiLockPublic Shared _taxiLock As Objectpublic:
+static Object^ _taxiLock
+See Also
+
+
+Taxi Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

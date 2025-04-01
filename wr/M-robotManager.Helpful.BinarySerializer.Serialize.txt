@@ -1,0 +1,36 @@
+WRobot
+
+BinarySerializer..::..Serialize Method 
+Serializes the specified Class to binary file. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool Serialize(
+	string path,
+	Object object
+)Public Shared Function Serialize ( _
+	path As String, _
+	object As Object _
+) As Booleanpublic:
+static bool^ Serialize(
+	String^ path, 
+	Object^ object
+)Parameters
+path
+Type: String
+The path.
+object
+Type: Object
+The @object.
+Return Value
+Boolean.
+See Also
+
+
+BinarySerializer Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

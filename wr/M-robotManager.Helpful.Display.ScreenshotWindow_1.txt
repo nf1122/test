@@ -1,0 +1,47 @@
+WRobot
+
+Display..::..ScreenshotWindow Method (IntPtr, String, Int32, Int32)
+Take a window screenshot and save to .jpeg file. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void ScreenshotWindow(
+	IntPtr mainWindowHandle,
+	string filename,
+	int maxHeight,
+	int maxWidth
+)Public Shared Sub ScreenshotWindow ( _
+	mainWindowHandle As IntPtr, _
+	filename As String, _
+	maxHeight As Integer, _
+	maxWidth As Integer _
+)public:
+static void ScreenshotWindow(
+	IntPtr^ mainWindowHandle, 
+	String^ filename, 
+	int^ maxHeight, 
+	int^ maxWidth
+)Parameters
+mainWindowHandle
+Type: IntPtr
+The main window handle.
+filename
+Type: String
+The filename.
+maxHeight
+Type: Int32
+The maximum height.
+maxWidth
+Type: Int32
+The maximum width.
+See Also
+
+
+Display Class
+ScreenshotWindow Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

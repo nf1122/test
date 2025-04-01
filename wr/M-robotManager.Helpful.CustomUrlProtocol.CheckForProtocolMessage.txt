@@ -1,0 +1,30 @@
+WRobot
+
+CustomUrlProtocol..::..CheckForProtocolMessage Method 
+Checks for protocol message. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string CheckForProtocolMessage(
+	string urlProtocol
+)Public Shared Function CheckForProtocolMessage ( _
+	urlProtocol As String _
+) As Stringpublic:
+static String^ CheckForProtocolMessage(
+	String^ urlProtocol
+)Parameters
+urlProtocol
+Type: String
+The URL protocol.
+Return Value
+System.String.
+See Also
+
+
+CustomUrlProtocol Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

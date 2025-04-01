@@ -1,0 +1,30 @@
+WRobot
+
+State..::..CompareTo Method 
+Compares the current instance with another object of the same type and returns an integer that indicates whether the current instance precedes, follows, or occurs in the same position in the sort order as the other object. 
+Namespace:  robotManager.FiniteStateMachine
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public int CompareTo(
+	State other
+)Public Function CompareTo ( _
+	other As State _
+) As Integerpublic:
+int^ CompareTo(
+	State^ other
+)Parameters
+other
+Type: robotManager.FiniteStateMachine..::..State
+An object to compare with this instance.
+Return Value
+A value that indicates the relative order of the objects being compared. The return value has these meanings: Value Meaning Less than zero This instance precedes other in the sort order. Zero This instance occurs in the same position in the sort order as other. Greater than zero This instance follows other in the sort order.
+See Also
+
+
+State Class
+robotManager.FiniteStateMachine Namespace
+Help File generated with GhostDoc
+ 

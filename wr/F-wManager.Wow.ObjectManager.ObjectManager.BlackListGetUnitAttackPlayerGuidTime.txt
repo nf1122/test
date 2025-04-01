@@ -1,0 +1,19 @@
+WRobot
+
+ObjectManager..::..BlackListGetUnitAttackPlayerGuidTime Field
+Ignore units present in this list when bot check GetUnitAttackPlayer(List<(Of <<'(WoWUnit>)>>)), can be used like ObjectManager.BlackListGetUnitAttackPlayerGuidTime.Add(unit.Guid, DateTime.Now + TimeSpan.FromMinutes(10));
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Dictionary<ulong, DateTime> BlackListGetUnitAttackPlayerGuidTimePublic Shared BlackListGetUnitAttackPlayerGuidTime As Dictionary(Of ULong, DateTime)public:
+static Dictionary<unsigned long long^, DateTime^>^ BlackListGetUnitAttackPlayerGuidTime
+See Also
+
+
+ObjectManager Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

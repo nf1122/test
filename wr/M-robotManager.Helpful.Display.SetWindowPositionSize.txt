@@ -1,0 +1,52 @@
+WRobot
+
+Display..::..SetWindowPositionSize Method 
+Move and resize Windows. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void SetWindowPositionSize(
+	IntPtr mainWindowHandle,
+	int x,
+	int y,
+	int width,
+	int height
+)Public Shared Sub SetWindowPositionSize ( _
+	mainWindowHandle As IntPtr, _
+	x As Integer, _
+	y As Integer, _
+	width As Integer, _
+	height As Integer _
+)public:
+static void SetWindowPositionSize(
+	IntPtr^ mainWindowHandle, 
+	int^ x, 
+	int^ y, 
+	int^ width, 
+	int^ height
+)Parameters
+mainWindowHandle
+Type: IntPtr
+The main window handle.
+x
+Type: Int32
+The new position x.
+y
+Type: Int32
+The new position y.
+width
+Type: Int32
+The new width.
+height
+Type: Int32
+The new height.
+See Also
+
+
+Display Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

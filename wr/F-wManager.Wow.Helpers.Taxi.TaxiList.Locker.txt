@@ -1,0 +1,19 @@
+WRobot
+
+TaxiList..::..Locker Field
+The locker 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Object LockerPublic Shared Locker As Objectpublic:
+static Object^ Locker
+See Also
+
+
+Taxi..::..TaxiList Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

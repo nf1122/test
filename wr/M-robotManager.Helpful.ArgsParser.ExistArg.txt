@@ -1,0 +1,30 @@
+WRobot
+
+ArgsParser..::..ExistArg Method 
+Check if argument is present. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ExistArg(
+	string argName
+)Public Shared Function ExistArg ( _
+	argName As String _
+) As Booleanpublic:
+static bool^ ExistArg(
+	String^ argName
+)Parameters
+argName
+Type: String
+Name of the argument.
+Return Value
+true if argument exist, false otherwise.
+See Also
+
+
+ArgsParser Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,34 @@
+WRobot
+
+CustomUrlProtocol..::..RegisterUrlProtocol Method 
+Registers the URL protocol. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static void RegisterUrlProtocol(
+	string urlProtocol,
+	string pathExecutableFile
+)Public Shared Sub RegisterUrlProtocol ( _
+	urlProtocol As String, _
+	pathExecutableFile As String _
+)public:
+static void RegisterUrlProtocol(
+	String^ urlProtocol, 
+	String^ pathExecutableFile
+)Parameters
+urlProtocol
+Type: String
+The URL protocol.
+pathExecutableFile
+Type: String
+The path executable file.
+See Also
+
+
+CustomUrlProtocol Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,18 @@
+WRobot
+
+FactionTemplateDbcRecord..::..FightSupport Field
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint FightSupportPublic FightSupport As UIntegerpublic:
+unsigned int^ FightSupport
+See Also
+
+
+WoWFactionTemplate..::..FactionTemplateDbcRecord Structure
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

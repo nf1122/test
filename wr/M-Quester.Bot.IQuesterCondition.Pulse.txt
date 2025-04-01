@@ -1,0 +1,17 @@
+WRobot
+
+IQuesterCondition..::..Pulse Method 
+Namespace:  Quester.Bot
+Assembly:  Quester (in Quester.dll)
+Syntax
+
+
+C#VBC++
+bool Pulse()Function Pulse As Booleanbool^ Pulse()
+See Also
+
+
+IQuesterCondition Interface
+Quester.Bot Namespace
+Help File generated with GhostDoc
+ 

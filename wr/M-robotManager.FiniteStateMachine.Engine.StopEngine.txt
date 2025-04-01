@@ -1,0 +1,19 @@
+WRobot
+
+Engine..::..StopEngine Method 
+Stops the engine (and abort thread). 
+Namespace:  robotManager.FiniteStateMachine
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public void StopEngine()Public Sub StopEnginepublic:
+void StopEngine()
+See Also
+
+
+Engine Class
+robotManager.FiniteStateMachine Namespace
+Help File generated with GhostDoc
+ 

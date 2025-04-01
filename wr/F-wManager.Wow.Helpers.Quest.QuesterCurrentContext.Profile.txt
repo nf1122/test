@@ -1,0 +1,19 @@
+WRobot
+
+QuesterCurrentContext..::..Profile Field
+The profile (generally it is [Quester.Profile.EasyQuestProfile]wManager.Wow.Helpers.Quest.QuesterCurrentContext.Profile as Quester.Profile.EasyQuestProfile) 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Object ProfilePublic Shared Profile As Objectpublic:
+static Object^ Profile
+See Also
+
+
+Quest..::..QuesterCurrentContext Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

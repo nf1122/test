@@ -1,0 +1,19 @@
+WRobot
+
+MatrixMemoryStruct..::..M31 Field
+The M31 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float M31Public M31 As Singlepublic:
+float^ M31
+See Also
+
+
+WowCamera..::..MatrixMemoryStruct Structure
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

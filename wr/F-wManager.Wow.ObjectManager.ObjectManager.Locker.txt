@@ -1,0 +1,19 @@
+WRobot
+
+ObjectManager..::..Locker Field
+The locker 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Object LockerPublic Shared Locker As Objectpublic:
+static Object^ Locker
+See Also
+
+
+ObjectManager Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

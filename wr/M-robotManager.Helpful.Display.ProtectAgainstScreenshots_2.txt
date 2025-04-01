@@ -1,0 +1,29 @@
+WRobot
+
+Display..::..ProtectAgainstScreenshots Method (IntPtr)
+Protects the against screenshots. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ProtectAgainstScreenshots(
+	IntPtr windowsHandle
+)Public Shared Function ProtectAgainstScreenshots ( _
+	windowsHandle As IntPtr _
+) As Booleanpublic:
+static bool^ ProtectAgainstScreenshots(
+	IntPtr^ windowsHandle
+)Parameters
+windowsHandle
+Type: IntPtr
+The windows handle.
+See Also
+
+
+Display Class
+ProtectAgainstScreenshots Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

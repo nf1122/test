@@ -1,0 +1,37 @@
+WRobot
+
+Display..::..ProtectAgainstScreenshots Method (Window, Boolean)
+Protects the against screenshots. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ProtectAgainstScreenshots(
+	this Window wpfWindow,
+	bool removeWindowTitle
+)<ExtensionAttribute> _
+Public Shared Function ProtectAgainstScreenshots ( _
+	wpfWindow As Window, _
+	removeWindowTitle As Boolean _
+) As Boolean[ExtensionAttribute]
+public:
+static bool^ ProtectAgainstScreenshots(
+	Window^ wpfWindow, 
+	bool^ removeWindowTitle
+)Parameters
+wpfWindow
+Type: Window
+The WPF window to protect.
+removeWindowTitle
+Type: Boolean
+if set to true empty window title.
+See Also
+
+
+Display Class
+ProtectAgainstScreenshots Overload
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

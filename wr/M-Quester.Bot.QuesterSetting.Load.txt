@@ -1,0 +1,20 @@
+WRobot
+
+QuesterSetting..::..Load Method 
+Load settings 
+Namespace:  Quester.Bot
+Assembly:  Quester (in Quester.dll)
+Syntax
+
+
+C#VBC++
+public static bool Load()Public Shared Function Load As Booleanpublic:
+static bool^ Load()Return Value
+true if success, false otherwise.
+See Also
+
+
+QuesterSetting Class
+Quester.Bot Namespace
+Help File generated with GhostDoc
+ 

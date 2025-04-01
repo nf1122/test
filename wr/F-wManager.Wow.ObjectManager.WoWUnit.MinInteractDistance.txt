@@ -1,0 +1,19 @@
+WRobot
+
+WoWUnit..::..MinInteractDistance Field
+The minimum interact distance 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static float MinInteractDistancePublic Shared MinInteractDistance As Singlepublic:
+static float^ MinInteractDistance
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

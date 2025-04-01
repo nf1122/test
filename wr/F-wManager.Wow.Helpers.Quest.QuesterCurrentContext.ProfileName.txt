@@ -1,0 +1,19 @@
+WRobot
+
+QuesterCurrentContext..::..ProfileName Field
+The profile name (like "FileName.xml", relative to "WRobot\Profiles\Quester\") 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string ProfileNamePublic Shared ProfileName As Stringpublic:
+static String^ ProfileName
+See Also
+
+
+Quest..::..QuesterCurrentContext Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

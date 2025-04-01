@@ -1,0 +1,19 @@
+WRobot
+
+QuesterCurrentContext..::..NPCList Field
+The NPC list (of current profile) 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<NPCQuest> NPCListPublic Shared NPCList As List(Of NPCQuest)public:
+static List<NPCQuest^>^ NPCList
+See Also
+
+
+Quest..::..QuesterCurrentContext Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

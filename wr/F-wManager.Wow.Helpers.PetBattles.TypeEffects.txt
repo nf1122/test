@@ -1,0 +1,19 @@
+WRobot
+
+PetBattles..::..TypeEffects Field
+The type effects 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<PetBattles..::..ModiferEffects> TypeEffectsPublic Shared TypeEffects As List(Of PetBattles..::..ModiferEffects)public:
+static List<PetBattles..::..ModiferEffects^>^ TypeEffects
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

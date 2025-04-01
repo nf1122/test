@@ -1,0 +1,19 @@
+WRobot
+
+PetBattles..::..MAX_ACTIVE_PETS Field
+The maximum active pets 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public const int MAX_ACTIVE_PETSPublic Const MAX_ACTIVE_PETS As Integerpublic:
+literal int^ MAX_ACTIVE_PETS
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

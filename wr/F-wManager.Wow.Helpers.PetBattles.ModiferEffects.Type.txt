@@ -1,0 +1,19 @@
+WRobot
+
+ModiferEffects..::..Type Field
+The type 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public PetBattles..::..PetType TypePublic Type As PetBattles..::..PetTypepublic:
+PetBattles..::..PetType^ Type
+See Also
+
+
+PetBattles..::..ModiferEffects Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

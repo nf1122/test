@@ -1,0 +1,19 @@
+WRobot
+
+StuckResolver..::..IsUnStuck Field
+Unstuck in progress 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsUnStuckPublic Shared IsUnStuck As Booleanpublic:
+static bool^ IsUnStuck
+See Also
+
+
+StuckResolver Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

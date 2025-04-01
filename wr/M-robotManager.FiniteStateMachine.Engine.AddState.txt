@@ -1,0 +1,28 @@
+WRobot
+
+Engine..::..AddState Method 
+Add state. 
+Namespace:  robotManager.FiniteStateMachine
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public void AddState(
+	State tempState
+)Public Sub AddState ( _
+	tempState As State _
+)public:
+void AddState(
+	State^ tempState
+)Parameters
+tempState
+Type: robotManager.FiniteStateMachine..::..State
+state.
+See Also
+
+
+Engine Class
+robotManager.FiniteStateMachine Namespace
+Help File generated with GhostDoc
+ 

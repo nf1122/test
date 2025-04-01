@@ -1,0 +1,19 @@
+WRobot
+
+QuesterCurrentContext..::..SkipPickUpQuestAfterXSecondes Field
+Seconds to wait before to skip quest if cannot pickup. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static long SkipPickUpQuestAfterXSecondesPublic Shared SkipPickUpQuestAfterXSecondes As Longpublic:
+static long long^ SkipPickUpQuestAfterXSecondes
+See Also
+
+
+Quest..::..QuesterCurrentContext Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

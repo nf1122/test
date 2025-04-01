@@ -1,0 +1,19 @@
+WRobot
+
+PetBattles..::..NUM_BATTLE_PETS_IN_BATTLE Field
+The number battle pets in battle 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public const int NUM_BATTLE_PETS_IN_BATTLEPublic Const NUM_BATTLE_PETS_IN_BATTLE As Integerpublic:
+literal int^ NUM_BATTLE_PETS_IN_BATTLE
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

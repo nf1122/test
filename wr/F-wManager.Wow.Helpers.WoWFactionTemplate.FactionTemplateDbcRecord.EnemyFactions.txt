@@ -1,0 +1,21 @@
+WRobot
+
+FactionTemplateDbcRecord..::..EnemyFactions Field
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[MarshalAsAttribute]
+public uint[] EnemyFactions<MarshalAsAttribute> _
+Public EnemyFactions As UInteger()[MarshalAsAttribute]
+public:
+array<unsigned int^>^ EnemyFactions
+See Also
+
+
+WoWFactionTemplate..::..FactionTemplateDbcRecord Structure
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

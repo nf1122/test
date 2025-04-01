@@ -1,0 +1,19 @@
+WRobot
+
+SpellManager..::..MountsId Field
+List of mount spell id 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<uint> MountsIdPublic Shared MountsId As List(Of UInteger)public:
+static List<unsigned int^>^ MountsId
+See Also
+
+
+SpellManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+Usefuls..::..ForceIsFlyableArea Field
+Force IsFlyableArea to return true (bot use https://wow.gamepedia.com/API_IsFlyableArea , but sometime result is incorrect) 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ForceIsFlyableAreaPublic Shared ForceIsFlyableArea As Booleanpublic:
+static bool^ ForceIsFlyableArea
+See Also
+
+
+Usefuls Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,18 @@
+WRobot
+
+TaxiNodesDB..::..ID Field
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint IDPublic ID As UIntegerpublic:
+unsigned int^ ID
+See Also
+
+
+Taxi..::..TaxiNodesDB Structure
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

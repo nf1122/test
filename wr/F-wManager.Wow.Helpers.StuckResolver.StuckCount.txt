@@ -1,0 +1,19 @@
+WRobot
+
+StuckResolver..::..StuckCount Field
+Get number of stuck 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int StuckCountPublic Shared StuckCount As Integerpublic:
+static int^ StuckCount
+See Also
+
+
+StuckResolver Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

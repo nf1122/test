@@ -1,0 +1,28 @@
+WRobot
+
+Engine Constructor 
+Initializes a new instance of the Engine class. 
+Namespace:  robotManager.FiniteStateMachine
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public Engine(
+	bool showStateInStatus
+)Public Sub New ( _
+	showStateInStatus As Boolean _
+)public:
+Engine(
+	bool^ showStateInStatus
+)Parameters
+showStateInStatus
+Type: Boolean
+if set to true show current state name in Status.
+See Also
+
+
+Engine Class
+robotManager.FiniteStateMachine Namespace
+Help File generated with GhostDoc
+ 

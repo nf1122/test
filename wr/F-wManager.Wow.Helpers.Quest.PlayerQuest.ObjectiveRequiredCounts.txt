@@ -1,0 +1,22 @@
+WRobot
+
+PlayerQuest..::..ObjectiveRequiredCounts Field
+The status of the objectives 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[MarshalAsAttribute]
+public short[] ObjectiveRequiredCounts<MarshalAsAttribute> _
+Public ObjectiveRequiredCounts As Short()[MarshalAsAttribute]
+public:
+array<short^>^ ObjectiveRequiredCounts
+See Also
+
+
+Quest..::..PlayerQuest Structure
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+QuesterCurrentContext..::..CurrentStep Field
+The current step (example usage: (Quest.QuesterCurrentContext.Profile as Quester.Profile.EasyQuestProfile).QuestsSorted[Quest.QuesterCurrentContext.CurrentStep]) 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int CurrentStepPublic Shared CurrentStep As Integerpublic:
+static int^ CurrentStep
+See Also
+
+
+Quest..::..QuesterCurrentContext Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+QuesterCurrentContext..::..QuestsClasses Field
+The quests classes 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Dictionary<string, QuestClass> QuestsClassesPublic Shared QuestsClasses As Dictionary(Of String, QuestClass)public:
+static Dictionary<String^, QuestClass^>^ QuestsClasses
+See Also
+
+
+Quest..::..QuesterCurrentContext Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,30 @@
+WRobot
+
+ArgsParser..::..GetArgValue Method 
+Gets the argument value. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string GetArgValue(
+	string argName
+)Public Shared Function GetArgValue ( _
+	argName As String _
+) As Stringpublic:
+static String^ GetArgValue(
+	String^ argName
+)Parameters
+argName
+Type: String
+Name of the argument.
+Return Value
+System.String.
+See Also
+
+
+ArgsParser Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

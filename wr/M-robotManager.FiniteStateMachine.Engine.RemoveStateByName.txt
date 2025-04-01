@@ -1,0 +1,30 @@
+WRobot
+
+Engine..::..RemoveStateByName Method 
+Remove state by name. 
+Namespace:  robotManager.FiniteStateMachine
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool RemoveStateByName(
+	string displayName
+)Public Function RemoveStateByName ( _
+	displayName As String _
+) As Booleanpublic:
+bool^ RemoveStateByName(
+	String^ displayName
+)Parameters
+displayName
+Type: String
+The display name.
+Return Value
+Boolean.
+See Also
+
+
+Engine Class
+robotManager.FiniteStateMachine Namespace
+Help File generated with GhostDoc
+ 

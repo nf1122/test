@@ -1,0 +1,19 @@
+WRobot
+
+Quest..::..FinishedQuestSet Field
+List of quests id completed (better to use GetQuestCompleted(List<(Of <<'(Int32>)>>)) or GetQuestCompleted(List<(Of <<'(Int32>)>>))) 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static HashSet<int> FinishedQuestSetPublic Shared FinishedQuestSet As HashSet(Of Integer)public:
+static HashSet<int^>^ FinishedQuestSet
+See Also
+
+
+Quest Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 
