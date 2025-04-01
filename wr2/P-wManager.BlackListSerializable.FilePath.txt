@@ -1,0 +1,23 @@
+WRobot
+
+BlackListSerializable..::..FilePath Property 
+Gets full xml file path. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string FilePath { get; }Public Shared ReadOnly Property FilePath As String
+	Getpublic:
+static property String^ FilePath {
+	String^ get ();
+}Field Value
+The file path.
+See Also
+
+
+BlackListSerializable Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

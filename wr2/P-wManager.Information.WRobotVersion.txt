@@ -1,0 +1,23 @@
+WRobot
+
+Information..::..WRobotVersion Property 
+Get bot version name (like "wrobotvanilla" or "wrobotwotlk"). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string WRobotVersion { get; }Public Shared ReadOnly Property WRobotVersion As String
+	Getpublic:
+static property String^ WRobotVersion {
+	String^ get ();
+}Field Value
+The bot version name.
+See Also
+
+
+Information Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

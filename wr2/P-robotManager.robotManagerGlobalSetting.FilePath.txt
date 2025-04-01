@@ -1,0 +1,23 @@
+WRobot
+
+robotManagerGlobalSetting..::..FilePath Property 
+Get the file path (WRobot\Settings\RobotManagerGlobalSetting.xml). 
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string FilePath { get; }Public Shared ReadOnly Property FilePath As String
+	Getpublic:
+static property String^ FilePath {
+	String^ get ();
+}Field Value
+The file path.
+See Also
+
+
+robotManagerGlobalSetting Class
+robotManager Namespace
+Help File generated with GhostDoc
+ 

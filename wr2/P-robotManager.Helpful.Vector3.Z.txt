@@ -1,0 +1,28 @@
+WRobot
+
+Vector3..::..Z Property 
+Gets or sets the Z Position. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+[XmlAttribute]
+public float Z { get; set; }<XmlAttribute> _
+Public Property Z As Single
+	Get
+	Set[XmlAttribute]
+public:
+property float^ Z {
+	float^ get ();
+	void set (float^ value);
+}Field Value
+The Z Position.
+See Also
+
+
+Vector3 Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

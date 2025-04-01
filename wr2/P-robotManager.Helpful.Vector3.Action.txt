@@ -1,0 +1,31 @@
+WRobot
+
+Vector3..::..Action Property 
+Action. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+[DefaultValueAttribute]
+[XmlAttribute]
+public string Action { get; set; }<DefaultValueAttribute> _
+<XmlAttribute> _
+Public Property Action As String
+	Get
+	Set[DefaultValueAttribute]
+[XmlAttribute]
+public:
+property String^ Action {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+Action (jump, left, right, land, watersurface, mount, dismount, totown, stopmove, stopmoveto, c#: [CODE], lua: [CODE]).
+See Also
+
+
+Vector3 Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

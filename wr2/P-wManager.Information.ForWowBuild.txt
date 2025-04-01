@@ -1,0 +1,23 @@
+WRobot
+
+Information..::..ForWowBuild Property 
+Gets Wow build (like 12340). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int ForWowBuild { get; }Public Shared ReadOnly Property ForWowBuild As Integer
+	Getpublic:
+static property int^ ForWowBuild {
+	int^ get ();
+}Field Value
+Wow build.
+See Also
+
+
+Information Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

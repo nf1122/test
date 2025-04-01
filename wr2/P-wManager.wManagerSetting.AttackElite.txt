@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..AttackElite Property 
+Can start fight with elite mobs (in any case the bot will attack if it is attacked). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool AttackElite { get; set; }Public Property AttackElite As Boolean
+	Get
+	Setpublic:
+property bool^ AttackElite {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

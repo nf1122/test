@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..DrinkAmount Property 
+Number of DrinkName item to buy (0 to don't buy food, you need to have food vendor in your profile of NpcDB) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int DrinkAmount { get; set; }Public Property DrinkAmount As Integer
+	Get
+	Setpublic:
+property int^ DrinkAmount {
+	int^ get ();
+	void set (int^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

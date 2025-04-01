@@ -1,0 +1,23 @@
+WRobot
+
+Vector3..::..Zero Property 
+Get vector3 position zero. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static Vector3 Zero { get; }Public Shared ReadOnly Property Zero As Vector3
+	Getpublic:
+static property Vector3^ Zero {
+	Vector3^ get ();
+}Field Value
+vector3 position zero.
+See Also
+
+
+Vector3 Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

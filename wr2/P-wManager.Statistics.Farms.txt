@@ -1,0 +1,25 @@
+WRobot
+
+Statistics..::..Farms Property 
+Farms count since Reset()()()(). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static uint Farms { get; set; }Public Shared Property Farms As UInteger
+	Get
+	Setpublic:
+static property unsigned int^ Farms {
+	unsigned int^ get ();
+	void set (unsigned int^ value);
+}Field Value
+farms count.
+See Also
+
+
+Statistics Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,29 @@
+WRobot
+
+Timer..::..IsReady Property 
+Returns true if the timer is ready 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsReady { get; }Public ReadOnly Property IsReady As Boolean
+	Getpublic:
+property bool^ IsReady {
+	bool^ get ();
+}Field Value
+true if this instance is ready; otherwise, false.
+Exceptions
+
+
+ExceptionCondition
+NotSupportedExceptionThe system does not have a high-resolution performance counter.
+
+See Also
+
+
+Timer Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

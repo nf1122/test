@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..DetectNodesStuck Property 
+Detect nodes stuck (test if can landing) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool DetectNodesStuck { get; set; }Public Property DetectNodesStuck As Boolean
+	Get
+	Setpublic:
+property bool^ DetectNodesStuck {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

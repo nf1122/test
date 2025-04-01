@@ -1,0 +1,25 @@
+WRobot
+
+robotManagerGlobalSetting..::..CurrentSetting Property 
+Get or set the current setting. 
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static robotManagerGlobalSetting CurrentSetting { get; set; }Public Shared Property CurrentSetting As robotManagerGlobalSetting
+	Get
+	Setpublic:
+static property robotManagerGlobalSetting^ CurrentSetting {
+	robotManagerGlobalSetting^ get ();
+	void set (robotManagerGlobalSetting^ value);
+}Field Value
+The current setting.
+See Also
+
+
+robotManagerGlobalSetting Class
+robotManager Namespace
+Help File generated with GhostDoc
+ 

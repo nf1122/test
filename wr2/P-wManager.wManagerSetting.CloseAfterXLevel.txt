@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..CloseAfterXLevel Property 
+Close the game after increasing your level by X levels. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int CloseAfterXLevel { get; set; }Public Property CloseAfterXLevel As Integer
+	Get
+	Setpublic:
+property int^ CloseAfterXLevel {
+	int^ get ();
+	void set (int^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,23 @@
+WRobot
+
+Information..::..Version Property 
+Gets the bot version number (like "2.7.0). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string Version { get; }Public Shared ReadOnly Property Version As String
+	Getpublic:
+static property String^ Version {
+	String^ get ();
+}Field Value
+The version.
+See Also
+
+
+Information Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

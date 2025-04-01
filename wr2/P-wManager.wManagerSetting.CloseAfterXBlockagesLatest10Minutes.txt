@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..CloseAfterXBlockagesLatest10Minutes Property 
+Close game after x blockages latest 10 minutes (you need to use option CloseAfterXBlockagesActive). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int CloseAfterXBlockagesLatest10Minutes { get; set; }Public Property CloseAfterXBlockagesLatest10Minutes As Integer
+	Get
+	Setpublic:
+property int^ CloseAfterXBlockagesLatest10Minutes {
+	int^ get ();
+	void set (int^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

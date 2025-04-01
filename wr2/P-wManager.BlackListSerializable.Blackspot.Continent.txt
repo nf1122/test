@@ -1,0 +1,25 @@
+WRobot
+
+Blackspot..::..Continent Property 
+Gets or sets the continent id. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public ContinentId Continent { get; set; }Public Property Continent As ContinentId
+	Get
+	Setpublic:
+property ContinentId^ Continent {
+	ContinentId^ get ();
+	void set (ContinentId^ value);
+}Field Value
+The continent.
+See Also
+
+
+BlackListSerializable..::..Blackspot Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

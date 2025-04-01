@@ -1,0 +1,25 @@
+WRobot
+
+Timer..::..StartTime Property 
+Gets or sets the start time. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public long StartTime { get; set; }Public Property StartTime As Long
+	Get
+	Setpublic:
+property long long^ StartTime {
+	long long^ get ();
+	void set (long long^ value);
+}Field Value
+A long that holds the start time.
+See Also
+
+
+Timer Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

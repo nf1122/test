@@ -1,0 +1,25 @@
+WRobot
+
+ProductNeedSettingsEventArgs..::..NeedSettings Property 
+Gets or sets a value indicating whether [need settings]. 
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool NeedSettings { get; set; }Public Property NeedSettings As Boolean
+	Get
+	Setpublic:
+property bool^ NeedSettings {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if [need settings]; otherwise, false.
+See Also
+
+
+Products..::..ProductNeedSettingsEventArgs Class
+robotManager.Products Namespace
+Help File generated with GhostDoc
+ 

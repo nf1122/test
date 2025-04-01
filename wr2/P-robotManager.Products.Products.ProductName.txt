@@ -1,0 +1,25 @@
+WRobot
+
+Products..::..ProductName Property 
+Get the name of the product. 
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string ProductName { get; set; }Public Shared Property ProductName As String
+	Get
+	Setpublic:
+static property String^ ProductName {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The name of the product.
+See Also
+
+
+Products Class
+robotManager.Products Namespace
+Help File generated with GhostDoc
+ 

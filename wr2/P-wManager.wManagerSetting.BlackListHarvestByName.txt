@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..BlackListHarvestByName Property 
+List of gameobjects name to not harvest. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<string> BlackListHarvestByName { get; set; }Public Property BlackListHarvestByName As List(Of String)
+	Get
+	Setpublic:
+property List<String^>^ BlackListHarvestByName {
+	List<String^>^ get ();
+	void set (List<String^>^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

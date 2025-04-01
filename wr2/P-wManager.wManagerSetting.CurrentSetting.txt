@@ -1,0 +1,25 @@
+WRobot
+
+wManagerSetting..::..CurrentSetting Property 
+Gets or sets the current character setting. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static wManagerSetting CurrentSetting { get; set; }Public Shared Property CurrentSetting As wManagerSetting
+	Get
+	Setpublic:
+static property wManagerSetting^ CurrentSetting {
+	wManagerSetting^ get ();
+	void set (wManagerSetting^ value);
+}Field Value
+The current setting.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

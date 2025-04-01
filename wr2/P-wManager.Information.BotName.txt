@@ -1,0 +1,21 @@
+WRobot
+
+Information..::..BotName Property 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string BotName { get; }Public Shared ReadOnly Property BotName As String
+	Getpublic:
+static property String^ BotName {
+	String^ get ();
+}
+See Also
+
+
+Information Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

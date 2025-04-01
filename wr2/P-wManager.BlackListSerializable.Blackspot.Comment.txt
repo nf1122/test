@@ -1,0 +1,25 @@
+WRobot
+
+Blackspot..::..Comment Property 
+Gets or sets comment. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string Comment { get; set; }Public Property Comment As String
+	Get
+	Setpublic:
+property String^ Comment {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The comment.
+See Also
+
+
+BlackListSerializable..::..Blackspot Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

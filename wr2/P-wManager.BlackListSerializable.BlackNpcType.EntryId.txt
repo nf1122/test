@@ -1,0 +1,25 @@
+WRobot
+
+BlackNpcType..::..EntryId Property 
+Gets or sets the entry id (Entry). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int EntryId { get; set; }Public Property EntryId As Integer
+	Get
+	Setpublic:
+property int^ EntryId {
+	int^ get ();
+	void set (int^ value);
+}Field Value
+The entry identifier.
+See Also
+
+
+BlackListSerializable..::..BlackNpcType Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

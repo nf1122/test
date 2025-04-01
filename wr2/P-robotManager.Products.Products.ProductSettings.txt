@@ -1,0 +1,23 @@
+WRobot
+
+Products..::..ProductSettings Property 
+Get product settings. 
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static UserControl ProductSettings { get; }Public Shared ReadOnly Property ProductSettings As UserControl
+	Getpublic:
+static property UserControl^ ProductSettings {
+	UserControl^ get ();
+}Field Value
+The product settings.
+See Also
+
+
+Products Class
+robotManager.Products Namespace
+Help File generated with GhostDoc
+ 

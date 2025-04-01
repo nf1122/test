@@ -1,0 +1,23 @@
+WRobot
+
+Others..::..GetCurrentDirectory Property 
+Get current directory (like "C:\program\WRobot"). 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string GetCurrentDirectory { get; }Public Shared ReadOnly Property GetCurrentDirectory As String
+	Getpublic:
+static property String^ GetCurrentDirectory {
+	String^ get ();
+}Field Value
+The current directory.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,23 @@
+WRobot
+
+Information..::..ForWow Property 
+Gets for wow version (like "3.3.5"). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string ForWow { get; }Public Shared ReadOnly Property ForWow As String
+	Getpublic:
+static property String^ ForWow {
+	String^ get ();
+}Field Value
+Wow version.
+See Also
+
+
+Information Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

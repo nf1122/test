@@ -1,0 +1,25 @@
+WRobot
+
+BlackNpc..::..GuidNpc Property 
+Gets or sets object GUID in string format (Guid) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string GuidNpc { get; set; }Public Property GuidNpc As String
+	Get
+	Setpublic:
+property String^ GuidNpc {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The NPC GUID.
+See Also
+
+
+BlackListSerializable..::..BlackNpc Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

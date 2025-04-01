@@ -1,0 +1,25 @@
+WRobot
+
+Logging..::..Status Property 
+Get or set the status. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string Status { get; set; }Public Shared Property Status As String
+	Get
+	Setpublic:
+static property String^ Status {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The status.
+See Also
+
+
+Logging Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

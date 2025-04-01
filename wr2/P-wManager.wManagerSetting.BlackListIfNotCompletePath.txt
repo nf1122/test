@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..BlackListIfNotCompletePath Property 
+Blacklist mobs, NPCs, nodes... if cannot found complete path (if PathFinder return partial or no success result) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool BlackListIfNotCompletePath { get; set; }Public Property BlackListIfNotCompletePath As Boolean
+	Get
+	Setpublic:
+property bool^ BlackListIfNotCompletePath {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,23 @@
+WRobot
+
+Vector3..::..Empty Property 
+Get empty vector3. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static Vector3 Empty { get; }Public Shared ReadOnly Property Empty As Vector3
+	Getpublic:
+static property Vector3^ Empty {
+	Vector3^ get ();
+}Field Value
+empty vector3.
+See Also
+
+
+Vector3 Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

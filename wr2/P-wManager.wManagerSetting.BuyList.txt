@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..BuyList Property 
+List of items to buy. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<Buy> BuyList { get; set; }Public Property BuyList As List(Of Buy)
+	Get
+	Setpublic:
+property List<Buy^>^ BuyList {
+	List<Buy^>^ get ();
+	void set (List<Buy^>^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

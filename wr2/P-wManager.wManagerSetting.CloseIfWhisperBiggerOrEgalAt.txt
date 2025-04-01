@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..CloseIfWhisperBiggerOrEgalAt Property 
+Close the game If you have received more or egal at X whispers 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int CloseIfWhisperBiggerOrEgalAt { get; set; }Public Property CloseIfWhisperBiggerOrEgalAt As Integer
+	Get
+	Setpublic:
+property int^ CloseIfWhisperBiggerOrEgalAt {
+	int^ get ();
+	void set (int^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

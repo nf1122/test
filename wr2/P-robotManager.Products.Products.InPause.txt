@@ -1,0 +1,25 @@
+WRobot
+
+Products..::..InPause Property 
+Get or set a value indicating whether product is in pause. 
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool InPause { get; set; }Public Shared Property InPause As Boolean
+	Get
+	Setpublic:
+static property bool^ InPause {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if product is in pause; otherwise, false.
+See Also
+
+
+Products Class
+robotManager.Products Namespace
+Help File generated with GhostDoc
+ 

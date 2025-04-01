@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..AccountEmail Property 
+Account email (or account name on old Wow version) (you need to activate Relogger). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string AccountEmail { get; set; }Public Property AccountEmail As String
+	Get
+	Setpublic:
+property String^ AccountEmail {
+	String^ get ();
+	void set (String^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

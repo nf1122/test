@@ -1,0 +1,23 @@
+WRobot
+
+Utf8StringWriter..::..Encoding Property 
+Gets the encoding. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public Encoding Encoding { get; }Public ReadOnly Property Encoding As Encoding
+	Getpublic:
+property Encoding^ Encoding {
+	Encoding^ get ();
+}Field Value
+The encoding.
+See Also
+
+
+Utf8StringWriter Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

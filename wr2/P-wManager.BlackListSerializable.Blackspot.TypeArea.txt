@@ -1,0 +1,25 @@
+WRobot
+
+Blackspot..::..TypeArea Property 
+Gets or sets the type area (used by PathFinder). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public PolyArea TypeArea { get; set; }Public Property TypeArea As PolyArea
+	Get
+	Setpublic:
+property PolyArea^ TypeArea {
+	PolyArea^ get ();
+	void set (PolyArea^ value);
+}Field Value
+The type area.
+See Also
+
+
+BlackListSerializable..::..Blackspot Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

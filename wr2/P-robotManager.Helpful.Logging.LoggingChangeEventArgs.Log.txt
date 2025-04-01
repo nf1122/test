@@ -1,0 +1,25 @@
+WRobot
+
+LoggingChangeEventArgs..::..Log Property 
+Gets or sets the log. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public Logging..::..Log Log { get; set; }Public Property Log As Logging..::..Log
+	Get
+	Setpublic:
+property Logging..::..Log^ Log {
+	Logging..::..Log^ get ();
+	void set (Logging..::..Log^ value);
+}Field Value
+The log.
+See Also
+
+
+Logging..::..LoggingChangeEventArgs Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..CloseIfPlayerTeleported Property 
+Close game if character seems to have been teleported (GM can use this method, but there may be false detection, by example when character continent change, when using the hearthstone, ...). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool CloseIfPlayerTeleported { get; set; }Public Property CloseIfPlayerTeleported As Boolean
+	Get
+	Setpublic:
+property bool^ CloseIfPlayerTeleported {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

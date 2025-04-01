@@ -1,0 +1,23 @@
+WRobot
+
+Others..::..WindowsVersion Property 
+Get Windows version. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string WindowsVersion { get; }Public Shared ReadOnly Property WindowsVersion As String
+	Getpublic:
+static property String^ WindowsVersion {
+	String^ get ();
+}Field Value
+The Windows version.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

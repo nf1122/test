@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..DoNotMailList Property 
+List of items names to not send by mail (this option override item quality filter options, you need to activate option UseMail). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<string> DoNotMailList { get; set; }Public Property DoNotMailList As List(Of String)
+	Get
+	Setpublic:
+property List<String^>^ DoNotMailList {
+	List<String^>^ get ();
+	void set (List<String^>^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..BNetName Property 
+Account name (you need to activate Relogger). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string BNetName { get; set; }Public Property BNetName As String
+	Get
+	Setpublic:
+property String^ BNetName {
+	String^ get ();
+	void set (String^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

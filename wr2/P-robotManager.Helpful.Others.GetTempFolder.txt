@@ -1,0 +1,23 @@
+WRobot
+
+Others..::..GetTempFolder Property 
+Get temporary directory path. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static string GetTempFolder { get; }Public Shared ReadOnly Property GetTempFolder As String
+	Getpublic:
+static property String^ GetTempFolder {
+	String^ get ();
+}Field Value
+The get temporary folder.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..AvoidWallWithRays Property 
+Try to avoid wall and small obstacle not in pathfinder with rays (TraceLine). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool AvoidWallWithRays { get; set; }Public Property AvoidWallWithRays As Boolean
+	Get
+	Setpublic:
+property bool^ AvoidWallWithRays {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

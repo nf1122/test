@@ -1,0 +1,22 @@
+WRobot
+
+IProduct..::..Settings Property 
+Settings Product WPF usercontrol. 
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+UserControl Settings { get; }ReadOnly Property Settings As UserControl
+	Getproperty UserControl^ Settings {
+	UserControl^ get ();
+}Field Value
+The settings.
+See Also
+
+
+IProduct Interface
+robotManager.Products Namespace
+Help File generated with GhostDoc
+ 

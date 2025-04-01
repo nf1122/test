@@ -1,0 +1,25 @@
+WRobot
+
+Statistics..::..Kills Property 
+Kills count since Reset()()()(). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static uint Kills { get; set; }Public Shared Property Kills As UInteger
+	Get
+	Setpublic:
+static property unsigned int^ Kills {
+	unsigned int^ get ();
+	void set (unsigned int^ value);
+}Field Value
+kills count.
+See Also
+
+
+Statistics Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

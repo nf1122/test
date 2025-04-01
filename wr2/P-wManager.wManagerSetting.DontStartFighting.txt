@@ -1,0 +1,25 @@
+WRobot
+
+wManagerSetting..::..DontStartFighting Property 
+Gets or sets a value indicating to don't start fight (defend oneself only). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool DontStartFighting { get; set; }Public Property DontStartFighting As Boolean
+	Get
+	Setpublic:
+property bool^ DontStartFighting {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if don't start fight; otherwise, false.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,21 @@
+WRobot
+
+Pulsator..::..K Property 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string K { set; }Public Shared WriteOnly Property K As String
+	Setpublic:
+static property String^ K {
+	void set (String^ value);
+}
+See Also
+
+
+Pulsator Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

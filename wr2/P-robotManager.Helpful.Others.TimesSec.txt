@@ -1,0 +1,23 @@
+WRobot
+
+Others..::..TimesSec Property 
+Gets the number of seconds elapsed since the system started. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static int TimesSec { get; }Public Shared ReadOnly Property TimesSec As Integer
+	Getpublic:
+static property int^ TimesSec {
+	int^ get ();
+}Field Value
+The times seconds.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

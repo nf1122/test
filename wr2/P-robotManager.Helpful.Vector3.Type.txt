@@ -1,0 +1,31 @@
+WRobot
+
+Vector3..::..Type Property 
+Vector3 Type. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+[DefaultValueAttribute]
+[XmlAttribute]
+public string Type { get; set; }<DefaultValueAttribute> _
+<XmlAttribute> _
+Public Property Type As String
+	Get
+	Set[DefaultValueAttribute]
+[XmlAttribute]
+public:
+property String^ Type {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+Vector3 Type (Swimming, Flying or None).
+See Also
+
+
+Vector3 Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

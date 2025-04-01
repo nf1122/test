@@ -1,0 +1,23 @@
+WRobot
+
+Others..::..Times Property 
+Gets the number of milliseconds elapsed since the system started. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static int Times { get; }Public Shared ReadOnly Property Times As Integer
+	Getpublic:
+static property int^ Times {
+	int^ get ();
+}Field Value
+The times milliseconds.
+See Also
+
+
+Others Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

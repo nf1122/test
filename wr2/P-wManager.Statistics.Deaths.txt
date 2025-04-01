@@ -1,0 +1,25 @@
+WRobot
+
+Statistics..::..Deaths Property 
+Deaths count since Reset()()()(). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static uint Deaths { get; set; }Public Shared Property Deaths As UInteger
+	Get
+	Setpublic:
+static property unsigned int^ Deaths {
+	unsigned int^ get ();
+	void set (unsigned int^ value);
+}Field Value
+deaths count.
+See Also
+
+
+Statistics Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

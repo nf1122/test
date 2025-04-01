@@ -1,0 +1,23 @@
+WRobot
+
+LuaBot..::..EnvironmentDynamic Property 
+Gets the Environment dynamic. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static Object EnvironmentDynamic { get; }Public Shared ReadOnly Property EnvironmentDynamic As Object
+	Getpublic:
+static property Object^ EnvironmentDynamic {
+	Object^ get ();
+}Field Value
+The environment dynamic.
+See Also
+
+
+LuaBot Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..CloseAfterXDeathsLatest10Minutes Property 
+Close after x deaths latest 10 minutes (you need to use option CloseAfterXDeathsActive). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int CloseAfterXDeathsLatest10Minutes { get; set; }Public Property CloseAfterXDeathsLatest10Minutes As Integer
+	Get
+	Setpublic:
+property int^ CloseAfterXDeathsLatest10Minutes {
+	int^ get ();
+	void set (int^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

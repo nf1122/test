@@ -1,0 +1,25 @@
+WRobot
+
+Timer..::..CountDowntime Property 
+Holds the value of the Frequency property. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public double CountDowntime { get; set; }Public Property CountDowntime As Double
+	Get
+	Setpublic:
+property double^ CountDowntime {
+	double^ get ();
+	void set (double^ value);
+}Field Value
+The count downtime.
+See Also
+
+
+Timer Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

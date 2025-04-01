@@ -1,0 +1,25 @@
+WRobot
+
+IsAliveProductChangeEventArgs..::..IsAliveProduct Property 
+Gets or sets a value indicating whether product instance is alive product. 
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsAliveProduct { get; set; }Public Property IsAliveProduct As Boolean
+	Get
+	Setpublic:
+property bool^ IsAliveProduct {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if product instance is alive product; otherwise, false.
+See Also
+
+
+Products..::..IsAliveProductChangeEventArgs Class
+robotManager.Products Namespace
+Help File generated with GhostDoc
+ 

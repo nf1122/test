@@ -1,0 +1,25 @@
+WRobot
+
+Log..::..LogType Property 
+Gets or sets the type of the log. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public Logging..::..LogType LogType { get; set; }Public Property LogType As Logging..::..LogType
+	Get
+	Setpublic:
+property Logging..::..LogType^ LogType {
+	Logging..::..LogType^ get ();
+	void set (Logging..::..LogType^ value);
+}Field Value
+The type of the log.
+See Also
+
+
+Logging..::..Log Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

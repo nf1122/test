@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..BlackListZoneWhereDead Property 
+Automatically blacklist the zone where the character is dead (with 30 y radius), some products like grinder, quester and automaton override this value with their values. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool BlackListZoneWhereDead { get; set; }Public Property BlackListZoneWhereDead As Boolean
+	Get
+	Setpublic:
+property bool^ BlackListZoneWhereDead {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

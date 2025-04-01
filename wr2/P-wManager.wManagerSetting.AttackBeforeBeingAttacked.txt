@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..AttackBeforeBeingAttacked Property 
+Attack before being attacked (Start the fight when the character is close to the mob's aggro zone. It allows to be more reactive, but this option is not always reliable (it depends on the server and the version of the game)). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool AttackBeforeBeingAttacked { get; set; }Public Property AttackBeforeBeingAttacked As Boolean
+	Get
+	Setpublic:
+property bool^ AttackBeforeBeingAttacked {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

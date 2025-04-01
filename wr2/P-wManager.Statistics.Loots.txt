@@ -1,0 +1,25 @@
+WRobot
+
+Statistics..::..Loots Property 
+Loots count since Reset()()()(). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static uint Loots { get; set; }Public Shared Property Loots As UInteger
+	Get
+	Setpublic:
+static property unsigned int^ Loots {
+	unsigned int^ get ();
+	void set (unsigned int^ value);
+}Field Value
+loots count.
+See Also
+
+
+Statistics Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

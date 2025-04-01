@@ -1,0 +1,25 @@
+WRobot
+
+LanguageText..::..Original Property 
+Gets or sets the original. 
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public string Original { get; set; }Public Property Original As String
+	Get
+	Setpublic:
+property String^ Original {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The original.
+See Also
+
+
+LanguageText Class
+robotManager Namespace
+Help File generated with GhostDoc
+ 

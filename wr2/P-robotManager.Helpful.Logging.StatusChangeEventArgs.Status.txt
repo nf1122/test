@@ -1,0 +1,25 @@
+WRobot
+
+StatusChangeEventArgs..::..Status Property 
+Gets or sets the status. 
+Namespace:  robotManager.Helpful
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public string Status { get; set; }Public Property Status As String
+	Get
+	Setpublic:
+property String^ Status {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The status.
+See Also
+
+
+Logging..::..StatusChangeEventArgs Class
+robotManager.Helpful Namespace
+Help File generated with GhostDoc
+ 

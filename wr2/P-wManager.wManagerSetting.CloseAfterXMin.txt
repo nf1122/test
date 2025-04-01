@@ -1,0 +1,24 @@
+WRobot
+
+wManagerSetting..::..CloseAfterXMin Property 
+Close game after x minutes (you need to activate CloseAfterXMinActive). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int CloseAfterXMin { get; set; }Public Property CloseAfterXMin As Integer
+	Get
+	Setpublic:
+property int^ CloseAfterXMin {
+	int^ get ();
+	void set (int^ value);
+}
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

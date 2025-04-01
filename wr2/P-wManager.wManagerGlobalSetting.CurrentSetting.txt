@@ -1,0 +1,25 @@
+WRobot
+
+wManagerGlobalSetting..::..CurrentSetting Property 
+Gets or sets the current global setting. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static wManagerGlobalSetting CurrentSetting { get; set; }Public Shared Property CurrentSetting As wManagerGlobalSetting
+	Get
+	Setpublic:
+static property wManagerGlobalSetting^ CurrentSetting {
+	wManagerGlobalSetting^ get ();
+	void set (wManagerGlobalSetting^ value);
+}Field Value
+The current setting.
+See Also
+
+
+wManagerGlobalSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

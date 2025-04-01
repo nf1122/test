@@ -1,0 +1,25 @@
+WRobot
+
+IsStartedChangeEventArgs..::..IsStarted Property 
+Gets or sets a value indicating whether product instance is started. 
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsStarted { get; set; }Public Property IsStarted As Boolean
+	Get
+	Setpublic:
+property bool^ IsStarted {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if product instance is started; otherwise, false.
+See Also
+
+
+Products..::..IsStartedChangeEventArgs Class
+robotManager.Products Namespace
+Help File generated with GhostDoc
+ 

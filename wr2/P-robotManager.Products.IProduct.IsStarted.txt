@@ -1,0 +1,22 @@
+WRobot
+
+IProduct..::..IsStarted Property 
+Get product running status. 
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+bool IsStarted { get; }ReadOnly Property IsStarted As Boolean
+	Getproperty bool^ IsStarted {
+	bool^ get ();
+}Field Value
+true if product is started, else false .
+See Also
+
+
+IProduct Interface
+robotManager.Products Namespace
+Help File generated with GhostDoc
+ 

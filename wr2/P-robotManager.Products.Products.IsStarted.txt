@@ -1,0 +1,23 @@
+WRobot
+
+Products..::..IsStarted Property 
+Get a value indicating whether product instance is started. 
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsStarted { get; }Public Shared ReadOnly Property IsStarted As Boolean
+	Getpublic:
+static property bool^ IsStarted {
+	bool^ get ();
+}Field Value
+true if product instance is started; otherwise, false.
+See Also
+
+
+Products Class
+robotManager.Products Namespace
+Help File generated with GhostDoc
+ 

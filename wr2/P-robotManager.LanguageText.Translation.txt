@@ -1,0 +1,25 @@
+WRobot
+
+LanguageText..::..Translation Property 
+Gets or sets the translation. 
+Namespace:  robotManager
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public string Translation { get; set; }Public Property Translation As String
+	Get
+	Setpublic:
+property String^ Translation {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The translation.
+See Also
+
+
+LanguageText Class
+robotManager Namespace
+Help File generated with GhostDoc
+ 

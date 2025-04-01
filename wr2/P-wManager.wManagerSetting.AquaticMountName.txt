@@ -1,0 +1,25 @@
+WRobot
+
+wManagerSetting..::..AquaticMountName Property 
+Gets or sets the name of the aquatic mount (like it appears in game). 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string AquaticMountName { get; set; }Public Property AquaticMountName As String
+	Get
+	Setpublic:
+property String^ AquaticMountName {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The name of the aquatic mount.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,23 @@
+WRobot
+
+Products..::..IsAliveProduct Property 
+Gets a value indicating whether product instance is alive product. 
+Namespace:  robotManager.Products
+Assembly:  robotManager (in robotManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsAliveProduct { get; }Public Shared ReadOnly Property IsAliveProduct As Boolean
+	Getpublic:
+static property bool^ IsAliveProduct {
+	bool^ get ();
+}Field Value
+true if product instance is alive product; otherwise, false.
+See Also
+
+
+Products Class
+robotManager.Products Namespace
+Help File generated with GhostDoc
+ 

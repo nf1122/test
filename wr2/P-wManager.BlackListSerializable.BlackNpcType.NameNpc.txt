@@ -1,0 +1,25 @@
+WRobot
+
+BlackNpcType..::..NameNpc Property 
+Gets or sets unit name or description. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string NameNpc { get; set; }Public Property NameNpc As String
+	Get
+	Setpublic:
+property String^ NameNpc {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The name.
+See Also
+
+
+BlackListSerializable..::..BlackNpcType Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

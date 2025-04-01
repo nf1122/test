@@ -1,0 +1,25 @@
+WRobot
+
+wManagerSetting..::..AssignTalents Property 
+Assign Talents (no used in all WRobot version, used in Talents) 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool AssignTalents { get; set; }Public Property AssignTalents As Boolean
+	Get
+	Setpublic:
+property bool^ AssignTalents {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if assign talents; otherwise, false.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

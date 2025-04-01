@@ -1,0 +1,25 @@
+WRobot
+
+Blackspot..::..X Property 
+Gets or sets the x position. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float X { get; set; }Public Property X As Single
+	Get
+	Setpublic:
+property float^ X {
+	float^ get ();
+	void set (float^ value);
+}Field Value
+The x.
+See Also
+
+
+BlackListSerializable..::..Blackspot Class
+wManager Namespace
+Help File generated with GhostDoc
+ 

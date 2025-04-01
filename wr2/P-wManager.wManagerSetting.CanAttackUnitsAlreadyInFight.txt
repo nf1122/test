@@ -1,0 +1,25 @@
+WRobot
+
+wManagerSetting..::..CanAttackUnitsAlreadyInFight Property 
+Gets or sets a value indicating whether this instance can attack units already in combat. 
+Namespace:  wManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool CanAttackUnitsAlreadyInFight { get; set; }Public Property CanAttackUnitsAlreadyInFight As Boolean
+	Get
+	Setpublic:
+property bool^ CanAttackUnitsAlreadyInFight {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if this instance can attack units already in fight; otherwise, false.
+See Also
+
+
+wManagerSetting Class
+wManager Namespace
+Help File generated with GhostDoc
+ 
