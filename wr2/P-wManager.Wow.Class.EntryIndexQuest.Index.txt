@@ -1,0 +1,25 @@
+WRobot
+
+EntryIndexQuest..::..Index Property 
+Gets or sets the objective index. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int Index { get; set; }Public Property Index As Integer
+	Get
+	Setpublic:
+property int^ Index {
+	int^ get ();
+	void set (int^ value);
+}Field Value
+The objective index.
+See Also
+
+
+EntryIndexQuest Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

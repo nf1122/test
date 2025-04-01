@@ -1,0 +1,26 @@
+WRobot
+
+QuestsSorted..::..QuestClassInstance Property 
+Get the quest class instance (Get instance in QuestsClasses, key is NameClass). 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[XmlIgnoreAttribute]
+public QuestClass QuestClassInstance { get; }<XmlIgnoreAttribute> _
+Public ReadOnly Property QuestClassInstance As QuestClass
+	Get[XmlIgnoreAttribute]
+public:
+property QuestClass^ QuestClassInstance {
+	QuestClass^ get ();
+}Field Value
+The quest class instance.
+See Also
+
+
+QuestsSorted Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

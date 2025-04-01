@@ -1,0 +1,25 @@
+WRobot
+
+EntryIndexQuest..::..Entry Property 
+Gets or sets the entry id. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int Entry { get; set; }Public Property Entry As Integer
+	Get
+	Setpublic:
+property int^ Entry {
+	int^ get ();
+	void set (int^ value);
+}Field Value
+The entry.
+See Also
+
+
+EntryIndexQuest Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,24 @@
+WRobot
+
+NPCQuest..::..Id Property 
+Entry ID 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int Id { get; set; }Public Property Id As Integer
+	Get
+	Setpublic:
+property int^ Id {
+	int^ get ();
+	void set (int^ value);
+}
+See Also
+
+
+NPCQuest Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

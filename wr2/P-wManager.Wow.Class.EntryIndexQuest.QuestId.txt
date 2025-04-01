@@ -1,0 +1,25 @@
+WRobot
+
+EntryIndexQuest..::..QuestId Property 
+Gets or sets the quest id. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int QuestId { get; set; }Public Property QuestId As Integer
+	Get
+	Setpublic:
+property int^ QuestId {
+	int^ get ();
+	void set (int^ value);
+}Field Value
+The quest id.
+See Also
+
+
+EntryIndexQuest Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

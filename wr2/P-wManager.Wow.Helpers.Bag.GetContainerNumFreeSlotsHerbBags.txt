@@ -1,0 +1,22 @@
+WRobot
+
+Bag..::..GetContainerNumFreeSlotsHerbBags Property 
+Get number of free slots on herb container type. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int GetContainerNumFreeSlotsHerbBags { get; }Public Shared ReadOnly Property GetContainerNumFreeSlotsHerbBags As Integer
+	Getpublic:
+static property int^ GetContainerNumFreeSlotsHerbBags {
+	int^ get ();
+}
+See Also
+
+
+Bag Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

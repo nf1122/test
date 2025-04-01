@@ -1,0 +1,23 @@
+WRobot
+
+Guid128..::..WoWType Property 
+Gets the type of the object type 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public GuidType WoWType { get; }Public ReadOnly Property WoWType As GuidType
+	Getpublic:
+property GuidType^ WoWType {
+	GuidType^ get ();
+}Field Value
+The type of the object.
+See Also
+
+
+Guid128 Class
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

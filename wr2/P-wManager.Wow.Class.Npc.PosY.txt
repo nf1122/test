@@ -1,0 +1,28 @@
+WRobot
+
+Npc..::..PosY Property 
+Gets or sets the position y. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[XmlIgnoreAttribute]
+public float PosY { get; set; }<XmlIgnoreAttribute> _
+Public Property PosY As Single
+	Get
+	Set[XmlIgnoreAttribute]
+public:
+property float^ PosY {
+	float^ get ();
+	void set (float^ value);
+}Field Value
+The position y.
+See Also
+
+
+Npc Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

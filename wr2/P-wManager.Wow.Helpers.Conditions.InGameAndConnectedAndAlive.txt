@@ -1,0 +1,22 @@
+WRobot
+
+Conditions..::..InGameAndConnectedAndAlive Property 
+Get a value indicating whether connected in game and alive. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool InGameAndConnectedAndAlive { get; }Public Shared ReadOnly Property InGameAndConnectedAndAlive As Boolean
+	Getpublic:
+static property bool^ InGameAndConnectedAndAlive {
+	bool^ get ();
+}
+See Also
+
+
+Conditions Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,28 @@
+WRobot
+
+TaxiNode..::..PosX Property 
+Gets or sets the position x. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[XmlIgnoreAttribute]
+public float PosX { get; set; }<XmlIgnoreAttribute> _
+Public Property PosX As Single
+	Get
+	Set[XmlIgnoreAttribute]
+public:
+property float^ PosX {
+	float^ get ();
+	void set (float^ value);
+}Field Value
+The position x.
+See Also
+
+
+TaxiNode Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

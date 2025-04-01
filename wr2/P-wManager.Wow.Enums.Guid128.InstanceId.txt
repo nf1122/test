@@ -1,0 +1,23 @@
+WRobot
+
+Guid128..::..InstanceId Property 
+Gets the instance identifier. 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public ushort InstanceId { get; }Public ReadOnly Property InstanceId As UShort
+	Getpublic:
+property unsigned short^ InstanceId {
+	unsigned short^ get ();
+}Field Value
+The instance identifier.
+See Also
+
+
+Guid128 Class
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

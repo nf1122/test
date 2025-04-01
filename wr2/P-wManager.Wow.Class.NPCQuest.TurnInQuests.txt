@@ -1,0 +1,24 @@
+WRobot
+
+NPCQuest..::..TurnInQuests Property 
+Gets or sets the turn in quests IDs. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<int> TurnInQuests { get; set; }Public Property TurnInQuests As List(Of Integer)
+	Get
+	Setpublic:
+property List<int^>^ TurnInQuests {
+	List<int^>^ get ();
+	void set (List<int^>^ value);
+}
+See Also
+
+
+NPCQuest Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

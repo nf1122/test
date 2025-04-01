@@ -1,0 +1,24 @@
+WRobot
+
+ItemInfo..::..ItemName Property 
+Gets the name of the item. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string ItemName { get; set; }Public Property ItemName As String
+	Get
+	Setpublic:
+property String^ ItemName {
+	String^ get ();
+	void set (String^ value);
+}
+See Also
+
+
+ItemInfo Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

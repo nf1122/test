@@ -1,0 +1,25 @@
+WRobot
+
+EntryIndexQuest..::..ObjectiveRequiredCount Property 
+Gets or sets the objective required count. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int ObjectiveRequiredCount { get; set; }Public Property ObjectiveRequiredCount As Integer
+	Get
+	Setpublic:
+property int^ ObjectiveRequiredCount {
+	int^ get ();
+	void set (int^ value);
+}Field Value
+The objective required count.
+See Also
+
+
+EntryIndexQuest Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

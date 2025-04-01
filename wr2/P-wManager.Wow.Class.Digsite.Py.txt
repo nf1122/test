@@ -1,0 +1,25 @@
+WRobot
+
+Digsite..::..Py Property 
+Lua Y position. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string Py { get; set; }Public Property Py As String
+	Get
+	Setpublic:
+property String^ Py {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The py.
+See Also
+
+
+Digsite Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,25 @@
+WRobot
+
+Npc..::..VendorItemClass Property 
+Gets or sets the vendor item class. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Npc..::..NpcVendorItemClass VendorItemClass { get; set; }Public Property VendorItemClass As Npc..::..NpcVendorItemClass
+	Get
+	Setpublic:
+property Npc..::..NpcVendorItemClass^ VendorItemClass {
+	Npc..::..NpcVendorItemClass^ get ();
+	void set (Npc..::..NpcVendorItemClass^ value);
+}Field Value
+The vendor item class.
+See Also
+
+
+Npc Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

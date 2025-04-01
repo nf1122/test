@@ -1,0 +1,23 @@
+WRobot
+
+ClickToMove..::..InMove Property 
+Gets a value indicating whether CTM is in move. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool InMove { get; }Public Shared ReadOnly Property InMove As Boolean
+	Getpublic:
+static property bool^ InMove {
+	bool^ get ();
+}Field Value
+true if CTM is in move; otherwise, false.
+See Also
+
+
+ClickToMove Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

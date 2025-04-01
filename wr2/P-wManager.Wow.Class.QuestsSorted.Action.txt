@@ -1,0 +1,24 @@
+WRobot
+
+QuestsSorted..::..Action Property 
+Step action. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public QuestAction Action { get; set; }Public Property Action As QuestAction
+	Get
+	Setpublic:
+property QuestAction^ Action {
+	QuestAction^ get ();
+	void set (QuestAction^ value);
+}
+See Also
+
+
+QuestsSorted Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

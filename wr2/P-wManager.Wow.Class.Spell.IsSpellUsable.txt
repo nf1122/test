@@ -1,0 +1,23 @@
+WRobot
+
+Spell..::..IsSpellUsable Property 
+Check if the spell is currently usable (cooldown, mana, zone, target (don't check distance)). 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsSpellUsable { get; }Public ReadOnly Property IsSpellUsable As Boolean
+	Getpublic:
+property bool^ IsSpellUsable {
+	bool^ get ();
+}Field Value
+Return true if spell usable; otherwise, false .
+See Also
+
+
+Spell Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

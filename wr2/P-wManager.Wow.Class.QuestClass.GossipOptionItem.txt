@@ -1,0 +1,24 @@
+WRobot
+
+QuestClass..::..GossipOptionItem Property 
+Gets or sets the gossip option to use to select reward item. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public virtual int GossipOptionItem { get; set; }Public Overridable Property GossipOptionItem As Integer
+	Get
+	Setpublic:
+virtual property int^ GossipOptionItem {
+	int^ get ();
+	void set (int^ value);
+}
+See Also
+
+
+QuestClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

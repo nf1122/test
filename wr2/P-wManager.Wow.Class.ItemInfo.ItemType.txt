@@ -1,0 +1,24 @@
+WRobot
+
+ItemInfo..::..ItemType Property 
+The localized type name of the item: Armor, Weapon, Quest, etc. https://wow.gamepedia.com/ItemType 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string ItemType { get; set; }Public Property ItemType As String
+	Get
+	Setpublic:
+property String^ ItemType {
+	String^ get ();
+	void set (String^ value);
+}
+See Also
+
+
+ItemInfo Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

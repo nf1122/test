@@ -1,0 +1,23 @@
+WRobot
+
+Spell..::..HaveBuff Property 
+Gets if your player have this spell in buff. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool HaveBuff { get; }Public ReadOnly Property HaveBuff As Boolean
+	Getpublic:
+property bool^ HaveBuff {
+	bool^ get ();
+}Field Value
+true if have buff; otherwise, false .
+See Also
+
+
+Spell Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

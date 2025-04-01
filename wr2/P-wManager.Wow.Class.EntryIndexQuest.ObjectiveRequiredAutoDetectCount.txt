@@ -1,0 +1,25 @@
+WRobot
+
+EntryIndexQuest..::..ObjectiveRequiredAutoDetectCount Property 
+Gets or sets a value indicating if automatically detect count objective. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool ObjectiveRequiredAutoDetectCount { get; set; }Public Property ObjectiveRequiredAutoDetectCount As Boolean
+	Get
+	Setpublic:
+property bool^ ObjectiveRequiredAutoDetectCount {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if automatically detect count objective; otherwise, false (to use ObjectiveRequiredCount).
+See Also
+
+
+EntryIndexQuest Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

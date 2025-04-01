@@ -1,0 +1,24 @@
+WRobot
+
+ItemInfo..::..ItemSubType Property 
+The localized sub-type name of the item: Bows, Guns, Staves, etc. https://wow.gamepedia.com/ItemType 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string ItemSubType { get; set; }Public Property ItemSubType As String
+	Get
+	Setpublic:
+property String^ ItemSubType {
+	String^ get ();
+	void set (String^ value);
+}
+See Also
+
+
+ItemInfo Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,27 @@
+WRobot
+
+Npc..::..CurrentProfileNpc Property 
+Gets or sets a value indicating if it is Npc of current product profile (for AcceptOnlyProfileNpc). 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[XmlIgnoreAttribute]
+public bool CurrentProfileNpc { get; set; }<XmlIgnoreAttribute> _
+Public Property CurrentProfileNpc As Boolean
+	Get
+	Set[XmlIgnoreAttribute]
+public:
+property bool^ CurrentProfileNpc {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+Npc Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

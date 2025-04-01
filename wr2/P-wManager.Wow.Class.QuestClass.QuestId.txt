@@ -1,0 +1,25 @@
+WRobot
+
+QuestClass..::..QuestId Property 
+Gets or sets the quest IDs list. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public virtual List<int> QuestId { get; set; }Public Overridable Property QuestId As List(Of Integer)
+	Get
+	Setpublic:
+virtual property List<int^>^ QuestId {
+	List<int^>^ get ();
+	void set (List<int^>^ value);
+}Field Value
+The quest IDs.
+See Also
+
+
+QuestClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

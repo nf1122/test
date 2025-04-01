@@ -1,0 +1,27 @@
+WRobot
+
+Npc..::..Save Property 
+Gets or sets a value indicating if save this Npc when bot save NpcDB (to be usable again after restart). 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[XmlIgnoreAttribute]
+public bool Save { get; set; }<XmlIgnoreAttribute> _
+Public Property Save As Boolean
+	Get
+	Set[XmlIgnoreAttribute]
+public:
+property bool^ Save {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+Npc Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

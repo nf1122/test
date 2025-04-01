@@ -1,0 +1,24 @@
+WRobot
+
+ItemInfo..::..ItemLink Property 
+The localized lua link of the item. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string ItemLink { get; set; }Public Property ItemLink As String
+	Get
+	Setpublic:
+property String^ ItemLink {
+	String^ get ();
+	void set (String^ value);
+}
+See Also
+
+
+ItemInfo Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

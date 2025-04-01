@@ -1,0 +1,23 @@
+WRobot
+
+Spell..::..IsDistanceGood Property 
+Gets if the player distance to target is good to cast spell. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsDistanceGood { get; }Public ReadOnly Property IsDistanceGood As Boolean
+	Getpublic:
+property bool^ IsDistanceGood {
+	bool^ get ();
+}Field Value
+true if the distance good; otherwise, false .
+See Also
+
+
+Spell Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

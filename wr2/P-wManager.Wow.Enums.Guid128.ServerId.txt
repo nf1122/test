@@ -1,0 +1,23 @@
+WRobot
+
+Guid128..::..ServerId Property 
+Gets the server identifier. 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public ushort ServerId { get; }Public ReadOnly Property ServerId As UShort
+	Getpublic:
+property unsigned short^ ServerId {
+	unsigned short^ get ();
+}Field Value
+The server identifier.
+See Also
+
+
+Guid128 Class
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

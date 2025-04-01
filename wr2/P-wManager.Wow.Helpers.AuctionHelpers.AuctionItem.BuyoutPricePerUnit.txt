@@ -1,0 +1,23 @@
+WRobot
+
+AuctionItem..::..BuyoutPricePerUnit Property 
+Gets the buyout price per unit. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int BuyoutPricePerUnit { get; }Public ReadOnly Property BuyoutPricePerUnit As Integer
+	Getpublic:
+property int^ BuyoutPricePerUnit {
+	int^ get ();
+}Field Value
+The buyout price per unit.
+See Also
+
+
+AuctionHelpers..::..AuctionItem Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

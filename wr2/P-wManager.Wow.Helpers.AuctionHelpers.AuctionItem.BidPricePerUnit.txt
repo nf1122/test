@@ -1,0 +1,23 @@
+WRobot
+
+AuctionItem..::..BidPricePerUnit Property 
+Gets the bid price per unit. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int BidPricePerUnit { get; }Public ReadOnly Property BidPricePerUnit As Integer
+	Getpublic:
+property int^ BidPricePerUnit {
+	int^ get ();
+}Field Value
+The bid price per unit.
+See Also
+
+
+AuctionHelpers..::..AuctionItem Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

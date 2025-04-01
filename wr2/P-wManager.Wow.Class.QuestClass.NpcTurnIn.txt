@@ -1,0 +1,22 @@
+WRobot
+
+QuestClass..::..NpcTurnIn Property 
+Gets the NPC to turn in quest (search in NPCList).. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public virtual NPCQuest NpcTurnIn { get; }Public Overridable ReadOnly Property NpcTurnIn As NPCQuest
+	Getpublic:
+virtual property NPCQuest^ NpcTurnIn {
+	NPCQuest^ get ();
+}
+See Also
+
+
+QuestClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

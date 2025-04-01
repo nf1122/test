@@ -1,0 +1,22 @@
+WRobot
+
+Conditions..::..IsAttackedAndCannotIgnore Property 
+Get a value indicating whether the character is attacked and can't ignore. The result is based on the bot configurations, not on what happens in the game (the character can be attacked but returned false depending on the options). To force to return false use ForceIgnoreIsAttacked. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsAttackedAndCannotIgnore { get; }Public Shared ReadOnly Property IsAttackedAndCannotIgnore As Boolean
+	Getpublic:
+static property bool^ IsAttackedAndCannotIgnore {
+	bool^ get ();
+}
+See Also
+
+
+Conditions Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,22 @@
+WRobot
+
+QuestClass..::..NpcPickUp Property 
+Gets the NPC where pick up quest (search in NPCList). 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public virtual NPCQuest NpcPickUp { get; }Public Overridable ReadOnly Property NpcPickUp As NPCQuest
+	Getpublic:
+virtual property NPCQuest^ NpcPickUp {
+	NPCQuest^ get ();
+}
+See Also
+
+
+QuestClass Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

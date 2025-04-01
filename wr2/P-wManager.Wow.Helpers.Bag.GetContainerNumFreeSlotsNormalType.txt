@@ -1,0 +1,22 @@
+WRobot
+
+Bag..::..GetContainerNumFreeSlotsNormalType Property 
+Get number of free slots on normal container type. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int GetContainerNumFreeSlotsNormalType { get; }Public Shared ReadOnly Property GetContainerNumFreeSlotsNormalType As Integer
+	Getpublic:
+static property int^ GetContainerNumFreeSlotsNormalType {
+	int^ get ();
+}
+See Also
+
+
+Bag Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,24 @@
+WRobot
+
+ItemInfo..::..ItemSellPrice Property 
+The vendor price in copper, or 0 for items that cannot be sold. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int ItemSellPrice { get; set; }Public Property ItemSellPrice As Integer
+	Get
+	Setpublic:
+property int^ ItemSellPrice {
+	int^ get ();
+	void set (int^ value);
+}
+See Also
+
+
+ItemInfo Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

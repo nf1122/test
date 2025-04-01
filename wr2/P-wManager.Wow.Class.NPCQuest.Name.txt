@@ -1,0 +1,24 @@
+WRobot
+
+NPCQuest..::..Name Property 
+Gets or sets the name or description. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string Name { get; set; }Public Property Name As String
+	Get
+	Setpublic:
+property String^ Name {
+	String^ get ();
+	void set (String^ value);
+}
+See Also
+
+
+NPCQuest Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

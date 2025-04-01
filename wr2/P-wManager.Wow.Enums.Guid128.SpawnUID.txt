@@ -1,0 +1,23 @@
+WRobot
+
+Guid128..::..SpawnUID Property 
+Gets the spawn uid. 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public ulong SpawnUID { get; }Public ReadOnly Property SpawnUID As ULong
+	Getpublic:
+property unsigned long long^ SpawnUID {
+	unsigned long long^ get ();
+}Field Value
+The spawn uid.
+See Also
+
+
+Guid128 Class
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

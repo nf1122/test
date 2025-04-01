@@ -1,0 +1,27 @@
+WRobot
+
+NPCQuest..::..CanFlyTo Property 
+Gets or sets a value indicating if character can fly to. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[XmlIgnoreAttribute]
+public bool CanFlyTo { get; set; }<XmlIgnoreAttribute> _
+Public Property CanFlyTo As Boolean
+	Get
+	Set[XmlIgnoreAttribute]
+public:
+property bool^ CanFlyTo {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+NPCQuest Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

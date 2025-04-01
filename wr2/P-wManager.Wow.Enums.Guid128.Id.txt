@@ -1,0 +1,23 @@
+WRobot
+
+Guid128..::..Id Property 
+Gets the identifier. 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint Id { get; }Public ReadOnly Property Id As UInteger
+	Getpublic:
+property unsigned int^ Id {
+	unsigned int^ get ();
+}Field Value
+The identifier.
+See Also
+
+
+Guid128 Class
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

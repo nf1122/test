@@ -1,0 +1,25 @@
+WRobot
+
+OffMeshConnectionWindow..::..OffMeshConnections Property 
+Gets or sets the off mesh connections. 
+Namespace:  wManager.Wow.Forms
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<PathFinder..::..OffMeshConnection> OffMeshConnections { get; set; }Public Property OffMeshConnections As List(Of PathFinder..::..OffMeshConnection)
+	Get
+	Setpublic:
+property List<PathFinder..::..OffMeshConnection^>^ OffMeshConnections {
+	List<PathFinder..::..OffMeshConnection^>^ get ();
+	void set (List<PathFinder..::..OffMeshConnection^>^ value);
+}Field Value
+The off mesh connections.
+See Also
+
+
+OffMeshConnectionWindow Class
+wManager.Wow.Forms Namespace
+Help File generated with GhostDoc
+ 

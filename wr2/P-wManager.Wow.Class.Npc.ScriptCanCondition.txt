@@ -1,0 +1,25 @@
+WRobot
+
+Npc..::..ScriptCanCondition Property 
+Script can condition (code like return wManager.Wow.ObjectManager.ObjectManager.Me.Level > 10;, default language is C#, start by lua: or luabot: or vb: to change script language). 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string ScriptCanCondition { get; set; }Public Property ScriptCanCondition As String
+	Get
+	Setpublic:
+property String^ ScriptCanCondition {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The script can condition.
+See Also
+
+
+Npc Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

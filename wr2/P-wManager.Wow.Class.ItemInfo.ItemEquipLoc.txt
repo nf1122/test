@@ -1,0 +1,24 @@
+WRobot
+
+ItemInfo..::..ItemEquipLoc Property 
+The inventory equipment location in which the item may be equipped, or "" if it cannot be equipped. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string ItemEquipLoc { get; set; }Public Property ItemEquipLoc As String
+	Get
+	Setpublic:
+property String^ ItemEquipLoc {
+	String^ get ();
+	void set (String^ value);
+}
+See Also
+
+
+ItemInfo Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

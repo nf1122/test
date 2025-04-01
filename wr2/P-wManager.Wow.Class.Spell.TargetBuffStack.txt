@@ -1,0 +1,23 @@
+WRobot
+
+Spell..::..TargetBuffStack Property 
+Gets target buff stack count. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int TargetBuffStack { get; }Public ReadOnly Property TargetBuffStack As Integer
+	Getpublic:
+property int^ TargetBuffStack {
+	int^ get ();
+}Field Value
+The target buff stack count.
+See Also
+
+
+Spell Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

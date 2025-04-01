@@ -1,0 +1,23 @@
+WRobot
+
+AuctionItem..::..BidPrice Property 
+Gets the bid price. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int BidPrice { get; }Public ReadOnly Property BidPrice As Integer
+	Getpublic:
+property int^ BidPrice {
+	int^ get ();
+}Field Value
+The bid price.
+See Also
+
+
+AuctionHelpers..::..AuctionItem Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

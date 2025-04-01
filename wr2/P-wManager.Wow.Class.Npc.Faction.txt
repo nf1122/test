@@ -1,0 +1,24 @@
+WRobot
+
+Npc..::..Faction Property 
+Gets or sets the faction. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Npc..::..FactionType Faction { get; set; }Public Property Faction As Npc..::..FactionType
+	Get
+	Setpublic:
+property Npc..::..FactionType^ Faction {
+	Npc..::..FactionType^ get ();
+	void set (Npc..::..FactionType^ value);
+}
+See Also
+
+
+Npc Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,22 @@
+WRobot
+
+Conditions..::..InGameAndConnectedAndProductStartedNotInPause Property 
+Get a value indicating whether connected in game, product is started and not in pause]. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool InGameAndConnectedAndProductStartedNotInPause { get; }Public Shared ReadOnly Property InGameAndConnectedAndProductStartedNotInPause As Boolean
+	Getpublic:
+static property bool^ InGameAndConnectedAndProductStartedNotInPause {
+	bool^ get ();
+}
+See Also
+
+
+Conditions Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

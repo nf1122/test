@@ -1,0 +1,24 @@
+WRobot
+
+ItemInfo..::..ItemStackCount Property 
+The max amount of an item per stack, e.g. 200 for Runecloth. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int ItemStackCount { get; set; }Public Property ItemStackCount As Integer
+	Get
+	Setpublic:
+property int^ ItemStackCount {
+	int^ get ();
+	void set (int^ value);
+}
+See Also
+
+
+ItemInfo Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

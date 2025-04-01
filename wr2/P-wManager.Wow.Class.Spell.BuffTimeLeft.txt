@@ -1,0 +1,23 @@
+WRobot
+
+Spell..::..BuffTimeLeft Property 
+Gets player buff time left (in milliseconds). 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int BuffTimeLeft { get; }Public ReadOnly Property BuffTimeLeft As Integer
+	Getpublic:
+property int^ BuffTimeLeft {
+	int^ get ();
+}Field Value
+The buff time left (in milliseconds).
+See Also
+
+
+Spell Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

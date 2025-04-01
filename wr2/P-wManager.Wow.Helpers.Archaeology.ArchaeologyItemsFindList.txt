@@ -1,0 +1,22 @@
+WRobot
+
+Archaeology..::..ArchaeologyItemsFindList Property 
+List of gameobjects (entry id) to pick up 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<int> ArchaeologyItemsFindList { get; }Public Shared ReadOnly Property ArchaeologyItemsFindList As List(Of Integer)
+	Getpublic:
+static property List<int^>^ ArchaeologyItemsFindList {
+	List<int^>^ get ();
+}
+See Also
+
+
+Archaeology Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,23 @@
+WRobot
+
+Spell..::..TargetHaveBuff Property 
+Gets if the target have this spell in buff. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool TargetHaveBuff { get; }Public ReadOnly Property TargetHaveBuff As Boolean
+	Getpublic:
+property bool^ TargetHaveBuff {
+	bool^ get ();
+}Field Value
+true if target have buff; otherwise, false .
+See Also
+
+
+Spell Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

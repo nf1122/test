@@ -1,0 +1,25 @@
+WRobot
+
+Npc..::..ContinentId Property 
+Gets or sets the continent id. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public ContinentId ContinentId { get; set; }Public Property ContinentId As ContinentId
+	Get
+	Setpublic:
+property ContinentId^ ContinentId {
+	ContinentId^ get ();
+	void set (ContinentId^ value);
+}Field Value
+The continent id.
+See Also
+
+
+Npc Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,28 @@
+WRobot
+
+NPCQuest..::..PosZ Property 
+Gets or sets the position z. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[XmlIgnoreAttribute]
+public float PosZ { get; set; }<XmlIgnoreAttribute> _
+Public Property PosZ As Single
+	Get
+	Set[XmlIgnoreAttribute]
+public:
+property float^ PosZ {
+	float^ get ();
+	void set (float^ value);
+}Field Value
+The position z.
+See Also
+
+
+NPCQuest Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

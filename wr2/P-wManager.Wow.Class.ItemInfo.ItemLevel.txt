@@ -1,0 +1,24 @@
+WRobot
+
+ItemInfo..::..ItemLevel Property 
+The base item level, not including upgrades 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int ItemLevel { get; set; }Public Property ItemLevel As Integer
+	Get
+	Setpublic:
+property int^ ItemLevel {
+	int^ get ();
+	void set (int^ value);
+}
+See Also
+
+
+ItemInfo Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

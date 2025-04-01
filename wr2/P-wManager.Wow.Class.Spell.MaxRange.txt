@@ -1,0 +1,24 @@
+WRobot
+
+Spell..::..MaxRange Property 
+Gets or sets the maximum spell range (if you use CalcuCombatRange the value may be different from that assigned). 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float MaxRange { get; set; }Public Property MaxRange As Single
+	Get
+	Setpublic:
+property float^ MaxRange {
+	float^ get ();
+	void set (float^ value);
+}
+See Also
+
+
+Spell Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

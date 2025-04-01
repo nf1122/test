@@ -1,0 +1,22 @@
+WRobot
+
+Conditions..::..ProductInPause Property 
+Get a value indicating whether product is in pause. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ProductInPause { get; }Public Shared ReadOnly Property ProductInPause As Boolean
+	Getpublic:
+static property bool^ ProductInPause {
+	bool^ get ();
+}
+See Also
+
+
+Conditions Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

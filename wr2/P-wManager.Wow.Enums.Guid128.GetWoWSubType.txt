@@ -1,0 +1,23 @@
+WRobot
+
+Guid128..::..GetWoWSubType Property 
+Gets the sub type of the object. 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public GuidSubType GetWoWSubType { get; }Public ReadOnly Property GetWoWSubType As GuidSubType
+	Getpublic:
+property GuidSubType^ GetWoWSubType {
+	GuidSubType^ get ();
+}Field Value
+The object sub type.
+See Also
+
+
+Guid128 Class
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,25 @@
+WRobot
+
+TaxiNode..::..Active Property 
+Gets or sets a value indicating whether this TaxiNode is active. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool Active { get; set; }Public Property Active As Boolean
+	Get
+	Setpublic:
+property bool^ Active {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if active; otherwise, false.
+See Also
+
+
+TaxiNode Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

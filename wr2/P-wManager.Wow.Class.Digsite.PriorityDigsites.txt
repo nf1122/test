@@ -1,0 +1,25 @@
+WRobot
+
+Digsite..::..PriorityDigsites Property 
+Gets or sets the priority the digsite. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float PriorityDigsites { get; set; }Public Property PriorityDigsites As Single
+	Get
+	Setpublic:
+property float^ PriorityDigsites {
+	float^ get ();
+	void set (float^ value);
+}Field Value
+The priority digsite.
+See Also
+
+
+Digsite Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

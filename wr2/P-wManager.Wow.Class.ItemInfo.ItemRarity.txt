@@ -1,0 +1,24 @@
+WRobot
+
+ItemInfo..::..ItemRarity Property 
+The quality of the item, WoWItemQuality
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int ItemRarity { get; set; }Public Property ItemRarity As Integer
+	Get
+	Setpublic:
+property int^ ItemRarity {
+	int^ get ();
+	void set (int^ value);
+}
+See Also
+
+
+ItemInfo Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

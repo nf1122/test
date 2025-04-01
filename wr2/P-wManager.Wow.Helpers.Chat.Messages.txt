@@ -1,0 +1,23 @@
+WRobot
+
+Chat..::..Messages Property 
+Get messages. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<Channel..::..Message> Messages { get; }Public Shared ReadOnly Property Messages As List(Of Channel..::..Message)
+	Getpublic:
+static property List<Channel..::..Message^>^ Messages {
+	List<Channel..::..Message^>^ get ();
+}Field Value
+The messages.
+See Also
+
+
+Chat Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

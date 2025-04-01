@@ -1,0 +1,25 @@
+WRobot
+
+EntryIndexQuest..::..Description Property 
+Gets or sets the description. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string Description { get; set; }Public Property Description As String
+	Get
+	Setpublic:
+property String^ Description {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The description.
+See Also
+
+
+EntryIndexQuest Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

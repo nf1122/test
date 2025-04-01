@@ -1,0 +1,23 @@
+WRobot
+
+Guid128..::..ZoneUID Property 
+Gets the zone uid. 
+Namespace:  wManager.Wow.Enums
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public ushort ZoneUID { get; }Public ReadOnly Property ZoneUID As UShort
+	Getpublic:
+property unsigned short^ ZoneUID {
+	unsigned short^ get ();
+}Field Value
+The zone uid.
+See Also
+
+
+Guid128 Class
+wManager.Wow.Enums Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,24 @@
+WRobot
+
+ItemInfo..::..ItemTexture Property 
+The texture for the item icon. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string ItemTexture { get; set; }Public Property ItemTexture As String
+	Get
+	Setpublic:
+property String^ ItemTexture {
+	String^ get ();
+	void set (String^ value);
+}
+See Also
+
+
+ItemInfo Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

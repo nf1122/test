@@ -1,0 +1,25 @@
+WRobot
+
+Npc..::..Type Property 
+Gets or sets the type. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Npc..::..NpcType Type { get; set; }Public Property Type As Npc..::..NpcType
+	Get
+	Setpublic:
+property Npc..::..NpcType^ Type {
+	Npc..::..NpcType^ get ();
+	void set (Npc..::..NpcType^ value);
+}Field Value
+The type.
+See Also
+
+
+Npc Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

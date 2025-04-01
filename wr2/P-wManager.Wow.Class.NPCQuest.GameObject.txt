@@ -1,0 +1,25 @@
+WRobot
+
+NPCQuest..::..GameObject Property 
+Gets or sets a value indicating whether it isWoWGameObject (by default bot search WoWUnit). 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool GameObject { get; set; }Public Property GameObject As Boolean
+	Get
+	Setpublic:
+property bool^ GameObject {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if game object; otherwise, false.
+See Also
+
+
+NPCQuest Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

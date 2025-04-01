@@ -1,0 +1,24 @@
+WRobot
+
+Npc..::..Active Property 
+Gets or sets a value indicating whether this Npc can be used. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool Active { get; set; }Public Property Active As Boolean
+	Get
+	Setpublic:
+property bool^ Active {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+Npc Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

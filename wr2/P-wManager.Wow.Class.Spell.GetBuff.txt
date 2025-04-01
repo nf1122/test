@@ -1,0 +1,23 @@
+WRobot
+
+Spell..::..GetBuff Property 
+Gets player buff 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Aura GetBuff { get; }Public ReadOnly Property GetBuff As Aura
+	Getpublic:
+property Aura^ GetBuff {
+	Aura^ get ();
+}Field Value
+Get the buff.
+See Also
+
+
+Spell Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 
