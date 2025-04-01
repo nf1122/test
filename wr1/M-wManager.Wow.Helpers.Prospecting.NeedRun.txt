@@ -1,0 +1,30 @@
+WRobot
+
+Prospecting..::..NeedRun Method 
+Needs the run. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool NeedRun(
+	List<string> itemsParse
+)Public Shared Function NeedRun ( _
+	itemsParse As List(Of String) _
+) As Booleanpublic:
+static bool^ NeedRun(
+	List<String^>^ itemsParse
+)Parameters
+itemsParse
+Type: List<(Of <(<'String>)>)>
+The items parse.
+Return Value
+true if need to run, false otherwise.
+See Also
+
+
+Prospecting Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

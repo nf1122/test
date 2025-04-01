@@ -1,0 +1,21 @@
+WRobot
+
+RunesManager..::..GetRunes Method 
+Get runes. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static RuneStruct[] GetRunes()Public Shared Function GetRunes As RuneStruct()public:
+static array<RuneStruct^>^ GetRunes()Return Value
+RuneStruct[].
+See Also
+
+
+RunesManager Class
+GetRunes Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

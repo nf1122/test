@@ -1,0 +1,31 @@
+WRobot
+
+SpellManager..::..GetSpellCooldownTimeLeft Method (UInt32)
+Get the spell cooldown time left. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int GetSpellCooldownTimeLeft(
+	uint spellId
+)Public Shared Function GetSpellCooldownTimeLeft ( _
+	spellId As UInteger _
+) As Integerpublic:
+static int^ GetSpellCooldownTimeLeft(
+	unsigned int^ spellId
+)Parameters
+spellId
+Type: UInt32
+The spell id.
+Return Value
+time left milliseconds.
+See Also
+
+
+SpellManager Class
+GetSpellCooldownTimeLeft Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

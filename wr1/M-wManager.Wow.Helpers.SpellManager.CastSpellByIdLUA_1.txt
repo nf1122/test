@@ -1,0 +1,35 @@
+WRobot
+
+SpellManager..::..CastSpellByIdLUA Method (UInt32, String)
+Casts spell by ID with lua. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void CastSpellByIdLUA(
+	uint spellId,
+	string luaUnitId
+)Public Shared Sub CastSpellByIdLUA ( _
+	spellId As UInteger, _
+	luaUnitId As String _
+)public:
+static void CastSpellByIdLUA(
+	unsigned int^ spellId, 
+	String^ luaUnitId
+)Parameters
+spellId
+Type: UInt32
+The spell id.
+luaUnitId
+Type: String
+Unit Id (lua api: http://wow.gamepedia.com/UnitId ).
+See Also
+
+
+SpellManager Class
+CastSpellByIdLUA Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

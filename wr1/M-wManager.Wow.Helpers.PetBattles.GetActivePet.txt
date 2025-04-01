@@ -1,0 +1,30 @@
+WRobot
+
+PetBattles..::..GetActivePet Method 
+Gets the active pet. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int GetActivePet(
+	PetBattles..::..PetFaction petFaction
+)Public Shared Function GetActivePet ( _
+	petFaction As PetBattles..::..PetFaction _
+) As Integerpublic:
+static int^ GetActivePet(
+	PetBattles..::..PetFaction^ petFaction
+)Parameters
+petFaction
+Type: wManager.Wow.Helpers..::..PetBattles..::..PetFaction
+1: Current player, 2: Opponent.
+Return Value
+System.Int32.
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

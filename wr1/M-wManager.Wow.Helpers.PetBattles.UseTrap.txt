@@ -1,0 +1,19 @@
+WRobot
+
+PetBattles..::..UseTrap Method 
+Uses the trap. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void UseTrap()Public Shared Sub UseTrappublic:
+static void UseTrap()
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

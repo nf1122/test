@@ -1,0 +1,19 @@
+WRobot
+
+Quest..::..ConsumeQuestsCompletedRequest Method 
+Update FinishedQuestSet. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void ConsumeQuestsCompletedRequest()Public Shared Sub ConsumeQuestsCompletedRequestpublic:
+static void ConsumeQuestsCompletedRequest()
+See Also
+
+
+Quest Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

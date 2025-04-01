@@ -1,0 +1,34 @@
+WRobot
+
+SpellManager..::..CastSpellByIDAndPosition Method 
+Cast spell by ID and position. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void CastSpellByIDAndPosition(
+	uint spellId,
+	Vector3 position
+)Public Shared Sub CastSpellByIDAndPosition ( _
+	spellId As UInteger, _
+	position As Vector3 _
+)public:
+static void CastSpellByIDAndPosition(
+	unsigned int^ spellId, 
+	Vector3^ position
+)Parameters
+spellId
+Type: UInt32
+The spell ID.
+position
+Type: robotManager.Helpful..::..Vector3
+The position.
+See Also
+
+
+SpellManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

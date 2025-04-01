@@ -1,0 +1,30 @@
+WRobot
+
+Quest..::..HasQuest Method 
+Determine whether has the specified quest id. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool HasQuest(
+	int questId
+)Public Shared Function HasQuest ( _
+	questId As Integer _
+) As Booleanpublic:
+static bool^ HasQuest(
+	int^ questId
+)Parameters
+questId
+Type: Int32
+The quest id.
+Return Value
+true if has quest; otherwise, false.
+See Also
+
+
+Quest Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

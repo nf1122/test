@@ -1,0 +1,20 @@
+WRobot
+
+Radar3D..::..Stop Method 
+Stop radar 3d. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool Stop()Public Shared Function Stop As Booleanpublic:
+static bool^ Stop()Return Value
+true if XXXX, false otherwise.
+See Also
+
+
+Radar3D Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

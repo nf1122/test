@@ -1,0 +1,30 @@
+WRobot
+
+RunCodeExtension..::..RunVBScript Method 
+Run VB.net script. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool RunVBScript(
+	string code
+)Public Shared Function RunVBScript ( _
+	code As String _
+) As Booleanpublic:
+static bool^ RunVBScript(
+	String^ code
+)Parameters
+code
+Type: String
+The script, it is added in a method with a void return type.
+Return Value
+true if success, false otherwise.
+See Also
+
+
+RunCodeExtension Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+Smelting..::..CloseSmeltingWindow Method 
+Close the smelting window. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void CloseSmeltingWindow()Public Shared Sub CloseSmeltingWindowpublic:
+static void CloseSmeltingWindow()
+See Also
+
+
+Smelting Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

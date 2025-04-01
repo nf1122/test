@@ -1,0 +1,30 @@
+WRobot
+
+Skill..::..Has Method 
+Has skill. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool Has(
+	SkillLine skill
+)Public Shared Function Has ( _
+	skill As SkillLine _
+) As Booleanpublic:
+static bool^ Has(
+	SkillLine^ skill
+)Parameters
+skill
+Type: wManager.Wow.Enums..::..SkillLine
+The skill.
+Return Value
+has.
+See Also
+
+
+Skill Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

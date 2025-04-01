@@ -1,0 +1,28 @@
+WRobot
+
+Quest..::..CompleteQuest Method 
+Complete the quest. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void CompleteQuest(
+	int gossipOptionItem
+)Public Shared Sub CompleteQuest ( _
+	gossipOptionItem As Integer _
+)public:
+static void CompleteQuest(
+	int^ gossipOptionItem
+)Parameters
+gossipOptionItem
+Type: Int32
+The gossip option item.
+See Also
+
+
+Quest Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

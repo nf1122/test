@@ -1,0 +1,28 @@
+WRobot
+
+Prospecting..::..Pulse Method 
+Prospecting specified items. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Pulse(
+	List<string> itemsParse
+)Public Shared Sub Pulse ( _
+	itemsParse As List(Of String) _
+)public:
+static void Pulse(
+	List<String^>^ itemsParse
+)Parameters
+itemsParse
+Type: List<(Of <(<'String>)>)>
+The items.
+See Also
+
+
+Prospecting Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

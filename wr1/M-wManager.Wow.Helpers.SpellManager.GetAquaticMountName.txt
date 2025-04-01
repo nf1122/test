@@ -1,0 +1,20 @@
+WRobot
+
+SpellManager..::..GetAquaticMountName Method 
+Get of aquatic mounts. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string GetAquaticMountName()Public Shared Function GetAquaticMountName As Stringpublic:
+static String^ GetAquaticMountName()Return Value
+names.
+See Also
+
+
+SpellManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

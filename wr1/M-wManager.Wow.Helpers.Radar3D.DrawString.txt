@@ -1,0 +1,58 @@
+WRobot
+
+Radar3D..::..DrawString Method 
+Draw string (call this method when OnDrawEvent is called). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void DrawString(
+	string text,
+	Vector3 screenPosition,
+	float size,
+	Color color,
+	int alpha,
+	FontFamily fontFamily
+)Public Shared Sub DrawString ( _
+	text As String, _
+	screenPosition As Vector3, _
+	size As Single, _
+	color As Color, _
+	alpha As Integer, _
+	fontFamily As FontFamily _
+)public:
+static void DrawString(
+	String^ text, 
+	Vector3^ screenPosition, 
+	float^ size, 
+	Color^ color, 
+	int^ alpha, 
+	FontFamily^ fontFamily
+)Parameters
+text
+Type: String
+The text.
+screenPosition
+Type: robotManager.Helpful..::..Vector3
+The screen position.
+size
+Type: Single
+The size.
+color
+Type: Color
+The color.
+alpha
+Type: Int32
+The alpha.
+fontFamily
+Type: FontFamily
+The font family.
+See Also
+
+
+Radar3D Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

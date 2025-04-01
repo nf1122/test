@@ -1,0 +1,30 @@
+WRobot
+
+PetBattles..::..PetJournalHavePet Method 
+Pet journal have pet. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool PetJournalHavePet(
+	int petSpeciesID
+)Public Shared Function PetJournalHavePet ( _
+	petSpeciesID As Integer _
+) As Booleanpublic:
+static bool^ PetJournalHavePet(
+	int^ petSpeciesID
+)Parameters
+petSpeciesID
+Type: Int32
+The pet species id.
+Return Value
+true if found, false otherwise.
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

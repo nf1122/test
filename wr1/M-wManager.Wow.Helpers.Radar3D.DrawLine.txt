@@ -1,0 +1,46 @@
+WRobot
+
+Radar3D..::..DrawLine Method 
+Draw line (call this method when OnDrawEvent is called). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void DrawLine(
+	Vector3 from,
+	Vector3 to,
+	Color color,
+	int alpha
+)Public Shared Sub DrawLine ( _
+	from As Vector3, _
+	to As Vector3, _
+	color As Color, _
+	alpha As Integer _
+)public:
+static void DrawLine(
+	Vector3^ from, 
+	Vector3^ to, 
+	Color^ color, 
+	int^ alpha
+)Parameters
+from
+Type: robotManager.Helpful..::..Vector3
+From.
+to
+Type: robotManager.Helpful..::..Vector3
+To.
+color
+Type: Color
+The color.
+alpha
+Type: Int32
+The alpha.
+See Also
+
+
+Radar3D Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

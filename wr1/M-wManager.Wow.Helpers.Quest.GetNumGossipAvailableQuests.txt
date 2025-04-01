@@ -1,0 +1,20 @@
+WRobot
+
+Quest..::..GetNumGossipAvailableQuests Method 
+Returns the number of quests (that you are not already on) offered by this NPC. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int GetNumGossipAvailableQuests()Public Shared Function GetNumGossipAvailableQuests As Integerpublic:
+static int^ GetNumGossipAvailableQuests()Return Value
+number.
+See Also
+
+
+Quest Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

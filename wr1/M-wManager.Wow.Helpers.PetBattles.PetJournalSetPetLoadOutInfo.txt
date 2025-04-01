@@ -1,0 +1,34 @@
+WRobot
+
+PetBattles..::..PetJournalSetPetLoadOutInfo Method 
+Pet journal, places the specified pet into a battle pet slot.. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void PetJournalSetPetLoadOutInfo(
+	int slotIndex,
+	string petID
+)Public Shared Sub PetJournalSetPetLoadOutInfo ( _
+	slotIndex As Integer, _
+	petID As String _
+)public:
+static void PetJournalSetPetLoadOutInfo(
+	int^ slotIndex, 
+	String^ petID
+)Parameters
+slotIndex
+Type: Int32
+Index of the slot.
+petID
+Type: String
+
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

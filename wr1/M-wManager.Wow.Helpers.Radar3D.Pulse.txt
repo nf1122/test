@@ -1,0 +1,20 @@
+WRobot
+
+Radar3D..::..Pulse Method 
+Active radar 3d. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool Pulse()Public Shared Function Pulse As Booleanpublic:
+static bool^ Pulse()Return Value
+true if XXXX, false otherwise.
+See Also
+
+
+Radar3D Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

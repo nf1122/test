@@ -1,0 +1,31 @@
+WRobot
+
+Quest..::..GetQuestCompleted Method (List<(Of <(<'Int32>)>)>)
+Check if one of the quest id is completed. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool GetQuestCompleted(
+	List<int> qList
+)Public Shared Function GetQuestCompleted ( _
+	qList As List(Of Integer) _
+) As Booleanpublic:
+static bool^ GetQuestCompleted(
+	List<int^>^ qList
+)Parameters
+qList
+Type: List<(Of <(<'Int32>)>)>
+The quest id list.
+Return Value
+true if any quest completed, false otherwise.
+See Also
+
+
+Quest Class
+GetQuestCompleted Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

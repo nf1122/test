@@ -1,0 +1,48 @@
+WRobot
+
+RunCodeExtension..::..RunScript Method 
+Run script. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool RunScript(
+	RunCode..::..CodeType codetype,
+	string code,
+	string usingNamespaceAdditional,
+	out string errors
+)Public Shared Function RunScript ( _
+	codetype As RunCode..::..CodeType, _
+	code As String, _
+	usingNamespaceAdditional As String, _
+	<OutAttribute> ByRef errors As String _
+) As Booleanpublic:
+static bool^ RunScript(
+	RunCode..::..CodeType^ codetype, 
+	String^ code, 
+	String^ usingNamespaceAdditional, 
+	[OutAttribute] String^% errors
+)Parameters
+codetype
+Type: robotManager.Helpful..::..RunCode..::..CodeType
+Code language.
+code
+Type: String
+The script, it is added in a method with a void return type.
+usingNamespaceAdditional
+Type: String
+Additional namespaces (the main namespaces of wManager and robotManager are already added).
+errors
+Type: String%
+The errors (empty if no error).
+Return Value
+true if success, false otherwise.
+See Also
+
+
+RunCodeExtension Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

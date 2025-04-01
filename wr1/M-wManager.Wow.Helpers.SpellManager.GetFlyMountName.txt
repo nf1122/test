@@ -1,0 +1,20 @@
+WRobot
+
+SpellManager..::..GetFlyMountName Method 
+Get of flying mounts. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string GetFlyMountName()Public Shared Function GetFlyMountName As Stringpublic:
+static String^ GetFlyMountName()Return Value
+names.
+See Also
+
+
+SpellManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

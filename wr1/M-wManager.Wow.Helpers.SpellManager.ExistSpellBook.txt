@@ -1,0 +1,30 @@
+WRobot
+
+SpellManager..::..ExistSpellBook Method 
+Exist in spell book. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ExistSpellBook(
+	string spellNameInGame
+)Public Shared Function ExistSpellBook ( _
+	spellNameInGame As String _
+) As Booleanpublic:
+static bool^ ExistSpellBook(
+	String^ spellNameInGame
+)Parameters
+spellNameInGame
+Type: String
+The spell name in game.
+Return Value
+true if exist, false otherwise.
+See Also
+
+
+SpellManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,30 @@
+WRobot
+
+PetBattles..::..PetJournalGetMaxHealth Method 
+Pet journal get maximum health. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int PetJournalGetMaxHealth(
+	int petActiveId
+)Public Shared Function PetJournalGetMaxHealth ( _
+	petActiveId As Integer _
+) As Integerpublic:
+static int^ PetJournalGetMaxHealth(
+	int^ petActiveId
+)Parameters
+petActiveId
+Type: Int32
+The pet active id.
+Return Value
+System.Int32.
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

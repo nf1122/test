@@ -1,0 +1,19 @@
+WRobot
+
+PetBattles..::..SkipTurn Method 
+Skips the turn. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void SkipTurn()Public Shared Sub SkipTurnpublic:
+static void SkipTurn()
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

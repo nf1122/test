@@ -1,0 +1,19 @@
+WRobot
+
+PetBattles..::..PvpQueueAndAccept Method 
+PVPs queue and accept. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void PvpQueueAndAccept()Public Shared Sub PvpQueueAndAcceptpublic:
+static void PvpQueueAndAccept()
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

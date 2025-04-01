@@ -1,0 +1,30 @@
+WRobot
+
+SpellManager..::..GetSpellInfo Method 
+Gets spell information. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static SpellInfo GetSpellInfo(
+	uint id
+)Public Shared Function GetSpellInfo ( _
+	id As UInteger _
+) As SpellInfopublic:
+static SpellInfo^ GetSpellInfo(
+	unsigned int^ id
+)Parameters
+id
+Type: UInt32
+The spell id.
+Return Value
+SpellInfo.
+See Also
+
+
+SpellManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,21 @@
+WRobot
+
+RunesManager..::..GetRunesReady Method 
+Get runes ready. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<RuneStruct> GetRunesReady()Public Shared Function GetRunesReady As List(Of RuneStruct)public:
+static List<RuneStruct^>^ GetRunesReady()Return Value
+List<RuneStruct>.
+See Also
+
+
+RunesManager Class
+GetRunesReady Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

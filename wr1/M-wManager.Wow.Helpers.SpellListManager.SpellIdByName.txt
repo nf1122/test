@@ -1,0 +1,30 @@
+WRobot
+
+SpellListManager..::..SpellIdByName Method 
+Get spell ID by Name (in english) 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<uint> SpellIdByName(
+	string spellName
+)Public Shared Function SpellIdByName ( _
+	spellName As String _
+) As List(Of UInteger)public:
+static List<unsigned int^>^ SpellIdByName(
+	String^ spellName
+)Parameters
+spellName
+Type: String
+Name (in english).
+Return Value
+id.
+See Also
+
+
+SpellListManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

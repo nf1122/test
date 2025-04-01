@@ -1,0 +1,31 @@
+WRobot
+
+SpellManager..::..ExistMount Method (UInt32)
+Mount exist. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ExistMount(
+	uint spellId
+)Public Shared Function ExistMount ( _
+	spellId As UInteger _
+) As Booleanpublic:
+static bool^ ExistMount(
+	unsigned int^ spellId
+)Parameters
+spellId
+Type: UInt32
+The spell id.
+Return Value
+true if exist, false otherwise.
+See Also
+
+
+SpellManager Class
+ExistMount Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

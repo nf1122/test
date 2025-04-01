@@ -1,0 +1,19 @@
+WRobot
+
+Quest..::..CloseQuestWindow Method 
+Close quest window. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void CloseQuestWindow()Public Shared Sub CloseQuestWindowpublic:
+static void CloseQuestWindow()
+See Also
+
+
+Quest Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

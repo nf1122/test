@@ -1,0 +1,30 @@
+WRobot
+
+PetBattles..::..PetJournalGetHealth Method 
+Pet journal get health. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int PetJournalGetHealth(
+	int petActiveId
+)Public Shared Function PetJournalGetHealth ( _
+	petActiveId As Integer _
+) As Integerpublic:
+static int^ PetJournalGetHealth(
+	int^ petActiveId
+)Parameters
+petActiveId
+Type: Int32
+The pet active identifier.
+Return Value
+System.Int32.
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

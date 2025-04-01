@@ -1,0 +1,29 @@
+WRobot
+
+SpellManager..::..CastSpellByIdLUA Method (UInt32)
+Cast spell by ID with lua. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void CastSpellByIdLUA(
+	uint spellId
+)Public Shared Sub CastSpellByIdLUA ( _
+	spellId As UInteger _
+)public:
+static void CastSpellByIdLUA(
+	unsigned int^ spellId
+)Parameters
+spellId
+Type: UInt32
+The spell ID.
+See Also
+
+
+SpellManager Class
+CastSpellByIdLUA Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

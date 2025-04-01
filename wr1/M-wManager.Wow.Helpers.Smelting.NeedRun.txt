@@ -1,0 +1,30 @@
+WRobot
+
+Smelting..::..NeedRun Method 
+Need the run. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool NeedRun(
+	bool openWindow
+)Public Shared Function NeedRun ( _
+	openWindow As Boolean _
+) As Booleanpublic:
+static bool^ NeedRun(
+	bool^ openWindow
+)Parameters
+openWindow
+Type: Boolean
+if set to true open window.
+Return Value
+true if need to run, false otherwise.
+See Also
+
+
+Smelting Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

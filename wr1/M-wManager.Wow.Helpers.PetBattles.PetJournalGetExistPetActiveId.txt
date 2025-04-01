@@ -1,0 +1,20 @@
+WRobot
+
+PetBattles..::..PetJournalGetExistPetActiveId Method 
+Pet journal get exist pet active IDs. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<int> PetJournalGetExistPetActiveId()Public Shared Function PetJournalGetExistPetActiveId As List(Of Integer)public:
+static List<int^>^ PetJournalGetExistPetActiveId()Return Value
+IDs.
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

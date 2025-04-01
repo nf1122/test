@@ -1,0 +1,20 @@
+WRobot
+
+PetBattles..::..GetBestPet Method 
+Gets the best pet (against current target). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int GetBestPet()Public Shared Function GetBestPet As Integerpublic:
+static int^ GetBestPet()Return Value
+pet index.
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

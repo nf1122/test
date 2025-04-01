@@ -1,0 +1,28 @@
+WRobot
+
+PetBattles..::..UseAbility Method 
+Uses the ability. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void UseAbility(
+	int abilityIndex
+)Public Shared Sub UseAbility ( _
+	abilityIndex As Integer _
+)public:
+static void UseAbility(
+	int^ abilityIndex
+)Parameters
+abilityIndex
+Type: Int32
+Accepted values are 1-3, corresponding to the ability buttons from left to right.
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

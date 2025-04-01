@@ -1,0 +1,19 @@
+WRobot
+
+Quest..::..RequestQuestsCompleted Method 
+Update FinishedQuestSet if not in progress. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void RequestQuestsCompleted()Public Shared Sub RequestQuestsCompletedpublic:
+static void RequestQuestsCompleted()
+See Also
+
+
+Quest Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

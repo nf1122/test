@@ -1,0 +1,36 @@
+WRobot
+
+Quest..::..IsObjectiveComplete Method 
+Determine whether quest objective is complete. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsObjectiveComplete(
+	int objectiveIndex,
+	int questID
+)Public Shared Function IsObjectiveComplete ( _
+	objectiveIndex As Integer, _
+	questID As Integer _
+) As Booleanpublic:
+static bool^ IsObjectiveComplete(
+	int^ objectiveIndex, 
+	int^ questID
+)Parameters
+objectiveIndex
+Type: Int32
+Index of the quest objective.
+questID
+Type: Int32
+The quest id.
+Return Value
+true if objective is complete; otherwise, false.
+See Also
+
+
+Quest Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

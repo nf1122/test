@@ -1,0 +1,20 @@
+WRobot
+
+PetBattles..::..IsWaitingOnOpponent Method 
+Determines whether is waiting on opponent. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsWaitingOnOpponent()Public Shared Function IsWaitingOnOpponent As Booleanpublic:
+static bool^ IsWaitingOnOpponent()Return Value
+true if is waiting on opponent; otherwise, false.
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

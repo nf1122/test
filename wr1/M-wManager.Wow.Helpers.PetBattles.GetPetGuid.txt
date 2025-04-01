@@ -1,0 +1,30 @@
+WRobot
+
+PetBattles..::..GetPetGuid Method 
+Gets the pet GUID. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string GetPetGuid(
+	int petActiveId
+)Public Shared Function GetPetGuid ( _
+	petActiveId As Integer _
+) As Stringpublic:
+static String^ GetPetGuid(
+	int^ petActiveId
+)Parameters
+petActiveId
+Type: Int32
+The active pet ID.
+Return Value
+GUID.
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,30 @@
+WRobot
+
+SpellListManager..::..SpellNameInGameByName Method 
+Get spell name (in game) by spell name (in english) 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string SpellNameInGameByName(
+	string spellName
+)Public Shared Function SpellNameInGameByName ( _
+	spellName As String _
+) As Stringpublic:
+static String^ SpellNameInGameByName(
+	String^ spellName
+)Parameters
+spellName
+Type: String
+spell name (in english).
+Return Value
+spell name (in game)
+See Also
+
+
+SpellListManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

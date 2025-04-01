@@ -1,0 +1,30 @@
+WRobot
+
+PetBattles..::..HasPetTeam Method 
+Determines whether has pet team. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool HasPetTeam(
+	bool forceResetTimerCheck
+)Public Shared Function HasPetTeam ( _
+	forceResetTimerCheck As Boolean _
+) As Booleanpublic:
+static bool^ HasPetTeam(
+	bool^ forceResetTimerCheck
+)Parameters
+forceResetTimerCheck
+Type: Boolean
+if set to true force reset cache.
+Return Value
+true if has pet team; otherwise, false.
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

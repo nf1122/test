@@ -1,0 +1,19 @@
+WRobot
+
+SpellListManager..::..LoadSpellListe Method 
+Loads the spell list (called when bot is attached to the game). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void LoadSpellListe()Public Shared Sub LoadSpellListepublic:
+static void LoadSpellListe()
+See Also
+
+
+SpellListManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

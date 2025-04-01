@@ -1,0 +1,20 @@
+WRobot
+
+Quest..::..GetLogQuestId Method 
+Get game quest log. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<Quest..::..PlayerQuest> GetLogQuestId()Public Shared Function GetLogQuestId As List(Of Quest..::..PlayerQuest)public:
+static List<Quest..::..PlayerQuest^>^ GetLogQuestId()Return Value
+current quest log.
+See Also
+
+
+Quest Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

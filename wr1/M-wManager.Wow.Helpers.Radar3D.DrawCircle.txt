@@ -1,0 +1,52 @@
+WRobot
+
+Radar3D..::..DrawCircle Method 
+Draw circle (call this method when OnDrawEvent is called). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void DrawCircle(
+	Vector3 center,
+	float radius,
+	Color color,
+	bool filled,
+	int alpha
+)Public Shared Sub DrawCircle ( _
+	center As Vector3, _
+	radius As Single, _
+	color As Color, _
+	filled As Boolean, _
+	alpha As Integer _
+)public:
+static void DrawCircle(
+	Vector3^ center, 
+	float^ radius, 
+	Color^ color, 
+	bool^ filled, 
+	int^ alpha
+)Parameters
+center
+Type: robotManager.Helpful..::..Vector3
+The center.
+radius
+Type: Single
+The radius.
+color
+Type: Color
+The color.
+filled
+Type: Boolean
+if set to true is filled.
+alpha
+Type: Int32
+The alpha.
+See Also
+
+
+Radar3D Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,30 @@
+WRobot
+
+SpellManager..::..HaveBuffLua Method 
+Have the buff with lua. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool HaveBuffLua(
+	string spellNameInGame
+)Public Shared Function HaveBuffLua ( _
+	spellNameInGame As String _
+) As Booleanpublic:
+static bool^ HaveBuffLua(
+	String^ spellNameInGame
+)Parameters
+spellNameInGame
+Type: String
+The spell name in game.
+Return Value
+true if have, false otherwise.
+See Also
+
+
+SpellManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

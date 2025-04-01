@@ -1,0 +1,31 @@
+WRobot
+
+Quest..::..GetQuestCompleted Method (Int32)
+Check if quest id is completed. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool GetQuestCompleted(
+	int questId
+)Public Shared Function GetQuestCompleted ( _
+	questId As Integer _
+) As Booleanpublic:
+static bool^ GetQuestCompleted(
+	int^ questId
+)Parameters
+questId
+Type: Int32
+The quest id.
+Return Value
+true if quest completed, false otherwise.
+See Also
+
+
+Quest Class
+GetQuestCompleted Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

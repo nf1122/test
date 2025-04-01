@@ -1,0 +1,19 @@
+WRobot
+
+Smelting..::..OpenSmeltingWindow Method 
+Open the smelting window. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void OpenSmeltingWindow()Public Shared Sub OpenSmeltingWindowpublic:
+static void OpenSmeltingWindow()
+See Also
+
+
+Smelting Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,20 @@
+WRobot
+
+SpellManager..::..GetGroudMountForLevel1Name Method 
+Get of ground mounts for level 1. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static string GetGroudMountForLevel1Name()Public Shared Function GetGroudMountForLevel1Name As Stringpublic:
+static String^ GetGroudMountForLevel1Name()Return Value
+names.
+See Also
+
+
+SpellManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

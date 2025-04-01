@@ -1,0 +1,30 @@
+WRobot
+
+Skill..::..GetMaxValue Method 
+Get the maximum value. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int GetMaxValue(
+	SkillLine skill
+)Public Shared Function GetMaxValue ( _
+	skill As SkillLine _
+) As Integerpublic:
+static int^ GetMaxValue(
+	SkillLine^ skill
+)Parameters
+skill
+Type: wManager.Wow.Enums..::..SkillLine
+The skill.
+Return Value
+value.
+See Also
+
+
+Skill Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

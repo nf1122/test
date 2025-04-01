@@ -1,0 +1,20 @@
+WRobot
+
+SpellManager..::..GlobalCooldownTimeLeft Method 
+Global cooldown time left. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int GlobalCooldownTimeLeft()Public Shared Function GlobalCooldownTimeLeft As Integerpublic:
+static int^ GlobalCooldownTimeLeft()Return Value
+time left milliseconds.
+See Also
+
+
+SpellManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

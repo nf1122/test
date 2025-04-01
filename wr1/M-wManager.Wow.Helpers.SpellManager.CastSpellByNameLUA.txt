@@ -1,0 +1,27 @@
+WRobot
+
+SpellManager..::..CastSpellByNameLUA Method 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void CastSpellByNameLUA(
+	string spellName
+)Public Shared Sub CastSpellByNameLUA ( _
+	spellName As String _
+)public:
+static void CastSpellByNameLUA(
+	String^ spellName
+)Parameters
+spellName
+Type: String
+
+See Also
+
+
+SpellManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

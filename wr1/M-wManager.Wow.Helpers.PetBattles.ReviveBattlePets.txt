@@ -1,0 +1,20 @@
+WRobot
+
+PetBattles..::..ReviveBattlePets Method 
+Revives the battle pets. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ReviveBattlePets()Public Shared Function ReviveBattlePets As Booleanpublic:
+static bool^ ReviveBattlePets()Return Value
+true if success, false otherwise.
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

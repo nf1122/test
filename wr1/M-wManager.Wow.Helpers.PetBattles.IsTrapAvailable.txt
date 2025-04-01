@@ -1,0 +1,20 @@
+WRobot
+
+PetBattles..::..IsTrapAvailable Method 
+Determines whether is trap available. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsTrapAvailable()Public Shared Function IsTrapAvailable As Booleanpublic:
+static bool^ IsTrapAvailable()Return Value
+true if is trap available; otherwise, false.
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

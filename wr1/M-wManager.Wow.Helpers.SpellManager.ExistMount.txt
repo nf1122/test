@@ -1,0 +1,31 @@
+WRobot
+
+SpellManager..::..ExistMount Method (String)
+Mount exist. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ExistMount(
+	string spellNameInGame
+)Public Shared Function ExistMount ( _
+	spellNameInGame As String _
+) As Booleanpublic:
+static bool^ ExistMount(
+	String^ spellNameInGame
+)Parameters
+spellNameInGame
+Type: String
+The spell name in game.
+Return Value
+true if exist, false otherwise.
+See Also
+
+
+SpellManager Class
+ExistMount Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

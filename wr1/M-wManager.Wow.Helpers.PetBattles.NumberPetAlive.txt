@@ -1,0 +1,20 @@
+WRobot
+
+PetBattles..::..NumberPetAlive Method 
+Number of pet alive. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int NumberPetAlive()Public Shared Function NumberPetAlive As Integerpublic:
+static int^ NumberPetAlive()Return Value
+pet alive count.
+See Also
+
+
+PetBattles Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,19 @@
+WRobot
+
+Smelting..::..Pulse Method 
+Pulses Smelting. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Pulse()Public Shared Sub Pulsepublic:
+static void Pulse()
+See Also
+
+
+Smelting Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,36 @@
+WRobot
+
+RunCodeExtension..::..RunCsharpScriptWithCustomNamespace Method 
+Run C# script with additional namespaces. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool RunCsharpScriptWithCustomNamespace(
+	string code,
+	string usingNamespaceAdditional
+)Public Shared Function RunCsharpScriptWithCustomNamespace ( _
+	code As String, _
+	usingNamespaceAdditional As String _
+) As Booleanpublic:
+static bool^ RunCsharpScriptWithCustomNamespace(
+	String^ code, 
+	String^ usingNamespaceAdditional
+)Parameters
+code
+Type: String
+The script, it is added in a method with a void return type.
+usingNamespaceAdditional
+Type: String
+Additional namespaces (the main namespaces of wManager and robotManager are already added).
+Return Value
+true if success, false otherwise.
+See Also
+
+
+RunCodeExtension Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

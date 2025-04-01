@@ -1,0 +1,28 @@
+WRobot
+
+Quest..::..SelectGossipAvailableQuest Method 
+Selects an available quest from a gossip list. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void SelectGossipAvailableQuest(
+	int gossipOption
+)Public Shared Sub SelectGossipAvailableQuest ( _
+	gossipOption As Integer _
+)public:
+static void SelectGossipAvailableQuest(
+	int^ gossipOption
+)Parameters
+gossipOption
+Type: Int32
+Ranging from 1 to GetNumGossipAvailableQuests()()()().
+See Also
+
+
+Quest Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

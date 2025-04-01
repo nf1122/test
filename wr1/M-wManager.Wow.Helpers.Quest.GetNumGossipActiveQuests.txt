@@ -1,0 +1,20 @@
+WRobot
+
+Quest..::..GetNumGossipActiveQuests Method 
+Returns the number of active quests that you should eventually turn in to this NPC. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int GetNumGossipActiveQuests()Public Shared Function GetNumGossipActiveQuests As Integerpublic:
+static int^ GetNumGossipActiveQuests()Return Value
+number.
+See Also
+
+
+Quest Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,28 @@
+WRobot
+
+SpellManager..::..CastSpellByNameOnSelfLUA Method 
+Cast spell by name (in game) on self with lua. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void CastSpellByNameOnSelfLUA(
+	string spellName
+)Public Shared Sub CastSpellByNameOnSelfLUA ( _
+	spellName As String _
+)public:
+static void CastSpellByNameOnSelfLUA(
+	String^ spellName
+)Parameters
+spellName
+Type: String
+Name of the spell (in game).
+See Also
+
+
+SpellManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

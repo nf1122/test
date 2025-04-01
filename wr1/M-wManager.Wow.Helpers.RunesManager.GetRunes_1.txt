@@ -1,0 +1,28 @@
+WRobot
+
+RunesManager..::..GetRunes Method (RuneTypes)
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<RuneStruct> GetRunes(
+	RuneTypes type
+)Public Shared Function GetRunes ( _
+	type As RuneTypes _
+) As List(Of RuneStruct)public:
+static List<RuneStruct^>^ GetRunes(
+	RuneTypes^ type
+)Parameters
+type
+Type: wManager.Wow.Enums..::..RuneTypes
+
+See Also
+
+
+RunesManager Class
+GetRunes Overload
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

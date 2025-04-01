@@ -1,0 +1,30 @@
+WRobot
+
+SpellManager..::..GetSpellCooldownTimeLeftBySpellName Method 
+Get the spell cooldown time left by spell name (in english). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static int GetSpellCooldownTimeLeftBySpellName(
+	string spellName
+)Public Shared Function GetSpellCooldownTimeLeftBySpellName ( _
+	spellName As String _
+) As Integerpublic:
+static int^ GetSpellCooldownTimeLeftBySpellName(
+	String^ spellName
+)Parameters
+spellName
+Type: String
+spell name (in english)
+Return Value
+time left milliseconds.
+See Also
+
+
+SpellManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

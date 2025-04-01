@@ -1,0 +1,20 @@
+WRobot
+
+SpellManager..::..GetCompanionInfo Method 
+Gets companions information. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<CompanionInfo> GetCompanionInfo()Public Shared Function GetCompanionInfo As List(Of CompanionInfo)public:
+static List<CompanionInfo^>^ GetCompanionInfo()Return Value
+companions.
+See Also
+
+
+SpellManager Class
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 
