@@ -1,0 +1,23 @@
+WRobot
+
+Aura..::..TimeEnd Property 
+Gets the end time. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int TimeEnd { get; }Public ReadOnly Property TimeEnd As Integer
+	Getpublic:
+property int^ TimeEnd {
+	int^ get ();
+}Field Value
+The end time.
+See Also
+
+
+Aura Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

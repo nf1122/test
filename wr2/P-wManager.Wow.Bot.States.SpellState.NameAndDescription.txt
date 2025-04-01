@@ -1,0 +1,23 @@
+WRobot
+
+SpellState..::..NameAndDescription Property 
+Gets the name and description. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string NameAndDescription { get; }Public ReadOnly Property NameAndDescription As String
+	Getpublic:
+property String^ NameAndDescription {
+	String^ get ();
+}Field Value
+The name and description.
+See Also
+
+
+SpellState Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

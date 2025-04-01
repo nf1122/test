@@ -1,0 +1,23 @@
+WRobot
+
+SpellState..::..Spell Property 
+Gets the spell. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Spell Spell { get; }Public ReadOnly Property Spell As Spell
+	Getpublic:
+property Spell^ Spell {
+	Spell^ get ();
+}Field Value
+The spell.
+See Also
+
+
+SpellState Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

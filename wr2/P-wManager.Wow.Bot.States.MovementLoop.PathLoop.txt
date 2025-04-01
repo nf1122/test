@@ -1,0 +1,25 @@
+WRobot
+
+MovementLoop..::..PathLoop Property 
+Gets or sets the path loop. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<Vector3> PathLoop { get; set; }Public Property PathLoop As List(Of Vector3)
+	Get
+	Setpublic:
+property List<Vector3^>^ PathLoop {
+	List<Vector3^>^ get ();
+	void set (List<Vector3^>^ value);
+}Field Value
+The path loop.
+See Also
+
+
+MovementLoop Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

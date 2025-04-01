@@ -1,0 +1,25 @@
+WRobot
+
+Buy..::..Quantity Property 
+Quantity to buy. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int Quantity { get; set; }Public Property Quantity As Integer
+	Get
+	Setpublic:
+property int^ Quantity {
+	int^ get ();
+	void set (int^ value);
+}Field Value
+The quantity.
+See Also
+
+
+Buy Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

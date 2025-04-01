@@ -1,0 +1,28 @@
+WRobot
+
+Digsite..::..PositionX Property 
+Digsite position x. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[XmlIgnoreAttribute]
+public float PositionX { get; set; }<XmlIgnoreAttribute> _
+Public Property PositionX As Single
+	Get
+	Set[XmlIgnoreAttribute]
+public:
+property float^ PositionX {
+	float^ get ();
+	void set (float^ value);
+}Field Value
+The position x.
+See Also
+
+
+Digsite Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

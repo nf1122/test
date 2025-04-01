@@ -1,0 +1,23 @@
+WRobot
+
+FishingTask..::..IsLaunched Property 
+Is fishing. 
+Namespace:  wManager.Wow.Bot.Tasks
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool IsLaunched { get; }Public Shared ReadOnly Property IsLaunched As Boolean
+	Getpublic:
+static property bool^ IsLaunched {
+	bool^ get ();
+}Field Value
+true if this instance is launched; otherwise, false.
+See Also
+
+
+FishingTask Class
+wManager.Wow.Bot.Tasks Namespace
+Help File generated with GhostDoc
+ 

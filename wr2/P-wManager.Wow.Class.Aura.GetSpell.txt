@@ -1,0 +1,23 @@
+WRobot
+
+Aura..::..GetSpell Property 
+Gets the spell. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Spell GetSpell { get; }Public ReadOnly Property GetSpell As Spell
+	Getpublic:
+property Spell^ GetSpell {
+	Spell^ get ();
+}Field Value
+The spell.
+See Also
+
+
+Aura Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

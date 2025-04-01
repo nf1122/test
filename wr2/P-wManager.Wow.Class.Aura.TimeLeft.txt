@@ -1,0 +1,23 @@
+WRobot
+
+Aura..::..TimeLeft Property 
+Gets the time left in milliseconds. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int TimeLeft { get; }Public ReadOnly Property TimeLeft As Integer
+	Getpublic:
+property int^ TimeLeft {
+	int^ get ();
+}Field Value
+The time left in milliseconds.
+See Also
+
+
+Aura Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

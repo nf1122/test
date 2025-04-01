@@ -1,0 +1,25 @@
+WRobot
+
+Blackspot..::..Y Property 
+Gets or sets the y. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float Y { get; set; }Public Property Y As Single
+	Get
+	Setpublic:
+property float^ Y {
+	float^ get ();
+	void set (float^ value);
+}Field Value
+The y.
+See Also
+
+
+Blackspot Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

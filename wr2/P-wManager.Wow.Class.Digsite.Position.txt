@@ -1,0 +1,31 @@
+WRobot
+
+Digsite..::..Position Property 
+Digsite position. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[BrowsableAttribute]
+[EditorBrowsableAttribute]
+public Vector3 Position { get; set; }<BrowsableAttribute> _
+<EditorBrowsableAttribute> _
+Public Property Position As Vector3
+	Get
+	Set[BrowsableAttribute]
+[EditorBrowsableAttribute]
+public:
+property Vector3^ Position {
+	Vector3^ get ();
+	void set (Vector3^ value);
+}Field Value
+The position.
+See Also
+
+
+Digsite Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

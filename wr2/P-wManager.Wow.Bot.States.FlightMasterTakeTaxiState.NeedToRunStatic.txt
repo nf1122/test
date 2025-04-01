@@ -1,0 +1,22 @@
+WRobot
+
+FlightMasterTakeTaxiState..::..NeedToRunStatic Property 
+Gets a value indicating if you can call RunStatic()()()() (called by NeedToRun) 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool NeedToRunStatic { get; }Public Shared ReadOnly Property NeedToRunStatic As Boolean
+	Getpublic:
+static property bool^ NeedToRunStatic {
+	bool^ get ();
+}
+See Also
+
+
+FlightMasterTakeTaxiState Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

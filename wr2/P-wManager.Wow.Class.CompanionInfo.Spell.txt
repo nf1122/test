@@ -1,0 +1,23 @@
+WRobot
+
+CompanionInfo..::..Spell Property 
+Gets creature spell. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Spell Spell { get; }Public ReadOnly Property Spell As Spell
+	Getpublic:
+property Spell^ Spell {
+	Spell^ get ();
+}Field Value
+The spell.
+See Also
+
+
+CompanionInfo Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

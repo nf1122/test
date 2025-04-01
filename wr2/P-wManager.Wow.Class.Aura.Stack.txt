@@ -1,0 +1,23 @@
+WRobot
+
+Aura..::..Stack Property 
+Gets the stack. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int Stack { get; }Public ReadOnly Property Stack As Integer
+	Getpublic:
+property int^ Stack {
+	int^ get ();
+}Field Value
+The stack.
+See Also
+
+
+Aura Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,25 @@
+WRobot
+
+Blackspot..::..Radius Property 
+The height. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float Radius { get; set; }Public Property Radius As Single
+	Get
+	Setpublic:
+property float^ Radius {
+	float^ get ();
+	void set (float^ value);
+}Field Value
+The radius.
+See Also
+
+
+Blackspot Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

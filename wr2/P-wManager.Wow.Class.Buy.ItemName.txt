@@ -1,0 +1,25 @@
+WRobot
+
+Buy..::..ItemName Property 
+Gets or sets the name of the item (like is appear in game). 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string ItemName { get; set; }Public Property ItemName As String
+	Get
+	Setpublic:
+property String^ ItemName {
+	String^ get ();
+	void set (String^ value);
+}Field Value
+The name of the item.
+See Also
+
+
+Buy Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

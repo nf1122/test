@@ -1,0 +1,25 @@
+WRobot
+
+Blackspot..::..Z Property 
+Gets or sets the z. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float Z { get; set; }Public Property Z As Single
+	Get
+	Setpublic:
+property float^ Z {
+	float^ get ();
+	void set (float^ value);
+}Field Value
+The z.
+See Also
+
+
+Blackspot Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

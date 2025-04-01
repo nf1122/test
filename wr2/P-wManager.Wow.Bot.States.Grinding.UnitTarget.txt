@@ -1,0 +1,22 @@
+WRobot
+
+Grinding..::..UnitTarget Property 
+Gets the current target. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public WoWUnit UnitTarget { get; }Public ReadOnly Property UnitTarget As WoWUnit
+	Getpublic:
+property WoWUnit^ UnitTarget {
+	WoWUnit^ get ();
+}
+See Also
+
+
+Grinding Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

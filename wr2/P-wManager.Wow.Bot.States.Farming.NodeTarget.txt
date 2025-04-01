@@ -1,0 +1,23 @@
+WRobot
+
+Farming..::..NodeTarget Property 
+Gets target node. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public WoWGameObject NodeTarget { get; }Public ReadOnly Property NodeTarget As WoWGameObject
+	Getpublic:
+property WoWGameObject^ NodeTarget {
+	WoWGameObject^ get ();
+}Field Value
+The node target.
+See Also
+
+
+Farming Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

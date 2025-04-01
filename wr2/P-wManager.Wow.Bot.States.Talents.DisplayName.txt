@@ -1,0 +1,23 @@
+WRobot
+
+Talents..::..DisplayName Property 
+Gets the display name. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string DisplayName { get; }Public ReadOnly Property DisplayName As String
+	Getpublic:
+property String^ DisplayName {
+	String^ get ();
+}Field Value
+The display name.
+See Also
+
+
+Talents Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

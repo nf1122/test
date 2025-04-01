@@ -1,0 +1,25 @@
+WRobot
+
+SpellState..::..Priority Property 
+Gets the priority. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int Priority { get; set; }Public Property Priority As Integer
+	Get
+	Setpublic:
+property int^ Priority {
+	int^ get ();
+	void set (int^ value);
+}Field Value
+The priority.
+See Also
+
+
+SpellState Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

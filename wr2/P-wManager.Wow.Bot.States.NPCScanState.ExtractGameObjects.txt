@@ -1,0 +1,24 @@
+WRobot
+
+NPCScanState..::..ExtractGameObjects Property 
+Share collidable GameObjects information (position, 3D model, name) with bot server (this help to create better meshes for PathFinder), this option can be enabled at start by bot server. 
+Namespace:  wManager.Wow.Bot.States
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ExtractGameObjects { get; set; }Public Shared Property ExtractGameObjects As Boolean
+	Get
+	Setpublic:
+static property bool^ ExtractGameObjects {
+	bool^ get ();
+	void set (bool^ value);
+}
+See Also
+
+
+NPCScanState Class
+wManager.Wow.Bot.States Namespace
+Help File generated with GhostDoc
+ 

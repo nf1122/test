@@ -1,0 +1,23 @@
+WRobot
+
+Aura..::..TimeLeftSeconde Property 
+Gets the time left in seconds. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public double TimeLeftSeconde { get; }Public ReadOnly Property TimeLeftSeconde As Double
+	Getpublic:
+property double^ TimeLeftSeconde {
+	double^ get ();
+}Field Value
+The time left in seconds.
+See Also
+
+
+Aura Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 

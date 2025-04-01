@@ -1,0 +1,23 @@
+WRobot
+
+Aura..::..SpellId Property 
+Gets the spell id. 
+Namespace:  wManager.Wow.Class
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint SpellId { get; }Public ReadOnly Property SpellId As UInteger
+	Getpublic:
+property unsigned int^ SpellId {
+	unsigned int^ get ();
+}Field Value
+The spell id.
+See Also
+
+
+Aura Class
+wManager.Wow.Class Namespace
+Help File generated with GhostDoc
+ 
