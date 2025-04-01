@@ -1,0 +1,27 @@
+WRobot
+
+RunCodeExtension Class
+Class RunCodeExtension. Few useful methods to run script Implements the RunCode
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class RunCodeExtension : RunCodePublic Class RunCodeExtension _
+	Inherits RunCodepublic ref class RunCodeExtension : public RunCode
+Inheritance Hierarchy
+
+
+Object
+  robotManager.Helpful..::..RunCode
+    wManager.Wow.Helpers..::..RunCodeExtension
+
+See Also
+
+
+RunCodeExtension Members
+wManager.Wow.Helpers Namespace
+robotManager.Helpful..::..RunCode
+Help File generated with GhostDoc
+ 

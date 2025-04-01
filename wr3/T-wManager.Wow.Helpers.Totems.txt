@@ -1,0 +1,24 @@
+WRobot
+
+Totems Class
+Class Totems. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class TotemsPublic NotInheritable Class Totemspublic ref class Totems abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..Totems
+
+See Also
+
+
+Totems Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

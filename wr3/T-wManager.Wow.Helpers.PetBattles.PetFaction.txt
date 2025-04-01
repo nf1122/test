@@ -1,0 +1,23 @@
+WRobot
+
+PetBattles..::..PetFaction Enumeration
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum PetFactionPublic Enumeration PetFactionpublic enum class PetFaction
+Members
+
+
+Member nameDescription
+AllyThe ally 
+EnemyThe enemy 
+
+See Also
+
+
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

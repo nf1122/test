@@ -1,0 +1,27 @@
+WRobot
+
+Packets Enumeration
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum PacketsPublic Enumeration Packetspublic enum class Packets
+Members
+
+
+Member nameDescription
+None
+FindPath
+FindZPosition
+IsOnline
+InfoCurrentSession
+GO
+
+See Also
+
+
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

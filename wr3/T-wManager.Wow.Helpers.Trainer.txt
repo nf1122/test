@@ -1,0 +1,24 @@
+WRobot
+
+Trainer Class
+Class Trainer. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class TrainerPublic NotInheritable Class Trainerpublic ref class Trainer abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..Trainer
+
+See Also
+
+
+Trainer Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

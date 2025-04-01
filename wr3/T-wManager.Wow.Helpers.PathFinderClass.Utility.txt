@@ -1,0 +1,24 @@
+WRobot
+
+Utility Class
+Class Utility. Useful methods for PathFinder
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class UtilityPublic NotInheritable Class Utilitypublic ref class Utility abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers.PathFinderClass..::..Utility
+
+See Also
+
+
+Utility Members
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

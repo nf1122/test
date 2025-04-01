@@ -1,0 +1,26 @@
+WRobot
+
+OffMeshConnection..::..OffMeshConnectionType Enumeration
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public enum OffMeshConnectionType<SerializableAttribute> _
+Public Enumeration OffMeshConnectionType[SerializableAttribute]
+public enum class OffMeshConnectionType
+Members
+
+
+Member nameDescription
+Unidirectional
+Bidirectional
+
+See Also
+
+
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

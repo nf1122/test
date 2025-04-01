@@ -1,0 +1,24 @@
+WRobot
+
+Descriptors..::..ContainerFields Enumeration
+Namespace:  wManager.Wow.Patchables
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum ContainerFieldsPublic Enumeration ContainerFieldspublic enum class ContainerFields
+Members
+
+
+Member nameDescription
+NumSlots
+AlignPad
+Slot1
+
+See Also
+
+
+wManager.Wow.Patchables Namespace
+Help File generated with GhostDoc
+ 

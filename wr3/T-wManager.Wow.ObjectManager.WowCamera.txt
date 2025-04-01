@@ -1,0 +1,24 @@
+WRobot
+
+WowCamera Class
+Class WowCamera. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class WowCameraPublic Class WowCamerapublic ref class WowCamera
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.ObjectManager..::..WowCamera
+
+See Also
+
+
+WowCamera Members
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

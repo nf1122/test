@@ -1,0 +1,24 @@
+WRobot
+
+Move Class
+Class Move. Prefer to use this class to move the character (if you enabled option UseLuaToMove methods will use lua function instead keyboard). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class MovePublic NotInheritable Class Movepublic ref class Move abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..Move
+
+See Also
+
+
+Move Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

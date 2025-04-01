@@ -1,0 +1,27 @@
+WRobot
+
+WoWCorpse Class
+Class WoWCorpse. Implements the WoWObject
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class WoWCorpse : WoWObjectPublic Class WoWCorpse _
+	Inherits WoWObjectpublic ref class WoWCorpse : public WoWObject
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.ObjectManager..::..WoWObject
+    wManager.Wow.ObjectManager..::..WoWCorpse
+
+See Also
+
+
+WoWCorpse Members
+wManager.Wow.ObjectManager Namespace
+wManager.Wow.ObjectManager..::..WoWObject
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,26 @@
+WRobot
+
+PathPacket Class
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class PathPacket<SerializableAttribute> _
+Public Class PathPacket[SerializableAttribute]
+public ref class PathPacket
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers.PathFinderClass..::..PathPacket
+
+See Also
+
+
+PathPacket Members
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

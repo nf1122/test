@@ -1,0 +1,20 @@
+WRobot
+
+WoWLock..::..LockDbcRecord Structure
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[StructLayoutAttribute]
+public struct LockDbcRecord<StructLayoutAttribute> _
+Public Structure LockDbcRecord[StructLayoutAttribute]
+public value class LockDbcRecord
+See Also
+
+
+WoWLock..::..LockDbcRecord Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

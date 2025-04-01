@@ -1,0 +1,26 @@
+WRobot
+
+Vector3Simple Class
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class Vector3Simple<SerializableAttribute> _
+Public Class Vector3Simple[SerializableAttribute]
+public ref class Vector3Simple
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers.PathFinderClass..::..Vector3Simple
+
+See Also
+
+
+Vector3Simple Members
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

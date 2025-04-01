@@ -1,0 +1,27 @@
+WRobot
+
+PathFinder..::..OffMeshConnection Class
+Class OffMeshConnection. (sees PathFinder..::..OffMeshConnections and https://wrobot.eu/forums/topic/5283-offmesh-connections/ ) 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class OffMeshConnection<SerializableAttribute> _
+Public Class OffMeshConnection[SerializableAttribute]
+public ref class OffMeshConnection
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..PathFinder..::..OffMeshConnection
+
+See Also
+
+
+PathFinder..::..OffMeshConnection Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

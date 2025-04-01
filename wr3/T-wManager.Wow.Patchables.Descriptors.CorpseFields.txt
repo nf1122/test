@@ -1,0 +1,31 @@
+WRobot
+
+Descriptors..::..CorpseFields Enumeration
+Namespace:  wManager.Wow.Patchables
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum CorpseFieldsPublic Enumeration CorpseFieldspublic enum class CorpseFields
+Members
+
+
+Member nameDescription
+Owner
+Party
+DisplayID
+Item
+bytes1
+Bytes2
+Guild
+Flags
+Dynamicflags
+Pad
+
+See Also
+
+
+wManager.Wow.Patchables Namespace
+Help File generated with GhostDoc
+ 

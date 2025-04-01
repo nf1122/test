@@ -1,0 +1,24 @@
+WRobot
+
+SpellListManager Class
+Class SpellListManager. (more spell methods in Spell and SpellManager) 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class SpellListManagerPublic Class SpellListManagerpublic ref class SpellListManager
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..SpellListManager
+
+See Also
+
+
+SpellListManager Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

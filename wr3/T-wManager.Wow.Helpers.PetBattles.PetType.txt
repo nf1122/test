@@ -1,0 +1,32 @@
+WRobot
+
+PetBattles..::..PetType Enumeration
+PetType PetBattles
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum PetTypePublic Enumeration PetTypepublic enum class PetType
+Members
+
+
+Member nameDescription
+Humanoid
+Dragonkin
+Flying
+Undead
+Critter
+Magic
+Elemental
+Beast
+Aquatic
+Mechanical
+
+See Also
+
+
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,28 @@
+WRobot
+
+WoWPlayer Class
+Class WoWPlayer. Implements the WoWUnit
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class WoWPlayer : WoWUnitPublic Class WoWPlayer _
+	Inherits WoWUnitpublic ref class WoWPlayer : public WoWUnit
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.ObjectManager..::..WoWObject
+    wManager.Wow.ObjectManager..::..WoWUnit
+      wManager.Wow.ObjectManager..::..WoWPlayer
+
+See Also
+
+
+WoWPlayer Members
+wManager.Wow.ObjectManager Namespace
+wManager.Wow.ObjectManager..::..WoWUnit
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,24 @@
+WRobot
+
+UnitRelation Class
+Class UnitRelation. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class UnitRelationPublic NotInheritable Class UnitRelationpublic ref class UnitRelation abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..UnitRelation
+
+See Also
+
+
+UnitRelation Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

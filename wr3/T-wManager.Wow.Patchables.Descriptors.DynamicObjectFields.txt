@@ -1,0 +1,26 @@
+WRobot
+
+Descriptors..::..DynamicObjectFields Enumeration
+Namespace:  wManager.Wow.Patchables
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum DynamicObjectFieldsPublic Enumeration DynamicObjectFieldspublic enum class DynamicObjectFields
+Members
+
+
+Member nameDescription
+Caster
+Bytes
+SpellID
+Radius
+CastTime
+
+See Also
+
+
+wManager.Wow.Patchables Namespace
+Help File generated with GhostDoc
+ 

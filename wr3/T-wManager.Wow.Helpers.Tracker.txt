@@ -1,0 +1,24 @@
+WRobot
+
+Tracker Class
+Class Tracker. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class TrackerPublic Class Trackerpublic ref class Tracker
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..Tracker
+
+See Also
+
+
+Tracker Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

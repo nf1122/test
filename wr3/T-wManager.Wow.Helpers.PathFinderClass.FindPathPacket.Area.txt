@@ -1,0 +1,26 @@
+WRobot
+
+FindPathPacket..::..Area Class
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class Area<SerializableAttribute> _
+Public Class Area[SerializableAttribute]
+public ref class Area
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers.PathFinderClass..::..FindPathPacket..::..Area
+
+See Also
+
+
+FindPathPacket..::..Area Members
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,29 @@
+WRobot
+
+WoWLocalPlayer Class
+Class WoWLocalPlayer. Your Character. Implements the WoWPlayer
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class WoWLocalPlayer : WoWPlayerPublic Class WoWLocalPlayer _
+	Inherits WoWPlayerpublic ref class WoWLocalPlayer : public WoWPlayer
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.ObjectManager..::..WoWObject
+    wManager.Wow.ObjectManager..::..WoWUnit
+      wManager.Wow.ObjectManager..::..WoWPlayer
+        wManager.Wow.ObjectManager..::..WoWLocalPlayer
+
+See Also
+
+
+WoWLocalPlayer Members
+wManager.Wow.ObjectManager Namespace
+wManager.Wow.ObjectManager..::..WoWPlayer
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,24 @@
+WRobot
+
+PathFinder Class
+Path Generator Class. Use this class to find path. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class PathFinderPublic NotInheritable Class PathFinderpublic ref class PathFinder abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..PathFinder
+
+See Also
+
+
+PathFinder Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

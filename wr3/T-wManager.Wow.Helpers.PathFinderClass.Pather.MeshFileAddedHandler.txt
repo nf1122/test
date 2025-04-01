@@ -1,0 +1,32 @@
+WRobot
+
+Pather..::..MeshFileAddedHandler Delegate
+Delegate MeshFileAddedHandler 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public delegate void MeshFileAddedHandler(
+	float x,
+	float y
+)Public Delegate Sub MeshFileAddedHandler ( _
+	x As Single, _
+	y As Single _
+)public delegate void MeshFileAddedHandler(
+	float^ x, 
+	float^ y
+)Parameters
+x
+Type: Single
+The x.
+y
+Type: Single
+The y.
+See Also
+
+
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

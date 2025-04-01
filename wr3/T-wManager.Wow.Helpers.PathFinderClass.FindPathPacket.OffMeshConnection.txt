@@ -1,0 +1,26 @@
+WRobot
+
+FindPathPacket..::..OffMeshConnection Class
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class OffMeshConnection<SerializableAttribute> _
+Public Class OffMeshConnection[SerializableAttribute]
+public ref class OffMeshConnection
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers.PathFinderClass..::..FindPathPacket..::..OffMeshConnection
+
+See Also
+
+
+FindPathPacket..::..OffMeshConnection Members
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

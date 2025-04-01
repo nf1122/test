@@ -1,0 +1,24 @@
+WRobot
+
+PathFinder..::..OffMeshConnections Class
+Class OffMeshConnections. More information here: https://wrobot.eu/forums/topic/5283-offmesh-connections/ 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class OffMeshConnectionsPublic NotInheritable Class OffMeshConnectionspublic ref class OffMeshConnections abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..PathFinder..::..OffMeshConnections
+
+See Also
+
+
+PathFinder..::..OffMeshConnections Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,24 @@
+WRobot
+
+WoWFactionTemplate Class
+Class WoWFactionTemplate (DB2). 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class WoWFactionTemplatePublic Class WoWFactionTemplatepublic ref class WoWFactionTemplate
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..WoWFactionTemplate
+
+See Also
+
+
+WoWFactionTemplate Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

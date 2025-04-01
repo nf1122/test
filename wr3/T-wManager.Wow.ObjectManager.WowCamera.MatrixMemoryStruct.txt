@@ -1,0 +1,21 @@
+WRobot
+
+WowCamera..::..MatrixMemoryStruct Structure
+Struct MatrixMemoryStruct 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[StructLayoutAttribute]
+public struct MatrixMemoryStruct<StructLayoutAttribute> _
+Public Structure MatrixMemoryStruct[StructLayoutAttribute]
+public value class MatrixMemoryStruct
+See Also
+
+
+WowCamera..::..MatrixMemoryStruct Members
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

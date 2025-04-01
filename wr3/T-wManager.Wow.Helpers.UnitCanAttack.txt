@@ -1,0 +1,24 @@
+WRobot
+
+UnitCanAttack Class
+Class UnitCanAttack. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class UnitCanAttackPublic NotInheritable Class UnitCanAttackpublic ref class UnitCanAttack abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..UnitCanAttack
+
+See Also
+
+
+UnitCanAttack Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

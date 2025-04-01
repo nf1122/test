@@ -1,0 +1,24 @@
+WRobot
+
+FindPathPacket..::..Faction Enumeration
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum FactionPublic Enumeration Factionpublic enum class Faction
+Members
+
+
+Member nameDescription
+Neutral
+Horde
+Alliance
+
+See Also
+
+
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

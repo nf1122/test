@@ -1,0 +1,59 @@
+WRobot
+
+Descriptors..::..ItemFields Enumeration
+Namespace:  wManager.Wow.Patchables
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum ItemFieldsPublic Enumeration ItemFieldspublic enum class ItemFields
+Members
+
+
+Member nameDescription
+Owner
+ContainedIn
+Creator
+Giftcreator
+StackCount
+Duration
+SpellCharges
+Flags
+Enchantment11
+Enchantment13
+Enchantment21
+Enchantment23
+Enchantment31
+Enchantment33
+Enchantment41
+Enchantment43
+Enchantment51
+Enchantment53
+Enchantment61
+Enchantment63
+Enchantment71
+Enchantment73
+Enchantment81
+Enchantment83
+Enchantment91
+Enchantment93
+Enchantment101
+Enchantment103
+Enchantment111
+Enchantment113
+Enchantment121
+Enchantment123
+PropertySeed
+RandomPropertiesid
+Durability
+MaxDurability
+CreatePlayedTime
+Pad
+
+See Also
+
+
+wManager.Wow.Patchables Namespace
+Help File generated with GhostDoc
+ 

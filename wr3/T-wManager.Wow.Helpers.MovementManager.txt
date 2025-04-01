@@ -1,0 +1,24 @@
+WRobot
+
+MovementManager Class
+Main class for handling movement with a path or a destination 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class MovementManagerPublic NotInheritable Class MovementManagerpublic ref class MovementManager abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..MovementManager
+
+See Also
+
+
+MovementManager Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

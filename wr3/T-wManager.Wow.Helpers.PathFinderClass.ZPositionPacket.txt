@@ -1,0 +1,26 @@
+WRobot
+
+ZPositionPacket Class
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public class ZPositionPacket<SerializableAttribute> _
+Public Class ZPositionPacket[SerializableAttribute]
+public ref class ZPositionPacket
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers.PathFinderClass..::..ZPositionPacket
+
+See Also
+
+
+ZPositionPacket Members
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

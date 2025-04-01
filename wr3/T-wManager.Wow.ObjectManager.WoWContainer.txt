@@ -1,0 +1,28 @@
+WRobot
+
+WoWContainer Class
+Class WoWContainer. Implements the WoWItem
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class WoWContainer : WoWItemPublic Class WoWContainer _
+	Inherits WoWItempublic ref class WoWContainer : public WoWItem
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.ObjectManager..::..WoWObject
+    wManager.Wow.ObjectManager..::..WoWItem
+      wManager.Wow.ObjectManager..::..WoWContainer
+
+See Also
+
+
+WoWContainer Members
+wManager.Wow.ObjectManager Namespace
+wManager.Wow.ObjectManager..::..WoWItem
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,18 @@
+WRobot
+
+PathFinderInterface Interface
+Interface PathFinderInterface, you have possibility to use you own pathfinder, for that implement this interface on class named "PathFinder" without namespace and save dll to "WRobot\Bin\pathfinderoverride.dll". 
+Namespace:  wManager.Wow.Helpers.PathFinderClass
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public interface PathFinderInterfacePublic Interface PathFinderInterfacepublic interface class PathFinderInterface
+See Also
+
+
+PathFinderInterface Members
+wManager.Wow.Helpers.PathFinderClass Namespace
+Help File generated with GhostDoc
+ 

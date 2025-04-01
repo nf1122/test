@@ -1,0 +1,27 @@
+WRobot
+
+PathFinder..::..OffMeshConnectionType Enumeration
+OffMeshConnectionType 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[SerializableAttribute]
+public enum OffMeshConnectionType<SerializableAttribute> _
+Public Enumeration OffMeshConnectionType[SerializableAttribute]
+public enum class OffMeshConnectionType
+Members
+
+
+Member nameDescription
+UnidirectionalThe unidirectional 
+BidirectionalThe bidirectional (can be used in both directions) 
+
+See Also
+
+
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

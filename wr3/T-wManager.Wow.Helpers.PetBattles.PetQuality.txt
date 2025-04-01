@@ -1,0 +1,28 @@
+WRobot
+
+PetBattles..::..PetQuality Enumeration
+PetQuality PetBattles
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum PetQualityPublic Enumeration PetQualitypublic enum class PetQuality
+Members
+
+
+Member nameDescription
+Poor
+Common
+Uncommon
+Rare
+Epic
+Legendary
+
+See Also
+
+
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

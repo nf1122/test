@@ -1,0 +1,20 @@
+WRobot
+
+WoWFactionTemplate..::..FactionTemplateDbcRecord Structure
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[StructLayoutAttribute]
+public struct FactionTemplateDbcRecord<StructLayoutAttribute> _
+Public Structure FactionTemplateDbcRecord[StructLayoutAttribute]
+public value class FactionTemplateDbcRecord
+See Also
+
+
+WoWFactionTemplate..::..FactionTemplateDbcRecord Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

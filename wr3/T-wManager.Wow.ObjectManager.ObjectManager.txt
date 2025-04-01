@@ -1,0 +1,24 @@
+WRobot
+
+ObjectManager Class
+Class ObjectManager. Get list of in-game objects/units/players. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class ObjectManagerPublic NotInheritable Class ObjectManagerpublic ref class ObjectManager abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.ObjectManager..::..ObjectManager
+
+See Also
+
+
+ObjectManager Members
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

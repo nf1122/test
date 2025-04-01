@@ -1,0 +1,24 @@
+WRobot
+
+Taxi Class
+Class Taxi. 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class TaxiPublic NotInheritable Class Taxipublic ref class Taxi abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..Taxi
+
+See Also
+
+
+Taxi Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

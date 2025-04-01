@@ -1,0 +1,20 @@
+WRobot
+
+Taxi..::..TaxiNodesDB Structure
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[StructLayoutAttribute]
+public struct TaxiNodesDB<StructLayoutAttribute> _
+Public Structure TaxiNodesDB[StructLayoutAttribute]
+public value class TaxiNodesDB
+See Also
+
+
+Taxi..::..TaxiNodesDB Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

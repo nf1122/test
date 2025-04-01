@@ -1,0 +1,24 @@
+WRobot
+
+WoWObject Class
+The base object class that all objects in WoW inherit. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public class WoWObjectPublic Class WoWObjectpublic ref class WoWObject
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.ObjectManager..::..WoWObject
+
+See Also
+
+
+WoWObject Members
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

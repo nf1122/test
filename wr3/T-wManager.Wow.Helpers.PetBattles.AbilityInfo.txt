@@ -1,0 +1,18 @@
+WRobot
+
+PetBattles..::..AbilityInfo Structure
+Struct AbilityInfo PetBattles
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public struct AbilityInfoPublic Structure AbilityInfopublic value class AbilityInfo
+See Also
+
+
+PetBattles..::..AbilityInfo Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

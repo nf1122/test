@@ -1,0 +1,24 @@
+WRobot
+
+Party Class
+Class Party. Useful methods for group of characters (party and raid) 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class PartyPublic NotInheritable Class Partypublic ref class Party abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..Party
+
+See Also
+
+
+Party Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

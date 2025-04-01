@@ -1,0 +1,25 @@
+WRobot
+
+PlayerQuest..::..StateFlag Enumeration
+StateFlag 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum StateFlagPublic Enumeration StateFlagpublic enum class StateFlag
+Members
+
+
+Member nameDescription
+None
+Complete
+Failed
+
+See Also
+
+
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

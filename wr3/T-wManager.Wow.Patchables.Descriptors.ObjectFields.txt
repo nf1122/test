@@ -1,0 +1,26 @@
+WRobot
+
+Descriptors..::..ObjectFields Enumeration
+Namespace:  wManager.Wow.Patchables
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum ObjectFieldsPublic Enumeration ObjectFieldspublic enum class ObjectFields
+Members
+
+
+Member nameDescription
+Guid
+Type
+EntryID
+Scale
+Padding
+
+See Also
+
+
+wManager.Wow.Patchables Namespace
+Help File generated with GhostDoc
+ 

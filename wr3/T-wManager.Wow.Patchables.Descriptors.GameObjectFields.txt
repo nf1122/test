@@ -1,0 +1,29 @@
+WRobot
+
+Descriptors..::..GameObjectFields Enumeration
+Namespace:  wManager.Wow.Patchables
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public enum GameObjectFieldsPublic Enumeration GameObjectFieldspublic enum class GameObjectFields
+Members
+
+
+Member nameDescription
+CreatedBy
+DisplayID
+Flags
+ParentRotation
+Dynamic
+Faction
+Level
+Bytes1
+
+See Also
+
+
+wManager.Wow.Patchables Namespace
+Help File generated with GhostDoc
+ 

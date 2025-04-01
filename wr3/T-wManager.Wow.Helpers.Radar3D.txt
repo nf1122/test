@@ -1,0 +1,24 @@
+WRobot
+
+Radar3D Class
+Class Radar3D. Create overlay transparent window to show bot elements in game. Used when option "Radar 3D" is enabled tab "Map". 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static class Radar3DPublic NotInheritable Class Radar3Dpublic ref class Radar3D abstract sealed
+Inheritance Hierarchy
+
+
+Object
+  wManager.Wow.Helpers..::..Radar3D
+
+See Also
+
+
+Radar3D Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 

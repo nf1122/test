@@ -1,0 +1,21 @@
+WRobot
+
+Quest..::..PlayerQuest Structure
+Struct PlayerQuest 
+Namespace:  wManager.Wow.Helpers
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+[StructLayoutAttribute]
+public struct PlayerQuest<StructLayoutAttribute> _
+Public Structure PlayerQuest[StructLayoutAttribute]
+public value class PlayerQuest
+See Also
+
+
+Quest..::..PlayerQuest Members
+wManager.Wow.Helpers Namespace
+Help File generated with GhostDoc
+ 
