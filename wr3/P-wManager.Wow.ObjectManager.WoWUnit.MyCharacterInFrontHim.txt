@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..MyCharacterInFrontHim Property 
+Gets a value indicating whether my character in front him. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool MyCharacterInFrontHim { get; }Public ReadOnly Property MyCharacterInFrontHim As Boolean
+	Getpublic:
+property bool^ MyCharacterInFrontHim {
+	bool^ get ();
+}Field Value
+true if my character in front him; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

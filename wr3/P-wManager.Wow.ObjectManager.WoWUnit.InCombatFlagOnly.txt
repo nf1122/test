@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..InCombatFlagOnly Property 
+Gets a value indicating whether in combat flag only. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool InCombatFlagOnly { get; }Public ReadOnly Property InCombatFlagOnly As Boolean
+	Getpublic:
+property bool^ InCombatFlagOnly {
+	bool^ get ();
+}Field Value
+true if in combat flag only; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

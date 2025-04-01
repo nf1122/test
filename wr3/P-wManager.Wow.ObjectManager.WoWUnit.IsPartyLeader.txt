@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..IsPartyLeader Property 
+Gets a value indicating whether is party leader. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsPartyLeader { get; }Public ReadOnly Property IsPartyLeader As Boolean
+	Getpublic:
+property bool^ IsPartyLeader {
+	bool^ get ();
+}Field Value
+true if is party leader; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..IsOnTaxi Property 
+Gets a value indicating whether is on taxi. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsOnTaxi { get; }Public ReadOnly Property IsOnTaxi As Boolean
+	Getpublic:
+property bool^ IsOnTaxi {
+	bool^ get ();
+}Field Value
+true if is on taxi; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

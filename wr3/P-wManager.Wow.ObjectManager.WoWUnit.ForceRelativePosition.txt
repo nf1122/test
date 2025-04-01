@@ -1,0 +1,25 @@
+WRobot
+
+WoWUnit..::..ForceRelativePosition Property 
+Gets or sets a value indicating whether force to use UseRelativePosition. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool ForceRelativePosition { get; set; }Public Shared Property ForceRelativePosition As Boolean
+	Get
+	Setpublic:
+static property bool^ ForceRelativePosition {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if force to use UseRelativePosition; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

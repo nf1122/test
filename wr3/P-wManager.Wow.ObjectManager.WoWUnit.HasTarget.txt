@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..HasTarget Property 
+Gets a value indicating whether has target. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool HasTarget { get; }Public ReadOnly Property HasTarget As Boolean
+	Getpublic:
+property bool^ HasTarget {
+	bool^ get ();
+}Field Value
+true if has target; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..Level Property 
+Gets the level. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint Level { get; }Public ReadOnly Property Level As UInteger
+	Getpublic:
+property unsigned int^ Level {
+	unsigned int^ get ();
+}Field Value
+The level.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

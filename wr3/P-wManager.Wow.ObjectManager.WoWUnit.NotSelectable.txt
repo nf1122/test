@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..NotSelectable Property 
+Gets a value indicating whether not selectable. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool NotSelectable { get; }Public ReadOnly Property NotSelectable As Boolean
+	Getpublic:
+property bool^ NotSelectable {
+	bool^ get ();
+}Field Value
+true if not selectable; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

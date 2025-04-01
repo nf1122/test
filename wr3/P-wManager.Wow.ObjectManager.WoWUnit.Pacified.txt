@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..Pacified Property 
+Gets a value indicating whether is pacified. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool Pacified { get; }Public ReadOnly Property Pacified As Boolean
+	Getpublic:
+property bool^ Pacified {
+	bool^ get ();
+}Field Value
+true if pacified; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

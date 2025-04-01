@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..PetNumber Property 
+Gets the pet number. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int PetNumber { get; }Public ReadOnly Property PetNumber As Integer
+	Getpublic:
+property int^ PetNumber {
+	int^ get ();
+}Field Value
+The pet number.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

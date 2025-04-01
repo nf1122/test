@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..IsAttackable Property 
+Gets a value indicating whether is attackable. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsAttackable { get; }Public ReadOnly Property IsAttackable As Boolean
+	Getpublic:
+property bool^ IsAttackable {
+	bool^ get ();
+}Field Value
+true if is attackable; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..PetOwnerGuid Property 
+Gets the pet owner GUID. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public ulong PetOwnerGuid { get; }Public ReadOnly Property PetOwnerGuid As ULong
+	Getpublic:
+property unsigned long long^ PetOwnerGuid {
+	unsigned long long^ get ();
+}Field Value
+owner GUID.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

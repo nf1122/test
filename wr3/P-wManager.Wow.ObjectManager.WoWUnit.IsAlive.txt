@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..IsAlive Property 
+Gets a value indicating whether is alive. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsAlive { get; }Public ReadOnly Property IsAlive As Boolean
+	Getpublic:
+property bool^ IsAlive {
+	bool^ get ();
+}Field Value
+true if is alive; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

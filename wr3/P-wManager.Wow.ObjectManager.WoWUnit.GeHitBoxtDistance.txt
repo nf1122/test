@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..GeHitBoxtDistance Property 
+Gets the HitBox distance. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float GeHitBoxtDistance { get; }Public ReadOnly Property GeHitBoxtDistance As Single
+	Getpublic:
+property float^ GeHitBoxtDistance {
+	float^ get ();
+}Field Value
+The HitBox distance.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

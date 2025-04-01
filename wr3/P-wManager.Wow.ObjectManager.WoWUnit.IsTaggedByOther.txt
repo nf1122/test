@@ -1,0 +1,22 @@
+WRobot
+
+WoWUnit..::..IsTaggedByOther Property 
+Gets a value indicating Tagged By Other. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsTaggedByOther { get; }Public ReadOnly Property IsTaggedByOther As Boolean
+	Getpublic:
+property bool^ IsTaggedByOther {
+	bool^ get ();
+}
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

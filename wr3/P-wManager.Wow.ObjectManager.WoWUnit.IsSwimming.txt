@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..IsSwimming Property 
+Gets a value indicating whether is swimming. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsSwimming { get; }Public ReadOnly Property IsSwimming As Boolean
+	Getpublic:
+property bool^ IsSwimming {
+	bool^ get ();
+}Field Value
+true if is swimming; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

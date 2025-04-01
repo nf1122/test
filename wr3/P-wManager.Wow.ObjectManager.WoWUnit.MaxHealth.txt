@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..MaxHealth Property 
+Gets the maximum health. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public long MaxHealth { get; }Public ReadOnly Property MaxHealth As Long
+	Getpublic:
+property long long^ MaxHealth {
+	long long^ get ();
+}Field Value
+The maximum health.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

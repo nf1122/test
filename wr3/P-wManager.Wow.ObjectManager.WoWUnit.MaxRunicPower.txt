@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..MaxRunicPower Property 
+Gets the maximum runic power. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint MaxRunicPower { get; }Public ReadOnly Property MaxRunicPower As UInteger
+	Getpublic:
+property unsigned int^ MaxRunicPower {
+	unsigned int^ get ();
+}Field Value
+The maximum runic power.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

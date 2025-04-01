@@ -1,0 +1,22 @@
+WRobot
+
+WoWUnit..::..NpcFlightMastrerIsDiscover Property 
+FlightMastrer is discover. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool NpcFlightMastrerIsDiscover { get; }Public ReadOnly Property NpcFlightMastrerIsDiscover As Boolean
+	Getpublic:
+property bool^ NpcFlightMastrerIsDiscover {
+	bool^ get ();
+}
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

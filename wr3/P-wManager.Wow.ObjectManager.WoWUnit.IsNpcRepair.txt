@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..IsNpcRepair Property 
+Gets a value indicating whether is NPC repair. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsNpcRepair { get; }Public ReadOnly Property IsNpcRepair As Boolean
+	Getpublic:
+property bool^ IsNpcRepair {
+	bool^ get ();
+}Field Value
+true if is NPC repair; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..IsTargetingPartyMember Property 
+Gets a value indicating whether is targeting (my) party member. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsTargetingPartyMember { get; }Public ReadOnly Property IsTargetingPartyMember As Boolean
+	Getpublic:
+property bool^ IsTargetingPartyMember {
+	bool^ get ();
+}Field Value
+true if is targeting party member; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

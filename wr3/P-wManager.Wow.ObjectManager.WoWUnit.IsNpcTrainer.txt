@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..IsNpcTrainer Property 
+Gets a value indicating whether is NPC trainer. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsNpcTrainer { get; }Public ReadOnly Property IsNpcTrainer As Boolean
+	Getpublic:
+property bool^ IsNpcTrainer {
+	bool^ get ();
+}Field Value
+true if is NPC trainer; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..IsFlightMaster Property 
+Gets a value indicating whether is flight master. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsFlightMaster { get; }Public ReadOnly Property IsFlightMaster As Boolean
+	Getpublic:
+property bool^ IsFlightMaster {
+	bool^ get ();
+}Field Value
+true if is flight master; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..MaxDarkForce Property 
+Gets the max dark force. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint MaxDarkForce { get; }Public ReadOnly Property MaxDarkForce As UInteger
+	Getpublic:
+property unsigned int^ MaxDarkForce {
+	unsigned int^ get ();
+}Field Value
+The max dark foce.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

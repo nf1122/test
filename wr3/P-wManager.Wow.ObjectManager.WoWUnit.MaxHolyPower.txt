@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..MaxHolyPower Property 
+Gets the maximum holy power. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint MaxHolyPower { get; }Public ReadOnly Property MaxHolyPower As UInteger
+	Getpublic:
+property unsigned int^ MaxHolyPower {
+	unsigned int^ get ();
+}Field Value
+The maximum holy power.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

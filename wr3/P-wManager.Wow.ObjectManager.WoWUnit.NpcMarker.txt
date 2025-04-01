@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..NpcMarker Property 
+Gets the NPC marker. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public NpcMarker NpcMarker { get; }Public ReadOnly Property NpcMarker As NpcMarker
+	Getpublic:
+property NpcMarker^ NpcMarker {
+	NpcMarker^ get ();
+}Field Value
+The NPC marker.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

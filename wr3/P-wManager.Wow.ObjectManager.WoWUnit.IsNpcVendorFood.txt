@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..IsNpcVendorFood Property 
+Gets a value indicating whether is NPC vendor food. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsNpcVendorFood { get; }Public ReadOnly Property IsNpcVendorFood As Boolean
+	Getpublic:
+property bool^ IsNpcVendorFood {
+	bool^ get ();
+}Field Value
+true if is NPC vendor food; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

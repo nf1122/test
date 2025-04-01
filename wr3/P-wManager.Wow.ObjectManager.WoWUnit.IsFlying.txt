@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..IsFlying Property 
+Gets a value indicating whether is flying. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsFlying { get; }Public ReadOnly Property IsFlying As Boolean
+	Getpublic:
+property bool^ IsFlying {
+	bool^ get ();
+}Field Value
+true if is flying; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

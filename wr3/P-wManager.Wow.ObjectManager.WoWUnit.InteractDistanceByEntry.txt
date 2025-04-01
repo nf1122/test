@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..InteractDistanceByEntry Property 
+Get or set interact distance by entry. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static Dictionary<int, float> InteractDistanceByEntry { get; }Public Shared ReadOnly Property InteractDistanceByEntry As Dictionary(Of Integer, Single)
+	Getpublic:
+static property Dictionary<int^, float^>^ InteractDistanceByEntry {
+	Dictionary<int^, float^>^ get ();
+}Field Value
+The interact distance by entry.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..PlayerControlled Property 
+Gets a value indicating whether player controlled. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool PlayerControlled { get; }Public ReadOnly Property PlayerControlled As Boolean
+	Getpublic:
+property bool^ PlayerControlled {
+	bool^ get ();
+}Field Value
+true if player controlled; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

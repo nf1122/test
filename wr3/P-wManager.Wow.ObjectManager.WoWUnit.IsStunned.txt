@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..IsStunned Property 
+Gets a value indicating whether is stunned. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsStunned { get; }Public ReadOnly Property IsStunned As Boolean
+	Getpublic:
+property bool^ IsStunned {
+	bool^ get ();
+}Field Value
+true if is stunned; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

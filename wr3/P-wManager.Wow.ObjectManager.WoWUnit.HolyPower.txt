@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..HolyPower Property 
+Gets the holy power. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint HolyPower { get; }Public ReadOnly Property HolyPower As UInteger
+	Getpublic:
+property unsigned int^ HolyPower {
+	unsigned int^ get ();
+}Field Value
+The holy power.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

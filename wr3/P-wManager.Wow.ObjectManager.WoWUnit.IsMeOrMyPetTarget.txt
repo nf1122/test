@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..IsMeOrMyPetTarget Property 
+Gets a value indicating whether is my target or my pet target. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsMeOrMyPetTarget { get; }Public ReadOnly Property IsMeOrMyPetTarget As Boolean
+	Getpublic:
+property bool^ IsMeOrMyPetTarget {
+	bool^ get ();
+}Field Value
+true if is my target or my pet target; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

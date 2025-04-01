@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..GetDynamicFlags Property 
+Gets the unit dynamic flags. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int GetDynamicFlags { get; }Public ReadOnly Property GetDynamicFlags As Integer
+	Getpublic:
+property int^ GetDynamicFlags {
+	int^ get ();
+}Field Value
+The unit dynamic flags.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

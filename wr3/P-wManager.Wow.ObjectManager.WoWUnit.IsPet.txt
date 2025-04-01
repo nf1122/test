@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..IsPet Property 
+Gets a value indicating whether is pet. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsPet { get; }Public ReadOnly Property IsPet As Boolean
+	Getpublic:
+property bool^ IsPet {
+	bool^ get ();
+}Field Value
+true if is pet; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

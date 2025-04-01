@@ -1,0 +1,25 @@
+WRobot
+
+WoWUnit..::..IsTracked Property 
+Gets or sets a value indicating whether is tracked (in in-game minimap). 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsTracked { get; set; }Public Property IsTracked As Boolean
+	Get
+	Setpublic:
+property bool^ IsTracked {
+	bool^ get ();
+	void set (bool^ value);
+}Field Value
+true if is tracked; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

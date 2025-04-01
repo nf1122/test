@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..Mana Property 
+Gets the mana. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint Mana { get; }Public ReadOnly Property Mana As UInteger
+	Getpublic:
+property unsigned int^ Mana {
+	unsigned int^ get ();
+}Field Value
+The mana.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..IsLocalPlayer Property 
+Gets a value indicating whether is local player. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsLocalPlayer { get; }Public ReadOnly Property IsLocalPlayer As Boolean
+	Getpublic:
+property bool^ IsLocalPlayer {
+	bool^ get ();
+}Field Value
+true if is local player; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

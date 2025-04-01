@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..LightForcePercentage Property 
+Gets the percentage light force. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint LightForcePercentage { get; }Public ReadOnly Property LightForcePercentage As UInteger
+	Getpublic:
+property unsigned int^ LightForcePercentage {
+	unsigned int^ get ();
+}Field Value
+The percentage light foce.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

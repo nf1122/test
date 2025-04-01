@@ -1,0 +1,25 @@
+WRobot
+
+WoWUnit..::..Pitch Property 
+Gets or sets the pitch. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float Pitch { get; set; }Public Property Pitch As Single
+	Get
+	Setpublic:
+property float^ Pitch {
+	float^ get ();
+	void set (float^ value);
+}Field Value
+The pitch.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

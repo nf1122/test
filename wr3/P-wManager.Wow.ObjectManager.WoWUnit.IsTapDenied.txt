@@ -1,0 +1,23 @@
+WRobot
+
+WoWUnit..::..IsTapDenied Property 
+Gets a value indicating whether is tap denied. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsTapDenied { get; }Public ReadOnly Property IsTapDenied As Boolean
+	Getpublic:
+property bool^ IsTapDenied {
+	bool^ get ();
+}Field Value
+true if is tap denied; otherwise, false.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 
