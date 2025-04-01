@@ -1,0 +1,21 @@
+WRobot
+
+ObjectManager..::..GetWoWUnitAllianceDead Method 
+Gets players alliance dead. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWPlayer> GetWoWUnitAllianceDead()Public Shared Function GetWoWUnitAllianceDead As List(Of WoWPlayer)public:
+static List<WoWPlayer^>^ GetWoWUnitAllianceDead()Return Value
+List<WoWPlayer>.
+See Also
+
+
+ObjectManager Class
+GetWoWUnitAllianceDead Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

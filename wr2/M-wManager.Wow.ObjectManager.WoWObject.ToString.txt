@@ -1,0 +1,20 @@
+WRobot
+
+WoWObject..::..ToString Method 
+Returns a String that represents this instance. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string ToString()Public Function ToString As Stringpublic:
+String^ ToString()Return Value
+A String that represents this instance.
+See Also
+
+
+WoWObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

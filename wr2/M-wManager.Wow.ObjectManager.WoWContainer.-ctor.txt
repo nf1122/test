@@ -1,0 +1,28 @@
+WRobot
+
+WoWContainer Constructor 
+Initializes a new instance of the WoWContainer class. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public WoWContainer(
+	uint address
+)Public Sub New ( _
+	address As UInteger _
+)public:
+WoWContainer(
+	unsigned int^ address
+)Parameters
+address
+Type: UInt32
+The address.
+See Also
+
+
+WoWContainer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

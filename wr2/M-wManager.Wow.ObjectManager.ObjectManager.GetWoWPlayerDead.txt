@@ -1,0 +1,21 @@
+WRobot
+
+ObjectManager..::..GetWoWPlayerDead Method 
+Gets players dead. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWPlayer> GetWoWPlayerDead()Public Shared Function GetWoWPlayerDead As List(Of WoWPlayer)public:
+static List<WoWPlayer^>^ GetWoWPlayerDead()Return Value
+List<WoWPlayer>.
+See Also
+
+
+ObjectManager Class
+GetWoWPlayerDead Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

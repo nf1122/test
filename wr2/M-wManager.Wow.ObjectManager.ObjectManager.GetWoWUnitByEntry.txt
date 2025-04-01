@@ -1,0 +1,43 @@
+WRobot
+
+ObjectManager..::..GetWoWUnitByEntry Method (List<(Of <(<'WoWUnit>)>)>, List<(Of <(<'Int32>)>)>, Boolean)
+Gets units by entries. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWUnit> GetWoWUnitByEntry(
+	List<WoWUnit> listWoWUnit,
+	List<int> entrys,
+	bool acceptNpcDead
+)Public Shared Function GetWoWUnitByEntry ( _
+	listWoWUnit As List(Of WoWUnit), _
+	entrys As List(Of Integer), _
+	acceptNpcDead As Boolean _
+) As List(Of WoWUnit)public:
+static List<WoWUnit^>^ GetWoWUnitByEntry(
+	List<WoWUnit^>^ listWoWUnit, 
+	List<int^>^ entrys, 
+	bool^ acceptNpcDead
+)Parameters
+listWoWUnit
+Type: List<(Of <(<'WoWUnit>)>)>
+The list.
+entrys
+Type: List<(Of <(<'Int32>)>)>
+The entries.
+acceptNpcDead
+Type: Boolean
+if set to true accept dead.
+Return Value
+List<WoWUnit>.
+See Also
+
+
+ObjectManager Class
+GetWoWUnitByEntry Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

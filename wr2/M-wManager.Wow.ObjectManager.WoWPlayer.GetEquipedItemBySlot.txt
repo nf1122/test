@@ -1,0 +1,30 @@
+WRobot
+
+WoWPlayer..::..GetEquipedItemBySlot Method 
+Gets the equipped item by slot. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint GetEquipedItemBySlot(
+	InventorySlot slot
+)Public Function GetEquipedItemBySlot ( _
+	slot As InventorySlot _
+) As UIntegerpublic:
+unsigned int^ GetEquipedItemBySlot(
+	InventorySlot^ slot
+)Parameters
+slot
+Type: wManager.Wow.Enums..::..InventorySlot
+The slot.
+Return Value
+System.UInt32.
+See Also
+
+
+WoWPlayer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

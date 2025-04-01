@@ -1,0 +1,37 @@
+WRobot
+
+ObjectManager..::..GetWoWGameObjectByName Method (List<(Of <(<'WoWGameObject>)>)>, String)
+Gets GameObjects by name. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWGameObject> GetWoWGameObjectByName(
+	List<WoWGameObject> listWoWGameObject,
+	string name
+)Public Shared Function GetWoWGameObjectByName ( _
+	listWoWGameObject As List(Of WoWGameObject), _
+	name As String _
+) As List(Of WoWGameObject)public:
+static List<WoWGameObject^>^ GetWoWGameObjectByName(
+	List<WoWGameObject^>^ listWoWGameObject, 
+	String^ name
+)Parameters
+listWoWGameObject
+Type: List<(Of <(<'WoWGameObject>)>)>
+The list.
+name
+Type: String
+The name.
+Return Value
+List<WoWGameObject>.
+See Also
+
+
+ObjectManager Class
+GetWoWGameObjectByName Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

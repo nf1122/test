@@ -1,0 +1,31 @@
+WRobot
+
+WoWUnit..::..BuffStack Method (List<(Of <(<'UInt32>)>)>)
+Buff stack count. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int BuffStack(
+	List<uint> idBuffs
+)Public Function BuffStack ( _
+	idBuffs As List(Of UInteger) _
+) As Integerpublic:
+int^ BuffStack(
+	List<unsigned int^>^ idBuffs
+)Parameters
+idBuffs
+Type: List<(Of <(<'UInt32>)>)>
+The spell ids.
+Return Value
+stack count.
+See Also
+
+
+WoWUnit Class
+BuffStack Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

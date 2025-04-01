@@ -1,0 +1,28 @@
+WRobot
+
+WowCamera Constructor 
+Initializes a new instance of the WowCamera class. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public WowCamera(
+	uint baseAddress
+)Public Sub New ( _
+	baseAddress As UInteger _
+)public:
+WowCamera(
+	unsigned int^ baseAddress
+)Parameters
+baseAddress
+Type: UInt32
+The base address.
+See Also
+
+
+WowCamera Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

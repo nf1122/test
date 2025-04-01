@@ -1,0 +1,21 @@
+WRobot
+
+ObjectManager..::..GetWoWPlayerLootable Method 
+Gets players lootable. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWPlayer> GetWoWPlayerLootable()Public Shared Function GetWoWPlayerLootable As List(Of WoWPlayer)public:
+static List<WoWPlayer^>^ GetWoWPlayerLootable()Return Value
+List<WoWPlayer>.
+See Also
+
+
+ObjectManager Class
+GetWoWPlayerLootable Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

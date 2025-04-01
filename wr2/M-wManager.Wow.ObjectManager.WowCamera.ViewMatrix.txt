@@ -1,0 +1,20 @@
+WRobot
+
+WowCamera..::..ViewMatrix Method 
+Views the matrix. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public Matrix ViewMatrix()Public Function ViewMatrix As Matrixpublic:
+Matrix^ ViewMatrix()Return Value
+Matrix.
+See Also
+
+
+WowCamera Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,30 @@
+WRobot
+
+ObjectManager..::..GetWoWGameObjectByyId Method 
+Gets the GameObjects by entry. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWGameObject> GetWoWGameObjectByyId(
+	int id
+)Public Shared Function GetWoWGameObjectByyId ( _
+	id As Integer _
+) As List(Of WoWGameObject)public:
+static List<WoWGameObject^>^ GetWoWGameObjectByyId(
+	int^ id
+)Parameters
+id
+Type: Int32
+The entry.
+Return Value
+List<WoWGameObject>.
+See Also
+
+
+ObjectManager Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

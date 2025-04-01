@@ -1,0 +1,36 @@
+WRobot
+
+WoWLocalPlayer..::..IsAchievementCompleted Method 
+Determines whether achievement is completed. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool IsAchievementCompleted(
+	int achievementID,
+	int index
+)Public Function IsAchievementCompleted ( _
+	achievementID As Integer, _
+	index As Integer _
+) As Booleanpublic:
+bool^ IsAchievementCompleted(
+	int^ achievementID, 
+	int^ index
+)Parameters
+achievementID
+Type: Int32
+ID of the achievement (or achievement category ID) to retrieve information for.
+index
+Type: Int32
+If you use achievement ID use -1, if you use achievement category ID select offset into the achievement category, between 1 and number of achievements.
+Return Value
+true if achievement is completed; otherwise, false.
+See Also
+
+
+WoWLocalPlayer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

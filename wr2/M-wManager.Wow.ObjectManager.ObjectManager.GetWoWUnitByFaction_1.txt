@@ -1,0 +1,37 @@
+WRobot
+
+ObjectManager..::..GetWoWUnitByFaction Method (List<(Of <(<'WoWUnit>)>)>, UInt32)
+Gets units by faction. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWUnit> GetWoWUnitByFaction(
+	List<WoWUnit> listWoWUnit,
+	uint faction
+)Public Shared Function GetWoWUnitByFaction ( _
+	listWoWUnit As List(Of WoWUnit), _
+	faction As UInteger _
+) As List(Of WoWUnit)public:
+static List<WoWUnit^>^ GetWoWUnitByFaction(
+	List<WoWUnit^>^ listWoWUnit, 
+	unsigned int^ faction
+)Parameters
+listWoWUnit
+Type: List<(Of <(<'WoWUnit>)>)>
+The list.
+faction
+Type: UInt32
+The faction.
+Return Value
+List<WoWUnit>.
+See Also
+
+
+ObjectManager Class
+GetWoWUnitByFaction Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

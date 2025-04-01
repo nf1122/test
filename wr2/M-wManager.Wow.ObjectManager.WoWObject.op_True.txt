@@ -1,0 +1,27 @@
+WRobot
+
+WoWObject..::..True Operator 
+Implements the true operator. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool operator true(
+	WoWObject obj1
+)Public Shared Operator IsTrue ( _
+	obj1 As WoWObject _
+) As BooleanVisual C++ does not support this operator.Parameters
+obj1
+Type: wManager.Wow.ObjectManager..::..WoWObject
+The obj1.
+Return Value
+The result of the operator.
+See Also
+
+
+WoWObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

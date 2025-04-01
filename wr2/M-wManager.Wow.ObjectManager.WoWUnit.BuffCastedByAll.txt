@@ -1,0 +1,30 @@
+WRobot
+
+WoWUnit..::..BuffCastedByAll Method 
+Buff casted by all. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<ulong> BuffCastedByAll(
+	string spellName
+)Public Function BuffCastedByAll ( _
+	spellName As String _
+) As List(Of ULong)public:
+List<unsigned long long^>^ BuffCastedByAll(
+	String^ spellName
+)Parameters
+spellName
+Type: String
+Name of the spell (in english).
+Return Value
+GUID.
+See Also
+
+
+WoWUnit Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

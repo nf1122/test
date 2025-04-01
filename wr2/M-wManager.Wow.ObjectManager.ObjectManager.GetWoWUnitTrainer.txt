@@ -1,0 +1,31 @@
+WRobot
+
+ObjectManager..::..GetWoWUnitTrainer Method (List<(Of <(<'WoWUnit>)>)>)
+Gets units trainer. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWUnit> GetWoWUnitTrainer(
+	List<WoWUnit> listWoWUnit
+)Public Shared Function GetWoWUnitTrainer ( _
+	listWoWUnit As List(Of WoWUnit) _
+) As List(Of WoWUnit)public:
+static List<WoWUnit^>^ GetWoWUnitTrainer(
+	List<WoWUnit^>^ listWoWUnit
+)Parameters
+listWoWUnit
+Type: List<(Of <(<'WoWUnit>)>)>
+The list.
+Return Value
+List<WoWUnit>.
+See Also
+
+
+ObjectManager Class
+GetWoWUnitTrainer Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

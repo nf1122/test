@@ -1,0 +1,19 @@
+WRobot
+
+Pulsator..::..Pulse Method 
+Pulses the object manager. This should be called from an EndScene hook, or some other form of 'OnFrame' type function. (This class has a built in thread handler to deal with said OnFrame function) 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Pulse()Public Shared Sub Pulsepublic:
+static void Pulse()
+See Also
+
+
+Pulsator Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

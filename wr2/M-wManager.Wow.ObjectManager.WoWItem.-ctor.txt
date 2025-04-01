@@ -1,0 +1,28 @@
+WRobot
+
+WoWItem Constructor 
+Initializes a new instance of the WoWItem class. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public WoWItem(
+	uint address
+)Public Sub New ( _
+	address As UInteger _
+)public:
+WoWItem(
+	unsigned int^ address
+)Parameters
+address
+Type: UInt32
+The address.
+See Also
+
+
+WoWItem Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

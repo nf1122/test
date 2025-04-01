@@ -1,0 +1,30 @@
+WRobot
+
+WoWContainer..::..GetSlot Method 
+Gets the slot. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int GetSlot(
+	int slot
+)Public Function GetSlot ( _
+	slot As Integer _
+) As Integerpublic:
+int^ GetSlot(
+	int^ slot
+)Parameters
+slot
+Type: Int32
+The slot.
+Return Value
+System.Int32.
+See Also
+
+
+WoWContainer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

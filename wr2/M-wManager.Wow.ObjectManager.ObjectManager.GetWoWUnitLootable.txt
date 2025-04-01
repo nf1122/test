@@ -1,0 +1,31 @@
+WRobot
+
+ObjectManager..::..GetWoWUnitLootable Method (List<(Of <(<'WoWUnit>)>)>)
+Gets units lootable. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWUnit> GetWoWUnitLootable(
+	List<WoWUnit> listWoWUnit
+)Public Shared Function GetWoWUnitLootable ( _
+	listWoWUnit As List(Of WoWUnit) _
+) As List(Of WoWUnit)public:
+static List<WoWUnit^>^ GetWoWUnitLootable(
+	List<WoWUnit^>^ listWoWUnit
+)Parameters
+listWoWUnit
+Type: List<(Of <(<'WoWUnit>)>)>
+The list.
+Return Value
+List<WoWUnit>.
+See Also
+
+
+ObjectManager Class
+GetWoWUnitLootable Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

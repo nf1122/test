@@ -1,0 +1,31 @@
+WRobot
+
+WoWLocalPlayer..::..GetRunesReady Method (RuneTypes)
+Gets the runes readies by type. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public List<RuneStruct> GetRunesReady(
+	RuneTypes type
+)Public Function GetRunesReady ( _
+	type As RuneTypes _
+) As List(Of RuneStruct)public:
+List<RuneStruct^>^ GetRunesReady(
+	RuneTypes^ type
+)Parameters
+type
+Type: wManager.Wow.Enums..::..RuneTypes
+
+Return Value
+runes readies.
+See Also
+
+
+WoWLocalPlayer Class
+GetRunesReady Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,30 @@
+WRobot
+
+WoWLocalPlayer..::..TotemExist Method 
+Totem exist. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool TotemExist(
+	TotemType totemType
+)Public Function TotemExist ( _
+	totemType As TotemType _
+) As Booleanpublic:
+bool^ TotemExist(
+	TotemType^ totemType
+)Parameters
+totemType
+Type: wManager.Wow.Enums..::..TotemType
+Type of the totem.
+Return Value
+true if exist, false otherwise.
+See Also
+
+
+WoWLocalPlayer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

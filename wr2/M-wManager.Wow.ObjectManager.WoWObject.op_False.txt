@@ -1,0 +1,27 @@
+WRobot
+
+WoWObject..::..False Operator 
+Implements the false operator. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static bool operator false(
+	WoWObject obj1
+)Public Shared Operator IsFalse ( _
+	obj1 As WoWObject _
+) As BooleanVisual C++ does not support this operator.Parameters
+obj1
+Type: wManager.Wow.ObjectManager..::..WoWObject
+The obj1.
+Return Value
+The result of the operator.
+See Also
+
+
+WoWObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

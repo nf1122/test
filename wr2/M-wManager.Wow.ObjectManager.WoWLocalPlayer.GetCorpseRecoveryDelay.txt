@@ -1,0 +1,20 @@
+WRobot
+
+WoWLocalPlayer..::..GetCorpseRecoveryDelay Method 
+Gets the corpse recovery delay. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int GetCorpseRecoveryDelay()Public Function GetCorpseRecoveryDelay As Integerpublic:
+int^ GetCorpseRecoveryDelay()Return Value
+System.Int32.
+See Also
+
+
+WoWLocalPlayer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,37 @@
+WRobot
+
+ObjectManager..::..GetWoWUnitSkinnable Method (List<(Of <(<'WoWUnit>)>)>, List<(Of <(<'UInt64>)>)>)
+Gets units skinnable. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWUnit> GetWoWUnitSkinnable(
+	List<WoWUnit> listWoWUnit,
+	List<ulong> withoutGuid
+)Public Shared Function GetWoWUnitSkinnable ( _
+	listWoWUnit As List(Of WoWUnit), _
+	withoutGuid As List(Of ULong) _
+) As List(Of WoWUnit)public:
+static List<WoWUnit^>^ GetWoWUnitSkinnable(
+	List<WoWUnit^>^ listWoWUnit, 
+	List<unsigned long long^>^ withoutGuid
+)Parameters
+listWoWUnit
+Type: List<(Of <(<'WoWUnit>)>)>
+The list.
+withoutGuid
+Type: List<(Of <(<'UInt64>)>)>
+ignore GUID.
+Return Value
+List<WoWUnit>.
+See Also
+
+
+ObjectManager Class
+GetWoWUnitSkinnable Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,31 @@
+WRobot
+
+WoWLocalPlayer..::..CooldownEnabled Method (UInt32)
+Cooldown enabled. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool CooldownEnabled(
+	uint spellId
+)Public Function CooldownEnabled ( _
+	spellId As UInteger _
+) As Booleanpublic:
+bool^ CooldownEnabled(
+	unsigned int^ spellId
+)Parameters
+spellId
+Type: UInt32
+The spell id.
+Return Value
+true if enabled, false otherwise.
+See Also
+
+
+WoWLocalPlayer Class
+CooldownEnabled Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

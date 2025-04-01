@@ -1,0 +1,19 @@
+WRobot
+
+Pulsator..::..Shutdown Method 
+Shuts down the pulsator, and closes the opened process handle. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static void Shutdown()Public Shared Sub Shutdownpublic:
+static void Shutdown()
+See Also
+
+
+Pulsator Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

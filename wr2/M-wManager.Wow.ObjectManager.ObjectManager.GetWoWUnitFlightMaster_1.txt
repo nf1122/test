@@ -1,0 +1,21 @@
+WRobot
+
+ObjectManager..::..GetWoWUnitFlightMaster Method 
+Gets units flight master. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWUnit> GetWoWUnitFlightMaster()Public Shared Function GetWoWUnitFlightMaster As List(Of WoWUnit)public:
+static List<WoWUnit^>^ GetWoWUnitFlightMaster()Return Value
+List<WoWUnit>.
+See Also
+
+
+ObjectManager Class
+GetWoWUnitFlightMaster Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

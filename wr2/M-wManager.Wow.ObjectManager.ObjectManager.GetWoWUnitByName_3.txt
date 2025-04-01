@@ -1,0 +1,31 @@
+WRobot
+
+ObjectManager..::..GetWoWUnitByName Method (List<(Of <(<'String>)>)>)
+Gets units by names. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWUnit> GetWoWUnitByName(
+	List<string> names
+)Public Shared Function GetWoWUnitByName ( _
+	names As List(Of String) _
+) As List(Of WoWUnit)public:
+static List<WoWUnit^>^ GetWoWUnitByName(
+	List<String^>^ names
+)Parameters
+names
+Type: List<(Of <(<'String>)>)>
+The names.
+Return Value
+List<WoWUnit>.
+See Also
+
+
+ObjectManager Class
+GetWoWUnitByName Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

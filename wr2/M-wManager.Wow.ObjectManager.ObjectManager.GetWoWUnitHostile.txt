@@ -1,0 +1,20 @@
+WRobot
+
+ObjectManager..::..GetWoWUnitHostile Method 
+Gets units hostile. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWUnit> GetWoWUnitHostile()Public Shared Function GetWoWUnitHostile As List(Of WoWUnit)public:
+static List<WoWUnit^>^ GetWoWUnitHostile()Return Value
+List<WoWUnit>.
+See Also
+
+
+ObjectManager Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

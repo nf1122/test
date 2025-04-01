@@ -1,0 +1,20 @@
+WRobot
+
+WoWGameObject..::..ModelName Method 
+Gets model file name. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public string ModelName()Public Function ModelName As Stringpublic:
+String^ ModelName()Field Value
+model file name.
+See Also
+
+
+WoWGameObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

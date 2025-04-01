@@ -1,0 +1,30 @@
+WRobot
+
+WoWLocalPlayer..::..TotemTimeLeft Method 
+Totem time left. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public int TotemTimeLeft(
+	TotemType totemType
+)Public Function TotemTimeLeft ( _
+	totemType As TotemType _
+) As Integerpublic:
+int^ TotemTimeLeft(
+	TotemType^ totemType
+)Parameters
+totemType
+Type: wManager.Wow.Enums..::..TotemType
+Type of the totem.
+Return Value
+time left.
+See Also
+
+
+WoWLocalPlayer Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

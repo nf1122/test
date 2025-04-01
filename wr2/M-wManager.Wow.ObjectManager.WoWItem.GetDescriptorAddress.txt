@@ -1,0 +1,27 @@
+WRobot
+
+WoWItem..::..GetDescriptorAddress Method 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint GetDescriptorAddress(
+	Descriptors..::..ItemFields field
+)Public Function GetDescriptorAddress ( _
+	field As Descriptors..::..ItemFields _
+) As UIntegerpublic:
+unsigned int^ GetDescriptorAddress(
+	Descriptors..::..ItemFields^ field
+)Parameters
+field
+Type: wManager.Wow.Patchables..::..Descriptors..::..ItemFields
+
+See Also
+
+
+WoWItem Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

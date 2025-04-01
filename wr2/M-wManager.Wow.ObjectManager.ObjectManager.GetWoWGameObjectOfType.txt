@@ -1,0 +1,30 @@
+WRobot
+
+ObjectManager..::..GetWoWGameObjectOfType Method 
+Gets objects by type. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWGameObject> GetWoWGameObjectOfType(
+	WoWGameObjectType reqtype
+)Public Shared Function GetWoWGameObjectOfType ( _
+	reqtype As WoWGameObjectType _
+) As List(Of WoWGameObject)public:
+static List<WoWGameObject^>^ GetWoWGameObjectOfType(
+	WoWGameObjectType^ reqtype
+)Parameters
+reqtype
+Type: wManager.Wow.Enums..::..WoWGameObjectType
+The reqtype.
+Return Value
+List<WoWGameObject>.
+See Also
+
+
+ObjectManager Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

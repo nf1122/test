@@ -1,0 +1,37 @@
+WRobot
+
+WoWLocalPlayer..::..CooldownEnabled Method (String, Boolean)
+Cooldown enabled. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public bool CooldownEnabled(
+	string spellName,
+	bool isSpellNameInGame
+)Public Function CooldownEnabled ( _
+	spellName As String, _
+	isSpellNameInGame As Boolean _
+) As Booleanpublic:
+bool^ CooldownEnabled(
+	String^ spellName, 
+	bool^ isSpellNameInGame
+)Parameters
+spellName
+Type: String
+The spell name.
+isSpellNameInGame
+Type: Boolean
+if set to true is spell name in game (if false it is english name)).
+Return Value
+true if enabled, false otherwise.
+See Also
+
+
+WoWLocalPlayer Class
+CooldownEnabled Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

@@ -1,0 +1,37 @@
+WRobot
+
+WoWObject..::..GetDescriptorAddress Method (UInt32, UInt32)
+Gets the descriptor address. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public uint GetDescriptorAddress(
+	uint baseAddress,
+	uint field
+)Public Function GetDescriptorAddress ( _
+	baseAddress As UInteger, _
+	field As UInteger _
+) As UIntegerpublic:
+unsigned int^ GetDescriptorAddress(
+	unsigned int^ baseAddress, 
+	unsigned int^ field
+)Parameters
+baseAddress
+Type: UInt32
+The base address.
+field
+Type: UInt32
+The field.
+Return Value
+Ptr.
+See Also
+
+
+WoWObject Class
+GetDescriptorAddress Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

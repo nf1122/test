@@ -1,0 +1,31 @@
+WRobot
+
+ObjectManager..::..GetWoWUnitByEntry Method (List<(Of <(<'Int32>)>)>)
+Gets units by entries. 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public static List<WoWUnit> GetWoWUnitByEntry(
+	List<int> entrys
+)Public Shared Function GetWoWUnitByEntry ( _
+	entrys As List(Of Integer) _
+) As List(Of WoWUnit)public:
+static List<WoWUnit^>^ GetWoWUnitByEntry(
+	List<int^>^ entrys
+)Parameters
+entrys
+Type: List<(Of <(<'Int32>)>)>
+The entries.
+Return Value
+List<WoWUnit>.
+See Also
+
+
+ObjectManager Class
+GetWoWUnitByEntry Overload
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 

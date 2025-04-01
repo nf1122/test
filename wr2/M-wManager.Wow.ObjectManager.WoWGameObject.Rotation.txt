@@ -1,0 +1,20 @@
+WRobot
+
+WoWGameObject..::..Rotation Method 
+Gets rotation (facing) 
+Namespace:  wManager.Wow.ObjectManager
+Assembly:  wManager (in wManager.dll)
+Syntax
+
+
+C#VBC++
+public float Rotation()Public Function Rotation As Singlepublic:
+float^ Rotation()Return Value
+rotation.
+See Also
+
+
+WoWGameObject Class
+wManager.Wow.ObjectManager Namespace
+Help File generated with GhostDoc
+ 
